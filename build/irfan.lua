@@ -57,6 +57,12 @@ function Div(el)
       table.insert(blocks, pandoc.RawBlock("typst", "]"))
       return blocks
     end
+    if cls == "words" then
+      local blocks = { pandoc.RawBlock("typst", "#words[") }
+      for _, b in ipairs(el.content) do table.insert(blocks, b) end
+      table.insert(blocks, pandoc.RawBlock("typst", "]"))
+      return blocks
+    end
     if cls == "ayah" then
       local ref = el.attributes.ref or error("ayah div needs ref=")
       local open = "#ayah(ref: " .. tstr(ref) .. ", arabic: " .. tstr(verses(ref)) .. ")["

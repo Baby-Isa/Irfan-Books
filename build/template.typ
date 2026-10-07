@@ -108,6 +108,34 @@
   pagebreak()
 }
 
+// "Words you'll meet" strip, placed after the chapter's introduction
+#let words(body) = block(width: 100%, above: 1.2em, below: 1.4em, inset: (y: 6pt),
+  stroke: (top: 0.4pt + gold, bottom: 0.4pt + gold), {
+    set text(font: sans, size: 8.5pt, fill: teal)
+    set par(first-line-indent: 0pt, justify: false)
+    text(weight: 600, tracking: 0.06em, upper[Words you'll meet])
+    h(8pt)
+    body
+  })
+
+// Part opener with Munajat epigraph
+#let part(num: "", title: "", question: "", epigraph-ar: "", epigraph: []) = {
+  pagebreak(weak: true, to: "odd")
+  set par(first-line-indent: 0pt)
+  v(40mm)
+  align(center, text(size: 10pt, fill: gold, tracking: 0.2em, upper("Part " + num)))
+  v(4mm)
+  align(center, text(size: 26pt, fill: teal, title))
+  v(2mm)
+  align(center, text(size: 12pt, style: "italic", fill: ink, question))
+  v(10mm)
+  star-band(width: 50%)
+  v(10mm)
+  if epigraph-ar != "" { align(center, text(font: "Amiri", lang: "ar", dir: rtl, size: 14pt, epigraph-ar)); v(3mm) }
+  align(center, pad(x: 12mm, text(size: 10.5pt, style: "italic", epigraph)))
+  pagebreak()
+}
+
 // Draft markers: visible in drafts so nothing slips through.
 #let marker-style(it) = highlight(fill: rgb("#FFE8A3"), extent: 1pt, text(font: sans, size: 0.82em, fill: rgb("#8A4B00"), it))
 

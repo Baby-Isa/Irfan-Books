@@ -26,11 +26,18 @@ Everything in Book 1, plus the following.
 | `.box-history` | "History" | Historical background: people, schools, events |
 | `.box-story` | "Story" | Expands a story the lecture mentions in passing |
 | `.box-who` | "Who's Who: 'Allama Tabataba'i" | A short biography of a figure the lecture names |
-| `.box-reflect` | "Reflection" | A practical takeaway or question, at most one per chapter |
+| `.box-reflect` | "Reflection" | A question for the reader to sit with, at most one per chapter |
+| `.box-try` | "Try this" | One small, sourced practice at the end of each chapter. Never invented. |
 
   Syntax: `::: {.box-word title="Word Study: ma'rifah"}` … `:::`
 - **Sourcing:** use only held sources (SOURCES.md), Tier A first. No uncited historical claims.
 - **Tone:** devotional but not preachy. Avoid New-Age vocabulary. "Mysticism" is acceptable as a gloss, but prefer "Irfan".
+
+## Book 2 voice and chapter shape (D10, OUTLINE v2)
+- **Voice:** talk to the reader, as in a normal non-fiction book. Name Sheikh Bahmanpour occasionally, where the view is distinctively his ("Sheikh Bahmanpour argues…"). Don't write "the lecture says" in every paragraph.
+- **Chapter shape:** the order of introduction, then `::: {.words}`, then body, then "Try this" is set in OUTLINE v2.
+- **Quran:** use `::: {.ayah ref="S:A"}` with **Qaraʾi's English**, from `python3 build/quran.py S:A`. When the lecturer paraphrases a verse, quote Qaraʾi and keep his point in the prose.
+- **Unsourced lecture claims:** omit or rework them, and log each one in `docs/OMISSIONS.md` (D15).
 
 ## Both books
 - **Honorifics:**
