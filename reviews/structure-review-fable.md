@@ -16,7 +16,7 @@ Independent developmental review of the 19-chapter journey in `docs/ANALYSIS.md`
 6. The guide question was answered too late.
 7. The controversy was met too late.
 
-**Revised structure:** this was adopted as OUTLINE v2 (see OUTLINE.md and DECISIONS D12).
+**Revised structure:** proposed to the user and awaiting confirmation. Once confirmed it becomes OUTLINE v2.
 
 **Open risks:**
 - the mid-book history sag
