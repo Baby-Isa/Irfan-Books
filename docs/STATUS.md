@@ -8,8 +8,8 @@ _Update at the end of every task. Keep it short. History lives in git and DECISI
 - The pilot of chapter 1 is being written in both styles.
 
 **Next:**
-- Phase 3: design template and sample PDF (can start now).
-- Phase 4: pilot of chapter 1 in both styles. This needs the Tier A sources: Quran, Sahifa, Mafatih, Nahj.
+- Run fidelity checks on the pilot, build both PDFs, and send them to the user for the A/B choice.
+- The Book 2 pilot needs the Tier A sources (Sahifa, Mafatih, Nahj, a Quran translation) to clear its `[VERIFY]` markers.
 
 ## Open questions for the user or lecturer
 1. The lecturer's name, title and preferred form of attribution.
@@ -20,8 +20,7 @@ _Update at the end of every task. Keep it short. History lives in git and DECISI
    - L14 promises a "Shia tariqa" talk that never appears.
 
    Were there sessions that weren't transcribed?
-4. Approve the Book 2 new chapters A, B and C (see OUTLINE).
-6. Quran translation: Qaraʾi or something else?
+4. Quran translation: Qaraʾi or something else?
 
 ## Lectures → notes
 All 16 sets of notes are done (`notes/Irfan01–16.md`, about 76k words in total). Several flag garbled passages and mis-numbered verses in section 7. They have not been human-checked.
@@ -29,5 +28,6 @@ All 16 sets of notes are done (`notes/Irfan01–16.md`, about 76k words in total
 ## Chapters
 | Ch | Book 1 | Book 2 | Fidelity check | Typeset |
 |---|---|---|---|---|
-| 1–17 | ☐ | ☐ | ☐ | ☐ |
+| 1 | ☑ draft (pilot, `book1/chapters/01-seeking-not-powers.md`; 35 VERIFY, 4 QUERY, 2 GAP) | ☐ | ☐ | ☐ |
+| 2–17 | ☐ | ☐ | ☐ | ☐ |
 | B2 A, B, C | n/a | ☐ | ☐ | ☐ |

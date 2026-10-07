@@ -98,12 +98,18 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | muhsin | mohsin, mohsineen, mohsenoon, muhsinun | | One who has ihsan | L06 |
 | mujahada | mujahida | | Struggle against the self | L08 |
 | muʿjiza | mojezat, mojizat, muʿjizat | | Miracle; the term karamat is set against it | L01 |
+| Munajat al-Khamsa ʿAshar | Munajat-Khamsa Ashar | | The Fifteen Whispered Prayers of Imam Zayn al-ʿAbidin, in the Sahifa Sajjadiyya | L01 |
+| Munajat al-Muhibbin | | | The Whispered Prayer of the Lovers, one of the fifteen | L01 |
+| Munajat Shaʿbaniyyah | Munajat-e-Shabaaniyah, munajat-e-shabaniyah | | The whispered prayer recited in the month of Shaʿban | L01 |
 | muʾminun | mominoon, mominun, momin, muʾmin | | Ordinary believers, below the muqarrabun | L01 |
 | muqarrabun | muqarraboon | | Those brought near, above ordinary believers; four categories: prophets, siddiqin, martyrs, righteous | L01 |
+| muqarrab | muqarrab | | Singular of muqarrabun | L02 |
 | muraqaba | muraqabah, muraaqabah | | Watchfulness of God's presence | L04 |
 | murid | Mureed, Murad | | Disciple; the one who wills | L09 |
 | musawwir | Musawwir | | Divine name: the fashioner | L03 |
 | mustahabb | mustahab, mustahabaat, mustahabbat | | Recommended | L01 |
+| nabiyyin | nabiyeen, nabiyyen | | Prophets; first of the four categories (Q 4:69) | L01 |
+| Nahj al-Balagha | Nahjul Balagah | | The collection of Imam ʿAli's sermons, letters and sayings | L01 |
 | nafs | nafs, nafs/ruhh | | The lower soul | L07 |
 | nafs al-ammara | nafsul ammara, nafsul ammarah | | The commanding soul | L05 |
 | nafs al-lawwama | nafsul lavvama, lawamah, lawwamah | | The self-reproaching soul | L05 |
@@ -126,9 +132,14 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | ruh al-qudus | ruhul quddus | | The holy spirit | L05 |
 | sahw baʿd al-mahw | sahw bad al mahw | | Sobriety after obliteration | L09 |
 | salat al-layl | salatul-layl, salatul layl, Salatul lail | | The night prayer, recommended | L01 |
+| Sahifa Sajjadiyya | Sahifa-e-Sajjadiyah | | The book of supplications of Imam Zayn al-ʿAbidin | L01 |
+| salihin | saleheen, saaliheen, salehun | | The righteous; fourth and lowest category of the muqarrabun | L01 |
 | salik | saalik | | Wayfarer on the path | L08 |
 | shafaʿa | shafaa | | Intercession | L16 |
 | shariʿa | shariah, sharia | | The outward law | L01 |
+| shirk | shirk | | Associating partners with God | L01 |
+| shuhadaʾ | shohada | | The witnesses; third of the four categories (Q 4:69) | L01 |
+| siddiqin | siddiqeen | | The truthful; second of the four categories (Q 4:69) | L01 |
 | shath | Shath, sathiyat, shartiyaat, shatahayyat, shathiyat, shatahat | | Ecstatic or theopathic utterances | L07 |
 | shaykh | Shaikh, sheikh | | Spiritual instructor | L14 |
 | silsila | silsilah, silsilatul tariqas | | Chain of masters or lineage back to the Prophet | L06 |
@@ -144,15 +155,18 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | taqwa | taqwa | | God-consciousness | L02 |
 | tariqa | tareeqa, tarifa | | The path; also a Sufi order | L06 |
 | taslim | taslim | | Submission | L16 |
+| tawhid | tawheed | | The oneness of God | L02 |
 | tawakkul | tawaqqul, Tawaqqul | | Reliance on God | L09 |
 | taʾwil | tahweel | | Deeper interpretation of verses | L13 |
 | ulu al-albab | ulul albah | | Possessors of inner intellect, equated with the ʿarif | L02 |
 | ulu al-ʿilm | ulul ilm | | Possessors of knowledge | L02 |
+| ʿurafaʾ | urafah, urafaa, Urafaa | | Plural of ʿarif | L01 |
 | ʿuzla | uzla | | Seclusion | L10 |
 | wahdat al-wujud | wahdatal wujood, Wahdat ul Wujud, wahdatul wujud | | Unity of being | L09 |
 | wajh Allah | wajhullah | | The face of God: God's manifestation through the names | L11 |
 | wajib | wajib | | Obligatory | L01 |
 | waswas | waswaas | | Whispered temptations | L08 |
+| wali | wali | | Friend of God; singular of awliyaʾ | L02 |
 | wilaya | wilayat, wilayatik | | Friendship with God; closeness and authority | L01 |
 | wilaya takwiniyya / tashriʿiyya | Wilayatu-e-Takvini / Tashri | | Authority over creation and over religion | L13 |
 | wujud | wajood | | Existence | L03 |
