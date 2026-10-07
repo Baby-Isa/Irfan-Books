@@ -37,12 +37,14 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | dhikr | zikr, zikrullah, zikrul kaseer, zikran kaseera, dhikr kathir | | Remembrance of God, especially abundant remembrance | L04 |
 | dhikr khafi | zikrul khatib | | Hidden remembrance of God | L14 |
 | diyafat Allah | ziyafatullah | | God's hospitality | L05 |
+| du'a | dua | | Supplication | L01 |
 | fanaʾ | Fanaa, fanah, fanaa, Sana | | Annihilation of the soul's limits and self-perception | L04 |
 | farq baʿd al-jamʿ | farq al bad al jam, alfarq waadal jaam | | Separation after union; return to creation after unification | L09 |
 | fuʾad | Al-Faad | | Heart or inner faculty | L05 |
 | ghawth | ghaus | | A rank of the saintly hierarchy | L13 |
 | ghusl al-tawba | Ghusle Tauba | | Ritual bath of repentance | L08 |
 | hijab (pl. hujub) | hujuba | | Veil; the veils of light and darkness between the heart and God | L01 |
+| hajj | hajj | | The pilgrimage to Mecca | L01 |
 | haqiqa | Haqiqa | | The truth or reality; seeing what the Prophet saw | L06 |
 | haqq | haqq, al-Haqq | | Reality; God as the Real | L03 |
 | haqq al-yaqin | Haqqul Yaqeen | | The third of three degrees of certainty | L06 |
@@ -86,6 +88,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | kuffar | kuffar, kaafir | | Unbelievers | L02 |
 | Kubrawiyya | kubrawiyyah | | The order founded by Najm al-Din Kubra | L08 |
 | kursi | kursi | | The Footstool, one of the higher encompassing realms | L04 |
+| Lut | Lut | | The prophet Lot (Q 21:75) | L02 |
 | maʿad | maad | | Return, resurrection | L16 |
 | mahiyya | mahiyyat | | Quiddity or essence | L13 |
 | mahw | mahv | | Obliteration; annihilation in action | L09 |
@@ -103,7 +106,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | mujahada | mujahida | | Struggle against the self | L08 |
 | muʿjiza | mojezat, mojizat, muʿjizat | | Miracle; the term karamat is set against it | L01 |
 | Munajat al-Khamsa ʿAshar | Munajat-Khamsa Ashar | | The Fifteen Whispered Prayers of Imam Zayn al-ʿAbidin, in the Sahifa Sajjadiyya | L01 |
-| Munajat al-Muhibbin | | | The Whispered Prayer of the Lovers, one of the fifteen | L01 |
+| munajat | munajat | | Whispered prayer, intimate supplication | L01 |
 | Munajat Shaʿbaniyyah | Munajat-e-Shabaaniyah, munajat-e-shabaniyah | | The whispered prayer recited in the month of Shaʿban | L01 |
 | muʾminun | mominoon, mominun, momin, muʾmin | | Ordinary believers, below the muqarrabun | L01 |
 | muqarrabun | muqarraboon | | Those brought near, above ordinary believers; four categories: prophets, siddiqin, martyrs, righteous | L01 |
@@ -137,10 +140,12 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | sahw baʿd al-mahw | sahw bad al mahw | | Sobriety after obliteration | L09 |
 | salat al-layl | salatul-layl, salatul layl, Salatul lail | | The night prayer, recommended | L01 |
 | Sahifa Sajjadiyya | Sahifa-e-Sajjadiyah | | The book of supplications of Imam Zayn al-ʿAbidin | L01 |
+| salah | salaah | | The ritual prayer | L02 |
 | salihin | saleheen, saaliheen, salehun | | The righteous; fourth and lowest category of the muqarrabun | L01 |
 | salik | saalik | | Wayfarer on the path | L08 |
 | shafaʿa | shafaa | | Intercession | L16 |
 | shariʿa | shariah, sharia | | The outward law | L01 |
+| Shaytan | shaitan | | Satan | L01 |
 | shirk | shirk | | Associating partners with God | L01 |
 | shuhadaʾ | shohada | | The witnesses; third of the four categories (Q 4:69) | L01 |
 | siddiqin | siddiqeen | | The truthful; second of the four categories (Q 4:69) | L01 |
@@ -177,5 +182,6 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | wuquf | wuquf-i zamaani, adadi, qalbi | | Awareness of time, number and heart | L14 |
 | wusul | Wusool, muslah | | Arrival, annihilation | L06 |
 | yaqin | yaqeen | | Certitude | L08 |
+| zakat | zakat | | The obligatory alms | L01 |
 | zawiya | Zawiya | | Sufi lodge | L11 |
 | zuhd | zahid | | Renunciation; zahid is one who renounces | L12 |

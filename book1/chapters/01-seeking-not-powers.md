@@ -30,19 +30,47 @@ The lecture takes a few verses from Surah Rum. There are many more there and els
 
 <!-- src: L01 ¶6, ¶9 -->
 
-The first reads: "And one of His signs is that He created mates for you from yourselves, that you may dwell in tranquillity with them, and He has put love and mercy between your hearts. Verily in that are signs for those who reflect" (Q 30:21) [VERIFY: Q 30:21 wording]. What signs? Does everyone see a sign of God in the relationship between a man and a woman? Usually, the lecture observes, what people see in it is the sign of Shaytan. The signs are there, but they are not for everyone. They are for people who reflect.
+The first reads:
+
+::: {.ayah ref="30:21"}
+And one of the signs is that He created mates for you from yourself, that you may dwell in tranquillity with them, and He has put love and mercy between your hearts: verily in that are signs for those who reflect.
+:::
+
+<!-- src: L01 ¶6 -->
+
+What signs? Does everyone see a sign of God in the relationship between a man and a woman? Usually, the lecture observes, what people see in it is the sign of Shaytan. The signs are there, but they are not for everyone. They are for people who reflect.
 
 <!-- src: L01 ¶6-7 -->
 
-The next verse reads: "And among His signs is the creation of the heavens and the earth, and the diversity of your tongues and colours. Verily in that are signs for those who know" (Q 30:22) [VERIFY: Q 30:22 wording]. What people usually see in the diversity of peoples is ethnic difference, and with it racism. What sign of God do they see there? There are signs in it for the knowledgeable and for the learned, but not for everyone. Whoever sees the signs in it is learned. Most people do not. Not even most pious people see them, and not even most of those who are very strict about the shariʿa.
+The next verse reads:
+
+::: {.ayah ref="30:22"}
+And from the signs is the creation of the heavens and the earth and the diversity of your tongues and colours: verily in that are signs for those who know.
+:::
+
+<!-- src: L01 ¶7 -->
+
+What people usually see in the diversity of peoples is ethnic difference, and with it racism. What sign of God do they see there? There are signs in it for the knowledgeable and for the learned, but not for everyone. Whoever sees the signs in it is learned. Most people do not. Not even most pious people see them, and not even most of those who are very strict about the shariʿa.
 
 <!-- src: L01 ¶7-8 -->
 
-Then: "And among His signs is the sleep that you take by night and by day, and the quest that you make for livelihood out of His bounty. Verily in that are signs for those who hear" (Q 30:23) [VERIFY: Q 30:23 wording]. Do we not hear? If we hear, why do we not break down when we see these signs, as the prophets and the friends of God, the *awliyaʾ Allah*, break down when they see the signs of Allah?
+Then:
+
+::: {.ayah ref="30:23"}
+And among His signs is the sleep that you take by night and by day, and the quest that you make for livelihood out of His bounty: verily in that are signs for those who hear.
+:::
+
+<!-- src: L01 ¶8 -->
+
+Do we not hear? If we hear, why do we not break down when we see these signs, as the prophets and the friends of God, the *awliyaʾ Allah*, break down when they see the signs of Allah?
 
 <!-- src: L01 ¶8-9 -->
 
-And finally: "And among His signs, He shows you the lightning, by way both of fear and of hope, and He sends down rain from the sky and with it gives life to the earth after it is dead. Verily in that are signs for those who are wise" (Q 30:24) [VERIFY: Q 30:24 wording].
+And the last of the verses chosen:
+
+::: {.ayah ref="30:24"}
+And among His signs, He shows you the lightning, by way both of fear and of hope, and He sends down rain from the sky and with it gives life to the earth after it is dead: verily in that are signs for those who are wise.
+:::
 
 <!-- src: L01 ¶9 -->
 
@@ -60,11 +88,27 @@ Here the lecture sums up the whole subject: "Mysticism is all about making one's
 
 <!-- src: L01 ¶11 -->
 
-How can a person prepare himself to hear? There are many signs that go unseen: "And how many signs in the heavens and the earth do they pass by? Yet they turn their faces away from them" (Q 12:105) [VERIFY: Q 12:105 wording]. We do not see. Something is wrong. Put in a single expression, the task is to fix the inner machine, which is the soul. It is broken and does not work. It has to be repaired so that it can catch the signals of God. "And this is not of course a joke and not an easy path. It needs lots of training."
+How can a person prepare himself to hear? There are many signs that go unseen:
+
+::: {.ayah ref="12:105"}
+And how many signs in the heavens and the earth do they pass by? Yet they turn their faces away from them.
+:::
 
 <!-- src: L01 ¶12 -->
 
-The next lecture returns to the image through a verse that appears, in various forms, in several places in the Quran: "They have hearts by which they do not understand, they have eyes by which they do not see, and they have ears by which they do not hear. They are like animals, and even worse" (Q 7:179) [VERIFY: Q 7:179 wording]. Animals have eyes and ears. Do they not see and hear? They certainly do. They see where they walk, and when they hear a sound they run away. So what is the comparison with animals about?
+We do not see. Something is wrong. Put in a single expression, the task is to fix the inner machine, which is the soul. It is broken and does not work. It has to be repaired so that it can catch the signals of God. "And this is not of course a joke and not an easy path. It needs lots of training."
+
+<!-- src: L01 ¶12 -->
+
+The image comes back with a verse that, as the lectures note, comes up in different phases of the Quran:
+
+::: {.ayah ref="7:179"}
+They have hearts by which they do not understand, they have eyes by which they do not see, and they have ears by which they do not hear. They are like animals, and even worse.
+:::
+
+<!-- src: L02 ¶3-4 -->
+
+Animals have eyes and ears. Do they not see and hear? They certainly do. They see where they walk, and when they hear a sound they run away. So what is the comparison with animals about?
 
 <!-- src: L02 ¶3-4 -->
 
@@ -72,17 +116,23 @@ The answer is the inner machine. Something inside the human being has to transla
 
 <!-- src: L02 ¶4-5 -->
 
-We see and hear with our senses, which give only a sight of the thing. We have the machine, the soul, but it is not working. It is dead and blind. Mysticism teaches how to ignite this machine inside us. Once it starts working, the real work of the mystic begins: it is the beginning of the move. Many people say that mysticism has an end. It has no end, but it does have a beginning. The beginning is the moment the machine starts to work, and from then on one sees the wonders of this world.
+We see and hear with the mind and the eyes, which give only a sight of the thing. We have the machine, the soul, but it is not working. It is dead and blind. Mysticism teaches how to ignite this machine inside us. Once it starts working, the real work of the mystic begins: it is the beginning of the move. Everyone says that mysticism has an end. It has no end, but it does have a beginning. The beginning is the moment the machine starts to work, and from then on one sees the wonders of this world.
 
 <!-- src: L02 ¶6-7 -->
 
 ## Not a search for powers
 
-Self-training is done for many purposes. Many mystics train themselves to gain powers, for example, or to see the future or the past. Islamic mysticism is not about this. It is about catching the signs of Allah, becoming sensitive to them, and hearing and seeing them. Among the verses the lecture calls "very moving" is this one: "Say: See you? If Allah were to make the night perpetual over you to the Day of Judgement, what god is there other than Allah who can give you enlightenment? Are you not hearing?" (Q 28:71) [VERIFY: Q 28:71 wording].
+Self-training is done for many purposes. Many mystics train themselves to gain powers, for example, or to see the future or the past. Islamic mysticism is not about this. It is about catching the signs of Allah, becoming sensitive to them, and hearing and seeing them. Among the verses the lecture calls "very moving" is this one:
+
+<!-- src: L01 ¶13 -->
+
+::: {.ayah ref="28:71"}
+Say: See you? If Allah were to make the night perpetual over you to the Day of Judgement, what god is there other than Allah who can give you enlightenment? Are you not hearing?
+:::
 
 <!-- src: L01 ¶13-14 -->
 
-This is what catches the signals that God sends, and what lies beyond them. When a person becomes ready to receive those signals, he has only just started his machine, but now it can work. Once it works, God knows what kinds of signals he may see and hear. No one can reckon what mystics see and hear. Once the machine is fixed and the soul uplifted, only God really knows what they see. The Imams are at the very peak of such people. [QUERY: L01 ¶14 is transcribed as "the things that the kaafir see and the imam sees of course they are the peak". "Kaafir" looks like a mishearing, perhaps of "kamil" or "awliya". What did the lecturer say here?]
+This is what catches the signals that God sends, and what lies beyond them. When a person becomes ready to receive those signals, he has only just started his machine, but now it can work. Once it works, God knows what kinds of signals he may see and hear. No one can reckon what mystics see and hear. Once the machine is fixed and the soul uplifted, only God really knows what they see. The transcript then appears to say that the Imams are at the very peak of such people. [QUERY: L01 ¶14 is transcribed as "the things that the kaafir see and the imam sees of course they are the peak". "Kaafir" looks like a mishearing, perhaps of "kamil" or "awliya". What did the lecturer say here?]
 
 <!-- src: L01 ¶14 -->
 
@@ -96,11 +146,27 @@ The prophets and the Imams are very special ʿurafaʾ, but they are not the subj
 
 <!-- src: L02 ¶7-9 -->
 
-The muqarrabun fall into four categories, which are named in Surah Nisaʾ: "Anyone who obeys Allah and the Prophet will be with those on whom Allah has bestowed favour" (Q 4:69) [VERIFY: Q 4:69 wording]. What is this favour? It is certainly not wealth or a strong body. It is something else. Those favoured are the prophets (*nabiyyin*), the truthful (*siddiqin*), the witnesses (*shuhadaʾ*) and, at the end, the righteous (*salihin*). The lecturer says that the first three groups had been explained on an earlier occasion, but never the salihin, "because it was not possible". [QUERY: L01 ¶15 refers back to an earlier talk on the four categories of muqarrabun. Is it part of this series?]
+The muqarrabun fall into four categories, which are named in Surah Nisaʾ:
+
+::: {.ayah ref="4:69"}
+Anyone who obeys Allah's prophet, they will be of those on whom Allah has bestowed favour.
+:::
+
+<!-- src: L02 ¶9 -->
+
+Some people have the favour of Allah. What is this favour? It is certainly not wealth or a strong body. It is something else. Those favoured are the prophets (*nabiyyin*), the truthful (*siddiqin*), the witnesses (*shuhadaʾ*) and, at the end, the righteous (*salihin*). The lecturer is "sure" of having talked about the first three groups on an earlier occasion, but says the salihin were never explained, "because it was not possible". [QUERY: L01 ¶15 refers back to an earlier talk on the four categories of muqarrabun. Is it part of this series?]
 
 <!-- src: L01 ¶15; L02 ¶9-10 -->
 
-The first three groups are very special, and ordinary people cannot reach their level. The salihin are "very good", and they stand at the bottom of the muqarrabun. They are the ones who deserve this favour, or who have the capacity to be given it. It is only from among the salihin that Allah chooses the other categories: from them He chooses the siddiqin, and from them the prophets. Of some prophets Allah says that He made them prophets because they were of the salihin. Of Lut He says: "We made him enter into Our mercy; he was of the righteous" (Q 21:75) [VERIFY: Q 21:75 wording]. This is a special mercy, and Lut deserved it because he belonged to this category. The salihin are people who understand better than we do, and who see and hear better than we do.
+The first three groups are very special, and ordinary people cannot reach their level. The salihin are "very good", and they stand at the bottom of the muqarrabun. They are the ones who deserve this favour, or who have the capacity to be given it. It is only from among the salihin that Allah chooses the other categories: from them He chooses the siddiqin, and from them the prophets. Of some prophets Allah says that He made them prophets because they were of the salihin. Of *Lut* He says:
+
+::: {.ayah ref="21:75"}
+We made him enter into Our mercy. He was from the salihin.
+:::
+
+<!-- src: L02 ¶11 -->
+
+This is a special mercy, and Lut deserved it because he belonged to this category. The salihin are people who understand better than we do, and who see and hear better than we do.
 
 <!-- src: L01 ¶15; L02 ¶10-11 -->
 
@@ -118,7 +184,15 @@ The clearest evidence of what the ʿurafaʾ want comes from the supplications. M
 
 <!-- src: L01 ¶17-18 -->
 
-The passage opens: "My Lord, grant me complete severance of my relation with everything else" [VERIFY: Munajat Shaʿbaniyyah wording]. Is it good to cut oneself off completely from everything else? In the heart, yes. The Quran says the same: remember the name of your Lord, cut yourself off from everything, and devote yourself to Him wholeheartedly (Q 73:8) [VERIFY: Q 73:8 wording]. This goes beyond the sensitivity to signs described in the verses of Surah Rum.
+The passage opens: "My Lord, grant me complete severance of my relation with everything else" [VERIFY: Munajat Shaʿbaniyyah wording]. Is it good to cut oneself off completely from everything else? In the heart, yes. The Quran says the same:
+
+::: {.ayah ref="73:8"}
+Cut off from everything and devote yourself to Him wholeheartedly.
+:::
+
+<!-- src: L01 ¶18 -->
+
+This goes beyond the sensitivity to signs described in the verses of Surah Rum.
 
 <!-- src: L01 ¶18 -->
 
@@ -126,11 +200,11 @@ The supplication continues: "Enlighten the eyes of our hearts with the light of 
 
 <!-- src: L01 ¶19 -->
 
-The mystics say there are veils of light and darkness. A person has to pierce them until he reaches the very origin of Allah's grandeur (*ʿazama*) and majesty (*kibriyaʾ*). And the same thing is here in the du'a: the eyes of the heart pierce the veils of light "and reach the source of grandeur" [VERIFY: Munajat Shaʿbaniyyah wording]. The source of Allah's grandeur is something we cannot understand, because we cannot know it or think about it. Yet the mystics want to know Him and to look at Him; they want to be drawn towards Him. First, of course, they have to cut themselves off from everything. The lecture paraphrases the whole passage in this way: teach me that severance from everything else, until the eyes of my heart are enlightened; then I can look, pierce the veils of light, look into the source of grandeur, and "let our souls be suspended by the glory of Your sanctity" [VERIFY: Munajat Shaʿbaniyyah wording]. We may not know what they are talking about, but that does not make it senseless or meaningless.
+The mystics say there are veils of light and darkness. A person has to pierce them until he reaches the very origin of Allah's grandeur (*ʿazama*) and majesty (*kibriyaʾ*). And the same thing is here in the du'a: the eyes of the heart pierce the veils of light "and reach the source of grandeur" [VERIFY: Munajat Shaʿbaniyyah wording]. The source of Allah's grandeur is something we cannot understand, because we cannot know it or think about it. Yet the mystics want to know Him and to look at Him; they want to be drawn towards Him. First, of course, they have to cut themselves off from everything. The lecture paraphrases the whole passage in this way: teach me that severance from everything else, until the eyes of my heart are enlightened; then I can look, pierce the veils of light, look into the source of grandeur, and "let our souls be suspended by the glory of Your sanctity" [VERIFY: Munajat Shaʿbaniyyah wording]. If we do not know what they are talking about, that does not make it senseless or meaningless. [QUERY: L01 ¶21 first reads "Certainly we know what they are talking about", then "if we don't know what they are talking about it doesn't mean that it is senseless". Is the first sentence a transcription slip for "we don't know"?]
 
 <!-- src: L01 ¶20-21 -->
 
-The munajat goes on: "My Lord, make me one of those whom You call and they respond, and when You look at them they are struck by Your majesty" [VERIFY: Munajat Shaʿbaniyyah wording]. This is how prophets are: God calls and they respond. When He looks into their souls, they are thunderstruck by the majesty they see. "This is the Munajat Shaʿbaniyyah. We cannot say that this is not good."
+The munajat goes on: "My Lord, make me one of those whom You call and they respond, and when You look at them they are struck by Your majesty" [VERIFY: Munajat Shaʿbaniyyah wording]. This is something like what prophets do: God calls and they respond. When He looks into their souls, they are thunderstruck by the majesty they see. "This is the Munajat Shaʿbaniyyah. We cannot say that this is not good."
 
 <!-- src: L01 ¶21 -->
 
@@ -138,7 +212,7 @@ All the Imams recited this munajat, and believers are told to recite it in the m
 
 <!-- src: L01 ¶22 -->
 
-Another line runs: "My Lord, place me among Your friends, in the position of one who hopes for an increase in Your love" [VERIFY: Munajat Shaʿbaniyyah wording]. The word for friendship here, *wilaya*, carries two meanings. The first is *maʿrifah*: understanding God, looking at Him, knowing Him. The second is love for Him. Maʿrifah and love are the true meaning of wilaya, and they are what the mystics "can fly" by. These are exactly what the mystics ask for: incessant love for Allah and ever-increasing maʿrifah. This happens only after the machine is fixed, starts to work and shows the signals of Allah. The one who asks this has found a passionate love of remembering God, so that he remembers only Him. The lecture also quotes a further line of the munajat about remembrance, but leaves its explanation for later. [GAP: L01 ¶24 quotes a further line of the munajat in transliteration, with no translation or explanation.]
+Another line runs: "My Lord, place me among Your friends, in the position of one who hopes for an increase in Your love" [VERIFY: Munajat Shaʿbaniyyah wording]. The word for friendship here, *wilaya*, carries two meanings. The first is *maʿrifah*: understanding God, looking at Him, knowing Him. The second is love for Him. Maʿrifah and love are the true meaning of wilaya, and they are what the mystics "can fly" by. These are exactly what the mystics ask for: incessant love for Allah and ever-increasing maʿrifah. This happens only after the machine is fixed, starts to work and shows the signals of Allah. The one who asks this has found a passionate love of remembering God, so that he remembers only Him. The lecture then quotes a further line of the munajat, saying that this is the line taken to explain the position of the muqarrabun. [GAP: L01 ¶24 quotes a further line of the munajat in transliteration, with no translation or explanation.]
 
 <!-- src: L01 ¶22-24 -->
 
@@ -148,7 +222,7 @@ Can a human being reach such knowledge and such love of Allah? The lecture's ans
 
 <!-- src: L01 ¶24 -->
 
-A human being has the capacity to become a friend of God. Allah created us with this capacity and wants us to reach it. Instead, we have become His enemies rather than His friends. So what makes these people different from others? How, in their ordinary lives, are they able to fix the machine?
+A human being has the capacity to become a friend of God. Allah created us with this capacity and wants us to reach it. Instead, in the transcript's words, "we have become his enemy than becoming his strength". [QUERY: L01 ¶25 has "strength". Did the lecturer say "strength" or "friend"?] So what makes these people different from others? How, in their ordinary lives, are they able to fix the machine?
 
 <!-- src: L01 ¶25 -->
 
@@ -158,7 +232,7 @@ The answer is found in the description of the awliyaʾ Allah in the *Nahj al-Bal
 
 <!-- src: L01 ¶25-26 -->
 
-How are they able to do this, and why are we not? The transcript's answer is only partly legible: they busy themselves with one thing, while other people busy themselves with another. [GAP: L01 ¶26 reads "they busy themselves with 29:49 while the other people busy themselves in the imaging". The verse reference stands in for a quotation, and "imaging" may be a mishearing.] An example follows. According to the shariʿa there is nothing wrong with being rich. The trouble comes when a person gets busy with these things. Then he can never reach the station of the awliyaʾ Allah.
+How are they able to do this, and why are we not? The transcript's answer is only partly legible: they busy themselves with one thing, while other people busy themselves with another. [GAP: L01 ¶26 reads "they busy themselves with 29:49 while the other people busy themselves in the imaging". The verse reference stands in for a quotation, and "imaging" may be a mishearing.] An example follows. There is nothing wrong with being rich. [QUERY: L01 ¶26 first says "it is wrong according to shariah to become rich", then "It is nothing wrong if you are rich". Probably a transcription slip for "not wrong". Please confirm.] The trouble comes when a person gets busy with these things. Then he can never reach the station of the awliyaʾ Allah.
 
 <!-- src: L01 ¶26 -->
 
@@ -166,13 +240,11 @@ The awliyaʾ never think about themselves; they always think about God. They are
 
 <!-- src: L01 ¶26-27 -->
 
-## The Whispered Prayer of the Lovers
+## A second supplication
 
-A second supplication shows the same longing. It comes from the Fifteen Whispered Prayers (*Munajat al-Khamsa ʿAshar*) in the *Sahifa Sajjadiyya*, from Imam Zayn al-ʿAbidin (ʿa).[^lovers] Reading it, one might think its author had left society and spent his whole life in a cave, devoted completely to Allah. Look at what he says.
+A second supplication shows the same longing. It comes from the Fifteen Whispered Prayers (*Munajat al-Khamsa ʿAshar*) in the *Sahifa Sajjadiyya*, from Imam Zayn al-ʿAbidin (ʿa). Reading it, one might think its author had left society and spent his whole life in a cave, devoted completely to Allah. Look at what he says.
 
 <!-- src: L01 ¶27 -->
-
-[^lovers]: The lines quoted in the lecture appear to come from the Whispered Prayer of the Lovers (*Munajat al-Muhibbin*), one of the fifteen. [VERIFY: identification of the munajat]
 
 "My God, who can have tasted the sweetness of Your love and then be after anything else?" [VERIFY: Sahifa Sajjadiyya, Munajat al-Khamsa ʿAshar, wording] If you are after other things, you have not tasted the sweetness of His love. "And who is the one who has been near You and then wants to go somewhere else?" [VERIFY: Sahifa Sajjadiyya wording] Whoever has become familiar with the nearness of Allah has no wish to go anywhere else.
 
@@ -190,7 +262,7 @@ The prayer continues: "You have chosen them for Your true knowledge, made them w
 
 <!-- src: L01 ¶30-31 -->
 
-Some mystics have felt this kind of love of Allah. Some, after finding hayam, could not speak for the rest of their lives. The lecturer does not count this as good. Someone with enough capacity can come back, as the Prophet ﷺ went on the *miʿraj* and came back. That needs great capacity, of course, on the Prophet's part. The prayer also speaks of one whose heart God "has made burn with the love of seeking You" [VERIFY: Sahifa Sajjadiyya wording].
+Some mystics have felt this kind of love of Allah. Some, after finding hayam, could not speak for the rest of their lives. "I don't say it is good," the lecturer remarks. Someone with enough capacity can come back, as the Prophet ﷺ went on the *miʿraj* and came back. That needs great capacity, of course, on the Prophet's part. The prayer also speaks of one whose heart God "has made burn with the love of seeking You" [VERIFY: Sahifa Sajjadiyya wording].
 
 <!-- src: L01 ¶31 -->
 
@@ -200,15 +272,39 @@ The supplications show what the mystics ask for. The Quran shows that such peopl
 
 <!-- src: L02 ¶8, ¶11, ¶17 -->
 
-In Surah Anfal: "The believers are those who, when Allah is mentioned, their hearts tremble" (Q 8:2) [VERIFY: Q 8:2 wording]. Is there anyone whose heart trembles on hearing the name of Allah? "Even if we have," the lecturer jokes, "we are not going to reveal this secret." In any case, these are not ordinary believers. What quality must a person have for his heart to tremble when Allah's name is mentioned? To be frightened, numbed or shaken by something, a person must already have some idea or experience of it. So there are believers who know Allah, and that is why their hearts tremble at His name. They are not ordinary believers.
+In Surah Anfal:
+
+::: {.ayah ref="8:2"}
+Muʾminun are those who, when the name of Allah is mentioned, their heart trembles.
+:::
+
+<!-- src: L02 ¶11 -->
+
+Is there anyone whose heart trembles on hearing the name of Allah? "Even if we have," the lecturer jokes, "we are not going to reveal this secret." In any case, these are not ordinary believers. What quality must a person have for his heart to tremble when Allah's name is mentioned? To be frightened, numbed or shaken by something, a person must already have some idea or experience of it. So there are believers who know Allah, and that is why their hearts tremble at His name. They are not ordinary believers.
 
 <!-- src: L02 ¶11-13 -->
 
-Then: "Successful indeed are the believers, those who are humble in their prayers" (Q 23:1-2) [VERIFY: Q 23:1-2 wording]. "It is not me certainly," the lecturer says, "and many of you might not be like this." These are the people who feel humility in their hearts when they stand before Allah. The *khashiʿ* is someone who is broken. This is more than humility. It is an experience that brings a person down inside himself. Such a believer is different from ordinary believers. When these people stand before Allah in salah they break down, because of the experience they have of Allah. Can Allah be experienced at all? "This is what mysticism is all about." Is there a way, a channel, a path to Allah?
+Then:
+
+::: {.ayah ref="23:1-2"}
+These are the muʾminun who are humble in their prayers.
+:::
+
+<!-- src: L02 ¶13 -->
+
+"It is not me certainly," the lecturer says, "and many of you might not be like this." These are the people who feel humility in their hearts when they stand before Allah. The *khashiʿ* is someone who is broken. This is more than humility. It is an experience that brings a person down inside himself. Such a believer is different from ordinary believers. When these people stand before Allah in salah they break down, because of the experience they have of Allah. Can Allah be experienced at all? "This is what mysticism is all about." Is there a way, a channel, a path to Allah?
 
 <!-- src: L02 ¶13-14 -->
 
-Higher still is a verse from Surah Al ʿImran, one of the great verses of the Quran, which only people of high knowledge can understand: "There is no god but He: that is the witness of Allah, His angels, and those endued with knowledge" (Q 3:18) [VERIFY: Q 3:18 wording]. Allah has knowledge of His own oneness (*tawhid*). We also have knowledge of tawhid, but it cannot be compared with Allah's knowledge of His own tawhid. He witnesses that there is no god and no being beside Him. The angels witness it too, and so do certain human beings: *ulu al-ʿilm*, those endued with knowledge. This is another expression for the ʿarif. The ʿurafaʾ, those who have maʿrifah, witness the tawhid of Allah.
+Higher still is a verse from Surah Al ʿImran, one of the great verses of the Quran, which only people of high knowledge can understand:
+
+::: {.ayah ref="3:18"}
+There is no god but He: that is the witness of Allah, His angels, and those endued with knowledge.
+:::
+
+<!-- src: L02 ¶14 -->
+
+Allah has knowledge of His own oneness (*tawhid*). We also have knowledge of tawhid, but it cannot be compared with Allah's knowledge of His own tawhid. He witnesses that there is no god and no being beside Him. The angels witness it too, and so do certain human beings: *ulu al-ʿilm*, those endued with knowledge. This is another expression for the ʿarif. The ʿurafaʾ, those who have maʿrifah, witness the tawhid of Allah.
 
 <!-- src: L02 ¶14-15 -->
 
@@ -216,24 +312,48 @@ Tawhid is a very difficult concept once one starts to think about it. It is not 
 
 <!-- src: L02 ¶15-17 -->
 
-Another verse reads: "Only those who are possessed of knowledge among His servants fear Allah" (Q 35:28) [VERIFY: Q 35:28 wording]. This is a short rendering of part of the verse. In a way, everyone fears Allah, but most people fear His punishment more than they fear Him. Some people fear Him and not His punishment. Their hearts are filled with a fear that cannot be explained. It is not fear of punishment; it is something else.
+Another verse reads:
+
+::: {.ayah ref="35:28"}
+Only those who are possessed of knowledge have fear of Allah.
+:::
 
 <!-- src: L02 ¶17 -->
 
-These are only a few examples. The Quran mentions people who are different, and this cannot be denied. There are other expressions too. The *ulu al-albab* are those who have inner intellect. And there are the friends of God: "Verily on the friends of Allah there is no fear, nor shall they grieve" (Q 10:62) [VERIFY: Q 10:62 wording]. Again, this is a group of people who are different from us. How does someone become a friend of Allah and connect very closely with Him? The answer depends on how the term *wali* is translated.
+This is a short translation of only the part of the verse under discussion. In a way, everyone fears Allah, but most people fear His punishment more than they fear Him. Some people fear Him and not His punishment. Their hearts are filled with a fear that cannot be explained. It is not fear of punishment; it is something else.
+
+<!-- src: L02 ¶17 -->
+
+These are only a few examples. The Quran mentions people who are different, and this cannot be denied. There are other expressions too. The *ulu al-albab* are those who have inner intellect. And there are the friends of God:
+
+::: {.ayah ref="10:62"}
+Verily on the friends of Allah there is no fear, nor shall they grieve.
+:::
+
+<!-- src: L02 ¶18 -->
+
+Again, this is a group of people who are different from us. How does someone become a friend of Allah and connect very closely with Him? The answer depends on how the term *wali* is translated.
 
 <!-- src: L02 ¶17-18 -->
 
-Finally, a verse in Surah Nahl: "Whoever does good, whether male or female, and is a believer, We shall give them a good and pure life" (Q 16:97) [VERIFY: Q 16:97 wording]. The phrase for doing good, *ʿamila salihan*, comes from the same root as salihin. Whoever does a righteous deed becomes one of the salihin, and whoever becomes one of the salihin is a believer. To such people God gives a different kind of life, *hayat tayyiba*, a clean and pure life. It is *tayyiba* because it is clean and pure of the filth of this world. These people live in this world, but they do not live in its filth. They become detached and rise above the worldly concerns that infect other people. This pure life is exactly what mystics are after.
+Finally, a verse in Surah Nahl:
+
+::: {.ayah ref="16:97"}
+Whoever is a muʾmin and does good … We will give them a different type of life.
+:::
+
+<!-- src: L02 ¶18-19 -->
+
+The phrase for doing good, *ʿamila salihan*, comes from the same root as salihin. Whoever does a righteous deed becomes one of the salihin, and whoever becomes one of the salihin is a believer. To such people God gives a different kind of life, *hayat tayyiba*, a clean and pure life. It is *tayyiba* because it is clean and pure of the filth of this world. These people live in this world, but they do not live in its filth. They become detached and rise above the worldly concerns that infect other people. This pure life is exactly what mystics are after.
 
 <!-- src: L02 ¶18-19 -->
 
 ## Seeking and nothing else
 
-This is how the mystics work, and this is the Islamic mysticism the course is about. "It is actually seeking and nothing else." It is not about any kind of power. It is not about empowering the soul to perform wonders (*karamat*) and miracles (*muʿjiza*). The lecture calls these "shirk". [QUERY: L01 ¶32 says of karamat and muʿjizat, "These are shirk." Does the lecturer mean that it is shirk to seek such powers as the goal of the path? He cannot mean that the miracles of the prophets are shirk.] What Islamic mysticism wants is maʿrifah and the love of Allah. How the mystics pursue this, and what they find, is the subject of the course.
+This is how the mystics work, and this is the Islamic mysticism the course is about. "It is actually seeking and nothing else." It is not about any kind of power. It is not about empowering the soul to perform wonders (*karamat*) and miracles (*muʿjiza*). The lecture calls these "shirk". [QUERY: L01 ¶32 says of karamat and muʿjizat, "These are shirk." Does the lecturer mean that seeking such powers as the goal of the path is shirk, or something else?] What Islamic mysticism wants is maʿrifah and the love of Allah. How the mystics pursue this, and what they find, is the subject of the course.
 
 <!-- src: L01 ¶31-32 -->
 
-This also answers the question asked at the start: why anyone should go beyond the obligatory duties. The mystics take on so much hardship, so much training and purification, to find a glimpse and an experience of Allah. Love for Him has been put into their hearts, and that is why they are glad to seek.
+This, as the lectures put it, is who the mystics are, and why they put themselves through so much. They take on so much hardship, so much training and purification, to find a glimpse and an experience of Allah. Love for Him has been put into their hearts, and that is why they are glad to seek.
 
 <!-- src: L02 ¶19 -->

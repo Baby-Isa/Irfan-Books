@@ -28,6 +28,6 @@ All 16 sets of notes are done (`notes/Irfan01–16.md`, about 76k words in total
 ## Chapters
 | Ch | Book 1 | Book 2 | Fidelity check | Typeset |
 |---|---|---|---|---|
-| 1 | ☑ draft (pilot, `book1/chapters/01-seeking-not-powers.md`; 35 VERIFY, 4 QUERY, 2 GAP) | ☑ draft (pilot, `book2/chapters/01-seeking-not-powers.md`; about 6.6k words, 5 boxes; 41 VERIFY, 3 QUERY, 1 GAP; Quran English is the lecture's rendering, pending Qaraʾi) | ☐ | ☐ |
+| 1 | ☑ draft (pilot, `book1/chapters/01-seeking-not-powers.md`; revised after `reviews/book1-01.md`; 16 ayah blocks; 19 VERIFY, 7 QUERY, 2 GAP) | ☑ draft (pilot, `book2/chapters/01-seeking-not-powers.md`; about 6.6k words, 5 boxes; 41 VERIFY, 3 QUERY, 1 GAP; Quran English is the lecture's rendering, pending Qaraʾi) | ☐ | ☐ |
 | 2–17 | ☐ | ☐ | ☐ | ☐ |
 | B2 A, B, C | n/a | ☐ | ☐ | ☐ |
