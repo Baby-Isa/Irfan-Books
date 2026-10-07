@@ -59,4 +59,9 @@ Priorities:
 ## Held
 | Key | Work | Tier | Extract | Used in |
 |---|---|---|---|---|
-| _(none yet)_ | | | | |
+| nahj | Nahj al-Balagha, Qutbuddin trans. (Brill), Arabic + English, scholarly numbering | A | `extracts/nahj.md` | |
+| sahifa | Sahifa Sajjadiyya, Chittick trans., Arabic + English | A | `extracts/sahifa.md` | |
+| mafatih | Mafatih al-Jinan, Arabic + English (erfan.ir / alhassanain) | A | `extracts/mafatih.md` | |
+| bahmanpour_slides | The lecturer's own slides (6 decks) | L | `handouts/*.txt` | |
+
+**Large PDFs:** these live in the GitHub Release "Source-Material-Upload" and are downloaded into the gitignored `sources/pdfs/`. Only the text extracts are committed.
