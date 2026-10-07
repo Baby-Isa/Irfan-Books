@@ -26,6 +26,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | awliyaʾ Allah | awliyaAllah, awliyaallah, wali, Awliya Allah | | Friends of God, used as a synonym of the ʿurafaʾ | L01 |
 | awtad | autaad | | A rank of the saintly hierarchy | L13 |
 | ʿayn al-yaqin | Ainul Yaqeen | | The second of three degrees of certainty | L06 |
+| ʿamila salihan | amila saaliham | | Does a righteous deed; linked in the lecture to salihin | L02 |
 | ʿazama | azamah | | Grandeur or majesty of God | L01 |
 | badan mithali | badan-ul-misaali | | The image body of the soul in the world of images | L05 |
 | baqaʾ | baqaa, baqah | | Subsistence in God after annihilation | L07 |
@@ -47,6 +48,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | haram | haram, moharramaat | | Forbidden | L03 |
 | hashya | khashya | | Awe-filled fear of God, as against fear of hell | L11 |
 | hayam | hayyamaan, hayaman | | Burning, unquenchable love of God | L01 |
+| hayat tayyiba | hayaatan taiiyibah, hayaatan taiiyibat | | The good, clean and pure life (Q 16:97) | L02 |
 | hikma | Hikmah, hikmah | | Wisdom, knowing what to do | L10 |
 | ihsan | Ehsaan, ehsan | | The highest level of faith, worshipping as if seeing God | L06 |
 | ilham | ilhamat | | Inspirations | L07 |
@@ -65,6 +67,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | iʿtikaf | etekaaf | | Retreat in a mosque | L10 |
 | jabarut | jabbarut, jabrut, Jabarut | | The higher world of names | L04 |
 | jalal | Jalal | | Divine majesty | L12 |
+| jahala | jahala | | Those who do not know; contrasted with the ʿurafaʾ | L02 |
 | janna | jannah | | Paradise | L01 |
 | karamat | karamaat | | Wonders performed by saints, as against the prophetic miracle | L01 |
 | kashf | unveiling | | Mystical disclosure, the source of theory | L04 |
@@ -72,11 +75,13 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | khaliq | Khaliq | | Divine name: the creator who composes | L03 |
 | khalwa | halwa, Halwa, khalwah | | Seclusion | L10 |
 | khanqah | Hanukkah | | Sufi lodge | L11 |
+| khashiʿ | khaashi, khaashi'oon | | One who is humble, "broken", in prayer (Q 23:2) | L02 |
 | khass al-khass | khaasul khaas | | The elite of the elite | L06 |
 | khatm | Khatm al Awliya, Khatm al Ambiya, Awsiya | | The seal of saints, of prophets and of legatees | L13 |
 | khawass | hawas, khaas | | The elite | L11 |
 | khayal | khayal | | Imagination | L05 |
 | kibriyaʾ | kibriya, Kibriya | | Grandeur of God | L01 |
+| kuffar | kuffar, kaafir | | Unbelievers | L02 |
 | Kubrawiyya | kubrawiyyah | | The order founded by Najm al-Din Kubra | L08 |
 | kursi | kursi | | The Footstool, one of the higher encompassing realms | L04 |
 | maʿad | maad | | Return, resurrection | L16 |

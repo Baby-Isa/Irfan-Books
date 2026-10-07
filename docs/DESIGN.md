@@ -23,12 +23,12 @@ _Goal: it should look like a designed publication, not a type-up. Ornament stays
 - **Box backgrounds:** a tint of each box type's colour at about 6–8%
 
 ## Ornament
-- **Chapter opener:** a large chapter number, the English title, the Arabic title in Amiri beneath it, and a thin geometric band (an eight-point star pattern drawn in TikZ, in gold).
+- **Chapter opener:** a large chapter number, the English title, the Arabic title in Amiri beneath it, and a thin geometric band (an eight-point star pattern drawn in Typst, in gold).
 - **Pages:** a small geometric corner motif on the outer header corner. Hairline rules on the header and footer. No full-page borders.
 - **Section breaks:** a single eight-point star ✶ glyph in the accent colour.
 - **Quran verses:** centred Arabic, translation beneath it in italics, with the reference set flush right in small caps.
 
-## Callout boxes (tcolorbox)
+## Callout boxes (Typst `block`s)
 Each type has one colour and one small icon glyph:
 
 | Type | Colour | Icon |
@@ -40,7 +40,7 @@ Each type has one colour and one small icon glyph:
 | Reflection | gold | ✦ |
 
 - **Shape:** rounded corners at 2pt, a left accent bar, and the title in small caps.
-- **Placement:** full-width at a paragraph break, floating to the top or bottom of the page where possible. This gives the magazine feel without the fragility of margin-notes.
+- **Placement:** full-width at a paragraph break. This gives the magazine feel without the fragility of margin notes.
 
 ## Front matter and back matter
 - **Front:** half title, title page (with an Arabic calligraphic title), copyright and permissions, contents, the note on transliteration, preface.

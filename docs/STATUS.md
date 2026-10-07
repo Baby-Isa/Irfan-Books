@@ -3,7 +3,9 @@
 _Update at the end of every task. Keep it short. History lives in git and DECISIONS.md._
 
 ## Current phase
-**Phase 2 checkpoint: waiting for the user to review `docs/OUTLINE.md` and `docs/SOURCES.md`.**
+**Phases 3–4.**
+- The design template is built, and the sample is at `samples/design-sample.pdf`.
+- The pilot of chapter 1 is being written in both styles.
 
 **Next:**
 - Phase 3: design template and sample PDF (can start now).
@@ -19,7 +21,6 @@ _Update at the end of every task. Keep it short. History lives in git and DECISI
 
    Were there sessions that weren't transcribed?
 4. Approve the Book 2 new chapters A, B and C (see OUTLINE).
-5. The repo is **public**. Make it private before pushing transcripts and PDFs?
 6. Quran translation: Qaraʾi or something else?
 
 ## Lectures → notes

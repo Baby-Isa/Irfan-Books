@@ -30,3 +30,10 @@ _Append only. Each entry: date, decision, why. To reverse a decision, add a new 
 
 ## 2026-10-07: D7. No Arabic or scripture from memory
 - **Decision:** Quranic Arabic is taken from a verified text file only. Hadith and du'a text is taken from held sources. Anything unconfirmed is marked `[VERIFY]`, and a release build fails while any remain.
+
+## 2026-10-07: D8. Typst replaces LuaLaTeX (supersedes D2)
+- **Decision:** the chain is now Pandoc Markdown → Lua filter → Typst → PDF. The EPUB is still built directly by Pandoc.
+- **Why:** TeX Live can't be installed in the cloud environment (the apt mirrors and CTAN are blocked). Typst installs from PyPI in seconds (`pip install typst`), has good Arabic shaping (HarfBuzz-based), and builds fast. The user chose this.
+
+## 2026-10-07: D9. Book 2 gets three extra chapters
+- **Decision:** A (Prologue: why ʿIrfan), B (Shia ʿIrfan after the Safavids: the living chain), and C (the du'as as a school of ʿIrfan). All three were approved by the user.

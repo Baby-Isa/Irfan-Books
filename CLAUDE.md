@@ -42,7 +42,7 @@ notes/                  per-lecture detailed notes (phase 1), template in notes/
 docs/                   STATUS, DECISIONS, STYLE_GUIDE, DESIGN, GLOSSARY, SOURCES, OUTLINE
 sources/                bibliography.bib, quran/ (verified text), extracts/ (text of held PDFs)
 book1/ book2/           chapters/NN-slug.md, front/, back/
-build/                  Pandoc + LuaLaTeX template, Lua filter, Makefile
+build/                  Pandoc → Typst template, Lua filter, fonts, Makefile
 .claude/agents/         transcript-analyst, chapter-writer, fidelity-checker
 ```
 
@@ -54,6 +54,13 @@ build/                  Pandoc + LuaLaTeX template, Lua filter, Makefile
 4. Pilot chapter in both styles (user checkpoint)
 5. Chapter production, with a fidelity check after each chapter
 6. Assembly: PDF and EPUB
+
+## Build
+- `python3 build/build.py pdf book1` → `build/out/book1.pdf` (drafts highlight markers; add `--final` for release, which refuses to build while markers remain)
+- `python3 build/build.py check` lists open `[VERIFY]`/`[QUERY]`/`[GAP]` markers
+- `python3 build/quran.py 30:21-22` prints verified Arabic
+- Verse blocks only need `::: {.ayah ref="30:21"}` + English; the build inserts the Arabic itself
+- Setup: `pip install typst` (pandoc ≥3.1 is preinstalled). Fonts are committed in `build/fonts/` (OFL).
 
 ## Conventions
 - **Branch:** work on the branch given by the session. Commit after each completed unit, using short imperative messages.
