@@ -38,7 +38,7 @@ local function tstr(s) -- Typst string literal
   return '"' .. s:gsub('\\', '\\\\'):gsub('"', '\\"') .. '"'
 end
 
-local kinds = { word = true, history = true, story = true, who = true, reflect = true }
+local kinds = { word = true, history = true, story = true, who = true, reflect = true, try = true }
 
 function Div(el)
   for _, cls in ipairs(el.classes) do
@@ -47,6 +47,12 @@ function Div(el)
       local title = el.attributes.title
       local open = "#callout(kind: " .. tstr(kind) .. (title and (", title: " .. tstr(title)) or "") .. ")["
       local blocks = { pandoc.RawBlock("typst", open) }
+      for _, b in ipairs(el.content) do table.insert(blocks, b) end
+      table.insert(blocks, pandoc.RawBlock("typst", "]"))
+      return blocks
+    end
+    if cls == "words" then
+      local blocks = { pandoc.RawBlock("typst", "#words[") }
       for _, b in ipairs(el.content) do table.insert(blocks, b) end
       table.insert(blocks, pandoc.RawBlock("typst", "]"))
       return blocks

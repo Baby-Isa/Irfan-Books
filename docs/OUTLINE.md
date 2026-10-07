@@ -1,104 +1,240 @@
-# Outline (v1: draft for user review)
+# Outline v2 (canonical: D12)
 
-_Source mapping uses `LNN ¶a–b`. Writers must also read the matching `notes/IrfanNN.md`. The candidate Book 2 boxes for each lecture are in section 9 of its notes; the ones listed here are the priorities._
+_Book 2 (Expanded). About 65k words of body text, with boxes on top (D14). Lecture sources are given as `LNN ¶a–b`; also read the matching `notes/IrfanNN.md`. Held-source anchors come from `sources/maps/`. Earlier versions are in git history._
 
-## Shape of the series
-The lectures fall into four movements, and the books keep that arc:
-- **Theory** (L01–05): what ʿIrfan is, how it knows, the soul and the worlds.
-- **The path** (L06–10, L15): sharia/tariqa/haqiqa, the stages, the disciplines, fana, the journeys.
-- **History** (L11–14): the origins, the early mystics, gnosis and Ibn ʿArabi, the Sufi orders.
-- **Capstone** (L16): mystical reading of the Quran, and the return to God.
+## Every chapter has
+1. **Scene-opener.** Under 150 words, starting from familiar ground (a majlis, a line of a duʿa, a graveside, salah), then stepping into the teaching.
+2. **"Words you'll meet".** A strip of 3–5 terms, spelled as in the GLOSSARY: `::: {.words}`.
+3. **Body text.** 3.5–4.5k words, in Sheikh Bahmanpour's argument and order, written as a book that talks to the reader (D10). History is told as portraits: at most 5 figures in the prose, the rest in Who's Who boxes.
+4. **Callout boxes.** 2–5 of Word Study, History, Story, Who's Who and Reflection, every addition cited.
+5. **"Try this".** One small act, taken only from the lectures or a held source, never invented: `::: {.box-try}`.
+6. **Hand-off.** The last chapter of each part ends with one line posing the question the next part answers.
+7. **Sources note.** A short note in the back matter: which lectures the chapter rests on, and what was added.
 
-Ibn Sina's stations (L15) are moved into Part III because they describe the path. Every other lecture keeps its place.
+Unsourced lecture claims are omitted or reworked and logged in `docs/OMISSIONS.md` (D15).
 
----
+## Framing thread (D13)
+Each part opens with a line of the Munajat Shaʿbaniyyah as an epigraph:
+- Arabic from `sources/extracts/mafatih.md`, p. 244
+- English from a held translation (pending the al-islam.org edition)
+- line choices to be confirmed against the text.
 
-## Book 1: Faithful (17 chapters, about 70–80k words)
-
-### Part I: What ʿIrfan is
-| # | Title (working) | Sources | Core content |
-|---|---|---|---|
-| 1 | Seeking, not powers: what ʿIrfan is | L01 all; L02 ¶3–19 | Why go beyond the wajib minimum. The Surah Rum signs and the "inner machine". Power-seeking mysticism versus Islamic mysticism. The muqarrabun. Munajat Shaʿbaniyyah and the Whispered Prayer of the Lovers. The Quran's special class of believers. |
-| 2 | The language of ʿIrfan and two kinds of knowledge | L02 ¶20–38; L03 ¶3–23 | The terms ʿirfan, maʿrifah, Sufism, mysticism. Acquired knowledge (ḥuṣūlī) and knowledge by presence (ḥuḍūrī). ʿIlm versus maʿrifah. Knowledge as light from God; heart-to-heart knowledge. |
-| 3 | The limits of the mind and the subject of ʿIrfan | L03 ¶23–62 | Ibn Sina and Abu Saʿid. Mulla Sadra and knowledge by presence. Positive and negative knowledge of God. The subject matter of ʿIrfan, plus a Q&A section. |
-
-### Part II: The soul and the worlds
-| # | Title | Sources | Core content |
-|---|---|---|---|
-| 4 | Know yourself, know your Lord | L04 ¶3–60 | The two branches (practical and theoretical). Quranic verses on the soul. The man ʿarafa nafsahu hadith and its limits. "Meeting Allah". |
-| 5 | The worlds and the image body | L04 ¶61–96; L05 ¶3–31 | The soul as microcosm. Mulk, mithal and ʿaql, then kursi, ʿarsh and jabarut. Dreams, death and muraqabah. The image body, deformed or made luminous by deeds. The Friday-night hadith and "recite and ascend". |
-| 6 | Layers of the spirit, states of the self | L05 ¶31–59 | The layers of the ruh. The three conditions of the nafs. Ramadan, night prayer and dhikr. |
-
-### Part III: The path
-| # | Title | Sources | Core content |
-|---|---|---|---|
-| 7 | Sharia, tariqa, haqiqa | L06 all | The definition of the ʿarif. The ship, sea and pearl. Karamat versus magic. Attention in prayer. Islam, Iman and Ihsan. The degrees of certainty. Warnings against "pop spirituality". |
-| 8 | The map of the first journey | L07 ¶1–41 | Isaac of Nineveh's scheme as a foil. Tajliyah, takhliyah, tahliyah. |
-| 9 | Setting out: repentance and character | L08 ¶1–42 | The inward journey (Najm al-Din Kubra). Tawba, relapse and despair. The Dhu'l-Qaʿdah rite. Good character as a precondition. |
-| 10 | The five disciplines | L08 ¶43–88; L10 ¶1–65 | The Hadith of Miʿraj. Kashani's five disciplines: silence, hunger, night vigil, seclusion, constant remembrance. Imam al-Sadiq to ʿUnwan al-Basri. Balance and dosage. |
-| 11 | The stations of the wayfarer (Ibn Sina) | L15 all | Isharat Namat 9: iradah, riyadah, the three ranks, wusul. |
-| 12 | Fana, baqa and the four journeys | L07 ¶41–70; L09 all | Fana as lost self-perception, not lost individuality. The dangers after fana. Farq baʿd al-jamʿ. The degrees of fana. The four journeys (Mulla Sadra). |
-
-### Part IV: The story of Islamic mysticism
-| # | Title | Sources | Core content |
-|---|---|---|---|
-| 13 | Where did Islamic mysticism come from? | L11 ¶1–61 | Against the "outside source" theses. Mysticism in the Prophet's time. Schimmel and Imam al-Sadiq. |
-| 14 | Fear, renunciation and love: the early mystics | L11 ¶61–92; L12 all | Hasan al-Basri, Ibrahim b. Adham, tawakkul, al-Muhasibi, Fudayl, Shaqiq (and his story of Imam al-Kazim), Rabiʿa, Dhu'l-Nun, women and sainthood. |
-| 15 | Gnosis: Tirmidhi, Bayazid, Junayd, Ibn ʿArabi | L13 all | Intoxication versus sobriety. Ibn ʿArabi's life, influence and the Shia/Sunni question. Wahdat al-wujud. |
-| 16 | The Sufi orders and the Shia way | L10 ¶66–73; L14 all | What a tariqa is. Silsila and submission. Samaʿ. The Qadiri, Suhrawardi and Naqshbandi orders. The Shia alternative: a guide, not an order. |
-
-### Part V: Return
-| # | Title | Sources | Core content |
-|---|---|---|---|
-| 17 | Reading the Quran mystically: the return to God | L16 all | Legitimate versus arbitrary taʾwil. The Light Verse. Chains in Surah Yasin. Tusi on the return as creation reversed. Hell as opposed will. |
-
-**Front matter:** a preface (who the lecturer is, how the book was made, what "faithful" means) and a note on transliteration.
-**Back matter:** glossary and index of Quranic verses.
+Chapter 2 presents the whole prayer. The epilogue closes with its final petition.
 
 ---
 
-## Book 2: Expanded (the same 17 chapters + 3 new chapters + richer back matter)
+## Prologue: An invitation (about 2.5k)
+- Who the book is for, and who Sheikh Bahmanpour is: a BA module, now a book.
+- What ʿirfan is not: magic, a cult, a replacement for fiqh. It does not replace taqlid or the marjaʿ (L06 ¶12–22).
+- **A two-page history:** from the Quran and the Imams, through the Sufi centuries (the people most readers picture), to the Shia schools of Isfahan, Najaf and Qom.
+- An honest note that some scholars are wary of ʿirfan; Chapter 8 deals with it.
+- How the five parts work. The first line of the Munajat.
+- **Sources:** L01 ¶3–16; L06 ¶12–22; slides (`Irfan_1_Theory`); new, from Tier B when held.
 
-Each chapter adds:
-- term definitions in the prose
-- bridging context
-- 2–5 boxes, roughly:
-  - a **Word Study** for the chapter's key term
-  - a **Who's Who** for each major figure named
-  - a **Story** wherever the lecture only alludes to one
-  - one **Reflection**.
+## Part One: The Call (why bother?)
+### 1. Seeking, not powers
+- **Point:** our inner receiver is broken. ʿIrfan repairs it, and its only aim is knowing and loving God.
+- **Content:** the Surah Rum signs; the "inner machine"; why go beyond the wajib; power-seeking versus Islamic mysticism; the muqarrabun; the special class of believers in the Quran.
+- **Sources:** L01 all; L02 ¶3–19. Nahj 3.403 (the awliyaʾ see the inner side of the world). Q 30:21–24, 7:179, 4:69, 8:2, 23:1–2, 35:28, 10:62, 16:97.
+- **Note:** the duʿa material moves to chapter 2. Keep only a taste here.
+- **Pilot draft:** `book2/chapters/01-seeking-not-powers.md` (to be revoiced).
 
-### Priority boxes by chapter
-1. Word Study on *ʿirfan* / *maʿrifah*. The Munajat Shaʿbaniyyah, and when Khojas recite it (Shaʿban). Who's Who: Imam Zayn al-ʿAbidin and the Sahifa.
-2. Word Study on *ʿilm* versus *maʿrifah*. History: how "Sufi" got its name.
-3. Who's Who: Ibn Sina, Mulla Sadra.
-4. Word Study on *nafs* / *ruh* / *qalb*. Hadith study: man ʿarafa nafsahu.
-5. Word Study on *barzakh*, and the Khoja connection (majalis on the grave and the barzakh).
-6. Box: the three nafs in the Quran (ammarah, lawwamah, mutmaʾinnah).
-7. Who's Who: Shaykh Bahari, Sayyid Ahmad Karbalaʾi, ʿAbd al-Samad Hamadani. Word Study on *ihsan*.
-8. Box: what a "veil" (ḥijab) means.
-9. Practical box: the Dhu'l-Qaʿdah tawba rite (from Mafatih / al-Muraqabat).
-10. Story: ʿUnwan al-Basri. Box: the Hadith of Miʿraj. Who's Who: ʿAllama Tabatabaʾi.
-11. Who's Who: Ibn Sina and Nasir al-Din Tusi. Box: what the Isharat is.
-12. Story or poem: Rumi on annihilation. Box: Mulla Sadra's *Asfar*.
-13. Who's Who: Salman, Abu Dharr, Uways al-Qarani. History: Ahl al-Suffa.
-14. Who's Who: Rabiʿa. Story: Shaqiq and Imam al-Kazim.
-15. Who's Who: Ibn ʿArabi. History: the wahdat al-wujud debate in Shia scholarship.
-16. A timeline chart of the orders. History: the Nimatullahi order (the one Shia-connected order).
-17. Who's Who: Tusi. Word Study on *taʾwil* versus *tafsir*.
+### 2. You already know these words
+- **Point:** the duʿas we recite are the first textbook of ʿirfan.
+- **Content:** what the mystics ask for (severance, vision, love, knowledge), shown through:
+  - the Munajat Shaʿbaniyyah (whole)
+  - the Whispered Prayer of the Lovers
+  - glimpses of Kumayl, Abu Hamza and ʿArafah
+  - "a primary-school boy reading university books".
+- **Sources:** L01 ¶17–31 (the lecturer's own reading); L06 and L10 for quoted duʿas. Mafatih pp. 243–245 (Shaʿbaniyyah), 129–132 (Kumayl), 282–290 (Abu Hamza), 374–383 (ʿArafah). Sahifa pp. 655–657 (the Lovers).
+- **Needs:** English translations of the Mafatih duʿas.
 
-### New chapters for Book 2 (proposed, need user and lecturer approval)
-- **A. Prologue: why ʿIrfan, and why now.** A short opening for the reader new to the subject:
-  - What ʿIrfan is and is not (not magic, not Sufi orders, not a replacement for fiqh).
-  - Where it sits beside fiqh, akhlaq and kalam.
-  - How to use this book.
-- **B. Shia ʿIrfan after the Safavids: the living chain.** The lectures cover Sunni Sufism in detail, but the Shia lineage only in passing. This chapter fills that gap (Tier B sources only):
-  - Mulla Sadra
-  - the Najaf school: Mulla Husayn-Quli Hamadani → Sayyid Ahmad Karbalaʾi → Sayyid ʿAli Qadi → ʿAllama Tabatabaʾi, Shaykh Bahjat, Bahaʾ al-Din
-  - Imam Khomeini, Hasanzadeh Amoli
-  - What "having a guide" means for Shia seekers today.
-- **C. The duʿas as a school of ʿIrfan.** Kumayl, Abu Hamza al-Thumali, Munajat Shaʿbaniyyah, the Fifteen Whispered Prayers and ʿArafah. These are the texts Khoja readers already know, read with the eyes of the lectures. This chapter is likely the strongest bridge to the audience.
+### 3. Two kinds of knowing
+- **Point:** knowing *about* God is not knowing God. The second kind is light placed in a purified heart, so the path is purification, not study.
+- **Content:**
+  - ʿilm versus maʿrifah; acquired knowledge versus knowledge by presence
+  - mind-to-mind versus heart-to-heart knowledge
+  - the limits of reason
+  - positive knowledge of God as ʿirfan's subject.
+- **Boxes:** Ibn Sina, Abu Saʿid and Mulla Sadra.
+- **Sources:** L02 ¶20–38; L03 ¶3–62. Nahj 1.1 ("to depict Him is to circumscribe Him").
+- **Hand-off:** "If the knowing happens in the soul, what is the soul?"
 
-**Back matter for Book 2:** glossary, Who's Who (collected), timeline of figures and orders, further reading in levels (beginner, intermediate, advanced), and an index of Quranic verses.
+## Part Two: The Terrain (what is there to travel through?)
+### 4. Know yourself, know your Lord
+- **Point:** the soul is the doorway. Forgetting God and forgetting ourselves are one illness.
+- **Content:** practical and theoretical ʿirfan; the Quran on the soul (Q 59:19, 91, 6:20); "whoever knows himself knows his Lord" and its limits; what "meeting Allah" means.
+- **Sources:** L04 ¶3–60, with the Q&A condensed. Nahj themes "self-knowledge and nafs" (`maps/nahj.md`).
 
-**Pilot chapter (recommended):** Chapter 1. It is the opening readers judge the book by, its source is short (about 6k words), and its Book 2 version needs only Tier A sources (Quran, Sahifa, Mafatih, Nahj).
+### 5. The soul and its worlds
+- **Point:** reality has layers and so do we. Our deeds shape an inner form that we will meet.
+- **Content:**
+  - the worlds: mulk, mithal/barzakh, ʿuqul; then kursi, ʿarsh, jabarut
+  - the soul as microcosm
+  - the image body, deformed or made luminous
+  - dreams, death, muraqabah
+  - "recite and ascend"
+  - the three states of the nafs.
+- **Boxes:** the seven layers of the ruh.
+- **Sources:** L04 ¶61–96; L05 all. Nahj themes "death and barzakh".
+
+### 6. The ship, the sea and the pearl
+- **Point:** no pearl without the ship. Shariʿa is never left behind.
+- **Content:**
+  - sharia, tariqa, haqiqa (shell, core, kernel; Islam, Iman, Ihsan; the three degrees of certainty)
+  - karamat versus magic
+  - attention in prayer
+  - warnings against pop spirituality.
+- **Close:** a one-page sketch of the whole route, the four journeys, so the reader has the full picture.
+- **Sources:** L06 all; L09 ¶70–93 (overview only). Slides `Irfan_2_Practical` (Kubra, Bahari, Hamadani quotations).
+- **Hand-off:** "Who has actually walked this road?"
+
+## Part Three: The Travellers (who has walked this road?)
+### 7. Roots and the first seekers
+- **Point:** ʿirfan grew from the Quran and the Imams, not from monks or yogis.
+- **Content:**
+  - Salman, Abu Dharr, Uways, and the Ahl al-Suffa
+  - Schimmel on Imam al-Sadiq
+  - the mysticisms of fear, renunciation and love: Hasan al-Basri, Ibrahim b. Adham, Fudayl, Shaqiq (and his story of Imam al-Kazim), al-Muhasibi, Rabiʿa, Dhu'l-Nun
+  - tawakkul.
+- **Note:** cut the "outside sources" polemic to about 1.5k words.
+- **Sources:** L11 all; L12 all. Slides `Irfan_Origins_and_History`.
+
+### 8. Drunk and sober
+- **Point:** two ways of being lost in God, and the most debated figure in the field.
+- **Content:**
+  - Hakim Tirmidhi (brief)
+  - Bayazid versus Junayd: intoxication and sobriety
+  - Ibn ʿArabi: life, influence, the Shia/Sunni question
+  - the unity of being (the core idea in the prose, the theories in a box)
+  - **the honest Shia debate** about Ibn ʿArabi and about ʿirfan itself.
+- **Sources:** L13 all; L01 ¶6 (jurists' objections). Tier B when held.
+
+### 9. Sufis and Shia
+- **Point:** what the orders really are, what we share, and where we differ.
+- **Content:**
+  - tariqa, silsila, submission to the shaykh
+  - samaʿ
+  - the Qadiri, Suhrawardi and Naqshbandi orders as portraits
+  - the Ghazali brothers and Fayd Kashani
+  - ʿAli as the shared gateway
+  - the Shia position: Imamah means no silsila and no blind obedience
+  - techniques are secondary; each soul is its own channel.
+- **Box:** Khoja/pir heritage, only with sourcing (Akhtar).
+- **Sources:** L14 all; L10 ¶66–73. Slides `Irfan_4_Sufi_Tariqas`. Amuli when held.
+- **Hand-off:** "So how does one actually begin?"
+
+## Part Four: The Road (how is it walked?)
+### 10. Finding a guide
+- **Point:** the living Shia chain, and what a trustworthy guide is today.
+- **Content:**
+  - the chain: Mulla Sadra, then Mulla Husayn-Quli Hamadani, Sayyid Ahmad Karbalaʾi, Sayyid ʿAli Qadi, Tabatabaʾi, Bahjat, Khomeini, Hasanzadeh Amoli
+  - the lecturer's Shia alternative to the shaykh
+  - how to recognise a guide and a charlatan.
+- **Sources:** L14 ¶22–25; L06 ¶21–25 (Bahari, Hamadani); L10 ¶41–54 (Tabatabaʾi). New, from Tier B (Tabatabaʾi's *Kernel*, Mutahhari) when held.
+
+### 11. The stages of the first journey
+- **Point:** the road has stages: polishing, emptying, adorning, and losing oneself in God.
+- **Content:**
+  - Isaac of Nineveh as a brief foil
+  - tajliyah, takhliyah, tahliyah, fana
+  - Ibn Sina's ladder as a one-page table, with his analogies (thunder behind clouds, the mirror and frame, the host's house) in the prose.
+- **Sources:** L07 ¶1–41; L15 all.
+
+### 12. Setting out
+- **Point:** anyone can begin, at any age and after any sin, but slowly. Good character is the first condition.
+- **Content:**
+  - Kubra's voluntary journey
+  - tawba: relapse, despair, pacing
+  - the Dhu'l-Qaʿdah rite, given as in Mafatih p. 356 (100 istighfar; D15)
+  - character
+  - the Hadith of the Miʿraj on those whom God loves.
+- **Sources:** L08 ¶1–42. Slides `Irfan_3_Suluk`. Mafatih p. 356. Nahj 1.191 (Hammam) as a portrait of character.
+
+### 13. The five disciplines
+- **Point:** silence, hunger, night prayer, seclusion and remembrance, each in measured doses.
+- **Content:**
+  - the Hadith of the Miʿraj
+  - Imam al-Sadiq to ʿUnwan al-Basri
+  - Muzzammil and the night
+  - seclusion of the heart (Tabatabaʾi against extreme feats)
+  - dhikr kathir.
+- **Sources:** L08 ¶43–88; L10 ¶1–65. Slides `Irfan_3_Suluk`. Mafatih pp. 848–853 (night prayer), 802–803 (tasbih of al-Zahra).
+
+### 14. Love, the engine
+- **Point:** fear and renunciation begin the path; love carries it.
+- **Content:**
+  - love as "the heart of mysticism"
+  - Rabiʿa (now a callback)
+  - the Whispered Prayer of the Lovers
+  - the lovers in ʿArafah
+  - "whoever tastes the sweetness of Your love".
+- **Sources:** L12 ¶38–61; L01 ¶27–31; L08 ¶43–51. Sahifa pp. 655–657. Mafatih (ʿArafah). New synthesis, cited.
+- **Note:** Nahj has few explicit love passages (map caveat).
+
+### 15. Losing the self, finding God
+- **Point:** fana is losing the false sense of self, not merging with God. Baqa is returning transformed.
+- **Content:**
+  - the definition
+  - Knysh and Baldick
+  - against incarnation and nirvana
+  - the dangers after fana (captivation, shatahat, licence)
+  - separation after union
+  - the degrees of fana: action, attributes, essence
+  - Rumi.
+- **Sources:** L07 ¶41–70; L09 ¶1–69; L15 ¶55–60.
+- **Hand-off:** "And after that?"
+
+## Part Five: The Return (where does it end?)
+### 16. The four journeys and the perfect human
+- **Point:** the end of the road is a return to people, with God.
+- **Content:**
+  - the four journeys in full (Mulla Sadra's title, with Quranic anchors)
+  - the Prophet and the Imams as the ones who completed them
+  - **Karbala offered as a reflection** (D16), grounded in Duʿa ʿArafah.
+- **Sources:** L09 ¶70–93. Mafatih pp. 374–383. New (wilaya), Tier B when held.
+
+### 17. Reading the Quran with the heart, and the return to God
+- **Point:** the inner meaning never cancels the outer. The return to God is the surrender, or the refusal, of will, power, knowledge and existence.
+- **Content:**
+  - legitimate versus arbitrary taʾwil (Qadi al-Nuʿman as the example)
+  - the Light Verse
+  - the chains in Surah Yasin
+  - Tusi on maʿad
+  - paradise and hell as opposed will.
+- **Sources:** L16 all. Slides `Irfan_Mystical_Interpretation`.
+
+## Epilogue: First steps (about 2k)
+- **Content:** this week, this month, this year: a graded set built from the chapters' "Try this" boxes and al-Muraqabat. A checklist for telling a guide from a charlatan. The Munajat's final petition.
+- **Sources:** L08, L10, L14 ¶22–25; Maliki Tabrizi when held.
+
+## Back matter
+- Glossary
+- Who's Who (collected)
+- Sources notes per chapter
+- Bibliography
+- Index of Quranic verses
+- Omissions are reviewed but not printed
+
+---
+
+## Dependency table (B: no forward references)
+| Ch | Assumes (terms or figures) | Introduced in |
+|---|---|---|
+| 2 | munajat, maʿrifah, muqarrabun | 1 |
+| 3 | maʿrifah, ʿarif | 1–2 |
+| 5 | nafs, ruh, the soul as the doorway | 4 |
+| 6 | the worlds (malakut and the others), purification | 3, 5 |
+| 7 | the four journeys (overview), sharia/tariqa/haqiqa | 6 |
+| 8 | fana (introduced lightly here and defined in full in 15), maʿrifah | 3, 7 |
+| 9 | Junayd, Ibn ʿArabi, silsila | 8 |
+| 10 | tariqa, shaykh, the Shia position | 9 |
+| 11 | the four journeys, fana (in outline) | 6, 8 |
+| 12 | the stages | 11 |
+| 13 | tawba, the Hadith of the Miʿraj | 12 |
+| 14 | Rabiʿa, the Lovers' prayer | 2, 7 |
+| 15 | Bayazid, Junayd, sukr/sahw, the stages | 8, 11 |
+| 16 | fana, baqa, the four journeys, wilaya | 6, 15 |
+| 17 | mulk/malakut/jabarut, tawakkul, rida, fana | 5, 7, 15 |
+
+**Rule for 8 and 11:** fana appears there only in outline, with a pointer forward to chapter 15. That is acceptable as a signposted preview.

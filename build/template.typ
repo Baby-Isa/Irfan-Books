@@ -10,9 +10,10 @@
   story:   rgb("#6B3F69"),
   who:     rgb("#4A5866"),
   reflect: rgb("#B08D3C"),
+  try:     rgb("#2E6B3F"),
 )
-#let box-icons = (word: "ع", history: "⧗", story: "❧", who: "◈", reflect: "✦")
-#let box-labels = (word: "Word Study", history: "History", story: "Story", who: "Who's Who", reflect: "Reflection")
+#let box-icons = (word: "ع", history: "⧗", story: "❧", who: "◈", reflect: "✦", try: "➤")
+#let box-labels = (word: "Word Study", history: "History", story: "Story", who: "Who's Who", reflect: "Reflection", try: "Try this")
 
 #let serif = ("EB Garamond", "EB Garamond LX", "Amiri")
 #let sans  = ("Source Sans 3", "Source Sans 3 LX", "Amiri")
@@ -77,6 +78,34 @@
       body
     },
   )
+}
+
+// "Words you'll meet" strip at the head of a chapter
+#let words(body) = block(width: 100%, above: 0.6em, below: 1.4em, inset: (y: 6pt),
+  stroke: (top: 0.4pt + gold, bottom: 0.4pt + gold), {
+    set text(font: sans, size: 8.5pt, fill: teal)
+    set par(first-line-indent: 0pt, justify: false)
+    text(weight: 600, tracking: 0.06em, upper[Words you'll meet])
+    h(8pt)
+    body
+  })
+
+// Part opener with Munajat epigraph
+#let part(num: "", title: "", question: "", epigraph-ar: "", epigraph: []) = {
+  pagebreak(weak: true, to: "odd")
+  set par(first-line-indent: 0pt)
+  v(40mm)
+  align(center, text(size: 10pt, fill: gold, tracking: 0.2em, upper("Part " + num)))
+  v(4mm)
+  align(center, text(size: 26pt, fill: teal, title))
+  v(2mm)
+  align(center, text(size: 12pt, style: "italic", fill: ink, question))
+  v(10mm)
+  star-band(width: 50%)
+  v(10mm)
+  if epigraph-ar != "" { align(center, text(font: "Amiri", lang: "ar", dir: rtl, size: 14pt, epigraph-ar)); v(3mm) }
+  align(center, pad(x: 12mm, text(size: 10.5pt, style: "italic", epigraph)))
+  pagebreak()
 }
 
 // Draft markers: visible in drafts so nothing slips through.

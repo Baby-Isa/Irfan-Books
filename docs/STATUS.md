@@ -3,14 +3,13 @@
 _Update at the end of every task. Keep it short. History lives in git and DECISIONS.md._
 
 ## Current phase
-**Structure checkpoint:** the user is reviewing `docs/ANALYSIS.md` (critical analysis, the proposed 19-chapter journey, and the literature review).
-- Decided: Book 2 style (D10).
+**Pre-production.** The structure is locked (OUTLINE v2, D12–D18). The sources are mapped (`sources/maps/`).
 
 **Next:**
-- Agree the structure, then rewrite OUTLINE.md as v2.
-- Ingest the source PDFs from the GitHub Release `sources`.
-- Restyle the voice of the chapter 1 pilot.
-- Then begin production.
+- Add the template pieces: the `.box-try` box, the `.words` strip and the part opener.
+- Get the al-islam.org books via Claude in Chrome. The site's Cloudflare check blocks automated access.
+- Get an English translation of the Mafatih duʿas.
+- Revoice chapter 1, then write chapters in order.
 
 ## Open questions for the user or lecturer
 1. The lecturer is M. S. Bahmanpour (from the slides). Confirm his preferred title and name format.
@@ -21,7 +20,7 @@ _Update at the end of every task. Keep it short. History lives in git and DECISI
    - L14 promises a "Shia tariqa" talk that never appears.
 
    Were there sessions that weren't transcribed?
-4. Quran translation: Qaraʾi or something else?
+4. ~~Quran translation~~: decided, Qaraʾi (Tanzil).
 
 ## Source review findings (sources/maps/)
 - **Sahifa:** the lecture's Whispered Prayer of the Lovers lines match Chittick (pp. 656–657). "Heart burn with the love of seeking you" (L01 ¶31) is not in it, so it needs a QUERY.

@@ -45,3 +45,11 @@ A Reflection box closes the chapter with a practical question.
 ## A second section
 
 More body text, so the running heads and the page numbers appear on the following pages. Lorem ipsum is avoided: this sentence repeats to fill the page. More body text, so the running heads and the page numbers appear on the following pages. More body text, so the running heads and the page numbers appear on the following pages. More body text, so the running heads and the page numbers appear on the following pages. More body text, so the running heads and the page numbers appear on the following pages. More body text, so the running heads and the page numbers appear on the following pages.
+
+::: {.words}
+*maʿrifah* · *ʿarif* · *muqarrabun* · *wilaya*
+:::
+
+::: {.box-try}
+Read the Munajat Shaʿbaniyyah slowly, once, this week. Stop at the line that stays with you.
+:::

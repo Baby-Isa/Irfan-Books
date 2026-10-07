@@ -46,3 +46,33 @@ _Append only. Each entry: date, decision, why. To reverse a decision, add a new 
 ## 2026-10-07: D11. Lecturer identified
 - **Decision:** M. S. Bahmanpour, from the slides (`sources/handouts/`). The series was a BA Islamic Studies module.
 - **Note:** check with him how he wants to be named and titled. The user's working form is "Sheikh Bahmanpour".
+
+## 2026-10-07: D12. Final structure
+- **Decision:** five parts and 17 chapters, plus a prologue and an epilogue, from Fable's review and gap analysis (`reviews/structure-*.md`).
+- **Parts:** The Call, The Terrain, The Travellers, The Road, The Return.
+- **History:** the history comes before the practice.
+- **"Finding a guide":** this chapter opens Part Four.
+- **Supersedes:** the 19-chapter proposal in ANALYSIS.md and OUTLINE v1. OUTLINE.md v2 is canonical.
+
+## 2026-10-07: D13. The Munajat Shaʿbaniyyah is the framing thread
+- **Decision:** one line of the Munajat Shaʿbaniyyah opens each part as an epigraph. Chapter 2 presents the whole prayer, and the epilogue closes with it.
+- **Text:** the Arabic comes from Mafatih (held). The English comes from a held translation only.
+
+## 2026-10-07: D14. Length
+- **Decision:** a body target of about 65k words (boxes extra), at about 3.5–4.5k words per chapter.
+- **Review point:** before the text is finalised, assess what a cut to about 50k would lose, and decide.
+
+## 2026-10-07: D15. Lecture claims that can't be sourced are omitted or reworked
+- **Decision:** where the lecture cites a text we can't locate in a held source, or the claim can't be supported, the book omits it or works around it (for example, keeps the idea without the attribution). It does not print a query.
+- **Record:** each omission is logged in `docs/OMISSIONS.md` for the review draft.
+- **Scope:** `[QUERY]` is kept only for substantive theological points where omitting would distort the lecturer's position.
+
+## 2026-10-07: D16. Karbala
+- **Decision:** Karbala is presented as a reflection offered to the reader, grounded in Imam al-Husayn's Duʿa ʿArafah. It is not presented as the lecturer's teaching.
+
+## 2026-10-07: D17. Review process
+- **Decision:** no external review (lecturer or others) before the first complete draft.
+- **What the draft looks like:** fully styled and formatted as a book, then shared for review.
+
+## 2026-10-07: D18. No devotional-calendar thread
+- **Decision:** we don't tie chapters to the Khoja calendar months (Fable's secondary thread is dropped).
