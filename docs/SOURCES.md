@@ -65,6 +65,7 @@ Priorities:
 | duas_* | duas.org: Munajat Shaʿbaniyyah, Kumayl, Abu Hamza, ʿArafah (Imam al-Husayn), Salat al-Layl. Arabic, English and transliteration, segmented §N. Free to use with credit. | A (texts) | `extracts/duas-*.md` | |
 | kernel | *Lubb al-Lubab / Kernel of the Kernels* (Tabatabaʾi's lectures, ed. Husayni Tihrani; Qaraʾi trans.) | B | `extracts/kernel.md` | |
 | light | *Light Within Me* (Mutahhari's "Introduction to ʿIrfan"; Tabatabaʾi; Khomeini on the Munajat Shaʿbaniyyah) | B | `extracts/light.md` | |
+| journey | Maliki Tabrizi, *The Spiritual Journey of the Mystics* (Alamdar trans.): Ramadan practices, fasting, hunger, duʿa | B | `extracts/journey.md` | |
 | bahmanpour_slides | The lecturer's own slides (6 decks) | L | `handouts/*.txt` | |
 
 **Large PDFs:** these live in the GitHub Release "Source-Material-Upload" and are downloaded into the gitignored `sources/pdfs/`. Only the text extracts are committed.
