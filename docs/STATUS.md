@@ -3,34 +3,30 @@
 _Update at the end of every task. Keep it short. History lives in git and DECISIONS.md._
 
 ## Current phase
-**Phase 1: per-lecture notes.**
+**Phase 2 checkpoint: waiting for the user to review `docs/OUTLINE.md` and `docs/SOURCES.md`.**
 
-**Next:** Phase 2, which produces the outline, the first glossary and the reading list for the user to review.
+**Next:**
+- Phase 3: design template and sample PDF (can start now).
+- Phase 4: pilot of chapter 1 in both styles. This needs the Tier A sources: Quran, Sahifa, Mafatih, Nahj.
 
 ## Open questions for the user or lecturer
-- The lecturer's name, title and preferred form of attribution.
-- The lecturer's own recommended reading list for Irfan.
-- The repo is **public**. Should we make it private before transcripts or source PDFs are pushed?
+1. The lecturer's name, title and preferred form of attribution.
+2. **The class slides and hand-outs.** The lectures refer to slides, a "chart" of the branches, an Ibn Sina hand-out, a Miʿraj hand-out and a Chodkiewicz hand-out. Do these still exist?
+3. **Missing sessions?**
+   - L01 refers back to an earlier talk on the four categories of muqarrabun.
+   - L15 says "two sessions left" and promises to continue the Ibn Sina text, but L16 covers a different topic.
+   - L14 promises a "Shia tariqa" talk that never appears.
+
+   Were there sessions that weren't transcribed?
+4. Approve the Book 2 new chapters A, B and C (see OUTLINE).
+5. The repo is **public**. Make it private before pushing transcripts and PDFs?
+6. Quran translation: Qaraʾi or something else?
 
 ## Lectures → notes
-| L | Words | Notes | Notes checked |
-|---|---|---|---|
-| 01 | 3.9k | ☐ | ☐ |
-| 02 | 4.3k | ☐ | ☐ |
-| 03 | 6.4k | ☐ | ☐ |
-| 04 | 7.9k | ☐ | ☐ |
-| 05 | 7.3k | ☐ | ☐ |
-| 06 | 8.3k | ☐ | ☐ |
-| 07 | 7.7k | ☐ | ☐ |
-| 08 | 8.6k | ☐ | ☐ |
-| 09 | 8.9k | ☐ | ☐ |
-| 10 | 8.2k | ☐ | ☐ |
-| 11 | 10.2k | ☐ | ☐ |
-| 12 | 8.0k | ☐ | ☐ |
-| 13 | 8.5k | ☐ | ☐ |
-| 14 | 8.1k | ☐ | ☐ |
-| 15 | 7.0k | ☐ | ☐ |
-| 16 | 6.3k | ☐ | ☐ |
+All 16 sets of notes are done (`notes/Irfan01–16.md`, about 76k words in total). Several flag garbled passages and mis-numbered verses in section 7. They have not been human-checked.
 
 ## Chapters
-_(Filled in after the outline is approved: chapter | Book 1 draft | Book 2 draft | fidelity check | typeset.)_
+| Ch | Book 1 | Book 2 | Fidelity check | Typeset |
+|---|---|---|---|---|
+| 1–17 | ☐ | ☐ | ☐ | ☐ |
+| B2 A, B, C | n/a | ☐ | ☐ | ☐ |
