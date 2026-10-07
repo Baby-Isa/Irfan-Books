@@ -53,7 +53,7 @@
   if arabic != "" {
     align(center, block({
       set par(justify: false, leading: 1.15em, first-line-indent: 0pt)
-      text(font: "Amiri Quran", lang: "ar", dir: rtl, size: 14.5pt, fill: ink, arabic)
+      text(font: ("Amiri Quran", "Amiri", "EB Garamond"), lang: "ar", dir: rtl, size: 14.5pt, fill: ink, arabic)
     }))
     v(0.7em)
   }

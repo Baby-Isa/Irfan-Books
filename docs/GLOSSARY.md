@@ -109,7 +109,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | munajat | munajat | | Whispered prayer, intimate supplication | L01 |
 | Munajat Shaʿbaniyyah | Munajat-e-Shabaaniyah, munajat-e-shabaniyah | | The whispered prayer recited in the month of Shaʿban | L01 |
 | muʾminun | mominoon, mominun, momin, muʾmin | | Ordinary believers, below the muqarrabun | L01 |
-| muqarrabun | muqarraboon | | Those brought near, above ordinary believers; four categories: prophets, siddiqin, martyrs, righteous | L01 |
+| muqarrabun | muqarraboon | | Those brought near, above ordinary believers; four categories: prophets, the truthful (siddiqin), the witnesses (shuhadaʾ), the righteous (salihin) | L01 |
 | muqarrab | muqarrab | | Singular of muqarrabun | L02 |
 | muraqaba | muraqabah, muraaqabah | | Watchfulness of God's presence | L04 |
 | murid | Mureed, Murad | | Disciple; the one who wills | L09 |
