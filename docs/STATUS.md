@@ -3,18 +3,17 @@
 _Update at the end of every task. Keep it short. History lives in git and DECISIONS.md._
 
 ## Current phase
-**Phase 4 checkpoint: waiting for the user and lecturer to compare the pilot PDFs and choose a style.**
-- `samples/pilot-ch1-book1-faithful.pdf`
-- `samples/pilot-ch1-book2-expanded.pdf`
-- Both chapters have been revised after their fidelity reviews (`reviews/`).
+**Structure checkpoint:** the user is reviewing `docs/ANALYSIS.md` (critical analysis, the proposed 19-chapter journey, and the literature review).
+- Decided: Book 2 style (D10).
 
 **Next:**
-- Once the user chooses a style, start chapter production (phase 5): one chapter-writer at a time, each followed by a fidelity check.
-- The open markers in the pilot need answers from the lecturer (QUERY) and the sources (VERIFY).
-- The Book 2 pilot needs the Tier A sources (Sahifa, Mafatih, Nahj, a Quran translation) to clear its `[VERIFY]` markers.
+- Agree the structure, then rewrite OUTLINE.md as v2.
+- Ingest the source PDFs from the GitHub Release `sources`.
+- Restyle the voice of the chapter 1 pilot.
+- Then begin production.
 
 ## Open questions for the user or lecturer
-1. The lecturer's name, title and preferred form of attribution.
+1. The lecturer is M. S. Bahmanpour (from the slides). Confirm his preferred title and name format.
 2. **The class slides and hand-outs.** The lectures refer to slides, a "chart" of the branches, an Ibn Sina hand-out, a Miʿraj hand-out and a Chodkiewicz hand-out. Do these still exist?
 3. **Missing sessions?**
    - L01 refers back to an earlier talk on the four categories of muqarrabun.

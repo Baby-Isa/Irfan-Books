@@ -37,3 +37,12 @@ _Append only. Each entry: date, decision, why. To reverse a decision, add a new 
 
 ## 2026-10-07: D9. Book 2 gets three extra chapters
 - **Decision:** A (Prologue: why ʿIrfan), B (Shia ʿIrfan after the Safavids: the living chain), and C (the du'as as a school of ʿIrfan). All three were approved by the user.
+
+## 2026-10-07: D10. Book 2 (Expanded) is the chosen style
+- **Decision:** the user chose Book 2. Book 1 is shelved as a reference draft.
+- **Voice:** a normal non-fiction voice that talks to the reader. Attribute only occasionally ("Sheikh Bahmanpour argues…", "the lectures turn to…"), not every paragraph.
+- **Front matter:** the author's name goes on the cover, and an introduction credits the lecture series.
+
+## 2026-10-07: D11. Lecturer identified
+- **Decision:** M. S. Bahmanpour, from the slides (`sources/handouts/`). The series was a BA Islamic Studies module.
+- **Note:** check with him how he wants to be named and titled. The user's working form is "Sheikh Bahmanpour".
