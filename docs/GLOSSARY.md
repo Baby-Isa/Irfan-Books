@@ -42,6 +42,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | fuʾad | Al-Faad | | Heart or inner faculty | L05 |
 | ghawth | ghaus | | A rank of the saintly hierarchy | L13 |
 | ghusl al-tawba | Ghusle Tauba | | Ritual bath of repentance | L08 |
+| hijab (pl. hujub) | hujuba | | Veil; the veils of light and darkness between the heart and God | L01 |
 | haqiqa | Haqiqa | | The truth or reality; seeing what the Prophet saw | L06 |
 | haqq | haqq, al-Haqq | | Reality; God as the Real | L03 |
 | haqq al-yaqin | Haqqul Yaqeen | | The third of three degrees of certainty | L06 |
@@ -56,6 +57,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | ʿilm al-huduri | ilmul khuzu, ilmul khuzuli, ilumul huzuri, knowledge with presence, khusu | | Knowledge by presence, where the soul encompasses the object | L02 |
 | ʿilm al-husuli | ilmul husul, ilmul husuli | | Acquired knowledge | L02 |
 | ʿilm al-yaqin | Ilmul Yaqeen | | The first of three degrees of certainty | L06 |
+| inqitaʿ | alinqita`i | | Severance; cutting the heart off from everything but God (Munajat Shaʿbaniyyah) | L01 |
 | iqan | Iqaan | | Certitude, the term mystics use for the highest faith | L06 |
 | irada | Iradah | | Willingness; the will of the seeker | L15 |
 | ʿIrfan | Irfan, irfan | | Islamic mysticism / gnosis: the knowledge of God gained through spiritual experience and purification | L01 |
@@ -93,6 +95,8 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | maʿrifah | marefah, maarifah | | Experiential knowledge (gnosis) of God | L01 |
 | mathal | masal | | Parable or allegory pointing to a deeper meaning | L16 |
 | miʿraj | meraj | | The Prophet's ascension | L01 |
+| Mafatih al-Jinan | | | The prayer manual compiled by Shaykh ʿAbbas Qummi | L01 |
+| munajat | munajat | | An intimate, whispered prayer addressed to God | L01 |
 | muhasaba | Muhasabha, Mahasabha | | Self-accounting of one's actions, feelings and attitudes | L12 |
 | muhayyamin | mohayyemeen | | Angels lost in love of God | L01 |
 | muhsin | mohsin, mohsineen, mohsenoon, muhsinun | | One who has ihsan | L06 |
