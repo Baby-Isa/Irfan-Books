@@ -1,0 +1,5 @@
+sources/pdfs/
+build/out/
+*.aux
+*.log
+*.toc
