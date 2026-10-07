@@ -62,6 +62,7 @@ Priorities:
 | nahj | Nahj al-Balagha, Qutbuddin trans. (Brill), Arabic + English, scholarly numbering | A | `extracts/nahj.md` | |
 | sahifa | Sahifa Sajjadiyya, Chittick trans., Arabic + English | A | `extracts/sahifa.md` | |
 | mafatih | Mafatih al-Jinan, Arabic + English (erfan.ir / alhassanain) | A | `extracts/mafatih.md` | |
+| duas_* | duas.org: Munajat Shaʿbaniyyah, Kumayl, Abu Hamza, ʿArafah (Imam al-Husayn), Salat al-Layl. Arabic, English and transliteration, segmented §N. Free to use with credit. | A (texts) | `extracts/duas-*.md` | |
 | bahmanpour_slides | The lecturer's own slides (6 decks) | L | `handouts/*.txt` | |
 
 **Large PDFs:** these live in the GitHub Release "Source-Material-Upload" and are downloaded into the gitignored `sources/pdfs/`. Only the text extracts are committed.
