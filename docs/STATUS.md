@@ -23,6 +23,16 @@ _Update at the end of every task. Keep it short. History lives in git and DECISI
    Were there sessions that weren't transcribed?
 4. Quran translation: Qaraʾi or something else?
 
+## Source review findings (sources/maps/)
+- **Sahifa:** the lecture's Whispered Prayer of the Lovers lines match Chittick (pp. 656–657). "Heart burn with the love of seeking you" (L01 ¶31) is not in it, so it needs a QUERY.
+- **Mafatih:** the du'as are **Arabic only**, so an English source for the du'as is still needed.
+  - Munajat Shaʿbaniyyah: 8 of the 9 lines match (p. 244). Mafatih attributes it to Imam ʿAli and the Imams, not to Zayn al-ʿAbidin, so it needs a QUERY.
+  - Dhu'l-Qaʿdah rite: Mafatih says 100 istighfar (the lecture says 70) and adds al-Falaq.
+- **Nahj (Qutbuddin numbering):**
+  - "Sermon 432" = saying 3.403.
+  - Hammam = 1.191.
+  - 11 of the lecture citations are located. 3 are NOT FOUND (L10 small constant deed, L12 concealing zuhd, L11 "full of love").
+
 ## Lectures → notes
 All 16 sets of notes are done (`notes/Irfan01–16.md`, about 76k words in total). Several flag garbled passages and mis-numbered verses in section 7. They have not been human-checked.
 
