@@ -140,7 +140,7 @@ The third gift is peace, promised in the verse of Surah Yunus that names the fri
 Look! The friends of Allah will indeed have no fear nor will they grieve
 :::
 
-For the muqarrabun, Sheikh Bahmanpour says, the terms are entirely different. He goes as far as to say that they are given a Paradise in this world itself, while in the next world they seek something other than Paradise.
+For the muqarrabun, Sheikh Bahmanpour says, the terms are entirely different from those of ordinary believers.
 
 None of this would matter to an ordinary reader if it were reserved for prophets. Surah al-Nisaʾ answers that concern.
 

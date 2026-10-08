@@ -50,10 +50,8 @@
   text(size: 0.95em, style: "italic", body)
 }))
 
-#let ayah(ref: "", arabic: "", body) = block(width: 100%, above: 1.3em, below: 1.3em, breakable: false, {
-  // reference sits top right, above the Arabic, so the space below the quote matches the space above it
-  align(right, text(size: 8.5pt, fill: teal, tracking: 0.06em, smallcaps[Qur'an #ref]))
-  v(0.35em)
+#let ayah(ref: "", arabic: "", body) = block(width: 100%, above: 2.5em, below: 1em, breakable: false, {
+  // the reference sits bottom right; the small bottom margin keeps the gap below the quote equal to the gap above it
   if arabic != "" {
     align(center, block({
       set par(justify: false, leading: 1.15em, first-line-indent: 0pt)
@@ -62,10 +60,11 @@
     v(0.7em)
   }
   align(center, pad(x: 1.5em, { set par(justify: false, first-line-indent: 0pt); text(style: "italic", body) }))
+  v(-0.1em)
+  align(right, text(size: 8.5pt, fill: teal, tracking: 0.06em, smallcaps[Qur'an #ref]))
 })
 
-#let arquote(arabic: "", source: "", body) = block(width: 100%, above: 1.3em, below: 1.3em, breakable: false, {
-  if source != "" { align(right, text(size: 8.5pt, fill: teal, tracking: 0.06em, smallcaps(source))); v(0.35em) }
+#let arquote(arabic: "", source: "", body) = block(width: 100%, above: 2.5em, below: 1em, breakable: false, {
   if arabic != "" {
     align(center, block({
       set par(justify: false, leading: 1.1em, first-line-indent: 0pt)
@@ -74,6 +73,8 @@
     v(0.6em)
   }
   align(center, pad(x: 1.5em, { set par(justify: false, first-line-indent: 0pt); text(style: "italic", body) }))
+  v(-0.1em)
+  if source != "" { align(right, text(size: 8.5pt, fill: teal, tracking: 0.06em, smallcaps(source))) }
 })
 
 #let callout(kind: "word", title: none, body) = {
