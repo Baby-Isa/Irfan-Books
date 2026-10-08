@@ -7,7 +7,7 @@ _Update at the end of every task. Keep it short. History lives in git and DECISI
 - **Gate A:** case brief, approved by the user.
 - **Gate B:** prose, then the fact-check, then the PDF.
 
-**Now:** See `docs/HANDOVER.md`. Decisions 1, 2, 3 and 5 on ARGUMENT v2 are awaiting the user; decision 4 is settled (D24). Then the Ch 1 brief needs approval, then Ch 1 Gate B.
+**Now:** ARGUMENT v2.1 approved (D25–D28). Ch 1 brief v3 approved. Ch 1 Book 2 v3 written, fidelity-checked (`reviews/book2-01-v3.md`: 0 high; mediums fixed) and sent as PDF; awaiting the user's review.
 
 **Next:** Chapter 2 case brief.
 
@@ -38,6 +38,6 @@ All 16 sets of notes are done (`notes/Irfan01–16.md`, about 76k words in total
 ## Chapters
 | Ch | Book 1 | Book 2 | Fidelity check | Typeset |
 |---|---|---|---|---|
-| 1 | ☑ draft (pilot, `book1/chapters/01-seeking-not-powers.md`; revised after `reviews/book1-01.md`; 16 ayah blocks; 19 VERIFY, 7 QUERY, 2 GAP) | ☑ draft v2 (revoiced per OUTLINE v2.1 and the Ch 1 source pack, `reviews/outline-alignment.md` §5; about 4.2k body words + 0.56k in 4 boxes and Try this; 8 `.ayah` blocks in Qaraʾi; 0 markers; D20 side-by-side on powers; 4 omissions logged; fact-check `reviews/book2-01-v2.md` fixes applied) | ☐ | ☐ |
+| 1 | ☑ draft (pilot, `book1/chapters/01-seeking-not-powers.md`; revised after `reviews/book1-01.md`; 16 ayah blocks; 19 VERIFY, 7 QUERY, 2 GAP) | ☑ v3 (rewritten on brief v3; ~3.4k body + 0.35k in 3 boxes; 1 QUERY on \"these are shirk\") | ☑ `reviews/book2-01-v3.md` | ☑ `samples/ch01-seeking-not-powers.pdf` |
 | 2–17 | ☐ | ☐ | ☐ | ☐ |
 | B2 A, B, C | n/a | ☐ | ☐ | ☐ |
