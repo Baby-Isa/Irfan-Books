@@ -144,3 +144,10 @@ _Append only. Each entry: date, decision, why. To reverse a decision, add a new 
 - **Banned:** a list of stock phrases; sentences opening with So, Well, Look or Now; intensifiers; wordy constructions; and the "tidy aphorism", the short balanced sentence that adds no fact (for example "It is beautiful, and it is true." and "The floor is real, and it saves.").
 - **Kept:** the chapter's conclusion (D22/D23) is still stated once, plainly, in the last section. Scholarly differences (D20) are content, not hedges.
 - **Applied to:** the prologue and Ch 1 v3. Writers and the fidelity-checker now check against it.
+
+## 2026-10-08: D30. Plain, direct drafting with review notes
+- **Review notes:** every draft section opens with a `::: {.point}` note (one or two sentences) stating the point it makes, for the user to judge the prose against. Drafts show it; `--final` builds drop it.
+- **Plain and direct:** no suspense devices; name things. An epigraph is spoken to directly. Quotations kept short. "Let's" is welcome; arch phrasing is not. Don't repeat what the prologue says. Added to `docs/LINGO.md`.
+- **"Words you'll meet"** lists each term with a brief meaning.
+- **Prologue order:** What is ʿirfan?; Who this book is for; How the book is built; Where this book comes from; What you can expect (which now carries "what ʿirfan is not"). The audience is any believer, not named as a community. The epigraph is the Munajat's "Enlighten the eyes of our hearts…" line, explained in the text, and the opening explains the word ʿirfan.
+- **Ch 1 opening:** epigraph is the end of Q 30:21; the wedding verse is named outright.

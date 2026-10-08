@@ -139,6 +139,11 @@
 // Draft markers: visible in drafts so nothing slips through.
 #let marker-style(it) = highlight(fill: rgb("#FFE8A3"), extent: 1pt, text(font: sans, size: 0.82em, fill: rgb("#8A4B00"), it))
 
+// ---------- review note (D30): the point a section makes; drafts only ----------
+#let point(body) = block(width: 100%, above: 0.4em, below: 1em, inset: (left: 8pt, y: 4pt),
+  stroke: (left: 2pt + rgb("#B5482B")),
+  text(font: sans, size: 0.8em, fill: rgb("#B5482B"), style: "italic")[*Point:* #body])
+
 // ---------- chapter opener ----------
 #let chapter(num: none, title: [], title-ar: "") = {
   pagebreak(weak: true, to: "odd")

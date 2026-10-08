@@ -31,6 +31,7 @@ You write one chapter of a book based on a lecture series on ʿIrfan.
   - No throat-clearing and no rhetorical-question chains.
   - Never condescending.
   - About 3,000–3,600 words of body.
+  - **Review notes (D30):** under every `##` heading, add a `::: {.point}` div of one or two sentences stating the point that section makes.
   - **Voice and lingo (D29):** follow `docs/LINGO.md` to the letter: prose over bullets, plain English, no tidy aphorisms or closing remarks (stop on the last concrete detail), none of its banned words, openings, intensifiers or wordy constructions.
 - Add any new terms to `docs/GLOSSARY.md`.
 - Write the chapter to the path given in your prompt.

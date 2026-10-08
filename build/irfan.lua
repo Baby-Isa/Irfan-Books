@@ -51,6 +51,14 @@ function Div(el)
       table.insert(blocks, pandoc.RawBlock("typst", "]"))
       return blocks
     end
+    if cls == "point" then
+      -- review note for the user (D30): shown in drafts, dropped from --final builds
+      if os.getenv("IRFAN_FINAL") == "1" then return {} end
+      local blocks = { pandoc.RawBlock("typst", "#point[") }
+      for _, b in ipairs(el.content) do table.insert(blocks, b) end
+      table.insert(blocks, pandoc.RawBlock("typst", "]"))
+      return blocks
+    end
     if cls == "words" then
       local blocks = { pandoc.RawBlock("typst", "#words[") }
       for _, b in ipairs(el.content) do table.insert(blocks, b) end

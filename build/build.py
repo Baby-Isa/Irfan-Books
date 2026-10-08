@@ -45,7 +45,7 @@ def pdf(book, final=False, pattern="*"):
     OUT.mkdir(exist_ok=True)
     work = OUT / book
     work.mkdir(exist_ok=True)
-    env = dict(os.environ, IRFAN_ROOT=str(ROOT))
+    env = dict(os.environ, IRFAN_ROOT=str(ROOT), IRFAN_FINAL="1" if final else "0")
     includes = []
     for f in chapters(book, pattern):
         typ = work / (f.stem + ".typ")

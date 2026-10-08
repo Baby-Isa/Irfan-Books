@@ -10,6 +10,13 @@ Write as if explaining something to a smart, slightly impatient friend who will 
 - No disclaimers, caveats or hedges that the argument does not need. Scholarly differences (D20) are content, not hedges, and stay.
 - Don't end a paragraph or section with a summary line or a tidy closing remark. Stop on the last concrete detail. (The chapter's conclusion, D22/D23, is stated once in plain words in the last section. That is the only recap allowed.)
 
+## Plain, direct, no tricks (D30)
+- Engagement comes from the quality of the content, never from devices. Don't withhold what something is to build suspense ("The verse is often recited at weddings…" without saying which verse). Name it.
+- If you quote something, speak to that exact quote. An epigraph is discussed in the text that follows it.
+- Keep quotations short. Quote the words that carry the point; paraphrase the rest. No multi-verse ayah blocks where the endings alone make the point.
+- Less lecture-like. "Let's" is welcome. Say things in ordinary English ("This claim is not in dispute"), not in arch phrasing ("Nothing in this chapter asks you to doubt…").
+- Don't re-explain things the prologue has already told the reader (for example, whose lectures the book draws on).
+
 ## Banned sentences: the tidy aphorism
 Cut every short, balanced sentence that sounds wise but adds nothing the paragraph has not already said. Examples from earlier drafts:
 - "It is beautiful, and it is true."

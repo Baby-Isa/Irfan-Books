@@ -36,6 +36,10 @@ Everything in Book 1, plus the following.
 ## Voice and banned lingo (D29)
 - **Read `docs/LINGO.md` before writing.** It sets the voice (prose over bullets, short over long, plain English, no unneeded hedges, no tidy closing lines) and lists banned words, sentence openings, intensifiers, wordy constructions and the "tidy aphorism" sentence.
 
+## Review notes in drafts (D30)
+- Under every `##` heading in a draft (chapters and prologue), add a `::: {.point}` note of one or two sentences saying the point that section makes. It prints in drafts as a red "Point:" note for the user's review, and the build drops it from `--final` output.
+- "Words you'll meet" gives each term a brief meaning: `*term*: meaning · *term*: meaning`.
+
 ## Book 2 argument and tone (D22)
 - **Brief first:** write the case brief (`docs/briefs/NN-case.md`) and get it approved before the prose.
 - **Headings:** every `##` heading names one step of the argument. A reader who skims only the headings should get the case.
