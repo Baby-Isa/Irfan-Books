@@ -26,12 +26,15 @@ Everything in Book 1, plus the following.
 | `.box-history` | "History" | Historical background: people, schools, events |
 | `.box-story` | "Story" | Expands a story the lecture mentions in passing |
 | `.box-who` | "Who's Who: 'Allama Tabataba'i" | A short biography of a figure the lecture names |
-| `.box-reflect` | "Reflection" | A question for the reader to sit with, at most one per chapter |
+| `.box-reflect` | "Reflection" | A question for the reader to think over, at most one per chapter |
 | `.box-try` | "Try this" | One small, sourced practice at the end of each chapter. Never invented. |
 
   Syntax: `::: {.box-word title="Word Study: ma'rifah"}` … `:::`
 - **Sourcing:** use only held sources (SOURCES.md), Tier A first. No uncited historical claims.
 - **Tone:** devotional but not preachy. Avoid New-Age vocabulary. "Mysticism" is acceptable as a gloss, but prefer "Irfan".
+
+## Voice and banned lingo (D29)
+- **Read `docs/LINGO.md` before writing.** It sets the voice (prose over bullets, short over long, plain English, no unneeded hedges, no tidy closing lines) and lists banned words, sentence openings, intensifiers, wordy constructions and the "tidy aphorism" sentence.
 
 ## Book 2 argument and tone (D22)
 - **Brief first:** write the case brief (`docs/briefs/NN-case.md`) and get it approved before the prose.

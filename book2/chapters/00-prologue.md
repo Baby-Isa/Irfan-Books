@@ -9,7 +9,7 @@ title-ar: ""
 
 Every Shaʿban, many of us recite a prayer that asks for things we rarely stop to consider. It asks God for complete severance from everything but Him, for hearts lit by the light of looking at Him, and for those hearts to pierce the veils of light and reach the source of grandeur. We say these words sincerely, and then put them down until next year. This book is about what those words ask for, and how a believer can begin to want it.
 
-The tradition has a name for that search: *ʿirfan*, the knowing of God. This book argues a simple case. ʿIrfan is worth every believer's pursuit. It travels through the self and never leaves the shariʿa. It is rooted in the Quran and the Imams (ʿa). It is walked by a tested and ordered method. And it ends not in withdrawal from the world but in return: to people, with God, and finally to God Himself.
+The tradition has a name for that search: *ʿirfan*, the knowing of God. This book argues that ʿirfan is worth every believer's pursuit. It travels through the self and never leaves the shariʿa. It is rooted in the Quran and the Imams (ʿa). It is walked by a tested and ordered method. And it ends not in withdrawal from the world but in return: to people, with God, and finally to God Himself.
 
 ## Where this book comes from
 
@@ -25,11 +25,9 @@ The book is written for the Khoja Shia Ithnaʿashari community, and for any beli
 
 ## What ʿirfan is not
 
-Three misunderstandings are worth clearing away at the start.
+ʿIrfan is not the pursuit of powers. Reading minds, foreseeing events and working wonders are not its aim; Sheikh Bahmanpour is blunt about this, and Chapter 1 shows why the whole tradition agrees with him. Nor is it a sect or an order. Shia ʿirfan has no institution of authority beside the Imam, and Chapter 9 explains how it differs from the Sufi orders and what it shares with them.
 
-- **It is not the pursuit of powers.** Reading minds, foreseeing events and working wonders are not its aim. Sheikh Bahmanpour is blunt about this, and Chapter 1 shows why the whole tradition agrees with him.
-- **It is not a sect or an order.** Shia ʿirfan has no institution of authority beside the Imam. Chapter 9 explains how it differs from the Sufi orders, and what it shares with them.
-- **It is not a replacement for the shariʿa.** As the Sheikh puts it, the beginning of ʿirfan is the shariʿa. The inner path does not go around the law or rise above it. It is the inside of the law, lived with attention. Nothing in this book asks a reader to set aside the rulings of the jurists or the guidance of their marjaʿ.
+Above all, it is not a replacement for the shariʿa. As the Sheikh puts it, the beginning of ʿirfan is the shariʿa. The inner path does not go around the law or rise above it; it is the law lived from the inside, with attention. Nothing in this book asks a reader to set aside the rulings of the jurists or the guidance of their marjaʿ.
 
 Some scholars have been wary of ʿirfan, and some of their concerns are real. Chapter 8 sets out the most serious of them, and the answers its defenders give.
 
@@ -37,16 +35,18 @@ Some scholars have been wary of ʿirfan, and some of their concerns are real. Ch
 
 The book is in five parts. Each answers one question, and each depends on the one before.
 
-1. **The Call: why bother?** (Chapters 1–3). The Quran invites more than the minimum. The goal of ʿirfan is already on the believer's lips in the duʿas. And knowing God differs in kind from knowing about Him.
-2. **The Terrain: what is travelled through, and what keeps it safe?** (Chapters 4–6). The way to God runs through the self, which is deeper than it appears, and there is no inner path outside the shariʿa.
-3. **The Travellers: is it ours?** (Chapters 7–9). ʿIrfan is native to Islam. It is rooted in the Quran and the Imams, carried and sometimes bent by Sufism, and held at its sober core by Shia masters.
-4. **The Road: how is it walked?** (Chapters 10–15). A tested guide, ordered stages, repentance and character, measured disciplines, love, and the loss of the false self.
-5. **The Return: where does it end?** (Chapters 16–17). The friends of God return to people, with God, and every soul returns to God. ʿIrfan is making that return willingly, now.
+Part One, *The Call* (Chapters 1–3), asks why a believer should bother. The Quran invites more than the minimum, the goal of ʿirfan is already on the believer's lips in the duʿas, and knowing God differs in kind from knowing about Him.
+
+Part Two, *The Terrain* (Chapters 4–6), asks what the journey passes through and what keeps it safe. The way to God runs through the self, which is deeper than it appears, and there is no inner path outside the shariʿa.
+
+Part Three, *The Travellers* (Chapters 7–9), asks whether ʿirfan is ours. It is native to Islam, rooted in the Quran and the Imams, carried and sometimes bent by Sufism, and held at its sober core by Shia masters.
+
+Part Four, *The Road* (Chapters 10–15), asks how the path is walked: with a tested guide, through ordered stages, by repentance and character, measured disciplines and love, to the loss of the false self.
+
+Part Five, *The Return* (Chapters 16–17), asks where it ends. The friends of God return to people, with God, and every soul returns to God; ʿirfan is making that return willingly, now.
 
 Every chapter follows the same pattern. It opens on familiar ground, a verse at a wedding or a line from a duʿa, and lists the few new words it will use. It then argues one conclusion in short, numbered steps. Each chapter ends with "Try this", one small practice taken from the Quran, the Imams or the scholars, never invented. The last line of each chapter asks the question the next one answers.
 
 ## What you can expect
 
-By the end, a reader should be able to say clearly what ʿirfan is and is not, why it belongs to us, and what the stages and dangers of the path are. Above all, they should have begun: a small practice from each chapter, tried and kept, and a different way of hearing the prayers they already say. The epilogue gathers these into a plan for the first week, the first month and the first year.
-
-None of this makes anyone an ʿarif. That is not in a book's gift. What a book can do is show that the door the Munajat knocks on is real, that it is open to every believer, and that the way to it begins in the life we already lead.
+By the end, a reader should be able to say what ʿirfan is and is not, why it belongs to us, and what the stages and dangers of the path are. Above all, they should have begun: a small practice from each chapter, tried and kept, and a different way of hearing the prayers they already say. The epilogue gathers these into a plan for the first week, the first month and the first year.

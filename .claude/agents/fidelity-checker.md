@@ -22,7 +22,7 @@ You audit one chapter. Don't edit the chapter itself. Write your report to `revi
    - the headings map onto the steps
    - no step relies on something introduced later
    - the conclusion actually follows.
-5. **Tone (D22).** Flag any jokes or wry asides, throat-clearing, rhetorical-question chains, condescension, and any body text over about 3,600 words.
+5. **Tone (D22).** Flag any jokes or wry asides, throat-clearing, rhetorical-question chains, condescension, and any body text over about 3,600 words. Also check against `docs/LINGO.md` (D29): banned words and phrases, sentences opening with So/Well/Look/Now, intensifiers, wordy constructions, bullet lists where prose would do, and tidy aphorisms or closing remarks. Quote each offending sentence.
 
 ## Report format
 - A table: severity (high / med / low) | location (heading or first words) | issue | suggested fix.

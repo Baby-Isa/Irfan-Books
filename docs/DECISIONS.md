@@ -138,3 +138,9 @@ _Append only. Each entry: date, decision, why. To reverse a decision, add a new 
 - **Decision:** Option A. Read Q 30:21–24 slowly, once a day for a week, and notice one of the signs in your own day.
 - **Kept for Ch 13:** Imam ʿAli on remembrance as the polish of hearts (Nahj 1.219.1).
 - **With D25–D27, ARGUMENT.md v2.1 is approved.**
+
+## 2026-10-08: D29. House voice and banned lingo
+- **Decision:** all book prose follows `docs/LINGO.md`. That means writing for a smart, slightly impatient friend; prose over bullet points; short over long; plain English over buzzwords; no hedges the argument does not need; and no summary line or tidy closing remark (stop on the last concrete detail).
+- **Banned:** a list of stock phrases; sentences opening with So, Well, Look or Now; intensifiers; wordy constructions; and the "tidy aphorism", the short balanced sentence that adds no fact (for example "It is beautiful, and it is true." and "The floor is real, and it saves.").
+- **Kept:** the chapter's conclusion (D22/D23) is still stated once, plainly, in the last section. Scholarly differences (D20) are content, not hedges.
+- **Applied to:** the prologue and Ch 1 v3. Writers and the fidelity-checker now check against it.

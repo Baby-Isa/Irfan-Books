@@ -13,7 +13,7 @@ Both books start as a pilot chapter. The chosen style then goes into full produc
 
 | Task | Read |
 |---|---|
-| Write or edit a chapter | `docs/ARGUMENT.md`, that chapter's brief in `docs/briefs/`, `docs/STYLE_GUIDE.md`, `docs/GLOSSARY.md`, that chapter's entry in `docs/OUTLINE.md`, the relevant `notes/` and transcript ¶ ranges |
+| Write or edit a chapter | `docs/LINGO.md`, `docs/ARGUMENT.md`, that chapter's brief in `docs/briefs/`, `docs/STYLE_GUIDE.md`, `docs/GLOSSARY.md`, that chapter's entry in `docs/OUTLINE.md`, the relevant `notes/` and transcript ¶ ranges |
 | Typesetting or layout | `docs/DESIGN.md`, `build/` |
 | Sources or citations | `docs/SOURCES.md`, `sources/bibliography.bib` |
 | Any decision with lasting effect | Append it to `docs/DECISIONS.md` |
@@ -72,7 +72,8 @@ build/                  Pandoc → Typst template, Lua filter, fonts, Makefile
   - no rhetorical-question chains
   - no new questions the chapter doesn't answer
   - nothing condescending
-  - aim for about 20% less than feels natural.
+  - aim for about 20% less than feels natural
+  - follow `docs/LINGO.md` (D29): prose over bullets, plain English, no tidy aphorisms or closing remarks, and no banned words, openings, intensifiers or wordy constructions.
 - **Reporting style:** clarity from complexity. Give summaries as structured bullets, led by the conclusion.
 
 ## Build

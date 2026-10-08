@@ -7,7 +7,7 @@ _Update at the end of every task. Keep it short. History lives in git and DECISI
 - **Gate A:** case brief, approved by the user.
 - **Gate B:** prose, then the fact-check, then the PDF.
 
-**Now:** ARGUMENT v2.1 approved (D25–D28). Ch 1 brief v3 approved. Ch 1 Book 2 v3 written, fidelity-checked (`reviews/book2-01-v3.md`: 0 high; mediums fixed) and sent as PDF; awaiting the user's review. Prologue (Book 2) drafted, about 1k words over 3 pages (`book2/chapters/00-prologue.md`), shorter than OUTLINE's 2.5k at the user's request; combined PDF `samples/prologue-and-ch01.pdf` for the user's uncle.
+**Now:** ARGUMENT v2.1 approved (D25–D28). Ch 1 brief v3 approved. Ch 1 Book 2 v3 written, fidelity-checked (`reviews/book2-01-v3.md`: 0 high; mediums fixed) and sent as PDF; awaiting the user's review. Prologue (Book 2) drafted, about 1k words over 3 pages; prologue and Ch 1 revised to D29 voice (`docs/LINGO.md`; Ch 1 body now ~3.06k) (`book2/chapters/00-prologue.md`), shorter than OUTLINE's 2.5k at the user's request; combined PDF `samples/prologue-and-ch01.pdf` for the user's uncle.
 
 **Next:** Chapter 2 case brief.
 
