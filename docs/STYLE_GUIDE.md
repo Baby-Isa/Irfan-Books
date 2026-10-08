@@ -38,6 +38,7 @@ Everything in Book 1, plus the following.
 - **Chapter shape:** the order of introduction, then `::: {.words}`, then body, then "Try this" is set in OUTLINE v2.
 - **Quran:** use `::: {.ayah ref="S:A"}` with **Qaraʾi's English**, from `python3 build/quran.py S:A`. When the lecturer paraphrases a verse, quote Qaraʾi and keep his point in the prose.
 - **Unsourced lecture claims:** omit or rework them, and log each one in `docs/OMISSIONS.md` (D15).
+- **Differing views (D20):** the book is inspired by the lectures but draws on the wider literature. Where scholars differ, set the views side by side, gently and generously, for example: "Sheikh Bahmanpour emphasises…; ʿAllama Tabatabaʾi, for his part, …". Never write heavy critique or "X is wrong". Let the reader see the range.
 
 ## Both books
 - **Honorifics:**

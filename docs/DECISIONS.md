@@ -86,3 +86,9 @@ _Append only. Each entry: date, decision, why. To reverse a decision, add a new 
   - Ch 16 carries a `[QUERY]` on whether the fourth journey is open to non-Imams.
   - The Khoja/pir box, and Knysh and Baldick, are dropped until sources are held.
 - **Epigraphs:** the part epigraphs follow the review's section 4 proposal. Each line is to be checked against the Arabic in Mafatih p. 244 before use.
+
+## 2026-10-08: D20. How the book frames its relationship to the lectures and the wider literature
+- **Framing:** the book is *heavily inspired and influenced by* Sheikh Bahmanpour's lecture series. It also draws on the wider literature (the Imams' texts, Tabatabaʾi, Mutahhari, Khomeini, Amuli, Maliki Tabrizi and others) to give a more rounded guide to ʿirfan. The prologue says so.
+- **Where views differ** (for example, do you need a guide, how much seclusion, who completes the fourth journey): present them side by side, warmly and respectfully, as a conversation among scholars. "Sheikh Bahmanpour emphasises…; ʿAllama Tabatabaʾi, for his part, …".
+- **Tone:** no heavy critique, no "the lecturer is wrong". Let the reader see the range.
+- **Effect on D15:** this softens it. Where a held source gives a different view, show both rather than dropping the lecturer's. Omit only claims that rest on a citation we cannot locate.
