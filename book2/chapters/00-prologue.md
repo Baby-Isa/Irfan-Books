@@ -62,11 +62,13 @@ The finer questions of ʿirfan remain an ongoing conversation among our *ʿulama
 ## What you can expect
 
 ::: {.point}
-What the book will not ask of you (powers, a sect, leaving the shariʿa or your marjaʿ), where critics are dealt with, and what a reader should know and be doing by the end.
+Three guiding principles frame the book: ʿirfan is not sought for powers; it needs no sect or order beside the Imam; and it never steps outside the shariʿa. By the end, a reader should be able to say what ʿirfan is and begin to practise it alongside the wajibat.
 :::
 
-There are three things this book will not ask of you. The first is to seek powers. Reading minds, foreseeing events and working wonders are not the aim of ʿirfan, and Chapter 1 shows that Sheikh Bahmanpour and the wider tradition agree on this. The second is a sect or an order. Shia ʿirfan has no institution of authority beside the Imam, and Chapter 9 explains how it differs from the Sufi orders and what it shares with them.
+Three guiding principles frame the discussions in the chapters that follow. The first is that ʿirfan is never pursued for the sake of powers, such as reading minds or foreseeing future events. Sheikh Bahmanpour and the wider literature agree on this, as Chapter 1 shows.
 
-The third matters most: you will not be asked to step outside the shariʿa. The beginning of ʿirfan, as the Sheikh puts it, is the shariʿa; the inner path does not go around the law or rise above it, it is the law lived from the inside, with attention. Nothing in this book asks a reader to set aside the rulings of the jurists or the guidance of their marjaʿ. Some scholars have still been wary of ʿirfan, and some of their concerns are serious; Chapter 8 sets out the most important of them, with the answers its defenders give.
+The second is that there is no separate sect or order through which ʿirfan must be gained. Shia ʿirfan has no institution of authority beside the Imam. How this position differs from that of the Sufi orders is explored in Chapter 9.
 
-By the end, you should be able to say what ʿirfan is and is not, why it belongs to us, and what the stages and dangers of the path are. You should also have begun to practise it, with a small practice from each chapter, and to hear the prayers you already say in a different way. The epilogue gathers these practices into a plan for the first week, the first month and the first year.
+The third principle is the most important: no part of the journey towards ʿirfan requires stepping outside the shariʿa, and nothing on that journey is gained by doing so. The beginning of ʿirfan, as the Sheikh puts it, is the shariʿa. The inner path does not go around the law or rise above it; it is the law lived from the inside. Nothing in this book asks a reader to set aside the rulings of the jurists or the guidance of their marjaʿ. A fear that mysticism might do exactly that is one reason some scholars have been wary of ʿirfan. Chapter 8 sets out their wider concerns, with the answers given to them.
+
+By the end, a reader should feel able to say what ʿirfan is and is not, why it belongs to us, and what the stages and dangers of the path entail. For those who wish to go further, each chapter and the epilogue offer small, practical steps for bringing this into daily life alongside the wajibat.

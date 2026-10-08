@@ -87,5 +87,13 @@ A believer who prays, fasts and recites duʿas, and who has wondered whether the
 **Do:** split a sentence that stacks a claim, a colon and a quotation. "It is knowing Him from close, with the heart, which is what the Munajat asks for. In Murtada Mutahhari's words, the ʿarif 'wishes to reach…'"
 **Don't:** "It is knowing Him from close, with the heart, as the Munajat asks: the ʿarif, in Murtada Mutahhari's words, wants to reach God, 'to become connected to it and witness it'."
 
+### 16. One distinct point per paragraph
+**Do:** when a section makes three points, give each its own paragraph, introduced in order ("The first… The second… The third…"). Very small points may share one paragraph, but then all of them share it.
+**Don't:** put the first two points in one paragraph and the third in another; or open "There are three things…" and then give a point that does not grammatically follow ("The second is a sect or an order").
+
+### 17. Go easy on "you"
+**Do:** in expository passages, write about "a reader", "the believer" or the subject itself. "A reader should feel able to say what ʿirfan is."
+**Don't:** "You will not be asked to…", "By the end, you should…". "Let's" for walking an argument (rule 9) and the "Try this" boxes are fine.
+
 ## Check before handing over
 Read only the first sentence of every paragraph in order. If the argument does not follow, fix the openings (rule 1). Then read every sentence against its section's point note (rules 2 and 11). Then search for "as we should", "rarely", "never", "lip service", "intelligent", "busy", "you will find", "of course", and for any quotation that is not spoken to in the sentence after it.
