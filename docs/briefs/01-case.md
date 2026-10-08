@@ -1,16 +1,18 @@
 # Chapter 1: Case brief
 
-**Status:** draft v2, awaiting approval
+**Status:** draft v2.1 (aligned to ARGUMENT.md v2), awaiting approval
 **Title:** Seeking, not powers
 **Serves:** B1 (`docs/ARGUMENT.md`)
 
-**Conclusion:** ʿirfan is worth pursuing. It is the training of the soul to perceive and love God, open to every believer, and sought for God alone.
+**Conclusion:** ʿirfan is worth pursuing: it is the training of the soul to perceive and love God, open to every believer, and sought for God alone.
 
-## Chapter points (each proves part of the conclusion)
-- **1.1** The minimum saves, but the Quran openly invites more. Its signs are "for a people who reflect", and most people pass them by.
-- **1.2** The failure is in us, not in the signs. Our inner faculties are not working, and what is broken can be repaired.
-- **1.3** The repaired state is real and worth having. The Quran describes those who perceive God's signs and promises them nearness, "a good life" and freedom from fear and grief. That rank is open to ordinary believers.
-- **1.4** Its only legitimate aim is God Himself. Seeking powers is not ʿirfan.
+## Chapter points (copied from ARGUMENT.md v2; each proves part of the conclusion)
+- **1.1** The minimum saves, but the Quran openly invites more: its signs are "for a people who reflect", and most people pass them by. (L01 ¶5–12, ¶16)
+- **1.2** The failure is in us, not in the signs: our inner faculties are not working, and what is broken can be repaired. (L01 ¶9–12; L02 ¶3–5)
+- **1.3** The repaired state is real and worth having: the Quran describes those who perceive God's signs and promises them nearness, "a good life" and freedom from fear and grief, and that rank is open to ordinary believers. (L01 ¶15–16, ¶25–27; L02 ¶7–19)
+- **1.4** Its only legitimate aim is God Himself: seeking powers is not ʿirfan. (L01 ¶3–4, ¶13, ¶32)
+
+_Fidelity: all four points are carried by the lectures. The only addition is the side-by-side on powers in section 6 (D20)._
 
 ## Sections (each heading serves the chapter point(s) in brackets)
 1. **What the minimum leaves out** [1.1]
@@ -46,5 +48,11 @@
 - rhetorical questions
 - the animal riddle, reduced to one line in section 3
 
-**Boxes:** Word Study (ʿirfan/maʿrifah) on section 7; Who's Who (Tabatabaʾi) on section 6; Try this.
+## Threads (ARGUMENT.md "Threads")
+- **Scene-opener:** familiar ground, under 150 words, before "Words you'll meet". Candidate: the Surah Rum verses as heard in a majlis or a wedding (Q 30:21).
+- **"Try this":** one sourced act, not invented. Candidate: read Q 30:21–24 slowly with the lecturer's question in mind, "do I reflect, know, listen, reason?" (L01 ¶9–12). Alternative from a held source: Imam ʿAli on remembrance as the burnish of hearts (`nahj` 1.219.1). Choose one.
+- **"The inside of what you already do":** the wajib is conceded fully (section 1); the chapter asks what lies inside it, not beyond it.
+- **Hand-off (→ Ch 2):** "If the aim is to know and love God, what does that longing sound like?" (one question, no chain).
+
+**Boxes:** Word Study (ʿirfan/maʿrifah) on section 7; Who's Who (Tabatabaʾi) on section 6; Try this (above).
 **Target:** about 3,300 words of body.
