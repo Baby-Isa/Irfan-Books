@@ -20,11 +20,30 @@ local function load_quran()
   return quran
 end
 
-local function verses(ref)
-  -- "30:21" or "30:21-22"
+local function wordslice(t, range)
+  -- range "15-" or "3-9" (1-based, space-separated words of the verified text)
+  local from, to = range:match("^(%d+)%-(%d*)$")
+  if not from then error("bad words= range: " .. range) end
+  local ws = {}
+  for w in t:gmatch("%S+") do table.insert(ws, w) end
+  from, to = tonumber(from), (to ~= "" and tonumber(to) or #ws)
+  if from < 1 or to > #ws or from > to then error("words= out of range: " .. range) end
+  return table.concat(ws, " ", from, to), to == #ws
+end
+
+local function verses(ref, range)
+  -- "30:21" or "30:21-22"; range (single verse only) selects a part of the verse
   local s, a, b = ref:match("^(%d+):(%d+)%-?(%d*)$")
   if not s then error("bad ayah ref: " .. ref) end
   local q, out = load_quran(), {}
+  if range then
+    if b ~= "" then error("words= needs a single-verse ref: " .. ref) end
+    local t = q[s .. ":" .. a] or error("ayah not found: " .. ref)
+    local part, atend = wordslice(t, range)
+    if not atend then return part end
+    local d = tostring(a):gsub("%d", function(c) return utf8.char(0x0660 + tonumber(c)) end)
+    return part .. " ﴿" .. d .. "﴾"
+  end
   for i = tonumber(a), tonumber(b ~= "" and b or a) do
     local t = q[s .. ":" .. i]
     if not t then error("ayah not found: " .. s .. ":" .. i) end
@@ -59,6 +78,15 @@ function Div(el)
       table.insert(blocks, pandoc.RawBlock("typst", "]"))
       return blocks
     end
+    if cls == "quote" then
+      -- hadith / duʿa quotation with its Arabic, copied from a held extract (never typed from memory)
+      local ar = el.attributes.ar or error("quote div needs ar= (Arabic from a held extract) or ar=\"[VERIFY]\"")
+      local open = "#arquote(arabic: " .. tstr(ar) .. ", source: " .. tstr(el.attributes.source or "") .. ")["
+      local blocks = { pandoc.RawBlock("typst", open) }
+      for _, b in ipairs(el.content) do table.insert(blocks, b) end
+      table.insert(blocks, pandoc.RawBlock("typst", "]"))
+      return blocks
+    end
     if cls == "words" then
       local blocks = { pandoc.RawBlock("typst", "#words[") }
       for _, b in ipairs(el.content) do table.insert(blocks, b) end
@@ -67,7 +95,7 @@ function Div(el)
     end
     if cls == "ayah" then
       local ref = el.attributes.ref or error("ayah div needs ref=")
-      local open = "#ayah(ref: " .. tstr(ref) .. ", arabic: " .. tstr(verses(ref)) .. ")["
+      local open = "#ayah(ref: " .. tstr(ref) .. ", arabic: " .. tstr(verses(ref, el.attributes.words)) .. ")["
       local blocks = { pandoc.RawBlock("typst", open) }
       for _, b in ipairs(el.content) do table.insert(blocks, b) end
       table.insert(blocks, pandoc.RawBlock("typst", "]"))

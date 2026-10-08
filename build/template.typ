@@ -54,12 +54,24 @@
   if arabic != "" {
     align(center, block({
       set par(justify: false, leading: 1.15em, first-line-indent: 0pt)
-      text(font: ("Amiri Quran", "Amiri", "EB Garamond"), lang: "ar", dir: rtl, size: 14.5pt, fill: ink, arabic)
+      text(font: ("Amiri Quran", "Amiri", "EB Garamond"), lang: "ar", dir: rtl, size: 11.5pt, fill: ink, arabic)
     }))
     v(0.7em)
   }
   align(center, pad(x: 1.5em, { set par(justify: false, first-line-indent: 0pt); text(style: "italic", body) }))
   align(right, text(size: 8.5pt, fill: teal, tracking: 0.06em, smallcaps[Quran #ref]))
+})
+
+#let arquote(arabic: "", source: "", body) = block(width: 100%, above: 1.3em, below: 1.3em, breakable: false, {
+  if arabic != "" {
+    align(center, block({
+      set par(justify: false, leading: 1.1em, first-line-indent: 0pt)
+      text(font: ("Amiri", "EB Garamond"), lang: "ar", dir: rtl, size: 11pt, fill: ink, arabic)
+    }))
+    v(0.6em)
+  }
+  align(center, pad(x: 1.5em, { set par(justify: false, first-line-indent: 0pt); text(style: "italic", body) }))
+  if source != "" { align(right, text(size: 8.5pt, fill: teal, tracking: 0.06em, smallcaps(source))) }
 })
 
 #let callout(kind: "word", title: none, body) = {
