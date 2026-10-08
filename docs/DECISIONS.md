@@ -117,3 +117,7 @@ _Append only. Each entry: date, decision, why. To reverse a decision, add a new 
 - **Structure:** one book thesis, then five book points B1–B5 (one per Part: why, what, whose, how, to what end), then numbered chapter points N.x (each tagged with the B it serves), then section headings (each tagged with the N.x it serves, set in the chapter's brief).
 - **Rule:** no element exists without a parent. ARGUMENT.md is approved before the chapter briefs, and briefs must match it.
 - **Ch 1** now explicitly argues that ʿirfan is worth pursuing (point 1.3).
+
+## 2026-10-08: D24. Epigraph English comes from *Light Within Me*
+- **Decision:** the Munajat Shaʿbaniyyah epigraphs use the *Light Within Me* translation (pp. 163–166). Each line is checked against the Arabic in Mafatih p. 244.
+- **Permissions:** permissions for every quoted translation (*Light*, Chittick, Qutbuddin, Qaraʾi and the others) will be obtained before publishing. This is tracked in SOURCES.md.

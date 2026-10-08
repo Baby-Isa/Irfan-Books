@@ -8,7 +8,7 @@ We are turning a 16-lecture series on **Irfan** (Islamic mysticism, Shia traditi
 Both books start as a pilot chapter. The chosen style then goes into full production (see `docs/DECISIONS.md`).
 
 ## Read first, every session
-1. `docs/STATUS.md` shows where we are and what is next.
+1. `docs/STATUS.md` shows where we are and what is next. If `docs/HANDOVER.md` exists, read it first.
 2. Then read only the docs your task needs:
 
 | Task | Read |

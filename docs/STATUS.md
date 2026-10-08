@@ -7,7 +7,7 @@ _Update at the end of every task. Keep it short. History lives in git and DECISI
 - **Gate A:** case brief, approved by the user.
 - **Gate B:** prose, then the fact-check, then the PDF.
 
-**Now:** Book argument pyramid (`docs/ARGUMENT.md`, draft v2 Fable-amended; review in `reviews/argument-review-fable.md`) and the Chapter 1 brief v2.1 are both awaiting user approval. Five open decisions are listed at the end of the review.
+**Now:** See `docs/HANDOVER.md`. Decisions 1, 2, 3 and 5 on ARGUMENT v2 are awaiting the user; decision 4 is settled (D24). Then the Ch 1 brief needs approval, then Ch 1 Gate B.
 
 **Next:** Chapter 2 case brief.
 

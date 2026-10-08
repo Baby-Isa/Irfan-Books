@@ -73,3 +73,20 @@ Priorities:
 | bahmanpour_slides | The lecturer's own slides (6 decks) | L | `handouts/*.txt` | |
 
 **Large PDFs:** these live in the GitHub Release "Source-Material-Upload" and are downloaded into the gitignored `sources/pdfs/`. Only the text extracts are committed.
+
+
+## Permissions before publishing (D24)
+Permission is to be obtained for every translation quoted at length before publication:
+- *Light Within Me* (epigraphs)
+- Chittick's *Sahifa*
+- Qutbuddin's *Nahj* (Brill)
+- Qaraʾi's Quran
+- *Kernel* (Qaraʾi trans.)
+- *Forty Hadith*
+- Amuli (Yate trans.)
+- *Lantern* (Haeri trans.)
+- Maliki (Alamdar trans.)
+- Shomali
+- duas.org (credit only).
+
+Status: ☐ for all.
