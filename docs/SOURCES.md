@@ -66,6 +66,10 @@ Priorities:
 | kernel | *Lubb al-Lubab / Kernel of the Kernels* (Tabatabaʾi's lectures, ed. Husayni Tihrani; Qaraʾi trans.) | B | `extracts/kernel.md` | |
 | light | *Light Within Me* (Mutahhari's "Introduction to ʿIrfan"; Tabatabaʾi; Khomeini on the Munajat Shaʿbaniyyah) | B | `extracts/light.md` | |
 | journey | Maliki Tabrizi, *The Spiritual Journey of the Mystics* (Alamdar trans.): Ramadan practices, fasting, hunger, duʿa | B | `extracts/journey.md` | |
+| forty_hadith | Khomeini, *Forty Hadith* (2nd rev. ed.) | B | `extracts/forty_hadith.md` | |
+| inner_secrets | Amuli, *Inner Secrets of the Path* (Yate trans.) | B | `extracts/inner_secrets.md` | |
+| lantern | *Lantern of the Path / Misbah al-Shariʿa* (Haeri trans.) | A/B: attribution to Imam al-Sadiq is debated | `extracts/lantern.md` | |
+| self_knowledge | Shomali, *Self-Knowledge* (2nd ed.) | B | `extracts/self_knowledge.md` | |
 | bahmanpour_slides | The lecturer's own slides (6 decks) | L | `handouts/*.txt` | |
 
 **Large PDFs:** these live in the GitHub Release "Source-Material-Upload" and are downloaded into the gitignored `sources/pdfs/`. Only the text extracts are committed.
