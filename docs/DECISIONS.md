@@ -121,3 +121,20 @@ _Append only. Each entry: date, decision, why. To reverse a decision, add a new 
 ## 2026-10-08: D24. Epigraph English comes from *Light Within Me*
 - **Decision:** the Munajat Shaʿbaniyyah epigraphs use the *Light Within Me* translation (pp. 163–166). Each line is checked against the Arabic in Mafatih p. 244.
 - **Permissions:** permissions for every quoted translation (*Light*, Chittick, Qutbuddin, Qaraʾi and the others) will be obtained before publishing. This is tracked in SOURCES.md.
+
+## 2026-10-08: D25. Chapter 16's conclusion follows the lecturer; Tabatabaʾi is kept, gently
+- **Decision:** Option A. The conclusion stays: *"The path's completion is a return to people, with God, shown fully in the Prophet and the Imams."*
+- **16.3:** how far ordinary believers share in that return is shown as an open question, with both views side by side. The lecturer reserves the completed fourth journey for the Prophet and the Imams (L09 ¶87–89). ʿAllama Tabatabaʾi holds that wilaya "is not at all exclusive", so others can reach it in their measure (`kernel` p. 20; `light` p. 64).
+- **Why:** the book rests on the lectures, so the headline must be true under the lecturer's view. Tabatabaʾi's standing means his view cannot be left out. It is stated softly and respectfully, not as a correction (D20).
+
+## 2026-10-08: D26. "Travel means removing veils" is seeded in Ch 4 and developed in Ch 11
+- **Decision:** Option C. Chapter 4 plants the idea, in a short passage of a few sentences rather than a single line, as a consequence of 4.3: God is already near, so the journey through the self removes veils rather than covering distance. Chapter 11 (11.1) develops it fully as the frame of the stages.
+- **Rule:** Ch 4 states the idea and points forward. It does not take over Ch 11's exposition (the veils, the stages).
+
+## 2026-10-08: D27. Chapter 9 keeps four points
+- **Decision:** Option A. Point 9.4 stays: set techniques are secondary, because each soul receives grace in its own shape, so a seeker needs a trustworthy guide, not a lineage (L14 ¶65–71). It hands off to Ch 10.
+
+## 2026-10-08: D28. Chapter 1's "Try this" is the four signs of Surah al-Rum
+- **Decision:** Option A. Read Q 30:21–24 slowly, once a day for a week, and notice one of the signs in your own day.
+- **Kept for Ch 13:** Imam ʿAli on remembrance as the polish of hearts (Nahj 1.219.1).
+- **With D25–D27, ARGUMENT.md v2.1 is approved.**

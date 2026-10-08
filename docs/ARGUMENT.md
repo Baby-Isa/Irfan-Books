@@ -1,6 +1,6 @@
 # The book's argument (pyramid). Canonical: D23
 
-_Status: draft v2 (Fable-amended), awaiting user approval._
+_Status: v2.1, approved 2026-10-08 (D25–D28)._
 
 **Hierarchy:**
 - **Book thesis**, supported by
@@ -77,7 +77,7 @@ _Epigraph: "Enlighten the eyes of our hearts with the light of their looking at 
 - **Conclusion:** the way to God runs through the self.
 - 4.1 The soul is the instrument of all knowing, so it is the first thing to understand. [B2] L04 ¶3–9
 - 4.2 The Quran ties forgetting God to forgetting oneself (Q 59:19), and the tradition ties knowing oneself to knowing one's Lord. [B2] L04 ¶12–23 (attribution per `lantern` Ch 5; D15)
-- 4.3 "Meeting" God through the self means presence and nearness, never comprehension of His essence. [B2] L04 ¶24–60
+- 4.3 "Meeting" God through the self means presence and nearness, never comprehension of His essence; since He is already near, the journey removes veils rather than covering distance (seeded here, developed in 11.1; D26). [B2] L04 ¶24–60; L07 ¶4; L08 ¶3–9
 - → If the self is the door, how deep does it go?
 
 **Ch 5. The soul and its worlds.**
@@ -132,7 +132,7 @@ _Epigraph: "My Lord, inspire me with a passionate love of remembering You, so th
 
 **Ch 11. The stages of the first journey.**
 - **Conclusion:** the road is inward, and it has an order.
-- 11.1 Travel means removing veils, not covering distance: God is already nearer than the jugular vein. [B4] L07 ¶4; L08 ¶3–9
+- 11.1 Travel means removing veils, not covering distance: God is already nearer than the jugular vein. [B4] L07 ¶4; L08 ¶3–9 (full treatment; seeded in 4.3, D26)
 - 11.2 The first journey has four stages in order: polishing by the law, emptying the heart, adornment by God, and annihilation; none is skipped. [B4] L07 ¶11–12; L09 ¶2–3 (the triad's names are the lecturer's framing; substance in `inner_secrets` pp. 108–110)
 - 11.3 Ibn Sina's ladder of stations maps the same ascent, step by step, to arrival. [B4] L15 ¶3–59 (analogies are the lecturer's)
 - → Where on it does one set foot first?
@@ -171,7 +171,7 @@ _Epigraph: "You whisper to them secretly and they work for You openly." [@light,
 - **Conclusion:** the path's completion is a return to people, with God, shown fully in the Prophet and the Imams.
 - 16.1 After fana the traveller returns to creation: the four journeys, with their Quranic anchors. [B5] L09 ¶70–93 (added: `light` p. 50; `inner_secrets` p. 140)
 - 16.2 The Prophet and the Imams embody this return; Karbala is offered to the reader as a reflection on it, through Duʿa ʿArafah. [B5] L09 ¶87–89 (added, D16: `light` p. 138; `duas_dua_arafah_imam_husain` §736–741)
-- 16.3 How far others follow them is debated: the lecturer reserves the fourth journey for the Prophet and the Imams; Tabatabaʾi holds that wilaya is not exclusive. [B5] L09 ¶87–89 (side by side: `kernel` p. 20; `light` p. 64; `[QUERY]`)
+- 16.3 How far ordinary believers share in that return is left open: the lecturer reserves the completed fourth journey for the Prophet and the Imams; ʿAllama Tabatabaʾi, gently set beside him, holds that wilaya is not exclusive and others reach it in their measure. [B5] L09 ¶87–89 (side by side: `kernel` p. 20; `light` p. 64; `[QUERY]`; D25)
 - → The saints return to people. Where does every soul return?
 
 **Ch 17. Reading the Quran with the heart, and the return to God.**
@@ -199,6 +199,12 @@ _Epigraph: "You whisper to them secretly and they work for You openly." [@light,
 | **Differing views side by side** | D20 | Marked (side by side) above: 1.4, 3.4, 9.3, 10.2, 12.2, 13.2, 16.3, 17.3. |
 
 ---
+
+## Changes in v2.1 (D25–D28)
+1. Ch 16 conclusion kept (D25); 16.3 states the question as open and keeps Tabatabaʾi's view, gently.
+2. 4.3 seeds the veils idea (D26); 11.1 keeps the full treatment.
+3. 9.4 confirmed (D27).
+4. Ch 1 "Try this" fixed as the Surah al-Rum signs (D28).
 
 ## Changes from v1
 1. **Thesis** now summarises all five book points (v1 omitted B4 and B5 and asserted "the inner life of Islam itself" without a supporting B).

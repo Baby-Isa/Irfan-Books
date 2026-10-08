@@ -1,6 +1,6 @@
 # Chapter 1: Case brief
 
-**Status:** draft v2.1 (aligned to ARGUMENT.md v2), awaiting approval
+**Status:** v3, approved 2026-10-08 (ARGUMENT v2.1; D28 fixes "Try this")
 **Title:** Seeking, not powers
 **Serves:** B1 (`docs/ARGUMENT.md`)
 
@@ -50,7 +50,7 @@ _Fidelity: all four points are carried by the lectures. The only addition is the
 
 ## Threads (ARGUMENT.md "Threads")
 - **Scene-opener:** familiar ground, under 150 words, before "Words you'll meet". Candidate: the Surah Rum verses as heard in a majlis or a wedding (Q 30:21).
-- **"Try this":** one sourced act, not invented. Candidate: read Q 30:21–24 slowly with the lecturer's question in mind, "do I reflect, know, listen, reason?" (L01 ¶9–12). Alternative from a held source: Imam ʿAli on remembrance as the burnish of hearts (`nahj` 1.219.1). Choose one.
+- **"Try this" (D28):** read the four signs of Q 30:21–24 slowly, once a day for a week, with the lecturer's question in mind ("do I reflect, know, listen, reason?", L01 ¶9–12), and notice one of the signs in your own day. Imam ʿAli on remembrance (`nahj` 1.219.1) is kept for Ch 13.
 - **"The inside of what you already do":** the wajib is conceded fully (section 1); the chapter asks what lies inside it, not beyond it.
 - **Hand-off (→ Ch 2):** "If the aim is to know and love God, what does that longing sound like?" (one question, no chain).
 
