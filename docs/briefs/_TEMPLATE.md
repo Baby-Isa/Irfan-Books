@@ -2,10 +2,18 @@
 
 **Status:** draft | approved (date)
 **Title:**
+**Serves:** B? (`docs/ARGUMENT.md`)
 
 **Conclusion (one sentence the chapter proves):**
 
-## Argument, in order
+## Chapter points (numbered N.1, N.2…; copied from ARGUMENT.md)
+- **N.1** …
+
+## Sections (each heading tagged with the chapter point(s) it serves, e.g. [N.1])
+1. **Heading** [N.1]
+   - premise (source)
+
+## Argument, in order (optional detail)
 _Each step depends only on earlier steps. Each step is sourced as `LNN ¶a–b`, `Q S:A` or `[@key, loc]`. Together the steps are MECE: nothing is missing and nothing overlaps._
 1. **…** (source)
 2. **…** (source)

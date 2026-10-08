@@ -7,7 +7,7 @@ _Update at the end of every task. Keep it short. History lives in git and DECISI
 - **Gate A:** case brief, approved by the user.
 - **Gate B:** prose, then the fact-check, then the PDF.
 
-**Now:** Chapter 1 is at Gate A (`docs/briefs/01-case.md`, awaiting approval). The v2 prose will be rewritten on the approved brief.
+**Now:** Book argument pyramid (`docs/ARGUMENT.md`) and the Chapter 1 brief v2 are both awaiting user approval.
 
 **Next:** Chapter 2 case brief.
 

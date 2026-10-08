@@ -13,7 +13,7 @@ Both books start as a pilot chapter. The chosen style then goes into full produc
 
 | Task | Read |
 |---|---|
-| Write or edit a chapter | `docs/STYLE_GUIDE.md`, `docs/GLOSSARY.md`, that chapter's entry in `docs/OUTLINE.md`, the relevant `notes/` and transcript ¶ ranges |
+| Write or edit a chapter | `docs/ARGUMENT.md`, that chapter's brief in `docs/briefs/`, `docs/STYLE_GUIDE.md`, `docs/GLOSSARY.md`, that chapter's entry in `docs/OUTLINE.md`, the relevant `notes/` and transcript ¶ ranges |
 | Typesetting or layout | `docs/DESIGN.md`, `build/` |
 | Sources or citations | `docs/SOURCES.md`, `sources/bibliography.bib` |
 | Any decision with lasting effect | Append it to `docs/DECISIONS.md` |
@@ -58,6 +58,7 @@ build/                  Pandoc → Typst template, Lua filter, fonts, Makefile
 6. Assembly: PDF and EPUB
 
 ## How the user works (applies to everything)
+- **The argument is a pyramid** (`docs/ARGUMENT.md`, D23): the book thesis, then book points B1–B5, then chapter points N.x (each tagged [Bn]), then section headings (each tagged [N.x]). Every element answers its parent.
 - **Structure must be bulletproof.** It is argued like a lawyer's case:
   - one conclusion per chapter
   - numbered, sourced premises in an order where each step depends only on earlier ones

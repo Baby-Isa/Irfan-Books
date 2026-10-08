@@ -111,3 +111,9 @@ _Append only. Each entry: date, decision, why. To reverse a decision, add a new 
   - **No throat-clearing.** Don't open new questions the chapter won't answer, and don't make rhetorical-question chains.
   - **Not condescending.** The reader is an intelligent, interested, impatient friend.
   - **About 20% shorter than v2.** That means about 3,000–3,600 words of body per chapter, and a book body of about 52k (this revises D14).
+
+## 2026-10-08: D23. The book's argument is a pyramid
+- **Canonical file:** `docs/ARGUMENT.md`.
+- **Structure:** one book thesis, then five book points B1–B5 (one per Part: why, what, whose, how, to what end), then numbered chapter points N.x (each tagged with the B it serves), then section headings (each tagged with the N.x it serves, set in the chapter's brief).
+- **Rule:** no element exists without a parent. ARGUMENT.md is approved before the chapter briefs, and briefs must match it.
+- **Ch 1** now explicitly argues that ʿirfan is worth pursuing (point 1.3).
