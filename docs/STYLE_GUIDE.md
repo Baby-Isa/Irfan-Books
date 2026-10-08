@@ -33,6 +33,18 @@ Everything in Book 1, plus the following.
 - **Sourcing:** use only held sources (SOURCES.md), Tier A first. No uncited historical claims.
 - **Tone:** devotional but not preachy. Avoid New-Age vocabulary. "Mysticism" is acceptable as a gloss, but prefer "Irfan".
 
+## Book 2 argument and tone (D22)
+- **Brief first:** write the case brief (`docs/briefs/NN-case.md`) and get it approved before the prose.
+- **Headings:** every `##` heading names one step of the argument. A reader who skims only the headings should get the case.
+- **The reader** is an intelligent, interested, impatient friend:
+  - no throat-clearing
+  - no rhetorical-question chains
+  - no "let's ask ourselves…"
+  - no explaining the obvious
+  - never condescending.
+- **No jokes or wry asides, ever.** That includes the lecturer's own classroom humour.
+- **Length:** about 3,000–3,600 words of body per chapter.
+
 ## Book 2 voice and chapter shape (D10, OUTLINE v2)
 - **Voice:** talk to the reader, as in a normal non-fiction book. Name Sheikh Bahmanpour occasionally, where the view is distinctively his ("Sheikh Bahmanpour argues…"). Don't write "the lecture says" in every paragraph.
 - **Chapter shape:** the order of introduction, then `::: {.words}`, then body, then "Try this" is set in OUTLINE v2.

@@ -98,3 +98,16 @@ _Append only. Each entry: date, decision, why. To reverse a decision, add a new 
 - **Rule:** when a key is added to `bibliography.bib`, add its short form to `SHORT` as well. The build fails on an unknown key.
 - **Page numbers:** "p. N" currently means the PDF page of the held edition. Convert to printed page numbers before print, if needed.
 - **Later polish:** shortened repeat citations, and a full bibliography in the back matter.
+
+## 2026-10-08: D22. Every chapter is argued like a legal case, then written warmly
+- **Case brief first:** before any prose, each chapter gets a case brief in `docs/briefs/NN-case.md`. The brief has:
+  - one conclusion sentence
+  - numbered premises, each sourced, MECE, in an order where every step depends only on earlier ones
+  - the section headings mapped one-to-one onto the steps.
+
+  The user approves the brief before the chapter is written.
+- **Prose rules:** the prose on top of the brief is warm and free-flowing. It must also follow these rules:
+  - **No jokes, ever**, including the lecturer's asides.
+  - **No throat-clearing.** Don't open new questions the chapter won't answer, and don't make rhetorical-question chains.
+  - **Not condescending.** The reader is an intelligent, interested, impatient friend.
+  - **About 20% shorter than v2.** That means about 3,000–3,600 words of body per chapter, and a book body of about 52k (this revises D14).
