@@ -74,7 +74,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | jabarut | jabbarut, jabrut, Jabarut | | The higher world of names | L04 |
 | jalal | Jalal | | Divine majesty | L12 |
 | jahala | jahala | | Those who do not know; contrasted with the ʿurafaʾ | L02 |
-| janna | jannah | | Paradise | L01 |
+| jannah | janna | | Paradise | L01 |
 | karamat | karamaat | | Wonders performed by saints, as against the prophetic miracle | L01 |
 | kashf | unveiling | | Mystical disclosure, the source of theory | L04 |
 | khafi | al-mukhtafi | | The hidden layer of the soul | L05 |

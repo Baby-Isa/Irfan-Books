@@ -95,5 +95,21 @@ A believer who prays, fasts and recites duʿas, and who has wondered whether the
 **Do:** in expository passages, write about "a reader", "the believer" or the subject itself. "A reader should feel able to say what ʿirfan is."
 **Don't:** "You will not be asked to…", "By the end, you should…". "Let's" for walking an argument (rule 9) and the "Try this" boxes are fine.
 
+### 18. Quote the lecturer only where his words are poignant
+**Do:** paraphrase the Sheikh where he speaks informally or ungrammatically, without quotation marks. "Sheikh Bahmanpour accepts it as fair for ordinary believers." "Anything beyond them, they say, is made up by the whims and wishes of certain mystics." Quote him where the line carries weight ("has a beginning and no end", "These are shirk"). A small fix to a quoted word goes in square brackets: "a machine inside which is [rusted]".
+**Don't:** "that's fair enough", "made up by some mystics according to their vibes and wishes", "the whole terms and conditions are different", "It needs lots of training". Spoken informality reads as the wrong register in print.
+
+### 19. Clarify gently; never correct the reader
+**Do:** "For the avoidance of doubt, this invitation from the Qur'an is not an invitation to circumvent the law or to abandon the prescribed wajibat."
+**Don't:** "Let's be clear about what this invitation is not: it is not an invitation to go around the law." It sounds as if the reader thought otherwise and is being scolded.
+
+### 20. Finish the thought
+**Do:** end a sentence on what it means. "We witness the rain as rain and the marriage as a marriage, and we pass them by without perceiving what they say about their Creator."
+**Don't:** stop on an image that leaves the point unsaid ("the rain is rain, the marriage is a marriage, and we pass by").
+
+### 21. Don't state the obvious, or repeat a settled point
+**Do:** cut a qualifier no reader doubts ("there is nothing wrong, in the shariʿa, with being rich" becomes "there is nothing wrong with pursuing material wealth"), and cut a paragraph that only re-proves a point already made.
+**Don't:** add a fourth authority when three have made the case. Say "in his lectures", never "in his class".
+
 ## Check before handing over
 Read only the first sentence of every paragraph in order. If the argument does not follow, fix the openings (rule 1). Then read every sentence against its section's point note (rules 2 and 11). Then search for "as we should", "rarely", "never", "lip service", "intelligent", "busy", "you will find", "of course", and for any quotation that is not spoken to in the sentence after it.

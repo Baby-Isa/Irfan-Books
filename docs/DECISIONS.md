@@ -161,3 +161,10 @@ _Append only. Each entry: date, decision, why. To reverse a decision, add a new 
 ## 2026-10-08: D32. Spelling "Qur'an"; the lectures were a lecture series
 - **Spelling:** book prose uses "Qur'an" and "Qur'anic" (user's spelling), including the label on verse blocks. Citations stay "Q 30:21". Quotations keep their source's spelling.
 - **Provenance:** the lectures were delivered as a lecture series, which the user's uncle attended. The slides carry a "BA Islamic Studies" heading, but the book must not say the series was part of a BA. The prologue now says "a lecture series on Islamic mysticism given by Sheikh M. S. Bahmanpour". This supersedes the module wording in D11 and ANALYSIS.md.
+
+## 2026-10-08: D33. Chapter 1 round 6 (user voice note)
+- **Lecturer quotes:** quote the Sheikh only where his words carry weight; otherwise paraphrase without quotation marks. Minor corrections inside a quote go in square brackets ("[rusted]"). Refer to his "lectures", never "classes". (TONE rule 18)
+- **"jannah"** is spelled with a final h.
+- **Ch 1 §6** is retitled "The aim is God, not powers". Tabatabaʾi's p. 101 remark on judging a teacher is dropped as repetitive.
+- **Layout:** a verse block's reference (and a quote's source) now sits top right, above the Arabic, so the space below the quote matches the space above it.
+- **The muqarrabun "given Paradise in this world"** is kept, attributed to the Sheikh (L01 ¶16), and reworded for clarity.

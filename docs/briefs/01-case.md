@@ -30,7 +30,7 @@ _Fidelity: all four points are carried by the lectures. The only addition is the
    - **The reward:** nearness, "a good life" (Q 16:97), and "no fear… nor grief" (Q 10:62).
    - **The access:** of the four ranks in Q 4:69, the righteous is open to anyone, and humans were made able to become God's friends. (L01 ¶15, ¶25; L02 ¶10)
    - **Hence:** this is worth pursuing.
-6. **For what? Not powers** [1.4]
+6. **The aim is God, not powers** [1.4]
    - Soul-training can aim at powers or at God. (L01 ¶3–4, ¶13)
    - The Sheikh: seeking powers is shirk. (L01 ¶32)
    - Tabatabaʾi, Khomeini and Mutahhari agree, each in his own words. (kernel pp. 28–29; forty_hadith p. 61; light p. 44; D20, side by side)
@@ -39,7 +39,7 @@ _Fidelity: all four points are carried by the lectures. The only addition is the
    - Hand-off to Chapter 2: what that longing sounds like.
 
 ## Where scholars differ (D20)
-- Powers: the Sheikh says "shirk". Tabatabaʾi treats feats as beside the point, something to look past when judging a teacher (light p. 101). Show both.
+- Powers: the Sheikh says "shirk". Tabatabaʾi treats feats as beside the point, something to look past when judging a teacher (light p. 101). Dropped from the prose at the user's request (round 6) as repetitive; Tabatabaʾi's agreement is carried by kernel pp. 28–29.
 
 ## Cut
 - the "mysterious word" opening
