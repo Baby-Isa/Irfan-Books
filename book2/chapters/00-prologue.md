@@ -17,27 +17,35 @@ These words come from the Munajat Shaʿbaniyyah, a prayer many of us recite in t
 
 Despite saying these words in our munajats and on auspicious occasions, we find that seeking to know God does not feature in our day-to-day routine. Praying, fasting and paying what is due, the *wajibat*, are the dominant undertaking, and they are what most of us mean by practising the religion. The other side, the one the Munajat describes, in which the believer seeks to know God and to come near Him, is often less practised. That side of the religion is called *ʿirfan*.
 
-ʿIrfan is the Arabic name for what English books call Islamic mysticism, and the two words do not say the same thing. "Mysticism" suggests mystery, something hidden and hard to pin down. The Arabic word names a kind of knowing. It shares its root with *maʿrifah*, knowledge, and an *ʿarif* is, in Sheikh Bahmanpour's words, "someone who knows". The knowing meant here is not information about God. It is knowing Him from close, with the heart, as the Munajat asks: the ʿarif, in Murtada Mutahhari's words, wants to reach God, "to become connected to it and witness it" [@light, p. 12]. ʿIrfan is that knowing, and the training of the soul that makes it possible. It is part of the Islam we already know: its sources are the Quran and the words of the Imams, and the prayer at the head of this page is one of them.
+ʿIrfan is the Arabic name for what English books call Islamic mysticism, and the two words do not say the same thing. "Mysticism" suggests mystery, something hidden and hard to pin down. The Arabic word names a kind of knowing. It shares its root with *maʿrifah*, knowledge, and an *ʿarif* is, in Sheikh Bahmanpour's words, "someone who knows". The knowing meant here is not information about God. It is knowing Him from close, with the heart, which is what the Munajat asks for. In Murtada Mutahhari's words, the ʿarif "wishes to reach the very kernel and reality of existence, God, to become connected to it and witness it" [@light, p. 12]. ʿIrfan is that knowing, and the training of the soul that makes it possible. It is part of the Islam we already know: its sources are the Quran and the words of the Imams, and the prayer at the head of this page is one of them.
 
 This book argues that this side of the religion is worth every believer's pursuit. ʿIrfan travels through the self and never leaves the shariʿa. It is rooted in the Quran and the Imams. It is walked by a tested and ordered method. And it ends not in withdrawal from the world but in return: to people, with God, and to God Himself.
 
 ## Who this book is for
 
 ::: {.point}
-Any believer who prays, fasts and recites duʿas and has wondered whether there is more to these acts than getting them right. No background is needed.
+Any believer who prays, fasts and recites duʿas, and has wondered whether the religion has another dimension. No background is needed; the book is a welcoming, brief introduction, with help on terms built in.
 :::
 
-The argument is addressed to anyone who prays, fasts and recites the duʿas, and who has wondered whether there is more to these acts than getting them right, whether the religion has another part. No knowledge of ʿirfan, of philosophy or of Arabic is assumed. Each chapter opens with a line headed "Words you'll meet", giving the few terms the chapter uses with a brief meaning for each, and a glossary at the back gathers them all. The book is meant as a welcoming introduction to ʿirfan and a guide to beginning the journey, and it strives for brevity and clarity.
+The argument is addressed to anyone who prays, fasts and recites the duʿas, and who has wondered whether there is more to these acts than getting them right; whether the religion has another dimension. No knowledge of ʿirfan, of philosophy or of Arabic is assumed. The book is meant as a welcoming introduction to ʿirfan, a guide to beginning the journey that strives for brevity and clarity. Each chapter opens with a section that details some of the words you'll meet, along with an explanation; all terms are gathered in the glossary at the end. Additional call-out sections are spread throughout with helpful context and short side notes.
 
 ## How the book is built
 
 ::: {.point}
-Five parts, each answering one question in order: why, through what, whose, how, and to what end. Every chapter follows the same pattern.
+Five parts, each answering one question in order: why, through what, whose, how, and to what end.
 :::
 
-The book is built in five parts, each answering one question and each depending on the one before. Part One, *The Call* (Chapters 1–3), asks why a believer should bother, and answers that the Quran invites more than the minimum and that the goal of ʿirfan is already on our lips in the duʿas. Part Two, *The Terrain* (Chapters 4–6), asks what the journey passes through and what keeps it safe: the self, and the shariʿa. Part Three, *The Travellers* (Chapters 7–9), asks whether ʿirfan is ours, and shows its roots in the Quran and the Imams and what it shares with Sufism. Part Four, *The Road* (Chapters 10–15), asks how the path is walked: with a tested guide, through ordered stages, by repentance, discipline and love. Part Five, *The Return* (Chapters 16–17), asks where it ends: the friends of God return to people, with God, and every soul returns to God.
+The book is built in five parts. Each answers one question and depends on the one before.
 
-Within the parts, every chapter follows the same pattern. It opens with a verse or a prayer the reader already knows, then the "Words you'll meet" line, and then argues one conclusion in short steps, each under its own heading. It ends with "Try this", one small practice taken from the Quran, the Imams or the scholars, never invented, and with the question the next chapter answers.
+Part One, *The Call* (Chapters 1–3), asks why a believer should bother. It answers that the Quran invites more than the minimum, with the goal of ʿirfan already on our lips in our duʿas.
+
+Part Two, *The Terrain* (Chapters 4–6), describes the landscape a traveller passes through on the journey towards ʿirfan: the self. It also sets out the boundary that keeps the traveller safe: the shariʿa.
+
+Part Three, *The Travellers* (Chapters 7–9), asks whether ʿirfan is ours. It shows its roots in the Quran and the Imams, with a compatible view of similarities to Sufism.
+
+Part Four, *The Road* (Chapters 10–15), asks how the path is walked: with a tested guide, through ordered stages, by repentance, discipline and love.
+
+Part Five, *The Return* (Chapters 16–17), asks where the journey ends. The friends of God return to people, with God; every soul returns to God.
 
 ## Where this book comes from
 

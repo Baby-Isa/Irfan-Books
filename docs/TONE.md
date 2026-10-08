@@ -71,5 +71,21 @@ A believer who prays, fasts and recites duʿas, and who has wondered whether the
 **Do:** keep the `::: {.point}` note under each `##` heading at one or two sentences stating the point the section makes, and update it when the section changes. Everything in the section serves that note (rule 2).
 **Don't:** let the note drift from the prose, or let a section carry a second point the note does not name.
 
+### 12. Fewer "and"s; one idea per sentence
+**Do:** break "X and Y and Z" chains into short sentences, or use a semicolon where two clauses balance. Give each item in a list its own line when the items are separate (the five Parts each get a paragraph).
+**Don't:** "It answers that the Quran invites more than the minimum and that the goal of ʿirfan is already on our lips in the duʿas." Write: "It answers that the Quran invites more than the minimum, with the goal of ʿirfan already on our lips in our duʿas."
+
+### 13. Say what "it" is
+**Do:** name the thing when a pronoun could point two ways. "The landscape a traveller passes through on the journey towards ʿirfan."
+**Don't:** "what the journey passes through and what keeps it safe" (what is "it"?).
+
+### 14. Don't explain the same thing twice
+**Do:** say a feature of the book once, in the place it belongs.
+**Don't:** describe "Words you'll meet" in one paragraph and again in the next.
+
+### 15. One sentence, one clear claim
+**Do:** split a sentence that stacks a claim, a colon and a quotation. "It is knowing Him from close, with the heart, which is what the Munajat asks for. In Murtada Mutahhari's words, the ʿarif 'wishes to reach…'"
+**Don't:** "It is knowing Him from close, with the heart, as the Munajat asks: the ʿarif, in Murtada Mutahhari's words, wants to reach God, 'to become connected to it and witness it'."
+
 ## Check before handing over
 Read only the first sentence of every paragraph in order. If the argument does not follow, fix the openings (rule 1). Then read every sentence against its section's point note (rules 2 and 11). Then search for "as we should", "rarely", "never", "lip service", "intelligent", "busy", "you will find", "of course", and for any quotation that is not spoken to in the sentence after it.
