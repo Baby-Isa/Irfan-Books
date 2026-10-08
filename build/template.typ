@@ -144,8 +144,10 @@
   pagebreak(weak: true, to: "odd")
   set par(first-line-indent: 0pt)
   v(18mm)
-  align(center, text(font: serif, size: 34pt, fill: teal, weight: 400, str(num)))
-  v(4mm)
+  if num != none {
+    align(center, text(font: serif, size: 34pt, fill: teal, weight: 400, str(num)))
+    v(4mm)
+  }
   star-band(width: 60%)
   v(6mm)
   align(center, text(font: serif, size: 20pt, fill: ink, weight: 500, title))

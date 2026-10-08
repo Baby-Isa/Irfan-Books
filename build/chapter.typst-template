@@ -1,5 +1,5 @@
 #import "../../template.typ": *
 
-#chapter(num: $chapter$, title: [$title$], title-ar: "$title-ar$")
+#chapter(num: $if(chapter)$$chapter$$else$none$endif$, title: [$title$], title-ar: "$title-ar$")
 
 $body$
