@@ -26,7 +26,7 @@ _Fidelity: all four points are carried by the lectures. The only addition is the
 4. **Some do see** [1.3]
    - There are believers whose hearts tremble at God's mention, those who know, the friends of God. (Q 8:2; 3:18; 35:28; 10:62)
    - Imam ʿAli: the friends of God look at the inner side of the world. (Nahj 3.403)
-5. **What they are given, and why it is open to you** [1.3]
+5. **What they are given, and why it is open to all** [1.3]
    - **The reward:** nearness, "a good life" (Q 16:97), and "no fear… nor grief" (Q 10:62).
    - **The access:** of the four ranks in Q 4:69, the righteous is open to anyone, and humans were made able to become God's friends. (L01 ¶15, ¶25; L02 ¶10)
    - **Hence:** this is worth pursuing.
