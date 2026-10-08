@@ -76,3 +76,13 @@ _Append only. Each entry: date, decision, why. To reverse a decision, add a new 
 
 ## 2026-10-07: D18. No devotional-calendar thread
 - **Decision:** we don't tie chapters to the Khoja calendar months (Fable's secondary thread is dropped).
+
+## 2026-10-08: D19. Outline v2.1: source alignment
+- **Decision:** apply the 18 point, source and content amendments from `reviews/outline-alignment.md`, section 3. There is no structural change.
+- **Main changes:**
+  - Ch 10's teacher chain follows the Kernel and *Light*.
+  - Ch 8 presents the critics through the defenders' answers.
+  - The Ch 9 point now acknowledges Shia masters' use of shaykh and pledge.
+  - Ch 16 carries a `[QUERY]` on whether the fourth journey is open to non-Imams.
+  - The Khoja/pir box, and Knysh and Baldick, are dropped until sources are held.
+- **Epigraphs:** the part epigraphs follow the review's section 4 proposal. Each line is to be checked against the Arabic in Mafatih p. 244 before use.
