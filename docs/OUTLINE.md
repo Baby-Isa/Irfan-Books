@@ -3,12 +3,13 @@
 _Book 2 (Expanded). About 65k words of body text, with boxes on top (D14). Lecture sources are given as `LNN ¶a–b`; also read the matching `notes/IrfanNN.md`. Held-source anchors come from `sources/maps/`. Earlier versions are in git history._
 
 ## Every chapter has
+0. **An approved case brief** (`docs/briefs/NN-case.md`, D22). This is the logical spine: one conclusion, sourced premises in dependency order, MECE, and headings mapped one-to-one onto steps. Prose is written only after the user approves it.
 1. **Introduction.** Under about 250 words:
    - a scene-opener from familiar ground (a majlis, a line of a duʿa, a graveside, salah)
    - then what this chapter will do and why it matters, written to get the reader excited
    - no technical terms yet.
 2. **"Words you'll meet".** A strip of 3–5 terms, spelled as in the GLOSSARY: `::: {.words}`. It comes *after* the introduction, never as the first thing on the page.
-3. **Body text.** 3.5–4.5k words, in Sheikh Bahmanpour's argument and order, written as a book that talks to the reader (D10). History is told as portraits: at most 5 figures in the prose, the rest in Who's Who boxes.
+3. **Body text.** about 3–3.6k words (D22), in Sheikh Bahmanpour's argument and order, written as a book that talks to the reader (D10). History is told as portraits: at most 5 figures in the prose, the rest in Who's Who boxes.
 4. **Callout boxes.** 2–5 of Word Study, History, Story, Who's Who and Reflection, every addition cited.
 5. **"Try this".** One small act, taken only from the lectures or a held source, never invented: `::: {.box-try}`.
 6. **Hand-off.** The last chapter of each part ends with one line posing the question the next part answers.

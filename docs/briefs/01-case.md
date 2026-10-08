@@ -1,4 +1,6 @@
-# Chapter 1: Case brief (v1, awaiting user approval)
+# Chapter 1: Case brief
+
+**Status:** draft v1, awaiting approval
 
 **Title:** Seeking, not powers
 

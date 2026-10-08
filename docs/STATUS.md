@@ -3,13 +3,13 @@
 _Update at the end of every task. Keep it short. History lives in git and DECISIONS.md._
 
 ## Current phase
-**Pre-production.** The structure is locked (OUTLINE v2, D12–D18). The sources are mapped (`sources/maps/`).
+**Phase 5, chapter production.** Every chapter goes through two gates (D22):
+- **Gate A:** case brief, approved by the user.
+- **Gate B:** prose, then the fact-check, then the PDF.
 
-**Next:**
-- Add the template pieces: the `.box-try` box, the `.words` strip and the part opener.
-- Get the al-islam.org books via Claude in Chrome. The site's Cloudflare check blocks automated access.
-- Get an English translation of the Mafatih duʿas.
-- Chapter 1 (Book 2) revoiced; write chapters 2 onward in order. Build now processes Pandoc citations (D21).
+**Now:** Chapter 1 is at Gate A (`docs/briefs/01-case.md`, awaiting approval). The v2 prose will be rewritten on the approved brief.
+
+**Next:** Chapter 2 case brief.
 
 ## Open questions for the user or lecturer
 1. The lecturer is M. S. Bahmanpour (from the slides). Confirm his preferred title and name format.

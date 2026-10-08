@@ -52,8 +52,27 @@ build/                  Pandoc → Typst template, Lua filter, fonts, Makefile
 2. Outline, glossary and reading list (user checkpoint)
 3. Design template and sample PDF
 4. Pilot chapter in both styles (user checkpoint)
-5. Chapter production, with a fidelity check after each chapter
+5. Chapter production, one chapter at a time, in two gates:
+   - **Gate A: case brief.** Write `docs/briefs/NN-case.md` from `docs/briefs/_TEMPLATE.md` and present it to the user as bullet points. Wait for their approval. No prose is written before approval.
+   - **Gate B: prose.** Write the chapter on top of the approved brief, run the fidelity check, then send the PDF.
 6. Assembly: PDF and EPUB
+
+## How the user works (applies to everything)
+- **Structure must be bulletproof.** It is argued like a lawyer's case:
+  - one conclusion per chapter
+  - numbered, sourced premises in an order where each step depends only on earlier ones
+  - MECE coverage
+  - headings mapped one-to-one onto steps.
+
+  The judge (the reader) should find the conclusion self-evident.
+- **Gentle text on a rigorous spine.** The prose can be warm and flowing, but the logical link from heading to heading must be visible.
+- **The reader** is an intelligent, interested, impatient friend who will close the book at the first sign of throat-clearing:
+  - no jokes, ever, including the lecturer's asides
+  - no rhetorical-question chains
+  - no new questions the chapter doesn't answer
+  - nothing condescending
+  - aim for about 20% less than feels natural.
+- **Reporting style:** clarity from complexity. Give summaries as structured bullets, led by the conclusion.
 
 ## Build
 - `python3 build/build.py pdf book1` → `build/out/book1.pdf` (drafts highlight markers; add `--final` for release, which refuses to build while markers remain)
