@@ -9,7 +9,7 @@ _Update at the end of every task. Keep it short. History lives in git and DECISI
 - Add the template pieces: the `.box-try` box, the `.words` strip and the part opener.
 - Get the al-islam.org books via Claude in Chrome. The site's Cloudflare check blocks automated access.
 - Get an English translation of the Mafatih duʿas.
-- Revoice chapter 1, then write chapters in order.
+- Chapter 1 (Book 2) revoiced; write chapters 2 onward in order. Build now processes Pandoc citations (D21).
 
 ## Open questions for the user or lecturer
 1. The lecturer is M. S. Bahmanpour (from the slides). Confirm his preferred title and name format.
@@ -38,6 +38,6 @@ All 16 sets of notes are done (`notes/Irfan01–16.md`, about 76k words in total
 ## Chapters
 | Ch | Book 1 | Book 2 | Fidelity check | Typeset |
 |---|---|---|---|---|
-| 1 | ☑ draft (pilot, `book1/chapters/01-seeking-not-powers.md`; revised after `reviews/book1-01.md`; 16 ayah blocks; 19 VERIFY, 7 QUERY, 2 GAP) | ☑ draft (pilot, `book2/chapters/01-seeking-not-powers.md`; revised per `reviews/book2-01.md`; about 6.6k words, 5 boxes, 16 `.ayah` blocks; 44 VERIFY, 8 QUERY, 1 GAP; Quran English is the lecture's rendering, pending Qaraʾi) | ☐ | ☐ |
+| 1 | ☑ draft (pilot, `book1/chapters/01-seeking-not-powers.md`; revised after `reviews/book1-01.md`; 16 ayah blocks; 19 VERIFY, 7 QUERY, 2 GAP) | ☑ draft v2 (revoiced per OUTLINE v2.1 and the Ch 1 source pack, `reviews/outline-alignment.md` §5; about 4.2k body words + 0.56k in 4 boxes and Try this; 8 `.ayah` blocks in Qaraʾi; 0 markers; D20 side-by-side on powers; 4 omissions logged) | ☐ | ☐ |
 | 2–17 | ☐ | ☐ | ☐ | ☐ |
 | B2 A, B, C | n/a | ☐ | ☐ | ☐ |

@@ -80,3 +80,38 @@ end
 -- Drop HTML comments (src traces) from typeset output.
 function RawBlock(el) if el.format == "html" then return {} end end
 function RawInline(el) if el.format == "html" then return {} end end
+
+-- Citations → footnotes (D21). [@key, locator] becomes a footnote "Short form, locator."
+-- Add a line here whenever a key is added to sources/bibliography.bib.
+local SHORT = {
+  nahj = "Imam ʿAli, *Nahj al-Balagha* (trans. Qutbuddin)",
+  sahifa = "Imam Zayn al-ʿAbidin, *al-Sahifa al-Sajjadiyya* (trans. Chittick)",
+  mafatih = "Shaykh ʿAbbas Qummi, *Mafatih al-Jinan*",
+  kernel = "ʿAllama Tabatabaʾi and S. M. H. Husayni Tihrani, *Kernel of the Kernels* (trans. Qaraʾi)",
+  light = "Mutahhari, Tabatabaʾi and Khomeini, *Light Within Me*",
+  journey = "Mirza Jawad Maliki Tabrizi, *The Spiritual Journey of the Mystics*",
+  forty_hadith = "Imam Khomeini, *Forty Hadith*",
+  inner_secrets = "Sayyid Haydar Amuli, *Inner Secrets of the Path*",
+  lantern = "*Lantern of the Path* (Misbah al-Shariʿa)",
+  self_knowledge = "Mohammad Ali Shomali, *Self-Knowledge*",
+  qarai = "*The Qurʾan*, trans. ʿAli Quli Qaraʾi",
+  bahmanpour_slides = "M. S. Bahmanpour, lecture slides",
+  duas_munajat_shabaniyah = "*Munajat Shaʿbaniyyah* (duas.org)",
+  duas_dua_kumayl = "*Duʿa Kumayl* (duas.org)",
+  duas_ramadan_dua_abu_hamza_thumali = "*Duʿa Abu Hamza al-Thumali* (duas.org)",
+  duas_dua_arafah_imam_husain = "Imam al-Husayn, *Duʿa ʿArafah* (duas.org)",
+  duas_salat_al_layl_tahajjud_prayer = "*Salat al-Layl* (duas.org)",
+}
+function Cite(el)
+  local parts = {}
+  for _, c in ipairs(el.citations) do
+    local short = SHORT[c.id] or error("no short citation form for key: " .. c.id)
+    local loc = pandoc.utils.stringify(c.suffix or {}):gsub("^%s*,%s*", "")
+    local pre = pandoc.utils.stringify(c.prefix or {})
+    local txt = (pre ~= "" and (pre .. " ") or "") .. short .. (loc ~= "" and (", " .. loc) or "")
+    table.insert(parts, txt)
+  end
+  local md = table.concat(parts, "; ") .. "."
+  local blocks = pandoc.read(md, "markdown").blocks
+  return pandoc.Note(blocks)
+end

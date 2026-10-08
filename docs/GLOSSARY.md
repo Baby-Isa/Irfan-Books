@@ -7,6 +7,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | abdal | Abdaal, abdaal | | A class of saints in the hierarchy; God provides for the earth through them | L12 |
 | ʿadhab | azaab | | Punishment | L04 |
 | ahwal | Ahwaal | | Mystical states that come and go on the path | L12 |
+| akhlaq | | | Ethics; the rules of character that go beyond the legal minimum (Shomali) | B2 Ch1 |
 | al-hikma al-mashshaʾiyya | hikmatul mashaal | | Peripatetic philosophy | L03 |
 | al-hikma al-mutaʿaliya | hikmatul mutaaal | | Transcendent philosophy | L03 |
 | al-ruh al-aʿzam | ruhul aazam | | The greatest spirit | L05 |
@@ -40,6 +41,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | du'a | dua | | Supplication | L01 |
 | fanaʾ | Fanaa, fanah, fanaa, Sana | | Annihilation of the soul's limits and self-perception | L04 |
 | farq baʿd al-jamʿ | farq al bad al jam, alfarq waadal jaam | | Separation after union; return to creation after unification | L09 |
+| fiqh | | | Islamic jurisprudence; the law's obligatory minimum | B2 Ch1 |
 | fuʾad | Al-Faad | | Heart or inner faculty | L05 |
 | ghawth | ghaus | | A rank of the saintly hierarchy | L13 |
 | ghusl al-tawba | Ghusle Tauba | | Ritual bath of repentance | L08 |
@@ -124,6 +126,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | nafs al-mutmaʾinna | nafsul mutmainnah, mutmainnah | | The tranquil soul | L05 |
 | Naqshbandi | Naqsh, Naqshbandi | | The Sufi order; naqsh means imprint | L14 |
 | Niʿmatullahi | Nematullah | | A Sufi order | L10 |
+| nikah | | | The marriage contract and ceremony | B2 Ch1 |
 | nur | noor | | Light; the first creation of the Prophet | L04 |
 | qahri / ikhtiyari | qahri, ikhtiyari | | Involuntary / voluntary | L08 |
 | qalb | Al-Qalb | | The heart | L05 |

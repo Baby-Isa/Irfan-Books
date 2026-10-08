@@ -92,3 +92,9 @@ _Append only. Each entry: date, decision, why. To reverse a decision, add a new 
 - **Where views differ** (for example, do you need a guide, how much seclusion, who completes the fourth journey): present them side by side, warmly and respectfully, as a conversation among scholars. "Sheikh Bahmanpour emphasises…; ʿAllama Tabatabaʾi, for his part, …".
 - **Tone:** no heavy critique, no "the lecturer is wrong". Let the reader see the range.
 - **Effect on D15:** this softens it. Where a held source gives a different view, show both rather than dropping the lecturer's. Omit only claims that rest on a citation we cannot locate.
+
+## 2026-10-08: D21. Citations are footnotes
+- **Decision:** `[@key, locator]` in Markdown becomes a footnote, "Short form, locator.", for example "Imam Khomeini, *Forty Hadith*, p. 61." This is done by the `Cite` handler in `build/irfan.lua`, using its `SHORT` table. Citeproc is not used.
+- **Rule:** when a key is added to `bibliography.bib`, add its short form to `SHORT` as well. The build fails on an unknown key.
+- **Page numbers:** "p. N" currently means the PDF page of the held edition. Convert to printed page numbers before print, if needed.
+- **Later polish:** shortened repeat citations, and a full bibliography in the back matter.

@@ -15,3 +15,7 @@ _Lecture material deliberately left out or reworked because it could not be sour
 | L04 | "Whoever knows himself" attributed to Imam ʿAli | The Lantern attributes it to the Prophet; Ghurar not held | 4 |
 | L01 ¶17 | Munajat Shaʿbaniyyah associated with Zayn al-ʿAbidin | Mafatih and duas.org attribute it to Imam ʿAli and the Imams | 2 |
 | L06 ¶13–16 | Ship, sea and pearl attributed to Kubra | Only in the slides; kept as the lecture's citation [VERIFY Fawaʾih] | 6 |
+| L01 ¶5 | A man asks the Prophet whether the five prayers, Ramadan, zakat and one hajj will take him to janna; the Prophet says yes | Hadith unidentified; the question is kept as the reader's own, the hadith is dropped | 1 |
+| L01 ¶26 | The awliyaʾ "busy themselves with 29:49" while others busy themselves "in the imaging" | Garbled; Q 29:49 in Qaraʾi (the Quran as signs in the breasts of the knowledgeable) does not fit the point; omitted, the point carried by Nahj 3.403 | 1 |
+| L02 ¶16 | Each verse has 7 layers, each with 70 beneath it, each with 700 beneath that | No held source; reworked to Imam Khomeini's "70 or 70,000 layers" (`light` p. 130) | 1 |
+| L01 ¶27 | Imam ʿAli's description of the awliyaʾ cited as "sermon 432" | Reworked: it is saying 3.403 in Qutbuddin; the lecture's number is mentioned once, in the History box | 1 |
