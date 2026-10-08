@@ -157,3 +157,7 @@ _Append only. Each entry: date, decision, why. To reverse a decision, add a new 
 - **Reader:** any believer who prays, fasts and recites duʿas; not named as a community; nothing else assumed about them.
 - **Applied to:** prologue and Ch 1 (round 3). Added to CLAUDE.md's "Write or edit a chapter" row and to the chapter-writer agent.
 - **Nahj Arabic:** the Nahj extract's Arabic is garbled, so Nahj quotations carry `ar="[VERIFY: …]"` until typed from the printed Qutbuddin edition.
+
+## 2026-10-08: D32. Spelling "Qur'an"; the lectures were a lecture series
+- **Spelling:** book prose uses "Qur'an" and "Qur'anic" (user's spelling), including the label on verse blocks. Citations stay "Q 30:21". Quotations keep their source's spelling.
+- **Provenance:** the lectures were delivered as a lecture series, which the user's uncle attended. The slides carry a "BA Islamic Studies" heading, but the book must not say the series was part of a BA. The prologue now says "a lecture series on Islamic mysticism given by Sheikh M. S. Bahmanpour". This supersedes the module wording in D11 and ANALYSIS.md.

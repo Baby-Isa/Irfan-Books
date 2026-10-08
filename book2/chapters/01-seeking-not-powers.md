@@ -17,12 +17,12 @@ There is a verse often recited at weddings, one most of us know. In Surah al-Rum
 ## What the minimum leaves out
 
 ::: {.point}
-The obligatory acts are enough for salvation, and that is not contested. What is contested is the claim that they are the whole of the religion. In Surah al-Rum the Quran asks for more than the minimum: it asks us to reflect on, know, listen to and reason about its signs.
+The obligatory acts are enough for salvation, and that is not contested. What is contested is the claim that they are the whole of the religion. In Surah al-Rum the Qur'an asks for more than the minimum: it asks us to reflect on, know, listen to and reason about its signs.
 :::
 
 Let's start with two claims. The first is that a believer who prays, fasts, pays what is due and goes on hajj, who does what is *wajib* and avoids what is forbidden, can hope for *janna*. This claim is not contested. Sheikh Bahmanpour accepts it in three words, "that's fair enough", and adds that this is the way of ordinary believers. Mohammad Ali Shomali underlines the same point when he describes the obligatory rules of fiqh as "the minimally necessary conditions of human perfection" [@self_knowledge, p. 17].
 
-The second claim goes further, and it is the one this book disputes. Some jurists and activists hold that the obligatory acts are the whole of the religion, and that anything beyond them was "made up by some mystics according to their vibes and wishes". To see why we believe there is more than the obligations, let's turn to the Quran and read on from the verse this chapter began with. Surah al-Rum goes on to name three more signs, the creation of the heavens and the earth and the difference of our languages and colours, then our sleep and our work, then the lightning and the rain that revives the dead earth (Q 30:22–24). Each verse ends the way the first did, by saying who the sign is for.
+The second claim goes further, and it is the one this book disputes. Some jurists and activists hold that the obligatory acts are the whole of the religion, and that anything beyond them was "made up by some mystics according to their vibes and wishes". To see why we believe there is more than the obligations, let's turn to the Qur'an and read on from the verse this chapter began with. Surah al-Rum goes on to name three more signs, the creation of the heavens and the earth and the difference of our languages and colours, then our sleep and our work, then the lightning and the rain that revives the dead earth (Q 30:22–24). Each verse ends the way the first did, by saying who the sign is for.
 
 ::: {.ayah ref="30:22" words="9-"}
 There are indeed signs in that for those who know.
@@ -36,17 +36,17 @@ There are indeed signs in that for a people who listen.
 There are indeed signs in that for people who exercise their reason.
 :::
 
-Four times in a row the Quran makes the same point. The signs are all around us, in marriage, in the people we meet, in sleep, in work and in the weather, and they are for those who reflect, know, listen and reason. This reflecting, knowing, listening and reasoning is what the Quran asks of us beyond the minimum.
+Four times in a row the Qur'an makes the same point. The signs are all around us, in marriage, in the people we meet, in sleep, in work and in the weather, and they are for those who reflect, know, listen and reason. This reflecting, knowing, listening and reasoning is what the Qur'an asks of us beyond the minimum.
 
-Let's be clear about what this invitation is not. It is not an invitation to go around the law or above it. Imam Khomeini insists that a genuine seeker's devotion "is within the bounds of the Shari'ah" [@forty_hadith, p. 61]. Within those bounds, the Quran is just as insistent, in these verses and in others, that it invites us to more than the obligatory acts.
+Let's be clear about what this invitation is not. It is not an invitation to go around the law or above it. Imam Khomeini insists that a genuine seeker's devotion "is within the bounds of the Shari'ah" [@forty_hadith, p. 61]. Within those bounds, the Qur'an is just as insistent, in these verses and in others, that it invites us to more than the obligatory acts.
 
 ## Signs most people miss
 
 ::: {.point}
-Most of us, the devout included, accept that the signs exist because the Quran says so, but we do not perceive them. The Quran describes that gap itself.
+Most of us, the devout included, accept that the signs exist because the Qur'an says so, but we do not perceive them. The Qur'an describes that gap itself.
 :::
 
-An invitation addressed to those who reflect, know, listen and reason implies that many people do none of these things, and Sheikh Bahmanpour does not limit that to the careless. Most pious people, he says, even those who are careful about the shariʿa, do not find a sign in these verses. When we look at the variety of languages and colours, we are more likely to see a reason for division than a sign of God. We have heard the verses many times, and we accept, because the Quran says so, that there are signs in them. Accepting that a sign exists is not the same as perceiving it, and the Quran describes the gap in one verse.
+An invitation addressed to those who reflect, know, listen and reason implies that many people do none of these things, and Sheikh Bahmanpour does not limit that to the careless. Most pious people, he says, even those who are careful about the shariʿa, do not find a sign in these verses. When we look at the variety of languages and colours, we are more likely to see a reason for division than a sign of God. We have heard the verses many times, and we accept, because the Qur'an says so, that there are signs in them. Accepting that a sign exists is not the same as perceiving it, and the Qur'an describes the gap in one verse.
 
 ::: {.ayah ref="12:105"}
 How many a sign there is in the heavens and the earth that they pass by while they are disregardful of it!
@@ -60,7 +60,7 @@ How many a sign there is in the heavens and the earth that they pass by while th
 We miss the signs because an inner faculty in us, the soul's ability to perceive, is not working. It exists and has only rusted, so it can be repaired. ʿIrfan is that repair.
 :::
 
-If the signs are present and plain and we still pass them by, the fault is on our side, and the Quran says where it lies. It speaks of people who have every faculty and use none of them.
+If the signs are present and plain and we still pass them by, the fault is on our side, and the Qur'an says where it lies. It speaks of people who have every faculty and use none of them.
 
 ::: {.ayah ref="7:179" words="8-27"}
 they have hearts with which they do not understand, they have eyes with which they do not see, they have ears with which they do not hear. They are like cattle; indeed, they are more astray.
@@ -75,10 +75,10 @@ Repair is only the start. Once the inner faculty begins to work, Sheikh Bahmanpo
 ## Some do see
 
 ::: {.point}
-The Quran describes believers in whom this faculty works: hearts that tremble at God's mention, those who know, those who fear Him, the friends of God. These are the people the tradition calls the ʿurafaʾ.
+The Qur'an describes believers in whom this faculty works: hearts that tremble at God's mention, those who know, those who fear Him, the friends of God. These are the people the tradition calls the ʿurafaʾ.
 :::
 
-If the faculty can be repaired, there should be people in whom it works, and the Quran describes them more than once. Sheikh Bahmanpour divides people into two groups, those whose souls work and those whose souls do not, and calls the first group the *ʿurafaʾ*, the plural of *ʿarif*. He sets the prophets and the Imams (ʿa) aside as a class of their own and looks at ordinary believers who see more than the rest. The first description is in Surah al-Anfal.
+If the faculty can be repaired, there should be people in whom it works, and the Qur'an describes them more than once. Sheikh Bahmanpour divides people into two groups, those whose souls work and those whose souls do not, and calls the first group the *ʿurafaʾ*, the plural of *ʿarif*. He sets the prophets and the Imams (ʿa) aside as a class of their own and looks at ordinary believers who see more than the rest. The first description is in Surah al-Anfal.
 
 ::: {.ayah ref="8:2" words="1-8"}
 The faithful are only those whose hearts tremble [with awe] when Allah is mentioned,
@@ -107,10 +107,10 @@ Other people look at the surface of the world; the friends of God look at what l
 ## What they are given, and why it is open to you
 
 ::: {.point}
-The Quran promises these people nearness to God, a good life, and freedom from fear and grief. It opens their rank to any believer who obeys and acts righteously. That is the case for pursuing ʿirfan.
+The Qur'an promises these people nearness to God, a good life, and freedom from fear and grief. It opens their rank to any believer who obeys and acts righteously. That is the case for pursuing ʿirfan.
 :::
 
-The Quran also tells us what these people receive, and the first gift is nearness. Surah al-Waqiʿa sorts people on the Last Day, and at the top it places the Foremost Ones.
+The Qur'an also tells us what these people receive, and the first gift is nearness. Surah al-Waqiʿa sorts people on the Last Day, and at the top it places the Foremost Ones.
 
 ::: {.ayah ref="56:10-11"}
 And the Foremost Ones are the foremost ones: they are the ones brought near [to Allah],
@@ -140,7 +140,7 @@ Sheikh Bahmanpour reads this verse as naming four ranks of those God has blessed
 
 That doorway is open, in his words, to people like us: "ordinary people also can enter into the realm of muqarrabun". It is difficult, he says, but it is open, because we are made for it. We call ourselves human beings, but "we are not yet human beings"; we begin with the potential to become human in the full sense that the prophets are. He means this as a statement of what we were made for: "A human being has the capacity to become a friend of God. Allah has created us at this strength and He wants us to reach that strength."
 
-Hence the case for pursuing it. The Quran invites more than the minimum, and what stands in the way is a faculty in us that can be repaired. On the other side of that repair lie nearness to God, a good life, and freedom from fear and grief, in a rank the Quran opens to any believer who obeys God and the Prophet and acts righteously.
+Hence the case for pursuing it. The Qur'an invites more than the minimum, and what stands in the way is a faculty in us that can be repaired. On the other side of that repair lie nearness to God, a good life, and freedom from fear and grief, in a rank the Qur'an opens to any believer who obeys God and the Prophet and acts righteously.
 
 ## For what? Not powers
 
@@ -155,7 +155,7 @@ He ended his first class more strongly. ʿIrfan "is not about any type of power 
 The great teachers of the Shia tradition make closely related points, each in his own words. ʿAllama Tabatabaʾi tells the traveller that he "has no right to seek occult experiences and miraculous qualities", nor to perform austerities or recite invocations to gain powers such as crossing great distances in a moment or reading the thoughts of others. Whoever does so "does not move on the path of the Beloved's pleasure and his worship is not for the sake of God". It is his own self that he worships, "though he may not admit it by word of mouth" [@kernel, pp. 28–29].
 
 ::: {.box-who title="Who's Who: ʿAllama Tabatabaʾi"}
-Sayyid Muhammad Husayn Tabatabaʾi is best known as the author of *al-Mizan*, a commentary on the Quran in twenty volumes [@self_knowledge, p. 30]. His student Sayyid Muhammad Husayn Husayni Tihrani describes him as having flown "with the two wings of knowledge and action". He travelled the path in both philosophy and gnosis under the guidance of the gnostic Mirza ʿAli Aqa Qadi, and after years of philosophical argument he "came to settle down at the sacred threshold of the Qur'an" [@kernel, p. 8]. *Kernel of the Kernels* (*Lubb al-Lubab*) is Tihrani's record of the lectures on ethics and gnosis that Tabatabaʾi gave to students in Qum in 1949–50 [@kernel, p. 9]. He also wrote the preface to *Light Within Me* [@light, p. 4], from which several quotations in this chapter come.
+Sayyid Muhammad Husayn Tabatabaʾi is best known as the author of *al-Mizan*, a commentary on the Qur'an in twenty volumes [@self_knowledge, p. 30]. His student Sayyid Muhammad Husayn Husayni Tihrani describes him as having flown "with the two wings of knowledge and action". He travelled the path in both philosophy and gnosis under the guidance of the gnostic Mirza ʿAli Aqa Qadi, and after years of philosophical argument he "came to settle down at the sacred threshold of the Qur'an" [@kernel, p. 8]. *Kernel of the Kernels* (*Lubb al-Lubab*) is Tihrani's record of the lectures on ethics and gnosis that Tabatabaʾi gave to students in Qum in 1949–50 [@kernel, p. 9]. He also wrote the preface to *Light Within Me* [@light, p. 4], from which several quotations in this chapter come.
 :::
 
 Imam Khomeini reports the test his teacher Ayatullah Shahabadi used: the measure of true spiritual effort is how much selfishness is in it. If a traveller's "spiritual exercises are meant for acquiring powers for worldly ends, his efforts are rendered invalid" [@forty_hadith, p. 61]. Murtada Mutahhari uses the same word as Sheikh Bahmanpour. The ʿurafaʾ, he writes, consider it "a kind of shirk (polytheism) for one's goal in life and particularly in worship to be something other than God Himself", and he recalls Imam ʿAli (ʿa) saying that he worshipped God not from fear of His Fire or desire for His Paradise but because he found Him worthy of worship [@light, p. 44].

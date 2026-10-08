@@ -131,6 +131,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | qahri / ikhtiyari | qahri, ikhtiyari | | Involuntary / voluntary | L08 |
 | qalb | Al-Qalb | | The heart | L05 |
 | quddus | Quddus | | Divine name: utterly pure | L03 |
+| ʿulamaʾ | ulama, ulema | | The religious scholars (sing. ʿalim) | prologue |
 | qurb | qurbat | | Coming close to God | L06 |
 | qutb | quds | | Pole or pivot of each age | L13 |
 | rahbaniyya | rahbaniyyah, rahbah | | Monasticism; the "mysticism of fear" | L11 |

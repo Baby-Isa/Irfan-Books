@@ -9,6 +9,7 @@ The readers are English-speaking Khoja Shia Ithna'ashari Muslims, mostly in the 
 ## Book 1: Faithful
 - **Content:** only what the lectures say. You may reorder, merge repeated passages, drop filler (classroom logistics, "inshaAllah next week", false starts) and fix grammar.
 - **What you must not add:** examples, arguments, references or facts. If the lecturer leaves a reference vague ("a famous hadith says…"), keep it vague and add `[VERIFY]` if it needs a citation.
+- **Spelling (D32):** "Qur'an" and "Qur'anic" in all book prose.
 - **Voice:** neutral third-person exposition. Prefer plain statement ("Irfan seeks knowledge of God through…") over constant "the lecturer says". Use attribution ("as the lectures put it") only where the claim is clearly the lecturer's personal view or interpretation.
 - **Stories and anecdotes:** keep them, because they carry the teaching.
 - **Q&A segments:** fold them into the text where they fit, or keep them as a short "Questions" section at the end of the chapter.

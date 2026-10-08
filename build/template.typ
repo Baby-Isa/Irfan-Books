@@ -59,7 +59,7 @@
     v(0.7em)
   }
   align(center, pad(x: 1.5em, { set par(justify: false, first-line-indent: 0pt); text(style: "italic", body) }))
-  align(right, text(size: 8.5pt, fill: teal, tracking: 0.06em, smallcaps[Quran #ref]))
+  align(right, text(size: 8.5pt, fill: teal, tracking: 0.06em, smallcaps[Qur'an #ref]))
 })
 
 #let arquote(arabic: "", source: "", body) = block(width: 100%, above: 1.3em, below: 1.3em, breakable: false, {

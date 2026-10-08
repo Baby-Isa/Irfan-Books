@@ -17,9 +17,9 @@ These words come from the Munajat Shaʿbaniyyah, a prayer many of us recite in t
 
 Despite saying these words in our munajats and on auspicious occasions, we find that seeking to know God does not feature in our day-to-day routine. Praying, fasting and paying what is due, the *wajibat*, are the dominant undertaking, and they are what most of us mean by practising the religion. The other side, the one the Munajat describes, in which the believer seeks to know God and to come near Him, is often less practised. That side of the religion is called *ʿirfan*.
 
-ʿIrfan is the Arabic name for what English books call Islamic mysticism, and the two words do not say the same thing. "Mysticism" suggests mystery, something hidden and hard to pin down. The Arabic word names a kind of knowing. It shares its root with *maʿrifah*, knowledge, and an *ʿarif* is, in Sheikh Bahmanpour's words, "someone who knows". The knowing meant here is not information about God. It is knowing Him from close, with the heart, which is what the Munajat asks for. In Murtada Mutahhari's words, the ʿarif "wishes to reach the very kernel and reality of existence, God, to become connected to it and witness it" [@light, p. 12]. ʿIrfan is that knowing, and the training of the soul that makes it possible. It is part of the Islam we already know: its sources are the Quran and the words of the Imams, and the prayer at the head of this page is one of them.
+ʿIrfan is the Arabic name for what English books call Islamic mysticism, and the two words do not say the same thing. "Mysticism" suggests mystery, something hidden and hard to pin down. The Arabic word names a kind of knowing. It shares its root with *maʿrifah*, knowledge, and an *ʿarif* is, in Sheikh Bahmanpour's words, "someone who knows". The knowing meant here is not information about God. It is knowing Him from close, with the heart, which is what the Munajat asks for. In Murtada Mutahhari's words, the ʿarif "wishes to reach the very kernel and reality of existence, God, to become connected to it and witness it" [@light, p. 12]. ʿIrfan is that knowing, and the training of the soul that makes it possible. It is part of the Islam we already know: its sources are the Qur'an and the words of the Imams, and the prayer at the head of this page is one of them.
 
-This book argues that this side of the religion is worth every believer's pursuit. ʿIrfan travels through the self and never leaves the shariʿa. It is rooted in the Quran and the Imams. It is walked by a tested and ordered method. And it ends not in withdrawal from the world but in return: to people, with God, and to God Himself.
+This book argues that this side of the religion is worth every believer's pursuit. ʿIrfan travels through the self and never leaves the shariʿa. It is rooted in the Qur'an and the Imams. It is walked by a tested and ordered method. And it ends not in withdrawal from the world but in return: to people, with God, and to God Himself.
 
 ## Who this book is for
 
@@ -37,11 +37,11 @@ Five parts, each answering one question in order: why, through what, whose, how,
 
 The book is built in five parts. Each answers one question and depends on the one before.
 
-Part One, *The Call* (Chapters 1–3), asks why a believer should bother. It answers that the Quran invites more than the minimum, with the goal of ʿirfan already on our lips in our duʿas.
+Part One, *The Call* (Chapters 1–3), asks why a believer should bother. It answers that the Qur'an invites more than the minimum, with the goal of ʿirfan already on our lips in our duʿas.
 
 Part Two, *The Terrain* (Chapters 4–6), describes the landscape a traveller passes through on the journey towards ʿirfan: the self. It also sets out the boundary that keeps the traveller safe: the shariʿa.
 
-Part Three, *The Travellers* (Chapters 7–9), asks whether ʿirfan is ours. It shows its roots in the Quran and the Imams, with a compatible view of similarities to Sufism.
+Part Three, *The Travellers* (Chapters 7–9), asks whether ʿirfan is ours. It shows its roots in the Qur'an and the Imams, with a compatible view of similarities to Sufism.
 
 Part Four, *The Road* (Chapters 10–15), asks how the path is walked: with a tested guide, through ordered stages, by repentance, discipline and love.
 
@@ -50,14 +50,14 @@ Part Five, *The Return* (Chapters 16–17), asks where the journey ends. The fri
 ## Where this book comes from
 
 ::: {.point}
-The book is based on Sheikh Bahmanpour's sixteen lectures and stays close to them. It adds the Imams' texts and the great Shia scholars, cites every addition, and sets differing views side by side.
+The book is inspired by Sheikh Bahmanpour's lecture series, whose content and structure are its core. It adapts the lectures for print, adds context for a wider readership, draws on the Imams' texts and the great Shia scholars, footnotes every source, and presents differing views neutrally.
 :::
 
-The book began as sixteen lectures on Islamic mysticism given by Sheikh M. S. Bahmanpour as part of a BA in Islamic Studies [@bahmanpour_slides]. The lectures are its inspiration and the larger part of its content, and where the book reports what the Sheikh taught, it stays close to what he said.
+This book is inspired by a lecture series on Islamic mysticism given by Sheikh M. S. Bahmanpour. The content and structure of those lectures are the core of the book. Wherever the Sheikh is quoted directly, the words are his own, from that series.
 
-A lecture course has the teacher in the room to answer questions, and a book does not, so this one also draws on the wider literature: first the words of the Imams, in Nahj al-Balagha, al-Sahifa al-Sajjadiyya and the supplications of the Mafatih, and then the great Shia teachers of the path, from Sayyid Haydar Amuli in the fourteenth century to Mirza Jawad Maliki Tabrizi, ʿAllama Tabatabaʾi, Imam Khomeini and Ayatullah Mutahhari in the twentieth. Every such addition carries a footnote giving its source, so the reader can always tell the lecture from the wider tradition.
+Turning spoken lectures into a book has called for some editorial adaptation. To suit a wider readership, the book also adds context and explanation to support its main arguments. It draws on a wider literature as well: the words of the Imams in Nahj al-Balagha, al-Sahifa al-Sajjadiyya and the supplications of the Mafatih; then the great Shia teachers of the path, from Sayyid Haydar Amuli in the fourteenth century to modern scholars such as Mirza Jawad Maliki Tabrizi, ʿAllama Tabatabaʾi, Imam Khomeini and Ayatullah Mutahhari. Every source is given in a footnote, for readers who want to go further.
 
-These teachers do not always agree with the Sheikh or with one another, on whether a seeker needs a guide from the first step, on how much solitude is wise, and on how far ordinary believers can travel. Where they differ, the book sets their views side by side.
+The finer questions of ʿirfan remain an ongoing conversation among our *ʿulamaʾ*: whether a seeker needs a guide from the first step, how much solitude is wise, how far ordinary believers can travel. Where they differ, this book presents each view with neutrality.
 
 ## What you can expect
 
