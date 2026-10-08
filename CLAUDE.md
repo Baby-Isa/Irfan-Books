@@ -13,7 +13,7 @@ Both books start as a pilot chapter. The chosen style then goes into full produc
 
 | Task | Read |
 |---|---|
-| Write or edit a chapter | `docs/LINGO.md`, `docs/ARGUMENT.md`, that chapter's brief in `docs/briefs/`, `docs/STYLE_GUIDE.md`, `docs/GLOSSARY.md`, that chapter's entry in `docs/OUTLINE.md`, the relevant `notes/` and transcript ¶ ranges |
+| Write or edit a chapter | `docs/LINGO.md`, `docs/TONE.md` (stance and paragraph flow; every rule has a before/after), `docs/ARGUMENT.md`, that chapter's brief in `docs/briefs/`, `docs/STYLE_GUIDE.md`, `docs/GLOSSARY.md`, that chapter's entry in `docs/OUTLINE.md`, the relevant `notes/` and transcript ¶ ranges |
 | Typesetting or layout | `docs/DESIGN.md`, `build/` |
 | Sources or citations | `docs/SOURCES.md`, `sources/bibliography.bib` |
 | Any decision with lasting effect | Append it to `docs/DECISIONS.md` |

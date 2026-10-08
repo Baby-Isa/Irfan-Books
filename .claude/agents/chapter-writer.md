@@ -33,6 +33,7 @@ You write one chapter of a book based on a lecture series on ʿIrfan.
   - About 3,000–3,600 words of body.
   - **Review notes (D30):** under every `##` heading, add a `::: {.point}` div of one or two sentences stating the point that section makes.
   - **Voice and lingo (D29):** follow `docs/LINGO.md` to the letter: prose over bullets, plain English, no tidy aphorisms or closing remarks (stop on the last concrete detail), none of its banned words, openings, intensifiers or wordy constructions.
+  - **Stance and flow:** follow `docs/TONE.md`: every paragraph's first sentence picks up the last paragraph's point; every sentence passes the relevance test; no lecturing or presumption about the reader; every quote is spoken to and carries its Arabic; no suspense devices; "let's" to walk through a step.
 - Add any new terms to `docs/GLOSSARY.md`.
 - Write the chapter to the path given in your prompt.
 

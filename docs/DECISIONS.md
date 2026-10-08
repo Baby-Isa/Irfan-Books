@@ -151,3 +151,9 @@ _Append only. Each entry: date, decision, why. To reverse a decision, add a new 
 - **"Words you'll meet"** lists each term with a brief meaning.
 - **Prologue order:** What is ʿirfan?; Who this book is for; How the book is built; Where this book comes from; What you can expect (which now carries "what ʿirfan is not"). The audience is any believer, not named as a community. The epigraph is the Munajat's "Enlighten the eyes of our hearts…" line, explained in the text, and the opening explains the word ʿirfan.
 - **Ch 1 opening:** epigraph is the end of Q 30:21; the wedding verse is named outright.
+
+## 2026-10-08: D31. Tone rules: stance and flow (`docs/TONE.md`)
+- **Decision:** all book prose follows `docs/TONE.md` as well as `docs/LINGO.md`. Its rules: each paragraph's first sentence picks up the last paragraph's point and states its own; every sentence passes the relevance test against the section's point note; no lecturing, moralising or asides ("as we should"); no presumption about the reader (intelligence, practice, piety, sex); warm and plain without familiarity; every quotation is spoken to in the sentence after it; every displayed Quran, hadith or duʿa quote carries its Arabic (`.ayah words=` for part of a verse, `.quote ar=` from a held extract, `[VERIFY]` otherwise); no cleverness or suspense; "let's" for walking through a step; short quotations; point notes kept current.
+- **Reader:** any believer who prays, fasts and recites duʿas; not named as a community; nothing else assumed about them.
+- **Applied to:** prologue and Ch 1 (round 3). Added to CLAUDE.md's "Write or edit a chapter" row and to the chapter-writer agent.
+- **Nahj Arabic:** the Nahj extract's Arabic is garbled, so Nahj quotations carry `ar="[VERIFY: …]"` until typed from the printed Qutbuddin edition.

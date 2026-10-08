@@ -9,7 +9,9 @@ _Update at the end of every task. Keep it short. History lives in git and DECISI
 
 **Now:** ARGUMENT v2.1 approved (D25–D28). Ch 1 brief v3 approved. Ch 1 Book 2 v3 written, fidelity-checked (`reviews/book2-01-v3.md`: 0 high; mediums fixed) and sent as PDF; awaiting the user's review. Prologue (Book 2) drafted, about 1k words over 3 pages; prologue and Ch 1 rewritten per user review (D30: point notes, plain direct voice, new prologue order; Ch 1 body ~2.9k, prologue ~1.25k) (`book2/chapters/00-prologue.md`), shorter than OUTLINE's 2.5k at the user's request; combined PDF `samples/prologue-and-ch01.pdf` for the user's uncle.
 
-**Next:** Chapter 2 case brief.
+**2026-10-08, tone round 3:** the user judged the tone "miles off". His feedback is distilled into `docs/TONE.md` (D31: paragraph linkage, sentence-relevance test, no lecturing or presumption, every quote spoken to and carrying its Arabic, no suspense, "let's"). Prologue and Ch 1 rewritten against it (prologue ~1.25k body incl. epigraph; Ch 1 ~2.7k body + 0.35k boxes; Arabic on every displayed Quran/duʿa quote via `.ayah words=` and `.quote ar=`; 1 VERIFY for the Nahj 3.403 Arabic, 1 QUERY on "These are shirk"). PDF: `samples/prologue-and-ch01.pdf`. Advice to the user on steering tone: `docs/TONE-GUIDANCE.md`. Not yet committed.
+
+**Next:** the user's verdict on the round-3 tone; then Chapter 2 case brief.
 
 ## Open questions for the user or lecturer
 1. The lecturer is M. S. Bahmanpour (from the slides). Confirm his preferred title and name format.
