@@ -39,13 +39,14 @@ def check(books):
     return total
 
 
-def pdf(book, final=False, pattern="*"):
-    if final and check([book]):
+def pdf(book, final=False, pattern="*", review=False):
+    # review: a clean reader copy (no point notes, markers hidden, no edition line, no DRAFT banner)
+    if final and not review and check([book]):
         sys.exit("release build refused: open markers remain")
     OUT.mkdir(exist_ok=True)
     work = OUT / book
     work.mkdir(exist_ok=True)
-    env = dict(os.environ, IRFAN_ROOT=str(ROOT), IRFAN_FINAL="1" if final else "0")
+    env = dict(os.environ, IRFAN_ROOT=str(ROOT), IRFAN_FINAL="1" if (final or review) else "0")
     includes = []
     for f in chapters(book, pattern):
         typ = work / (f.stem + ".typ")
@@ -58,7 +59,7 @@ def pdf(book, final=False, pattern="*"):
     main = work / "main.typ"
     main.write_text(
         f'#import "../../template.typ": *\n'
-        f'#show: book.with(title: "{title}", subtitle: "{sub}", edition: "{ed}", draft: {str(not final).lower()})\n'
+        f'#show: book.with(title: "{title}", subtitle: "{sub}", edition: "{"" if review else ed}", draft: {str(not (final or review)).lower()})\n'
         + "\n".join(includes) + "\n", encoding="utf-8")
     import typst
     target = OUT / f"{book}.pdf"
@@ -85,7 +86,7 @@ if __name__ == "__main__":
         sys.exit(1 if check(a[1:] or ["book1", "book2"]) else 0)
     book = a[1]
     if cmd == "pdf":
-        rest = [x for x in a[2:] if x != "--final"]
-        pdf(book, final="--final" in a, pattern=rest[0] if rest else "*")
+        rest = [x for x in a[2:] if x not in ("--final", "--review")]
+        pdf(book, final="--final" in a, pattern=rest[0] if rest else "*", review="--review" in a)
     elif cmd == "epub":
         epub(book)

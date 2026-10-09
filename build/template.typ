@@ -220,7 +220,7 @@
   show heading.where(level: 3): it => block(above: 1.2em, below: 0.6em,
     text(size: 11pt, style: "italic", weight: 500, it.body))
   show footnote.entry: set text(size: 8.5pt)
-  show regex("\[(VERIFY|QUERY|GAP):[^\]]*\]"): it => if draft { marker-style(it) } else { it }
+  show regex("\[(VERIFY|QUERY|GAP):[^\]]*\]"): it => if draft { marker-style(it) } else { [] }
 
   // Title page
   page(header: none, footer: none, {
@@ -233,7 +233,7 @@
     v(10mm)
     star-band(width: 70%)
     v(1fr)
-    align(center, text(size: 10pt, fill: teal, smallcaps(edition)))
+    if edition != "" { align(center, text(size: 10pt, fill: teal, smallcaps(edition))) }
     if draft { v(4mm); align(center, text(font: sans, size: 8pt, fill: rgb("#8A4B00"))[DRAFT — not for distribution]) }
   })
   page(header: none, footer: none, [])

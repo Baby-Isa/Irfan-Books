@@ -78,6 +78,7 @@ build/                  Pandoc → Typst template, Lua filter, fonts, Makefile
 
 ## Build
 - `python3 build/build.py pdf book1` → `build/out/book1.pdf` (drafts highlight markers; add `--final` for release, which refuses to build while markers remain)
+- `python3 build/build.py pdf book2 "0[01]*" --review` → clean reader copy (no point notes, markers hidden, no edition line or DRAFT banner)
 - `python3 build/build.py check` lists open `[VERIFY]`/`[QUERY]`/`[GAP]` markers
 - `python3 build/quran.py 30:21-22` prints verified Arabic
 - Verse blocks only need `::: {.ayah ref="30:21"}` + English; the build inserts the Arabic itself

@@ -81,6 +81,7 @@ function Div(el)
     if cls == "quote" then
       -- hadith / duʿa quotation with its Arabic, copied from a held extract (never typed from memory)
       local ar = el.attributes.ar or error("quote div needs ar= (Arabic from a held extract) or ar=\"[VERIFY]\"")
+      if os.getenv("IRFAN_FINAL") == "1" and ar:match("^%[VERIFY") then ar = "" end
       local open = "#arquote(arabic: " .. tstr(ar) .. ", source: " .. tstr(el.attributes.source or "") .. ")["
       local blocks = { pandoc.RawBlock("typst", open) }
       for _, b in ipairs(el.content) do table.insert(blocks, b) end
