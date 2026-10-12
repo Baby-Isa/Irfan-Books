@@ -104,3 +104,24 @@ End each Part's file with a **quote ledger**: id | short text | source and locat
 - At most five historical figures in a chapter's prose; the rest in Who's Who boxes.
 - Each chapter: one conclusion; sections in dependency order; headings map one-to-one onto points; ~2,600–3,200 words of body.
 - Every chapter opens on familiar ground ("the inside of what you already do": salah, Ramadan, a majlis, a graveside, a duʿa) and its "Try this" is one sourced act.
+
+## 8. Reconciliation of the five Part outlines (2026-10-12)
+A ledger check across `part-1.md`–`part-5.md` found no quote planned twice. Where two chapters cite the same source page, they quote different sentences, and no Qur'an verse is quoted in two chapters. The planners' cross-Part points are settled as follows.
+1. **Four journeys:** Ch 6 previews them in a sentence or two and points to Ch 16. Its table box is cut, and its L09 ¶89/¶91 quotes move to Ch 16.
+2. **Duʿa ʿArafah:** the attribution of its closing section (from about §668) is debated. Where a line is presented as Imam Husayn's (Ch 16, Karbala), use the main body only. Ch 2's §689, §781 and §783–784 sit in the closing section, so at drafting either swap them for main-body lines or other prayers, or attribute them as "Duʿa ʿArafah, as given in the Mafatih" (true on either reading; D39).
+3. **Munajat §109–110 (Part Four divider):** *Light*'s English here is ungrammatical, so this one slot uses the duas.org wording: "appoint me of those who responded to You when You called them, and at whom You glanced so he swoons before Your Majesty". Every other Munajat line uses *Light*.
+4. **Openers:** Ch 2 (Duʿa Kumayl) and Ch 16 (Imam ʿAli to Kumayl, Nahj 3.133) both open on Kumayl, so Ch 13 opens on something else, such as a companion familiar from majalis, if held sources carry them.
+5. **Ch 12's last line** is Imam ʿAli's "I did not see a thing without beholding God with it, in it, before it, and after it" (`forty_hadith` p. 516). Ch 16 does not reuse it.
+6. **Kubra's two journeys** (involuntary and voluntary; L08 ¶5–8) go to Ch 17, for the willing return.
+7. **Ch 11 and Nahj 3.222:** the saying speaks of worship "to give thanks", not of love. Ch 11 sets it beside Imam al-Sadiq's love version (`light` p. 94) instead of reading love into it.
+8. **The Lovers prayer:** Ch 2 has "granted gazing upon Thy face"; Ch 11 has "tasted the sweetness of Thy love".
+9. **"Whoever knows himself knows his Lord":** the Prophet (D19, `lantern`) and Imam ʿAli (`journey` p. 125, as the Sheikh says) are shown side by side in Ch 4. OMISSIONS is revised when Ch 4 is drafted.
+10. **Ch 15 order:** techniques (old 9.4) come before authority (old 9.3), so the chapter ends on the Imam. Each step still depends only on earlier ones.
+11. **Left out:** Qadi al-Nuʿman as the lecture's example of a bad inner reading (L16 ¶4–5). There is no held source, and the Ismaili scholar should not appear only as the bad example; the principle stays.
+12. **Glossary, before drafting each chapter:**
+    - Ch 4: liqaʾ Allah
+    - Ch 9–12: tawba, mahabba, samt, juʿ, sahar, khawf, husn al-khuluq, ʿibadat al-ahrar
+    - Ch 14–15: sahw, samaʿ, khirqa, bayʿa
+    - Ch 16: al-asfar al-arbaʿa
+    - Fix the misspelt headword "hashya" to khashya.
+13. **Prologue:** the edits listed in `part-1.md` (thesis order, "How the book is built", Ch 9 → 15, Ch 8 → 14, Part titles) are applied only after the user approves.
