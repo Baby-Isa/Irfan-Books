@@ -128,13 +128,13 @@ The *Mafatih al-Jinan*, "Keys to the Heavens", gathers the supplications of the 
 
 The Munajat Shaʿbaniyyah is listed among the acts of the month of Shaʿban. The Mafatih gives a report that calls it the confidential prayer of Imam ʿAli (ʿa) and the Imams, which they used to say in that month [@mafatih, p. 243]. It adds that it is "advisable to say it with presence of heart all the time" [@mafatih, p. 245].
 
-The other prayers have their own times. Duʿa Kumayl belongs to Thursday evenings, as this chapter began by noting, and to the night of mid-Shaʿban; the Mafatih reports ʿAllama Majlisi's view that it is the best of all supplications [@mafatih, p. 129]. Duʿa ʿArafah is the prayer of Imam al-Husayn (ʿa) on the Day of ʿArafah [@mafatih, p. 374]. Duʿa Abu Hamza al-Thumali belongs to Ramadan. Imam Zayn al-ʿAbidin (ʿa) said it in the last hours of the month's nights [@mafatih, p. 282]. Maliki Tabrizi tells the traveller not to forget it, every night or every other night [@journey, p. 111].
+The other prayers have their own times. Duʿa Kumayl belongs to Thursday evenings and to the night of mid-Shaʿban [@mafatih, p. 129]. Duʿa ʿArafah is the prayer of Imam al-Husayn (ʿa) on the Day of ʿArafah [@mafatih, p. 374]. Duʿa Abu Hamza al-Thumali belongs to Ramadan. Imam Zayn al-ʿAbidin (ʿa) said it in the last hours of the month's nights [@mafatih, p. 282]. Maliki Tabrizi tells the traveller not to forget it, every night or every other night [@journey, p. 111].
 
 Imam Khomeini begins one of his talks from this familiarity. "You are already familiar with the words used in Imams' supplications," he tells his listeners, before reading them lines from the Shaʿbaniyyah [@light, p. 156]. The familiarity he speaks of is the kind these nights give.
 
 Familiarity with the words is not the same as reaching what they describe, and the scholars say so. Maliki Tabrizi, having called the supplications an Ascending-Qur'an, writes that this "is not accepted and comprehended by any one, except a small number of believers who are thoroughly familiar and enlightened" [@journey, p. 43]. Imam Khomeini, discussing how hard it is to put God's relation to His creation into words, says that "those who are fit to do so" should pray in the style of the Shaʿbaniyyah for God to enlighten them [@light, p. 157].
 
-Maliki Tabrizi also treats the words as a gift to every believer. The Imams, he writes, by leaving these supplications "have done a great favour to us" [@journey, p. 43]. Sheikh Bahmanpour, for his part, recommends the Munajat to every listener, to be recited in Shaʿban as often as they can, while granting that we do not understand many of its meanings. The two positions answer different questions. The scholars speak of how far a reciter reaches; the Sheikh speaks of who may begin. What this chapter claims is access to these words, rather than attainment of what they ask for.
+Sheikh Bahmanpour still recommends the Munajat to every listener, to be recited in Shaʿban as often as they can, while granting that we do not understand many of its meanings. The two positions answer different questions. The scholars speak of how far a reciter reaches; the Sheikh speaks of who may begin. What this chapter claims is access to these words, rather than attainment of what they ask for.
 
 ## Words already on our lips
 
@@ -142,7 +142,7 @@ Maliki Tabrizi also treats the words as a gift to every believer. The Imams, he 
 The goal of ʿirfan is already on the believer's lips. The prayers we keep on ordinary nights ask, in the voice of need, for severance from all else, and for sight, love and nearness.
 :::
 
-Access to these words is where an ordinary believer already stands on the path. Part One began with the Qur'an's invitation to more than the minimum. Chapter 2 showed that the more is knowing God, and not only knowing about Him, and that it is reached by purifying the heart. This chapter has found that knowing, with the love that goes with it, in prayers believers already say.
+Access to these words is where an ordinary believer already stands on the path. Part One began with the Qur'an's invitation to more than the minimum. Chapter 2 showed that the more is knowing God, not only knowing about Him, reached by purifying the heart. This chapter has found that knowing, with the love that goes with it, in prayers believers already say.
 
 The Munajat Shaʿbaniyyah, Duʿa Kumayl, Duʿa Abu Hamza al-Thumali and Duʿa ʿArafah ask God to cut the heart off from all else, to light it, to fill it with His love and to bring it near. They ask in the voice of someone in need, on nights the ordinary believer keeps. The goal of ʿirfan is therefore not foreign to the believer, and it is not reserved for an elite: it is already on our lips. The full text of the Munajat Shaʿbaniyyah, in Arabic and English, is given in the Appendix.
 
