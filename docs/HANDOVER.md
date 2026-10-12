@@ -27,6 +27,7 @@ For each chapter:
 1. **Gate A, the brief.** Write `docs/briefs/NN-case.md` from the template and ARGUMENT.md. Present it to the user as short bullets: conclusion, points, headings, quotes planned, "Try this", hand-off. Wait for approval. The two briefs in a Part can be presented together.
 2. **Draft.** Use the `chapter-writer` (Opus or Fable). It reads the exemplar in full first, writes the point notes before the prose, keeps quotes short, puts Arabic with every quote, and paraphrases the Sheikh's informal speech.
 3. **Tone pass.** The `tone-editor` agent line-edits the draft against the exemplar and TONE.md. Apply its edits.
+3b. **Voice gate (D37, `docs/VOICE-TEST.md`).** Run `build/voice.py profile`, then a blind `voice-judge` run against a rejected-draft control. The chapter goes on only when both pass; failed tells go back to the tone-editor, up to three rounds. Keep the report in `reviews/voice/NN-report.md` and quote the result to the user when sending the PDF.
 4. **Fidelity pass.** The `fidelity-checker` (Sonnet) checks quotes, verses, citations and Arabic against the sources. Fix anything high or medium.
 5. **The orchestrator reads the draft itself.**
    - Measure paragraph and sentence length against the targets in EXEMPLAR.md.

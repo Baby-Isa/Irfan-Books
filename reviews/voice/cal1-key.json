@@ -1,0 +1,19 @@
+{
+ "A": "control",
+ "B": "control",
+ "C": "chapter",
+ "D": "control",
+ "E": "control",
+ "F": "exemplar",
+ "G": "chapter",
+ "H": "chapter",
+ "I": "exemplar",
+ "J": "chapter",
+ "K": "exemplar",
+ "L": "exemplar",
+ "_meta": {
+  "chapter": "/tmp/claude-0/-home-user-Irfan-Books/68a85c8c-f8e2-5b06-84ce-c8abbf093896/scratchpad/cal-candidate.md",
+  "control": "5856b3c~1:book2/chapters/01-seeking-not-powers.md",
+  "exemplar": "32e44c9"
+ }
+}

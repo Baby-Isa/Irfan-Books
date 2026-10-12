@@ -180,3 +180,14 @@ _Append only. Each entry: date, decision, why. To reverse a decision, add a new 
 - **Approval:** the user and his uncle approved them, and commit `32e44c9` on this branch freezes them. `docs/EXEMPLAR.md` records the target numbers and the first-draft → final pairs.
 - **Writers:** every writer reads the exemplar in full before drafting.
 - **Tone editing:** a new `tone-editor` agent line-edits each draft against the exemplar before the fidelity check.
+
+## 2026-10-12: D37. A voice gate before the user sees a chapter
+- **Decision:** after the tone-editor pass, every Book 2 chapter must pass a two-part voice test (`docs/VOICE-TEST.md`) before the fidelity check and before the user sees it.
+  - **Measured profile** (`build/voice.py profile`): paragraph and sentence length, TONE habits and lingo, set against the exemplar's own spread.
+  - **Blind judge** (`voice-judge` agent): a fresh judge reads the exemplar as "Author A", then marks shuffled passages (held-out exemplar, the new chapter, and a control drafted before D29 that the user rejected) as same or different hand.
+- **Rules:** the run is valid only if the judge catches at least 3 of 4 control passages. The chapter passes only if it is flagged no more often than the real author in the same run. Failed tells go to the tone-editor, for up to three rounds; after that, the user decides.
+- **Calibration:** both exemplar files pass. All eight rejected drafts fail at least one test. The judges caught 8/8 control passages, with 2/8 false alarms on the real author.
+- **Why:** the user asked for a rigorous check that new chapters read as the same author as the prologue and Ch 1, run before drafts reach them.
+
+## 2026-10-12: D38. Part One briefs (Ch 2 and 3) drafted for Gate A
+- `docs/briefs/02-case.md` and `docs/briefs/03-case.md`, from ARGUMENT v2.1 and source evidence packs. Ch 2 drops the L06/L10 anchors on 2.3 (neither lecture quotes a duʿa) and takes its occasions from the Mafatih. Ch 3 marks the "study serves" clause of 3.4 as added (Khomeini, Tabatabaʾi), since the Sheikh gives study no role. Awaiting user approval.

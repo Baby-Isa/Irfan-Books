@@ -13,6 +13,7 @@ Both books start as a pilot chapter. The chosen style then goes into full produc
 
 | Task | Read |
 |---|---|
+| Voice gate before the user sees a chapter | `docs/VOICE-TEST.md` |
 | Write or edit a chapter | **`docs/EXEMPLAR.md` and the two exemplar files it names (read in full first)**, `docs/LINGO.md`, `docs/TONE.md` (stance and paragraph flow; every rule has a before/after), `docs/ARGUMENT.md`, that chapter's brief in `docs/briefs/`, `docs/STYLE_GUIDE.md`, `docs/GLOSSARY.md`, that chapter's entry in `docs/OUTLINE.md`, the relevant `notes/` and transcript ¶ ranges |
 | Typesetting or layout | `docs/DESIGN.md`, `build/` |
 | Sources or citations | `docs/SOURCES.md`, `sources/bibliography.bib` |
@@ -79,6 +80,7 @@ build/                  Pandoc → Typst template, Lua filter, fonts, Makefile
 ## Build
 - `python3 build/build.py pdf book1` → `build/out/book1.pdf` (drafts highlight markers; add `--final` for release, which refuses to build while markers remain)
 - `python3 build/build.py pdf book2 "0[01]*" --review` → clean reader copy (no point notes, markers hidden, no edition line or DRAFT banner)
+- `python3 build/voice.py profile <chapter>` → voice profile against the exemplar; `blind NN <chapter>` / `score NN` → blind same-author test (`docs/VOICE-TEST.md`)
 - `python3 build/build.py check` lists open `[VERIFY]`/`[QUERY]`/`[GAP]` markers
 - `python3 build/quran.py 30:21-22` prints verified Arabic
 - Verse blocks only need `::: {.ayah ref="30:21"}` + English; the build inserts the Arabic itself

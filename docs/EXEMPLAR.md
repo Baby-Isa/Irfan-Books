@@ -50,4 +50,4 @@ Each pair below is real. "Before" comes from the drafts the user rejected; "afte
 ## How to use it
 - **Before drafting:** read the two exemplar files, then the brief. Write the `::: {.point}` note for each section first; the prose serves the note.
 - **While drafting:** check each paragraph against the exemplar's numbers, and against TONE rule 1 (its opening links to the last paragraph).
-- **After drafting:** run the `tone-editor` agent. It compares the draft with the exemplar and TONE.md and returns line edits. Then run the `fidelity-checker`.
+- **After drafting:** run the `tone-editor` agent. It compares the draft with the exemplar and TONE.md and returns line edits. Then run the voice test (`docs/VOICE-TEST.md`): the measured profile and a blind judge who must tell the new chapter from the exemplar and fails to. Then run the `fidelity-checker`.

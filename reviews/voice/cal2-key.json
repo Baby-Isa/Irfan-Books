@@ -1,0 +1,19 @@
+{
+ "A": "chapter",
+ "B": "control",
+ "C": "control",
+ "D": "exemplar",
+ "E": "exemplar",
+ "F": "chapter",
+ "G": "control",
+ "H": "control",
+ "I": "chapter",
+ "J": "exemplar",
+ "K": "exemplar",
+ "L": "chapter",
+ "_meta": {
+  "chapter": "/tmp/claude-0/-home-user-Irfan-Books/68a85c8c-f8e2-5b06-84ce-c8abbf093896/scratchpad/cal2.md",
+  "control": "7225b76:book2/chapters/01-seeking-not-powers.md",
+  "exemplar": "32e44c9"
+ }
+}
