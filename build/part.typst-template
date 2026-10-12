@@ -1,0 +1,5 @@
+#import "../../template.typ": *
+
+#part(num: "$num$", title: [$title$], question: [$question$], epigraph-ar: "$epigraph-ar$", epigraph: [$epigraph$], source: [$source$])[
+$body$
+]

@@ -105,21 +105,25 @@
     body
   })
 
-// Part opener with Munajat epigraph
-#let part(num: "", title: "", question: "", epigraph-ar: "", epigraph: []) = {
+// Part opener (D40): number, title, the reader's question, a short answer and the
+// chapter list (body), then the Munajat epigraph assigned to the Part.
+#let part(num: "", title: [], question: [], epigraph-ar: "", epigraph: [], source: [], body) = {
   pagebreak(weak: true, to: "odd")
-  set par(first-line-indent: 0pt)
-  v(40mm)
+  set par(first-line-indent: 0pt, justify: false)
+  v(32mm)
   align(center, text(size: 10pt, fill: gold, tracking: 0.2em, upper("Part " + num)))
   v(4mm)
   align(center, text(size: 26pt, fill: teal, title))
   v(2mm)
   align(center, text(size: 12pt, style: "italic", fill: ink, question))
-  v(10mm)
+  v(8mm)
+  align(center, block(width: 78%, { set text(size: 10.5pt); set par(leading: 0.62em, spacing: 0.9em); body }))
+  v(8mm)
   star-band(width: 50%)
-  v(10mm)
+  v(8mm)
   if epigraph-ar != "" { align(center, text(font: "Amiri", lang: "ar", dir: rtl, size: 14pt, epigraph-ar)); v(3mm) }
   align(center, pad(x: 12mm, text(size: 10.5pt, style: "italic", epigraph)))
+  if source != [] { v(2mm); align(center, text(size: 8.5pt, fill: gold, source)) }
   pagebreak()
 }
 
@@ -133,23 +137,6 @@
     body
   })
 
-// Part opener with Munajat epigraph
-#let part(num: "", title: "", question: "", epigraph-ar: "", epigraph: []) = {
-  pagebreak(weak: true, to: "odd")
-  set par(first-line-indent: 0pt)
-  v(40mm)
-  align(center, text(size: 10pt, fill: gold, tracking: 0.2em, upper("Part " + num)))
-  v(4mm)
-  align(center, text(size: 26pt, fill: teal, title))
-  v(2mm)
-  align(center, text(size: 12pt, style: "italic", fill: ink, question))
-  v(10mm)
-  star-band(width: 50%)
-  v(10mm)
-  if epigraph-ar != "" { align(center, text(font: "Amiri", lang: "ar", dir: rtl, size: 14pt, epigraph-ar)); v(3mm) }
-  align(center, pad(x: 12mm, text(size: 10.5pt, style: "italic", epigraph)))
-  pagebreak()
-}
 
 // Draft markers: visible in drafts so nothing slips through.
 #let marker-style(it) = highlight(fill: rgb("#FFE8A3"), extent: 1pt, text(font: sans, size: 0.82em, fill: rgb("#8A4B00"), it))

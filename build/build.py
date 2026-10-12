@@ -48,7 +48,21 @@ def pdf(book, final=False, pattern="*", review=False):
     work.mkdir(exist_ok=True)
     env = dict(os.environ, IRFAN_ROOT=str(ROOT), IRFAN_FINAL="1" if (final or review) else "0")
     includes = []
+    parts = {}
+    for pf in sorted((ROOT / book / "parts").glob("*.md")) if (ROOT / book / "parts").exists() else []:
+        m = re.search(r"^before:\s*(\d+)", pf.read_text(encoding="utf-8"), re.M)
+        if m:
+            parts[int(m.group(1))] = pf
     for f in chapters(book, pattern):
+        m = re.search(r"^chapter:\s*(\d+)", f.read_text(encoding="utf-8"), re.M)
+        if m and int(m.group(1)) in parts:            # Part divider before its first chapter (D40)
+            pf = parts[int(m.group(1))]
+            ptyp = work / (pf.stem + ".typ")
+            subprocess.run(["pandoc", str(pf), "-f", "markdown", "-t", "typst",
+                            "--lua-filter", str(BUILD / "irfan.lua"),
+                            "--template", str(BUILD / "part.typst-template"),
+                            "-o", str(ptyp)], check=True, env=env)
+            includes.append(f'#include "{ptyp.name}"')
         typ = work / (f.stem + ".typ")
         subprocess.run(["pandoc", str(f), "-f", "markdown", "-t", "typst",
                         "--lua-filter", str(BUILD / "irfan.lua"),
