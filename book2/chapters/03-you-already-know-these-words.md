@@ -10,7 +10,7 @@ And my heart enthralled by Your love! [@duas_dua_kumayl, §221]
 
 These words come near the end of Duʿa Kumayl, the prayer Imam ʿAli (ʿa) taught to Kumayl ibn Ziyad, one of his closest disciples. The Mafatih al-Jinan recommends it on every Thursday evening, the night before Friday, when many of us hear it [@mafatih, p. 129]. The line asks God for a heart enthralled by His love.
 
-A request for God's love begins to answer the question Chapter 2 ended on. That chapter argued that knowing God is reached by purifying the heart. Purification sounds far off, and the question was whether an ordinary believer already stands anywhere on this path. The words we already say ask for exactly what Chapter 2 described. Duʿa Kumayl asks for the love that goes with that knowing; other prayers we recite ask for the knowing itself. This chapter sets out what those prayers ask for.
+A request for God's love begins to answer the question Chapter 2 ended on. That chapter argued that knowing God is reached by purifying the heart, and it asked where an ordinary believer already stands on this path. The words we already say ask for exactly what Chapter 2 described. Duʿa Kumayl asks for the love that goes with that knowing; other prayers we recite ask for the knowing itself. This chapter sets out what those prayers ask for.
 
 ::: {.words}
 *duʿa*: supplication, any request made to God · *munajat*: an intimate, whispered prayer to God · *Mafatih al-Jinan*: the standard manual of Shia prayers · *inqitaʿ*: severance of the heart from all but God
@@ -96,7 +96,7 @@ Murtada Mutahhari names these prayers together in his introduction to ʿirfan. "
 The prayers ask from need and humility, in words far above our level, as if a primary school pupil were handed a university book. Sheikh Bahmanpour's answer is that we are honoured to be allowed to say them, and that God may grant a sincere reciter what He granted the Imams.
 :::
 
-Requests this high raise a difficulty, and Sheikh Bahmanpour states it himself. These words, he says, belong to the peak of the understanding and longing of the *muqarrabun*, those brought near to God. He asks why we are told to recite them at all. Telling ordinary believers to say them, he says, is like handing a primary school pupil a university book.
+Requests this high raise a difficulty, and Sheikh Bahmanpour states it himself. These words, he says, belong to the peak of the understanding and longing of the *muqarrabun*, those brought near to God. He asks why we are told to recite them at all. Telling ordinary believers to say them, he says, is "like [telling] a primary school boy to read books of university".
 
 The prayers themselves speak from need, as a pupil would. Duʿa ʿArafah, as given in the Mafatih, offers God one thing as its means of approach, the supplicant's need of Him.
 

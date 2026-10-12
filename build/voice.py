@@ -278,8 +278,9 @@ def profile(specs):
         hits = lingo_hits(paras)
         for h in hits:
             print(f"   LINGO {h}")
-        verdict = "PASS" if (not off and lp <= LONGEST and over <= max(1, len(ds) // 5)
-                             and not hits) else "REWRITE"
+        # Delta is reported, not gated: calibration showed it does not separate
+        # drafts from the exemplar with a ~3,300-word reference (VOICE-TEST.md).
+        verdict = "PASS" if (not off and lp <= LONGEST and not hits) else "REWRITE"
         print(f"   Profile verdict: {verdict}\n")
         report[spec] = {"verdict": verdict, "off": off, "delta_median": st.median(ds),
                         "delta_over": f"{over}/{len(ds)}", "lingo": hits}
