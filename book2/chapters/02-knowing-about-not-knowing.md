@@ -4,9 +4,9 @@ title-ar: ""
 chapter: 2
 ---
 
-On a day of fasting in Ramadan, by late afternoon, no one has to be told that they are hungry. They do not read it in a book or work it out from the clock. The hunger is known from the inside, and none of it is missed. Sheikh Bahmanpour uses hunger to describe a kind of knowing that differs from the kind gained by study.
+On a day of fasting in Ramadan, by late afternoon, no one has to be told that they are hungry. They do not read it in a book or work it out from the clock. The hunger is known from the inside. Sheikh Bahmanpour uses hunger to describe a kind of knowing that differs from the kind gained by study.
 
-Most of what we know of God is of the kind gained by study. We learn the rulings of fiqh, the beliefs the scholars set out and the history of the Prophet ﷺ and the Imams (ʿa); all of it is knowledge about God. Chapter 1 argued that the Qur'an invites more than the minimum. The more it invites is the kind of knowing the fasting person has of their hunger: knowing God, and not only knowing about Him.
+Most of what we know of God is of the kind gained by study. We learn the rulings of fiqh, the beliefs the scholars set out and the history of the Prophet ﷺ and the Imams (ʿa); all of it is knowledge about God. Chapter 1 argued that the Qur'an invites more than the minimum, and that the aim is to know and love God. The knowing it means is the kind the fasting person has of their hunger: knowing God, and not only knowing about Him.
 
 ::: {.words}
 *ʿIlm*: knowledge, especially knowledge gained by study · *ʿilm al-husuli*: acquired knowledge · *ʿilm al-huduri*: knowledge by presence · *ʿaql*: the reasoning intellect · *suluk*: wayfaring; the path of purification
@@ -18,21 +18,21 @@ Most of what we know of God is of the kind gained by study. We learn the rulings
 Acquired knowledge comes from outside and works by defining, which is limiting. Knowledge by presence is already with the soul and is arrived at, not worked out; the ʿarif's knowledge of God is of this second kind.
 :::
 
-Let's start with the two kinds of knowing as the philosophers and the mystics divide them. The first is acquired knowledge, *ʿilm al-husuli*; *husul* means to acquire. It reaches us from outside, through the senses or by reasoning. We form concepts of the things around us, then analyse those concepts. Almost everything we learn from teachers and books is of this kind.
+Let's start with the two kinds of knowing as the philosophers and the mystics divide them. The first is acquired knowledge, *ʿilm al-husuli*. It reaches us from outside, through the senses or by reasoning. We form concepts of the things around us, then analyse those concepts. Almost everything we learn from teachers and books is of this kind.
 
-Acquired knowledge works by defining its object. To understand a thing, we sort it into a category and mark where it ends and something else begins. The Arabic for a definition, *hadd*, also means a limit, and Sheikh Bahmanpour draws the lesson from the word: to define a thing is to limit it. The old definition of a human being as "the rational animal" works by drawing a line round us. This kind of knowledge, he adds, belongs to the realm of time and space.
+Acquired knowledge works by defining its object. To understand a thing, we sort it into a category and mark where it ends and something else begins. The Arabic for a definition, *hadd*, also means a limit. Sheikh Bahmanpour draws the lesson from the word: to define a thing is to limit it. The old definition of a human being as "the rational animal" works by drawing a line round us. This kind of knowledge, he adds, belongs to the realm of time and space.
 
 The second kind is knowledge by presence, *ʿilm al-huduri*. It does not come from outside and needs no concept to carry it; it is with the soul already. The plainest case, in the Sheikh's account, is our knowledge of our own self. Hunger, the example this chapter opened with, is another, and so is pain.
 
-Knowledge by presence is complete in a way that acquired knowledge is not. When the body is hungry, the soul knows it at once and without effort, and nothing of the hunger is missed. The hunger may even be false, he notes, yet the feeling is real, and it drives us. Anxiety works in the same way. It has a cause outside us, but the feeling comes from inside the soul, and the cause is not the feeling.
+Knowledge by presence is complete in a way that acquired knowledge is not. When the body is hungry, the soul knows it at once and without effort, and nothing of the hunger is missed. The hunger may even be false, the Sheikh notes, yet the feeling is real and drives us. Anxiety works in the same way. It has a cause outside us, but the feeling comes from inside the soul; the cause is not the feeling.
 
 This second kind of knowing is what the mystics are after. Sheikh Bahmanpour defines mysticism as the urge to reach out to the infinite through knowledge by presence. The two kinds of knowing therefore aim at different things. *ʿIlm*, in his terms, aims at understanding; *maʿrifah* aims at arriving. A person does not try to understand their hunger; they arrive at it and feel it.
 
-Where ʿilm divides and defines, maʿrifah turns inward, and it is bound up with purifying the self. The mystic's aim, the Sheikh says, is to arrive at God and not to define Him, since a God who has been defined has been limited.
+Maʿrifah turns inward, and it is bound up with purifying the self. The mystic's aim, the Sheikh says, is to arrive at God and not to define Him, since a God who has been defined has been limited.
 
-The two words are kept apart here only as a working distinction. Sheikh Bahmanpour notes that the religious texts use *ʿilm* and *maʿrifah* for the same thing. When they speak of ʿilm they mean maʿrifah, and they do not count the other kind as knowledge in the full sense. He separates the words to make the difference between the two kinds of knowing easier to see.
+The two words are kept apart here only as a working distinction. Sheikh Bahmanpour notes that the religious texts use *ʿilm* and *maʿrifah* for the same thing. When they speak of ʿilm they mean maʿrifah; they do not count the other kind as knowledge in the full sense. He separates the words to make the difference between the two kinds of knowing easier to see.
 
-Imam Khomeini and Murtada Mutahhari draw the same line between the two kinds of knowing. In his commentary on a saying of Imam ʿAli (ʿa), Imam Khomeini reports the view that a gnostic of God "knows God through direct witnessing", while a scholar of God "attains the knowledge of God through philosophical proofs" [@forty_hadith, p. 542]. The word he uses for that witnessing, *huduriyyah*, shares its root with *ʿilm al-huduri*. The gnostic's knowledge of God is knowledge by presence.
+Imam Khomeini and Murtada Mutahhari draw the same line as the Sheikh between the two kinds of knowing. In his commentary on a saying of Imam ʿAli (ʿa), Imam Khomeini reports the view that a gnostic of God "knows God through direct witnessing", while a scholar of God "attains the knowledge of God through philosophical proofs" [@forty_hadith, p. 542]. The word Imam Khomeini uses for that witnessing, *huduriyyah*, shares its root with *ʿilm al-huduri*. The gnostic's knowledge of God is knowledge by presence.
 
 Mutahhari makes the same contrast with an image from the sciences. The philosopher's knowledge, he writes, is like that of a mathematician who has thought a problem through. The knowledge sought by the ʿarif "is experienced and witnessed", like the knowledge a scientist gains in his laboratory [@light, p. 41]. A result in the laboratory is known because it has been observed, not because it has been deduced.
 
@@ -48,13 +48,13 @@ Reason knows a thing by its attributes and never reaches the reality that carrie
 
 Acquired knowledge is the work of reason, *ʿaql*, the theoretical intellect by which we reason, understand and argue. Reason has a limit, and Sheikh Bahmanpour says where it lies. When we know a thing, we know its attributes: its colour, its size, what it does. Reason does not reach the thing that carries those attributes. Every description says that it is brown or square or useful, and none says what the "it" is.
 
-In the Sheikh's account, Ibn Sina, the master of the philosophers, granted this. To know the reality of a thing, he held, is beyond human capacity; what we know of an object is its characteristics and attributes. If this is true of a stone, it is true far more of God. God has no colour, no dimension and no function for the mind to take hold of. The mind knows by analysing, and in Him it finds nothing to analyse.
+In the Sheikh's account, Ibn Sina, the master of the philosophers, granted this. To know the reality of a thing, he held, is beyond human capacity; what we know of an object is its characteristics and attributes. If this is true of a stone, it is true far more of God. God has no colour, no dimension and no function for the mind to take hold of.
 
 ::: {.box-story title="Story: Ibn Sina and Abu Saʿid"}
-Sheikh Bahmanpour tells how Ibn Sina, the master of philosophy, changed after he met Abu Saʿid Abu'l-Khayr, a great mystic of his time. As a young man Ibn Sina had no rival among the philosophers. Towards the end of his life, the Sheikh says, he wrote to Abu Saʿid asking to learn from him. In his *al-Isharat wa'l-Tanbihat* he then wrote a section on the stations of the ʿarifs, which the teachers of ʿirfan in Qum still teach and regard as unsurpassed. The Sheikh does not count Ibn Sina an ʿarif; his mind was bright enough to write that section from a visit and a correspondence. His remark that the reality of things is beyond human capacity came before it. Murtada Mutahhari also records that the two men met [@light, p. 29]. He summarises the same section of the *Isharat*, and calls Ibn Sina "mainly a philosopher, not a mystic", though one who "especially towards the end of his life ... developed mystic inclinations" [@light, p. 42].
+Sheikh Bahmanpour tells how Ibn Sina changed after he met Abu Saʿid Abu'l-Khayr, a great mystic of his time. As a young man Ibn Sina had no rival among the philosophers. Towards the end of his life, the Sheikh says, he wrote to Abu Saʿid asking to learn from him. In his *al-Isharat wa'l-Tanbihat* he then wrote a section on the stations of the ʿarifs, which the teachers of ʿirfan in Qum still teach and regard as unsurpassed. The Sheikh does not count Ibn Sina an ʿarif; his mind was bright enough to write that section from a visit and a correspondence. His remark that the reality of things is beyond human capacity came before he wrote that section. Murtada Mutahhari also records that the two men met [@light, p. 29]. He summarises the same section of the *Isharat*, and calls Ibn Sina "mainly a philosopher, not a mystic", though one who "especially towards the end of his life ... developed mystic inclinations" [@light, p. 42].
 :::
 
-Imam ʿAli (ʿa) says the same at the opening of the first oration in *Nahj al-Balagha*, where he praises God.
+Imam ʿAli (ʿa) makes the same point about God at the opening of the first oration in *Nahj al-Balagha*, where he praises Him.
 
 ::: {.quote ar="[VERIFY: Arabic of Nahj 1.1.1 from Qutbuddin p. 121]" source="Nahj al-Balagha"}
 Soaring thoughts cannot reach him and deep minds cannot fathom him. [@nahj, 1.1.1]
@@ -62,11 +62,9 @@ Soaring thoughts cannot reach him and deep minds cannot fathom him. [@nahj, 1.1.
 
 Soaring and depth are the two strengths of reason, its range and its penetration, and the Imam says that neither arrives at God. The next sentence of the oration gives the reason. God "cannot be described, for he is beyond the limits of demarcated boundaries" [@nahj, 1.1.1]. Sheikh Bahmanpour cites *Nahj al-Balagha* for the same point, that whoever defines God has placed limits on Him.
 
-Reason is not left with nothing to do. Arguments can show that God exists, the Sheikh says. What they cannot say is what God is.
+Reason is not left with nothing to do. Arguments can show that God exists, the Sheikh says, but they cannot say what God is. It might seem to follow that nothing can be known of Him at all. Sheikh Bahmanpour does not draw that conclusion. "We cannot know the essence of God and we cannot understand God," he says. "But we want to know Him." ʿIrfan, he goes on, wants to know God's primordial attributes and His eternal characteristics.
 
-If reason cannot reach God's essence, it might seem that nothing can be known of Him at all. Sheikh Bahmanpour does not draw that conclusion. "We cannot know the essence of God and we cannot understand God," he says. "But we want to know Him." What ʿirfan wants to know, he goes on, is God's primordial attributes and His eternal characteristics.
-
-This knowledge of God's attributes is positive, and the Sheikh sets it against the negative kind. Much of what we know about God is negative: God is not a body, and God is not in one place and absent from another. Such statements are true, and each of them says what God is not. The prophets, he says, were after something else. They wanted a real experience and knowledge of God, "a positive and not a negative knowledge", of what God is.
+This knowledge of God's attributes is positive, and the Sheikh sets it against the negative kind. Much of what we know about God is negative: God is not a body, and God is not in one place and absent from another. Such statements are true; each says what God is not. The prophets, he says, were after something else. They wanted a real experience and knowledge of God, "a positive and not a negative knowledge".
 
 That positive knowledge is not reached by analysis. In ʿirfan, the Sheikh says, it is a knowledge that comes from the illumination of the heart. The prophets knew God in this way, with a knowledge present in their hearts and not worked out by argument.
 
@@ -80,13 +78,13 @@ In Sheikh Bahmanpour's account, Mulla Sadra changed the whole course of Islamic 
 The knowledge of God the mystics seek is a light that God places in the heart. His light is everywhere and nothing is held back on His side, so what stands in the way is a closed heart. This light passes from heart to heart, and for the Shia it comes through the Imams.
 :::
 
-Knowledge that analysis cannot produce has to come from somewhere else. Sheikh Bahmanpour answers from a hadith on knowledge, which Imam Khomeini also quotes in his *Forty Hadith*.
+Knowledge that analysis cannot produce has to come from somewhere else. Sheikh Bahmanpour names the source with a hadith on knowledge, which Imam Khomeini also quotes in his *Forty Hadith*.
 
 ::: {.quote ar="[VERIFY: Arabic of the hadith from Forty Hadith p. 331]" source="Hadith"}
 Knowledge is not extensive learning. Rather, it is a light that God casts in the heart of whomever He wills. [@forty_hadith, p. 331]
 :::
 
-The hadith sets the two kinds of knowing side by side. Extensive learning is acquired knowledge, gathered from outside. The light is not gathered at all; it is placed in the heart, and it is God who places it. The *Lantern of the Path*, attributed to Imam al-Sadiq (ʿa), uses nearly the same words. Knowledge, it says, is a light "which Allah casts into the heart of whomsoever He wills" [@lantern, p. 10].
+The hadith sets the two kinds of knowing side by side. Extensive learning is acquired knowledge, gathered from outside. The light is not gathered at all; God places it in the heart. The *Lantern of the Path*, attributed to Imam al-Sadiq (ʿa), uses nearly the same words. Knowledge, it says, is a light "which Allah casts into the heart of whomsoever He wills" [@lantern, p. 10].
 
 The words "whomever He wills" could be read to mean that God rations His light among a chosen few. Sheikh Bahmanpour sets beside them a verse of Surah al-Nur.
 
@@ -94,13 +92,13 @@ The words "whomever He wills" could be read to mean that God rations His light a
 Allah is the Light of the heavens and the earth.
 :::
 
-Allah's light, the Sheikh says, is everywhere, in the heavens and in the earth, and He is with us wherever we are. What is closed is the heart. It is not the case, he says, that Allah picks out some people to receive light and passes over others. There is no hindrance on His side to pouring His knowledge and bounty upon us. It is all there, and the work of the ʿurafaʾ is to open the heart and let the light in.
+Allah's light, the Sheikh says, is everywhere, in the heavens and in the earth, and He is with us wherever we are. It is the heart that is closed. It is not the case, he says, that Allah picks out some people to receive light and passes over others. There is no hindrance on His side to pouring His knowledge and bounty upon us. His knowledge and bounty are all there; the work of the ʿurafaʾ is to open the heart and let the light in.
 
 Imam Khomeini makes the same point in his comment on the hadith of light. There is, he writes, "no niggardliness in the higher realms", which give of their nature [@forty_hadith, p. 331]. Whatever stands between the heart and the light stands on our side. The light, the Sheikh says, comes to the hearts of the pure, and darkness covers the impure. Chapter 1 reached the same conclusion by another road, when it placed the fault in the receiver.
 
-A light placed in one heart can reach another, and this, for Sheikh Bahmanpour, is how the knowledge of the ʿurafaʾ travels. We know from experience how knowledge passes from one mind to another, through speech and writing; we have no such experience of knowledge passing from one heart to another. The knowledge of the ʿurafaʾ, he says, is nonetheless of the second kind, coming "not from mind to mouth but from heart" to heart.
+A light placed in one heart can reach another, and this, for Sheikh Bahmanpour, is how the knowledge of the ʿurafaʾ travels. We know from experience how knowledge passes from one mind to another, through speech and writing; we have no such experience of knowledge passing from one heart to another. The knowledge of the ʿurafaʾ, he says, nonetheless passes in the second way, coming "not from mind to mouth but from heart" to heart.
 
-Knowledge that passes from heart to heart usually needs a heart to pass it on. Receiving this light directly from God is possible, the ʿurafaʾ say, but it is difficult, and a traveller usually needs someone else to begin. In Shia belief, the Sheikh adds, whatever knowledge of God we receive comes from the Imam (ʿa). It reaches the heart through him, even when we do not realise it.
+This light usually reaches a traveller through another heart. Receiving it directly from God is possible, the ʿurafaʾ say, but it is difficult; most travellers need someone else to begin. In Shia belief, the Sheikh adds, whatever knowledge of God we receive comes from the Imam (ʿa). It reaches the heart through him, even when we do not realise it.
 
 ## The path is purification
 
@@ -110,11 +108,11 @@ Because this knowledge is light received in a purified heart, the path to it is 
 
 If the light is everywhere and the heart is closed, the path to knowing God is the opening of the heart. Sheikh Bahmanpour sets two words against each other. The knowledge learned at a university or a seminary comes through *fikr*, thought: we think, put things together, analyse and find out. Knowledge of God comes through *suluk*, wayfaring, which he describes as the path to purity, a striving towards purification.
 
-The knowledge of ʿirfan, the Sheikh says, is not something one can read anywhere or work out, and that is why it comes through suluk. In his words, "You purify yourself and then wait for Allah to put the light in your heart." The sentence divides the work. Purification is the traveller's part; the light is Allah's to give, and the traveller waits for it.
+The knowledge of ʿirfan, the Sheikh says, is not something one can read anywhere or work out, and that is why it comes through suluk. In his words, "You purify yourself and then wait for Allah to put the light in your heart." The sentence divides the work. Purification is the traveller's part; the light is Allah's to give.
 
-Purification has a first step, and the Sheikh names it. The traveller first polishes the soul by doing whatever the Prophet ﷺ has asked; "without this", he says, "there is no maʿrifah". Purification, in his account, is polishing the soul so that it starts working. It is the repair of the rusted faculty that Chapter 1 described.
+The first step of purification is to polish the soul by doing whatever the Prophet ﷺ has asked; "without this", the Sheikh says, "there is no maʿrifah". Purification, in his account, is polishing the soul so that it starts working. It is the repair of the rusted faculty that Chapter 1 described.
 
-The traveller does this in the hope that Allah will choose them. The Sheikh points to the verse of Surah al-Anfal that calls the believers to answer Allah and the Apostle when he summons them to what will give them life (Q 8:24). That life comes, he says, when a person follows the Prophet completely. His counsel is to put the soul right and wait for Allah's help.
+Having done this, the traveller waits for Allah's help and looks to nothing else. The Sheikh points to the verse of Surah al-Anfal that calls the believers to answer Allah and the Apostle when he summons them to what will give them life (Q 8:24). That life comes, he says, when a person follows the Prophet completely and then waits for the help of Allah.
 
 The Munajat Shaʿbaniyyah puts the same order into one line.
 
@@ -124,9 +122,9 @@ One who follows Your path is enlightened. [@light, p. 165; @duas_munajat_shabani
 
 The prologue opened on a line from this prayer that asks for the eyes of the heart to be lit until they reach the source of God's grandeur. This line names who receives that light: the one who follows God's path.
 
-A path that is not thought alone leaves open what study is for. Sheikh Bahmanpour sets fikr against suluk, and three of the great teachers of the tradition speak to how the two relate. For Imam Khomeini and ʿAllama Tabatabaʾi, study prepares the ground for purification, though it cannot take its place.
+A path that is not thought alone leaves open what study is for. Three of the great teachers of the tradition speak to how fikr and suluk relate. For Imam Khomeini and ʿAllama Tabatabaʾi, study prepares the ground for purification, though it cannot take its place.
 
-Imam Khomeini puts little store by mere knowledge. A learning that does not bring faith with it, he writes, "is the greatest of veils". He adds at once that "one has to approach a veil in order to tear it into shreds" [@forty_hadith, p. 403]. The sciences, he goes on, are seeds of spiritual experience. A few reach the higher stations without them, but that is rare. The usual way is first to remember God and learn of Him, His names and His attributes, then to open the heart through exercises and austerities [@forty_hadith, p. 403].
+Imam Khomeini puts little store by mere knowledge. A learning that does not bring faith with it, he writes, "is the greatest of veils". He adds that "one has to approach a veil in order to tear it into shreds" [@forty_hadith, p. 403]. The sciences, he goes on, are seeds of spiritual experience. A few reach the higher stations without them, but that is rare. The usual way is first to remember God and learn of Him, His names and His attributes, then to open the heart through exercises and austerities [@forty_hadith, p. 403].
 
 ʿAllama Tabatabaʾi gives study a fixed place near the start. Once the traveller has set out, the first essential, he writes, is knowledge of the rules of the shariʿa, learned from a jurist. The traveller then puts that knowledge into practice and perseveres until conviction and gnosis grow by degrees. "For knowledge gives birth to action and action in turn brings knowledge" [@kernel, p. 56]. In his scheme, what is learned from the jurist begins the circle, and the deeper knowledge comes back from the practice.
 
@@ -138,7 +136,7 @@ Murtada Mutahhari, the third, separates the philosopher from the ʿarif by the m
 Knowing God differs in kind from knowing about God, and it is reached by purification, which study serves but cannot replace.
 :::
 
-Chapter 1 described the ʿurafaʾ as those brought near to God, from whom a veil has been removed. The knowing that comes with that nearness is of the second kind. Knowledge about God is acquired from outside, through the senses and reason; it works by defining, and reason stops at the attributes of things. Knowing God is present to the soul, as hunger is present to the one who fasts, and it comes as a light that God places in a purified heart.
+Chapter 1 described the ʿurafaʾ as those brought near to God, from whom a veil has been removed. The knowing that comes with that nearness is knowledge by presence. Knowledge about God is acquired from outside, through the senses and reason; it works by defining, and reason stops at the attributes of things. Knowing God is present to the soul, as hunger is present to the one who fasts, and it comes as a light that God places in a purified heart.
 
 Knowing God therefore differs in kind from knowing about God. It is reached by purification, which study serves but cannot replace.
 

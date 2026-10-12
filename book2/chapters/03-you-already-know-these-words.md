@@ -8,9 +8,9 @@ chapter: 3
 And my heart enthralled by Your love! [@duas_dua_kumayl, §221]
 :::
 
-These words come near the end of Duʿa Kumayl, the prayer Imam ʿAli (ʿa) taught to Kumayl ibn Ziyad, one of his closest disciples. The Mafatih al-Jinan recommends it on every Thursday evening, the night before Friday, when many of us hear it [@mafatih, p. 129]. Just before this line, the prayer asks God for a tongue that remembers Him without ceasing. Then it asks for a heart enthralled by His love.
+These words come near the end of Duʿa Kumayl, the prayer Imam ʿAli (ʿa) taught to Kumayl ibn Ziyad, one of his closest disciples. The Mafatih al-Jinan recommends it on every Thursday evening, the night before Friday, when many of us hear it [@mafatih, p. 129]. The line asks God for a heart enthralled by His love.
 
-A request for God's love bears on the question Chapter 2 left open, whether an ordinary believer already stands anywhere on this path. Chapter 2 had argued that knowing God differs in kind from knowing about Him, and that this knowing comes as light in a heart that has been purified. Duʿa Kumayl asks for the love that goes with that knowing; other prayers we say ask for the knowing itself. This chapter sets out what those prayers ask for.
+A request for God's love begins to answer the question Chapter 2 ended on. That chapter argued that knowing God is reached by purifying the heart. Purification sounds far off, and the question was whether an ordinary believer already stands anywhere on this path. The words we already say ask for exactly what Chapter 2 described. Duʿa Kumayl asks for the love that goes with that knowing; other prayers we recite ask for the knowing itself. This chapter sets out what those prayers ask for.
 
 ::: {.words}
 *duʿa*: supplication, any request made to God · *munajat*: an intimate, whispered prayer to God · *Mafatih al-Jinan*: the standard manual of Shia prayers · *inqitaʿ*: severance of the heart from all but God
@@ -19,7 +19,7 @@ A request for God's love bears on the question Chapter 2 left open, whether an o
 ## Cut off from all else
 
 ::: {.point}
-The prayers' first request is that the heart be cut off from everything but God. The Munajat Shaʿbaniyyah, Duʿa Abu Hamza al-Thumali and Duʿa ʿArafah each ask for it, and the severance they mean is in the heart, not a withdrawal from family or society.
+The prayers' first request is that the heart be cut off from everything but God. The Munajat Shaʿbaniyyah and Duʿa Abu Hamza al-Thumali ask for it, and Duʿa ʿArafah describes it in those God loves. The severance they mean is in the heart, not a withdrawal from family or society.
 :::
 
 Let's start with the order in which the prayers ask. Sheikh Bahmanpour reads the Munajat Shaʿbaniyyah as a sequence. Those who seek God, he says, want to know Him and to look at Him, but "they have to cut off from everything first". In the prayer, the request for light in the eyes of the heart, with which this book opened, follows straight on from a request to be cut off.
@@ -30,11 +30,11 @@ My Lord, grant me complete severance of my relations with everything else [@ligh
 
 The Arabic word for this severance is *inqitaʿ*, being cut off, and the Munajat asks for it complete. Sheikh Bahmanpour asks whether it is good to be cut off completely from everything else. In the heart, he answers, it is. He places this severance a step beyond the sensitivity to God's signs that Chapter 1 described.
 
-The severance the prayers ask for is therefore in the heart, not in the household or the marketplace. Chapter 1 spoke of the friends of God in the same terms. They have families, friends and a place in society, as we do; in their hearts they are cut off from everything else.
+The severance the prayers ask for is therefore in the heart, not in the household or the marketplace. It is the severance Chapter 1 found in the friends of God, who keep their families and their place in society while their hearts are cut off from everything else.
 
-The whispered prayers of al-Sahifa al-Sajjadiyya, the Sheikh remarks, read as if they came from someone who had left society to live in a cave. Imam Zayn al-ʿAbidin (ʿa), to whom the Sahifa is attributed, lived in Medina, became an authority on the Prophet's traditions and on law, and fathered fifteen children [@sahifa, p. 8].
+The life of Imam Zayn al-ʿAbidin (ʿa), to whom al-Sahifa al-Sajjadiyya is attributed, draws the same line between the heart and the household. The whispered prayers of the Sahifa, the Sheikh remarks, read as if they came from someone who had left society to live in a cave. The Imam lived in Medina, became an authority on the Prophet's traditions and on law, and fathered fifteen children [@sahifa, p. 8].
 
-Duʿa Abu Hamza al-Thumali makes the Munajat's request in its own way, naming the attachment it wants removed. "O my Master, (please) expel love for the world out of my heart," it asks ([سَيِّدِي أَخْرِجْ حُبَّ ٱلدُّنْيَا مِنْ قَلْبِي]{lang=ar}) [@duas_ramadan_dua_abu_hamza_thumali, §384]. What the prayer asks to lose is the heart's love for the world. It does not ask to lose the world itself, or the people and the work in it.
+Duʿa Abu Hamza al-Thumali makes the Munajat's request in its own way, naming the attachment it wants removed. "O my Master, (please) expel love for the world out of my heart," it asks ([سَيِّدِي أَخْرِجْ حُبَّ ٱلدُّنْيَا مِنْ قَلْبِي]{lang=ar}) [@duas_ramadan_dua_abu_hamza_thumali, §384]. What the prayer asks to lose is the heart's love for the world, not the world itself or the people and the work in it.
 
 Duʿa ʿArafah, as given in the Mafatih, describes the same severance from the other side, as something God has already done for those He loves.
 
@@ -42,7 +42,7 @@ Duʿa ʿArafah, as given in the Mafatih, describes the same severance from the o
 It is You Who have removed love for others from the hearts of Your lovers so that they have loved none save You [@duas_dua_arafah_imam_husain, §783–784]
 :::
 
-The line names God as the one who cleared these hearts. He removed love for others from them, and what remained was love for Him alone. The Munajat and Duʿa Abu Hamza ask for this clearing; Duʿa ʿArafah describes it in those who have received it.
+The line names God as the one who cleared these hearts. He removed love for others from them, and what remained was love for Him alone.
 
 ## To see, to love, to draw near
 
@@ -50,11 +50,11 @@ The line names God as the one who cleared these hearts. He removed love for othe
 A heart cut off from all else is free for God, and the prayers go on to ask to see Him with the heart, to love Him and to come near Him. These are the knowing and the love that Chapter 1 named as the two aims of ʿirfan.
 :::
 
-A heart cleared of everything but God is cleared for something, and the prayers go on to say what. They ask for three things: to see God with the heart, to love Him, and to come near Him. Let's take them in turn.
+A heart cleared of everything but God is free for Him. The prayers go on to ask for three things: to see God with the heart, to love Him, and to come near Him. Let's take them in turn.
 
-The first is sight. The prologue opened on the Munajat's petition that God light up the eyes of our hearts with the light of looking at Him, until they pass through the veils of light. Sheikh Bahmanpour explains why the request is made of the heart. The eyes in our heads work, and still we miss the signs, because the faculty behind them is blind. The prayer asks God to give that inner eye light to see by.
+The first is sight, and the Munajat's petition for light in the eyes of the heart, with which this book opened, asks for it. Sheikh Bahmanpour explains why the request is made of the heart. The eyes in our heads work, and still we miss the signs, because the faculty behind them is blind. The prayer asks God to give that inner eye light to see by.
 
-The mystics speak of veils of light and darkness that the heart must pass through. Sheikh Bahmanpour notes that people unfamiliar with such words sometimes take them for mistakes. The Munajat itself speaks of the veils of light.
+The same petition asks that these eyes pass through the veils of light. The mystics speak of veils of light and darkness that the heart must pass through, and Sheikh Bahmanpour notes that people unfamiliar with such words sometimes take them for mistakes. The phrase comes from the Munajat itself.
 
 Duʿa ʿArafah, as given in the Mafatih, speaks of the heart's light as something God has already given to some.
 
@@ -72,13 +72,13 @@ My Lord, place me among Your friends in the position of one who hopes for an inc
 
 Sheikh Bahmanpour reads the friendship asked for here, *wilaya*, as having two parts. One is maʿrifah: understanding God, looking at Him, knowing Him. The other is love for Him. In his reading neither is fixed; the love is incessant, and the maʿrifah keeps increasing. These are the two aims Chapter 1 gave ʿirfan, and the Sheikh finds both in one line of the Munajat.
 
-The third request is nearness. Earlier in the same prayer, the Munajat asks for a heart that its own longing carries towards God.
+The third request is nearness, and the Munajat makes it earlier in the same prayer.
 
 ::: {.quote ar="إِلٰهِي هَبْ لِي قَلْباً يُدْنِيهِ مِنْكَ شَوْقُهُ" source="Munajat Shaʿbaniyyah"}
 My Lord, provide me with a heart, the passion of which may bring it near You [@light, p. 165; @duas_munajat_shabaniyah, §82]
 :::
 
-In this request the heart is brought near by its own passion for God. Duʿa Abu Hamza al-Thumali takes the request to its end and asks to love the meeting with God itself. "O Lord of Glory and Honor, (please do) make me love meeting You," it says ([يَا ذَا ٱلْجَلالِ وَٱلإِكْرَامِ حَبِّبْ إِلَيَّ لِقَاءَكَ]{lang=ar}) [@duas_ramadan_dua_abu_hamza_thumali, §599].
+In this request the heart is brought near by its own passion for God. Duʿa Abu Hamza al-Thumali goes further and asks to love the meeting with God itself. "O Lord of Glory and Honor, (please do) make me love meeting You," it says ([يَا ذَا ٱلْجَلالِ وَٱلإِكْرَامِ حَبِّبْ إِلَيَّ لِقَاءَكَ]{lang=ar}) [@duas_ramadan_dua_abu_hamza_thumali, §599].
 
 The Whispered Prayer of the Lovers asks for a place among those who have already been brought near. It is one of the fifteen whispered prayers printed with the Sahifa, and Sheikh Bahmanpour read several of its lines to his listeners.
 
@@ -96,17 +96,17 @@ Murtada Mutahhari names these prayers together in his introduction to ʿirfan. "
 The prayers ask from need and humility, in words far above our level, as if a primary school pupil were handed a university book. Sheikh Bahmanpour's answer is that we are honoured to be allowed to say them, and that God may grant a sincere reciter what He granted the Imams.
 :::
 
-Requests this high raise a difficulty, and Sheikh Bahmanpour states it himself. These words, he says, belong to the peak of the understanding and longing of the *muqarrabun*, those brought near to God. He asks why we are told to recite them at all. Telling ordinary believers to say them is, in his words, "like if you tell a primary school boy to read books of university".
+Requests this high raise a difficulty, and Sheikh Bahmanpour states it himself. These words, he says, belong to the peak of the understanding and longing of the *muqarrabun*, those brought near to God. He asks why we are told to recite them at all. Telling ordinary believers to say them, he says, is like handing a primary school pupil a university book.
 
-The prayers themselves do not speak from the height of a university. They speak from need. Duʿa ʿArafah, as given in the Mafatih, offers God one thing as its means of approach, the supplicant's need of Him.
+The prayers themselves speak from need, as a pupil would. Duʿa ʿArafah, as given in the Mafatih, offers God one thing as its means of approach, the supplicant's need of Him.
 
 ::: {.quote ar="هَا أَنَا أَتَوَسَّلُ إِلَيْكَ بِفَقْرِي إِلَيْكَ" source="Duʿa ʿArafah"}
 Here I am begging You by my need for You. [@duas_dua_arafah_imam_husain, §689]
 :::
 
-Duʿa Abu Hamza al-Thumali places the one who prays at a door. "O my Master, I, Your servant, am standing at Your door owing to neediness," it says ([سَيِّدِي عَبْدُكَ بِبَابِكَ أَقَامَتْهُ ٱلْخَصَاصَةُ بَيْنَ يَدَيْكَ]{lang=ar}) [@duas_ramadan_dua_abu_hamza_thumali, §510]. The servant stands there because of need, and the prayer gives no other reason for coming.
+Duʿa Abu Hamza al-Thumali makes the same plea from need, and places the one who prays at a door. "O my Master, I, Your servant, am standing at Your door owing to neediness," it says ([سَيِّدِي عَبْدُكَ بِبَابِكَ أَقَامَتْهُ ٱلْخَصَاصَةُ بَيْنَ يَدَيْكَ]{lang=ar}) [@duas_ramadan_dua_abu_hamza_thumali, §510]. The servant stands there because of need, and the prayer gives no other reason for coming.
 
-The line at the head of Part One takes this humility further. In it the Munajat admits that the one reciting had no strength to move away from disobedience "except when You awakened me to Your love" [@light, p. 164]. In this line, even the turning towards God is His doing. Imam Khomeini notices the same humility in the Imams themselves. They asked God to grant them complete withdrawal to Him, he observes, though it was in their power to undertake the journey themselves [@light, p. 156].
+The line at the head of Part One takes this humility further. In it the Munajat admits that the one reciting had no strength to move away from disobedience "except when You awakened me to Your love" [@light, p. 164]. In this line, even the turning towards God is His doing.
 
 Sheikh Bahmanpour's answer to his own question rests on the same humility. We do not understand many of the meanings of these words, he says, and they are not of our level or within our capacity. Not understanding them does not make them meaningless. We have been honoured, because we are allowed to recite them. In his account, God invites the reciter to come and say them; if the reciter is sincere, God may grant what He granted the Imams who said them first.
 
@@ -120,13 +120,13 @@ Sheikh Bahmanpour's answer to his own question rests on the same humility. We do
 These are the prayers of the Mafatih al-Jinan, set on nights and days that ordinary believers already keep. The scholars note that few reach their depth, while the Sheikh recommends them to everyone; the chapter claims access to the words, not attainment of what they ask.
 :::
 
-The invitation comes through books that ordinary believers already use. Four of the prayers quoted in this chapter are in the Mafatih al-Jinan, the standard manual of Shia devotion [@journey, p. 112]. The Mafatih sets each of them on a night or a day in the believer's year.
+God's invitation to recite these words comes through books that ordinary believers already use. Four of the prayers quoted in this chapter are in the Mafatih al-Jinan, the standard manual of Shia devotion [@journey, p. 112]. The Mafatih sets each of them on a night or a day in the believer's year.
 
 ::: {.box-history title="History: the Mafatih and the Sahifa"}
 The *Mafatih al-Jinan*, "Keys to the Heavens", gathers the supplications of the Imams, the words to be recited at particular times, and the forms for visiting the Imams' shrines. Its compiler, Shaykh ʿAbbas Qummi, was a scholar of vast learning who died in Najaf in 1359/1940 [@journey, p. 112]. Al-Sahifa al-Sajjadiyya is far older. William Chittick calls it "the oldest prayer manual in Islamic sources", composed by Imam Zayn al-ʿAbidin (ʿa), the fourth Imam; Shia tradition ranks it behind only the Qur'an and Nahj al-Balagha [@sahifa, p. 7]. The Imam died in Medina in 95/713–4, or a year earlier [@sahifa, p. 8]. The fifteen whispered prayers, the Whispered Prayer of the Lovers among them, were added to several modern editions of the Sahifa. They seem to have reached most Shia through ʿAllama Muhammad Baqir Majlisi, the compiler of *Bihar al-Anwar* [@sahifa, p. 9].
 :::
 
-The Munajat Shaʿbaniyyah is listed among the acts of the month of Shaʿban. The Mafatih gives a report that calls it the confidential prayer of Imam ʿAli (ʿa) and the Imams, which they used to say in that month [@mafatih, p. 243]. It adds that the prayer "comprises excellent meanings", and that it is "advisable to say it with presence of heart all the time" [@mafatih, p. 245]. Mirza Jawad Maliki Tabrizi, one of Imam Khomeini's teachers, held that it contains a wealth of knowledge and teaches the manners of beseeching God [@duas_munajat_shabaniyah].
+The Munajat Shaʿbaniyyah is listed among the acts of the month of Shaʿban. The Mafatih gives a report that calls it the confidential prayer of Imam ʿAli (ʿa) and the Imams, which they used to say in that month [@mafatih, p. 243]. It adds that it is "advisable to say it with presence of heart all the time" [@mafatih, p. 245].
 
 The other prayers have their own times. Duʿa Kumayl belongs to Thursday evenings, as this chapter began by noting, and to the night of mid-Shaʿban; the Mafatih reports ʿAllama Majlisi's view that it is the best of all supplications [@mafatih, p. 129]. Duʿa ʿArafah is the prayer of Imam al-Husayn (ʿa) on the Day of ʿArafah [@mafatih, p. 374]. Duʿa Abu Hamza al-Thumali belongs to Ramadan. Imam Zayn al-ʿAbidin (ʿa) said it in the last hours of the month's nights [@mafatih, p. 282]. Maliki Tabrizi tells the traveller not to forget it, every night or every other night [@journey, p. 111].
 
