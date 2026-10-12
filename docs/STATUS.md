@@ -9,7 +9,7 @@ _Update at the end of every task. Keep it short. History lives in git and DECISI
 
 **Now:** Prologue and Ch 1 (Book 2) approved by the user and his uncle, and frozen as the exemplar (D36, commit `32e44c9`). See `docs/HANDOVER.md`.
 
-**Now (2026-10-12):** structure v3 and the detailed outline of every chapter (D40, `docs/outline/REVIEW.md`) are with the user for approval. Ch 2 and 3 drafting follows approval.
+**Now (2026-10-12):** structure v3 approved (D40–D41). Drafting Ch 2 (Knowing about God is not knowing Him) and Ch 3 (You already know these words): draft → tone-editor → voice gate → fidelity → PDF. ARGUMENT.md and STORYLINE.md to be regenerated from `docs/outline/`.
 
 **Next:** on approval, draft Ch 2 and 3 → tone-editor → voice gate (profile + blind judge) → fidelity-checker → user review.
 

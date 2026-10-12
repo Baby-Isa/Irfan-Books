@@ -1,5 +1,5 @@
 ---
-title: "Seeking, not powers"
+title: "More than the minimum"
 title-ar: ""
 chapter: 1
 ---
@@ -187,14 +187,14 @@ The scholars differ in emphasis but agree that powers are not the aim. Sheikh Ba
 With powers set aside, what remains is the definition Sheikh Bahmanpour gave at the end of his first lecture: ʿirfan "is actually seeking and nothing else". It seeks two things: *maʿrifah*, the knowledge of God; and the love of God.
 
 ::: {.box-word title="Word Study: ʿIrfan and maʿrifah"}
-*ʿIrfan*, *maʿrifah*, *ʿarif* and its plural *ʿurafaʾ* belong to one family of words about knowing. An ʿarif, as Sheikh Bahmanpour puts it, is "someone who knows". "Mystic" is used of Christians, Hindus and Buddhists alike; ʿarif is the Islamic word, and it makes a precise claim. Murtada Mutahhari draws the line. The philosopher wants a correct picture of the world in his mind. The ʿarif "wishes to reach the very kernel and reality of existence, God, to become connected to it and witness it" [@light, p. 12]. *Lantern of the Path*, attributed to Imam al-Sadiq (ʿa), says that there is no way to God except through knowledge [@lantern, p. 9]. What kind of knowledge that is, and how it differs from what we learn from books, is the subject of Chapter 3.
+*ʿIrfan*, *maʿrifah*, *ʿarif* and its plural *ʿurafaʾ* belong to one family of words about knowing. An ʿarif, as Sheikh Bahmanpour puts it, is "someone who knows". "Mystic" is used of Christians, Hindus and Buddhists alike; ʿarif is the Islamic word, and it makes a precise claim. Murtada Mutahhari draws the line. The philosopher wants a correct picture of the world in his mind. The ʿarif "wishes to reach the very kernel and reality of existence, God, to become connected to it and witness it" [@light, p. 12]. *Lantern of the Path*, attributed to Imam al-Sadiq (ʿa), says that there is no way to God except through knowledge [@lantern, p. 9]. What kind of knowledge that is, and how it differs from what we learn from books, is the subject of Chapter 2.
 :::
 
 ʿAllama Tabatabaʾi's definition agrees: "The real gnostic is he who worships Allah not, because he hopes for any reward or is afraid of any punishment, but only because he knows Him and loves Him" [@light, p. 4].
 
 ʿIrfan is therefore worth pursuing: it is the training of the soul to perceive and love God, open to every believer, and sought for God alone.
 
-If the aim is to know and love God, what does that longing sound like?
+If the aim is to know and love God, what kind of knowing is that?
 
 ::: {.box-try title="Try this"}
 Sheikh Bahmanpour built his first lesson on the four signs of Surah al-Rum. For one week, read Q 30:21–24 slowly once a day. After each verse, ask yourself what he found in its ending: whether you reflect, whether you know, whether you listen and whether you use your reason. Then, at some point in the day, notice one of the four signs where it occurs in your life: the affection in your home, the languages and colours of the people you meet, your own sleep and the work that earns your living, or the rain.

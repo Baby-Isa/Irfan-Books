@@ -211,3 +211,12 @@ _Append only. Each entry: date, decision, why. To reverse a decision, add a new 
 - **Detailed outline:** `docs/outline/` holds FRAMEWORK, part-1 to part-5 and REVIEW (presented by Fable). Every quote is allocated once across the book, including a line-by-line Munajat allocation.
 - **Supersedes on approval:** Fable's earlier suggestion (keep Part Three before the Road, and move Ch 8 into it). The user rejected it.
 - **Pending:** ARGUMENT.md v3, STORYLINE.md and OUTLINE.md are regenerated from `docs/outline/` once the user approves.
+
+## 2026-10-12: D41. Structure v3 approved; Ch 2 and Ch 3 swapped; Fable's fixes adopted
+- **Approved:** the D40 structure and titles, the Part dividers, and the detailed outline (`docs/outline/`).
+- **Ch 1** is renamed "More than the minimum". Its hand-off now asks "what kind of knowing is that?", and its Word Study points to Ch 2. The file keeps its name.
+- **Prologue edits applied:** the thesis order; "How the book is built" (Part titles and ranges for v3); Ch 9 → 15; Ch 8 → 14; the point box order.
+- **Swap (user):** Ch 2 is now "Knowing about God is not knowing Him" and Ch 3 "You already know these words". Part One climbs from the invitation, to the kind of knowing it is, to the hope that our prayers already ask for it. The briefs are renumbered and rewritten.
+- **Other approvals:** ʿArafah closing-section lines are attributed "as given in the Mafatih"; Qadi al-Nuʿman is left out; Ch 13 opens on a companion.
+- **Fable's fixes and the user's tone arc:** recorded in `docs/outline/FRAMEWORK.md` §9. Part Four is the analytical step back after the crescendo; Part Five brings the emotion home.
+- **Ch 2 and Ch 3 briefs approved.** Drafting begins.

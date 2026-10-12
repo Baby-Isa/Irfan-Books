@@ -21,7 +21,7 @@ Despite saying these words in our munajats and on auspicious occasions, we find 
 
 The knowing meant here is not information about God. It is knowing Him from close, with the heart, which is what the Munajat asks for. In Murtada Mutahhari's words, the ʿarif "wishes to reach the very kernel and reality of existence, God, to become connected to it and witness it" [@light, p. 12]. ʿIrfan is that knowing, and the training of the soul that makes it possible. It is part of the Islam we already know: its sources are the Qur'an and the words of the Imams, and the prayer at the head of this page is one of them.
 
-This book argues that this side of the religion is worth every believer's pursuit. ʿIrfan travels through the self and never leaves the shariʿa. It is rooted in the Qur'an and the Imams. It is walked by a tested and ordered method. And it ends not in withdrawal from the world but in return: to people, with God, and to God Himself.
+This book argues that this side of the religion is worth every believer's pursuit. ʿIrfan travels through the self and never leaves the shariʿa. It is walked by a tested and ordered method. It is rooted in the Qur'an and the Imams. And it ends not in withdrawal from the world but in return: to people, with God, and to God Himself.
 
 ## Who this book is for
 
@@ -34,20 +34,20 @@ The argument is addressed to anyone who prays, fasts and recites the duʿas, and
 ## How the book is built
 
 ::: {.point}
-Five parts, each answering one question in order: why, through what, whose, how, and to what end.
+Five parts, each answering one question in order: why, through what, how, whose, and to what end.
 :::
 
 The book is built in five parts. Each answers one question and depends on the one before.
 
-Part One, *The Call* (Chapters 1–3), asks why a believer should bother. It answers that the Qur'an invites more than the minimum, with the goal of ʿirfan already on our lips in our duʿas.
+Part One, *The Call* (Chapters 1–3), asks why a believer should bother. It answers that the Qur'an invites more than the minimum: not only knowing about God, but knowing Him. The goal of ʿirfan is already on our lips in our duʿas.
 
-Part Two, *The Terrain* (Chapters 4–6), describes the landscape a traveller passes through on the journey towards ʿirfan: the self. It also sets out the boundary that keeps the traveller safe: the shariʿa.
+Part Two, *Getting Ready* (Chapters 4–7), describes the landscape a traveller passes through on the journey towards ʿirfan: the self. It also sets out the boundary that keeps the traveller safe, the shariʿa, and the guide who walks alongside.
 
-Part Three, *The Travellers* (Chapters 7–9), asks whether ʿirfan is ours. It shows its roots in the Qur'an and the Imams, with a compatible view of similarities to Sufism.
+Part Three, *The Road* (Chapters 8–12), asks how the path is walked: through ordered stages, by repentance, discipline and love, to the loss of the false self.
 
-Part Four, *The Road* (Chapters 10–15), asks how the path is walked: with a tested guide, through ordered stages, by repentance, discipline and love.
+Part Four, *Fellow Travellers* (Chapters 13–15), meets those who walked the road before us. It shows the road's roots in the Qur'an and the Imams, where its travellers arrived, and how Shia ʿirfan relates to Sufism.
 
-Part Five, *The Return* (Chapters 16–17), asks where the journey ends. The friends of God return to people, with God; every soul returns to God.
+Part Five, *The Destination* (Chapters 16–17), asks what the road is for. The friends of God return to people, with God; every soul returns to God.
 
 ## Where this book comes from
 
@@ -69,8 +69,8 @@ Three guiding principles frame the book: ʿirfan is not sought for powers; it ne
 
 Three guiding principles frame the discussions in the chapters that follow. The first is that ʿirfan is never pursued for the sake of powers, such as reading minds or foreseeing future events. Sheikh Bahmanpour and the wider literature agree on this, as Chapter 1 shows.
 
-The second is that there is no separate sect or order through which ʿirfan must be gained. Shia ʿirfan has no institution of authority beside the Imam. How this position differs from that of the Sufi orders is explored in Chapter 9.
+The second is that there is no separate sect or order through which ʿirfan must be gained. Shia ʿirfan has no institution of authority beside the Imam. How this position differs from that of the Sufi orders is explored in Chapter 15.
 
-The third principle is the most important: no part of the journey towards ʿirfan requires stepping outside the shariʿa, and nothing on that journey is gained by doing so. The beginning of ʿirfan, as the Sheikh puts it, is the shariʿa. The inner path does not go around the law or rise above it; it is the law lived from the inside. Nothing in this book asks a reader to set aside the rulings of the jurists or the guidance of their marjaʿ. A fear that mysticism might do exactly that is one reason some scholars have been wary of ʿirfan. Chapter 8 sets out their wider concerns, with the answers given to them.
+The third principle is the most important: no part of the journey towards ʿirfan requires stepping outside the shariʿa, and nothing on that journey is gained by doing so. The beginning of ʿirfan, as the Sheikh puts it, is the shariʿa. The inner path does not go around the law or rise above it; it is the law lived from the inside. Nothing in this book asks a reader to set aside the rulings of the jurists or the guidance of their marjaʿ. A fear that mysticism might do exactly that is one reason some scholars have been wary of ʿirfan. Chapter 14 sets out their wider concerns, with the answers given to them.
 
 By the end, a reader should feel able to say what ʿirfan is and is not, why it belongs to us, and what the stages and dangers of the path entail. For those who wish to go further, each chapter and the epilogue offer small, practical steps for bringing this into daily life alongside the wajibat.

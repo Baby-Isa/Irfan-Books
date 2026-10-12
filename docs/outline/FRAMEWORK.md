@@ -5,7 +5,7 @@ _The shared brief for writing the detailed outline of every chapter. The user's 
 ## 1. The structure
 | Part | Reader's question | Book point | Chapters |
 |---|---|---|---|
-| **One: The Call** | Why travel? | **B1** ʿIrfan is worth pursuing: the Qur'an invites more than the minimum, our prayers already ask for it, and what they ask for is a knowing we do not yet have. | 1 More than the minimum · 2 You already know these words · 3 Knowing about God is not knowing Him |
+| **One: The Call** | Why travel? | **B1** ʿIrfan is worth pursuing: the Qur'an invites more than the minimum, which is knowing God and not only knowing about Him; that knowing is reached by purifying the heart; and our own prayers already ask for it. | 1 More than the minimum · 2 Knowing about God is not knowing Him · 3 You already know these words |
 | **Two: Getting ready** | What do I need before I set out? | **B2** The journey runs through the self, which is deeper than it looks; the shariʿa is its boundary; and a tested guide is its companion. | 4 Know yourself, know your Lord · 5 The soul and its worlds · 6 No path outside the law · 7 Finding a guide |
 | **Three: The Road** | How is it walked? | **B3** It is walked in a known order: veils removed in stages, beginning with repentance and character, trained by measured disciplines, carried by love, and reaching the loss of the false self. | 8 The stages of the journey · 9 Setting out · 10 The five disciplines · 11 Love, the engine · 12 Losing the self, finding God (**crescendo**) |
 | **Four: Fellow travellers** | Who else is on this road, and where did they arrive? | **B4** Others have walked it: it is rooted in the Qur'an and the Imams; some travellers lost their footing in ecstasy while the sober reached the end; and Shia masters keep the path without a Sufi institution of authority, because authority belongs to the Imam. | 13 Where it comes from · 14 Drunk and sober · 15 Sufis and Shia |
@@ -38,19 +38,19 @@ Prologue (approved) before Part One; Epilogue "First steps" after Part Five; App
 **Epilogue: First steps.** Gathers every "Try this" into this week / this month / this year (`journey` for the graded plan).
 
 ## 3. Hand-offs (one question each; the reader's real question)
-1→2 If the aim is to know and love God, what does that longing sound like? · 2→3 The prayers ask to know God. What kind of knowing is that? · 3→4 If that knowing happens in the soul, what is the soul? · 4→5 If the self is the door, how deep does it go? · 5→6 What keeps so inward a work from going astray? · 6→7 The law is the boundary. Who walks beside the traveller? · 7→8 Once a guide is found, what does the road itself look like? · 8→9 Where on it does one set foot first? · 9→10 What trains the soul once it has turned? · 10→11 What keeps a traveller going when discipline alone runs dry? · 11→12 Where does love carry the traveller in the end? · 12→13 Others have walked this far. Where did the road come from, and who walked it first? · 13→14 Where did those travellers arrive? · 14→15 How did the road become orders, and where do Shia stand? · 15→16 If authority belongs to the Imam, what does the completed journey look like in him? · 16→17 The friends of God return to people. Where does every soul return? · 17→Epilogue So how does one begin, this week?
+1→2 If the aim is to know and love God, what kind of knowing is that? · 2→3 Purification sounds far off. Is there anywhere an ordinary believer already stands on this path? · 3→4 These prayers keep asking God to work on the heart and the self. What is this self? · 4→5 If the self is the door, how deep does it go? · 5→6 What keeps so inward a work from going astray? · 6→7 The law is the boundary. Who walks beside the traveller? · 7→8 Once a guide is found, what does the road itself look like? · 8→9 Where on it does one set foot first? · 9→10 What trains the soul once it has turned? · 10→11 What keeps a traveller going when discipline alone runs dry? · 11→12 Where does love carry the traveller in the end? · 12→13 Others have walked this far. Where did the road come from, and who walked it first? · 13→14 Where did those travellers arrive? · 14→15 How did the road become orders, and where do Shia stand? · 15→16 If authority belongs to the Imam, what does the completed journey look like in him? · 16→17 The friends of God return to people. Where does every soul return? · 17→Epilogue So how does one begin, this week?
 
 ## 4. The Munajat Shaʿbaniyyah, allocated (one use each)
 English from `light` pp. 163–166 (the prologue's translation; cite `[@light, p. N]`). Arabic from `sources/extracts/duas-munajat-shabaniyah.md` by § (cite `[@duas_munajat_shabaniyah, §N]`), never typed from memory. Light's Arabic is garbled; do not use it.
 | § | Line (light) | Used in |
 |---|---|---|
 | 105–107 | "Enlighten the eyes of our hearts… reach the Source of Grandeur" | **Prologue epigraph (used)**. Later chapters may recall it in words, not re-quote it. |
-| 73–74 | "I was not strong enough to move away from Your disobedience, except when You awakened me to Your love" | Part One divider; spoken to in Ch 2 §3 |
+| 73–74 | "I was not strong enough to move away from Your disobedience, except when You awakened me to Your love" | Part One divider; spoken to in Ch 3 §3 |
 | 5–7 | "I have come running to You and am standing before You imploring You in humility" | Part Two divider |
-| 104 | "grant me complete severance of my relations with everything else" | Ch 2 §1 |
-| 92–93 | "place me among Your friends in the position of one who hopes for an increase in Your love" | Ch 2 §2 |
-| 82 | "provide me with a heart, the passion of which may bring it near You" | Ch 2 §2 |
-| 88 | "One who follows Your path is enlightened" | Ch 3 §3–4 |
+| 104 | "grant me complete severance of my relations with everything else" | Ch 3 §1 |
+| 92–93 | "place me among Your friends in the position of one who hopes for an increase in Your love" | Ch 3 §2 |
+| 82 | "provide me with a heart, the passion of which may bring it near You" | Ch 3 §2 |
+| 88 | "One who follows Your path is enlightened" | Ch 2 §3–4 |
 | 32 | "I have been unjust to my soul for I have not looked after it" (p. 163) | Ch 4 (forgetting the self) |
 | 118–119 | "if my disregard for preparations to meet You has put me to sleep, my knowledge of Your kind bounties has awakened me" | Ch 5 (sleep, waking, meeting) |
 | 126–127 | "who do not fail to show You their gratitude and do not take Your orders lightly" | Ch 6 (the law) |
@@ -70,8 +70,8 @@ English from `light` pp. 163–166 (the prologue's translation; cite `[@light, p
 ## 5. Quotes already used or reserved (do not reuse; refer back in words if needed)
 - **Prologue:** Munajat §105–107 (`light` p. 165); Mutahhari on the ʿarif, "wishes to reach the very kernel and reality of existence" (`light` p. 12).
 - **Ch 1:** Q 30:21–24 (endings), 12:105, 7:179, 8:2, 3:18, 35:28, 10:62, 56:10–11, 16:97, 4:69; Nahj 3.403; `self_knowledge` pp. 17, 30; `light` pp. 4, 6–7, 12, 44; `forty_hadith` p. 61 (the shariʿa bound; Shahabadi's test); `kernel` pp. 4, 8, 9, 28–29 (powers); `lantern` p. 9. Lecture lines: "has a beginning and no end", "These are shirk", "is actually seeking and nothing else", the "inner machine".
-- **Ch 2 (brief):** Kumayl §221 (epigraph), §207 optional; Munajat §104, §92–93, §82; Abu Hamza §384, §599, §510; ʿArafah §781, §783–784, §689; Lovers (Sahifa pp. 656–657) two lines; `light` pp. 20, 138, 156, 157; `journey` pp. 42–43, 111; Mafatih pp. 129, 243, 245, 282, 374; L01 ¶17 "primary school boy".
-- **Ch 3 (brief):** Q 24:35; "Knowledge is not extensive learning…" (`forty_hadith` p. 331; `lantern` p. 10); Nahj 1.1.1 "Soaring thoughts cannot reach him"; `forty_hadith` pp. 403, 542; `kernel` pp. 7, 56; `light` pp. 41–42, 146; L02 ¶29–37, L03 ¶18–28, ¶47–49 lines; Try this: the prostration dhikr (`kernel` p. 56).
+- **Ch 3 (brief; was Ch 2):** Kumayl §221 (epigraph), §207 optional; Munajat §104, §92–93, §82; Abu Hamza §384, §599, §510; ʿArafah §781, §783–784, §689; Lovers (Sahifa pp. 656–657) two lines; `light` pp. 20, 138, 156, 157; `journey` pp. 42–43, 111; Mafatih pp. 129, 243, 245, 282, 374; L01 ¶17 "primary school boy".
+- **Ch 2 (brief; was Ch 3):** Q 24:35; "Knowledge is not extensive learning…" (`forty_hadith` p. 331; `lantern` p. 10); Nahj 1.1.1 "Soaring thoughts cannot reach him"; `forty_hadith` pp. 403, 542; `kernel` pp. 7, 56; `light` pp. 41–42, 146; L02 ¶29–37, L03 ¶18–28, ¶47–49 lines; Try this: the prostration dhikr (`kernel` p. 56).
 - **Reserved for later chapters:** Nahj 1.219.1 (remembrance polishes the heart) → Ch 10 Try this (D28). Duʿa ʿArafah and `light` p. 138 on Karbala → Ch 16. Nahj 3.222 (worship of the free) → Ch 11. `forty_hadith` p. 517 (Tusi) → Ch 17.
 
 ## 6. Template for each chapter's detailed outline
@@ -125,3 +125,17 @@ A ledger check across `part-1.md`–`part-5.md` found no quote planned twice. Wh
     - Ch 16: al-asfar al-arbaʿa
     - Fix the misspelt headword "hashya" to khashya.
 13. **Prologue:** the edits listed in `part-1.md` (thesis order, "How the book is built", Ch 9 → 15, Ch 8 → 14, Part titles) are applied only after the user approves.
+
+## 9. User decisions, 2026-10-12 (D41)
+- **Approved:** the v3 structure and titles; Ch 1 renamed "More than the minimum"; the prologue edits (applied); ʿArafah's closing-section lines kept, attributed "as given in the Mafatih"; Qadi al-Nuʿman left out; Ch 13 opens on a companion (Salman, Abu Dharr or Uways), not Kumayl.
+- **Ch 2 and Ch 3 swapped** (user): 1 More than the minimum → 2 Knowing about God is not knowing Him → 3 You already know these words. Part One now climbs: the Qur'an asks for more; the more is knowing Him; and we already say the words that ask for it, which is hope and a first foothold. Ch 3 hands off to Ch 4 through the heart and the self that the prayers keep naming (Ch 4 opens on Munajat §32, "I have been unjust to my soul").
+- **Fable's fixes adopted:**
+  - **Ch 5:** keep the graveside and sleep in view; cut "depths, not distances" to about a page; the layers of the soul go in a box; every section pays off in "what it finally becomes is in our hands".
+  - **Ch 13:** open on a person; companions and Imams first; "not brought in from outside" becomes a short closing section or a box.
+  - **Try this:** every chapter's act can be done this week. Calendar-bound rites become the month or year rung (Ch 3's Shaʿban recital; Ch 9's Dhu'l-Qaʿdah rite, with a hundred istighfar after one prayer as the weekly version).
+  - **Ch 16:** the first section stays with the Nahj 3.133 scene (a face) before the four-journeys scheme.
+  - **Ch 14:** the critics' concerns are reported as the held defenders give them; the prologue's wording ("with the answers given to them") stands.
+- **Tone arc (user):**
+  - **Part Three** builds to the crescendo in Ch 12, where the reader feels it.
+  - **Part Four** is the analytical step back: invested now, the reader wants to understand where the road came from, who walked it and where they arrived. Calm, clear, curious.
+  - **Part Five** brings the emotion back and brings it home: faces, Karbala, the willing return, the Munajat's last petitions.
