@@ -116,7 +116,9 @@ _(Approved text, frozen at `32e44c9`. Title changed from "Seeking, not powers" (
    - Side by side (D20): `journey` p. 43 ("a small number of believers") and `light` p. 157 ("those who are fit to do so") against the Sheikh's recommendation to everyone (L01 ¶22). The chapter claims access, not attainment.
 5. ## Words already on our lips [conclusion]. The conclusion, once. The full prayer is in the Appendix.
 **Boxes:** Word Study: munajat and duʿa. History: the Mafatih and the Sahifa (compiler and dates VERIFY). Try this.
-**Try this:** recite the Munajat Shaʿbaniyyah in Shaʿban "as much as you can" (L01 ¶22), with the English beside it, "with presence of heart" (Mafatih p. 245). Outside Shaʿban, read its last petitions (§82–111) once a week, using the Appendix.
+**Try this (approved brief):**
+- **This week:** read the last petitions of the Munajat Shaʿbaniyyah (§82–111, in the Appendix) once, slowly, with the English beside the Arabic, "with presence of heart" (Mafatih p. 245).
+- **In Shaʿban (the longer rung):** follow the Sheikh's own advice and recite the whole prayer "as much as you can" (L01 ¶22).
 **Hand-off:** These prayers keep asking God to work on the heart and the self. What is this self?
 **Callbacks / forward pointers:** Ch 1's two aims (maʿrifah, love); the Appendix. Forward: Part Four (how far each believer goes).
 **Cut / gone around:**
@@ -129,21 +131,21 @@ _(Approved text, frozen at `32e44c9`. Title changed from "Seeking, not powers" (
 ---
 
 ## Quote ledger: Part One (new uses only; the prologue and Ch 1 are in FRAMEWORK §5)
-| id | text | source | Arabic | where |
+| id | text | source | Arabic | where (chapter.section) |
 |---|---|---|---|---|
-| M73 | "…except when You awakened me to Your love" | `light` p. 164 | duas §73–74 | Part One divider; spoken to in 2.3 |
-| K221 | "And my heart enthralled by Your love!" | Kumayl §221 | held | Ch 2 epigraph |
-| M104 | "grant me complete severance of my relations with everything else" | `light` p. 165 | duas §104 | 2.1 |
-| AH384 | "expel love for the world out of my heart" | Abu Hamza §384 | held | 2.1 |
-| AR783 | "removed love for others from the hearts of Your lovers…" | ʿArafah §783–784 | held | 2.1 |
-| AR781 | "lit the illuminations in the hearts of Your intimate servants" | ʿArafah §781 | held | 2.2 |
-| M92 | "place me among Your friends… increase in Your love" | `light` p. 165 | duas §92–93 | 2.2 |
-| M82 | "provide me with a heart, the passion of which may bring it near You" | `light` p. 165 | duas §82 | 2.2 |
-| AH599 | "make me love meeting You" | Abu Hamza §599 | held | 2.2 |
-| LV1 | "granted gazing upon Thy face" | Sahifa p. 656 | VERIFY | 2.2 |
-| AR689 | "Here I am begging You by my need for You." | ʿArafah §689 | held | 2.3 |
-| AH510 | "Your servant, am standing at Your door owing to neediness" | Abu Hamza §510 | held | 2.3 |
-| N1.1 | "Soaring thoughts cannot reach him…" | Nahj 1.1.1 | VERIFY | 3.2 |
-| H-light | "Knowledge is not extensive learning…" | `forty_hadith` p. 331 | VERIFY | 3.3 |
-| Q24:35 | "Allah is the Light of the heavens and the earth" | Qur'an | held | 3.3 |
-| M88 | "One who follows Your path is enlightened" | `light` p. 165 | duas §88 | 3.4 |
+| M73 | "…except when You awakened me to Your love" | `light` p. 164 | duas §73–74 | Part One divider; spoken to in 3.3 |
+| K221 | "And my heart enthralled by Your love!" | Kumayl §221 | held | Ch 3 epigraph |
+| M104 | "grant me complete severance of my relations with everything else" | `light` p. 165 | duas §104 | 3.1 |
+| AH384 | "expel love for the world out of my heart" | Abu Hamza §384 | held | 3.1 |
+| AR783 | "removed love for others from the hearts of Your lovers…" | ʿArafah §783–784 | held | 3.1 |
+| AR781 | "lit the illuminations in the hearts of Your intimate servants" | ʿArafah §781 | held | 3.2 |
+| M92 | "place me among Your friends… increase in Your love" | `light` p. 165 | duas §92–93 | 3.2 |
+| M82 | "provide me with a heart, the passion of which may bring it near You" | `light` p. 165 | duas §82 | 3.2 |
+| AH599 | "make me love meeting You" | Abu Hamza §599 | held | 3.2 |
+| LV1 | "granted gazing upon Thy face" | Sahifa p. 656 | VERIFY | 3.2 |
+| AR689 | "Here I am begging You by my need for You." | ʿArafah §689 | held | 3.3 |
+| AH510 | "Your servant, am standing at Your door owing to neediness" | Abu Hamza §510 | held | 3.3 |
+| N1.1 | "Soaring thoughts cannot reach him…" | Nahj 1.1.1 | VERIFY | 2.2 |
+| H-light | "Knowledge is not extensive learning…" | `forty_hadith` p. 331 | VERIFY | 2.3 |
+| Q24:35 | "Allah is the Light of the heavens and the earth" | Qur'an | held | 2.3 |
+| M88 | "One who follows Your path is enlightened" | `light` p. 165 | duas §88 | 2.4 |

@@ -6,31 +6,23 @@ _Per `FRAMEWORK.md` §6, 2026-10-12. Notes, not prose; old numbers 7–9. Every 
 - **Part Four: Fellow travellers.** *Who else is on this road, and where did they arrive?*
 - **Answer:** The road you have walked was not imported: it runs from the Qur'an and the Imams. Some who walked it lost their footing in ecstasy; the sober came back and went further. Shia masters keep it without a Sufi chain of authority, because authority belongs to the Imam.
 - **Chapters:** 13 Where it comes from · 14 Drunk and sober · 15 Sufis and Shia
-- **Munajat §109–110:** [P4] "My Lord, make me one of those whom You call and they respond; when You look at and they are thunderstruck by Your majesty." (`light` p. 165). Arabic: held (`duas-munajat-shabaniyah` §109–110). Light's "when You look at and they" is ungrammatical (see the report).
+- **Munajat §109–110:** [P4] "My Lord, (please) appoint me of those who responded to You when You called them, and at whom You glanced so he swoons before Your Majesty" (`duas-munajat-shabaniyah` §109–110, English as in the extract; cite `[@duas_munajat_shabaniyah, §109–110]`). Arabic: held (same §). *Light*'s English here is ungrammatical, so this one slot uses the duas.org wording (FRAMEWORK §8.3).
 
 ---
 
 ### 13. Where it comes from
 **Subheading:** The road was not brought in from outside. It grew from the Qur'an, the companions and the Imams, and its first travellers met fear, renunciation and love in that order, with the Imams ahead of them all.
 **Conclusion:** ʿIrfan is native to Islam, and the Imams stand above those who first walked it. **Serves:** B4 **Old:** 7
-**Opener:** Thursday night, Duʿa Kumayl. It carries the name of the companion to whom Imam ʿAli entrusted it (`duas_dua_kumayl`, description). In the chains later travellers drew of their teachers, Kumayl stands near the top, with Salman and Uways, under ʿAli (`light` p. 5). You have walked the road; who walked it first?
+**Opener (≤150 words; a companion, not Kumayl, FRAMEWORK §8.4):** Abu Dharr al-Ghifari, whose protest, exile and lonely death the majalis tell. [13l] "This led him to suffer torture and exile, and finally it was in exile, deserted and alone, that he passed away from this world." (`light` p. 20). Arabic: n.a. Some orientalists, the same page says, went looking outside Islam for what moved him. The chapter asks the same of the whole road. You have walked it; who walked it first, and where did it come from? (The Sheikh's report of the Prophet's saying on Abu Dharr, L11 ¶35, is not quoted: no held text.)
 **Words you'll meet:** Sufi · zuhd · tawakkul · muhasaba
 **Sections:**
-1. ## Not brought in from outside [13.1]. The road was not imported; at most, some techniques were borrowed.
-   - Western books looked elsewhere because they "cannot believe that Islam as a religion of law and jurisprudence can produce mystics" (L11 ¶3). The candidates were monks, Neoplatonism and Buddhism (L11 ¶4–5, ¶12, ¶21; `light` p. 16).
-   - Monks: the Qur'an separates the mercy given Jesus' followers from the monasticism they invented; Muslim mystics married (L11 ¶6–11).
-   - Neoplatonism arrived only when the theory was systematised, centuries later. Buddhist doctrine differs, so at most techniques were borrowed (L11 ¶20, ¶22–23).
-   - Jurdaq's pitcher, told in words (`light` p. 20).
-   - [13a] "'irfan has derived its basic sources of inspiration from Islam itself and from nowhere else" (`light` p. 16). Arabic: n.a.
-   - [13b] Q 57:27 "But as for monasticism, they innovated it—We had not prescribed it for them—only seeking Allah's pleasure." Arabic: held.
-   - [13c] Nicholson: "Surely the seeds of mysticism are here." (`light` p. 21). Arabic: n.a.
-2. ## The Qur'an, the companions and the Imams [13.2]. The roots are inside Islam from the first generation.
-   - The young companion after the dawn prayer who saw paradise and hell (`light` p. 19; L11 ¶42–43). Recalls Ch 3: light placed in the heart.
+1. ## The Qur'an, the companions and the Imams [13.1]. The roots are inside Islam from the first generation.
+   - The young companion after the dawn prayer who saw paradise and hell (`light` p. 19; L11 ¶42–43). Recalls Ch 2: light placed in the heart.
    - [13d] "This is a man whose heart has been illuminated with the light of faith by God" (`light` p. 19, from al-Kafi). Arabic: VERIFY.
-   - ʿAli is the source: the chains of Sunni and Shia mystics run to him (`light` pp. 4–5).
+   - ʿAli is the source: the chains of Sunni and Shia mystics run to him, through companions such as Salman, Uways and Kumayl (`light` pp. 4–5; the three go in the Who's Who box, not told here).
    - [13e] Tabatabaʾi on ʿAli: "His sayings on this subject are a treasure of knowledge." (`light` p. 4). Arabic: n.a.
    - Imam al-Sadiq as a great early teacher: Schimmel's view as the Sheikh reports it (L11 ¶45–46); held evidence in `light` pp. 24–25 (Fudayl, Maʿruf, Shaqiq).
-3. ## Fear, renunciation, love, and the Imams above them [13.3]. The first seekers leaned to fear, renunciation or love, often near the Imams, who stand above them.
+2. ## Fear, renunciation, love, and the Imams above them [13.2]. The first seekers leaned to fear, renunciation or love, often near the Imams, who stand above them.
    - These are three temperaments, not exclusive, and love became "the victorious side" (L11 ¶61–63; L12 ¶9). This is the order the reader met in Ch 11.
    - **Fear: Fudayl b. ʿIyad.** A highwayman who heard Q 57:16 from a rooftop and answered "yes, it is time, my Lord". He was known for weeping, and is a trusted reporter in both traditions (L12 ¶19–22; `light` p. 25). Recalls Ch 9.
      - [13f] Q 57:16 "Is it not time yet for those who have faith that their hearts should be humbled for Allah's remembrance". Arabic: held.
@@ -38,15 +30,23 @@ _Per `FRAMEWORK.md` §6, 2026-10-12. Notes, not prose; old numbers 7–9. Every 
      - [13g] Nahj 3.221 "By God, this world of yours is worth less in my eyes than the bones of a pig in the hand of a leper." (`nahj` p. 760). Arabic: VERIFY.
    - **Love: Rabiʿa.** Repentance is God's gift; the torch and the water, "a story told of her" (L12 ¶53–54; L11 ¶72–73; `light` p. 24). The worship of the free is recalled in words (Nahj 3.222 belongs to Ch 11).
      - [13h] (lecture) "I want to throw fire in paradise and to pour water on to hell so that these 2 veils disappear" (L12 ¶54).
-   - **The Imams above.** The seekers' words were "an echo" of al-Baqir and al-Sadiq, and Rabiʿa's verses do not compare with the Lovers' prayer (L11 ¶58–59; recalls Ch 2). Love was missing among the early seekers, but not in the Imams (L12 ¶56). The Shaqiq story (box). "completely different in terms of their calibre" (L12 ¶37).
+   - **The Imams above.** The seekers' words were "an echo" of al-Baqir and al-Sadiq, and Rabiʿa's verses do not compare with the Lovers' prayer (L11 ¶58–59; recalls Ch 3). Love was missing among the early seekers, but not in the Imams (L12 ¶56). The Shaqiq story (box). "completely different in terms of their calibre" (L12 ¶37).
      - [13i] "those elements of spiritual life which we find in the sayings, and teachings of Imam Ali and other Imams" (`light` p. 5). Arabic: n.a.
+3. ## Not brought in from outside [13.3]. [Short closing section, about 300 words, FRAMEWORK §9: the three claims (monks, Neoplatonism, techniques) and the pitcher.] The road was not imported; at most, some techniques were borrowed.
+   - Western books looked elsewhere because they "cannot believe that Islam as a religion of law and jurisprudence can produce mystics" (L11 ¶3). The candidates were monks, Neoplatonism and Buddhism (L11 ¶4–5, ¶12, ¶21; `light` p. 16).
+   - Monks: the Qur'an separates the mercy given Jesus' followers from the monasticism they invented; Muslim mystics married (L11 ¶6–11).
+   - Neoplatonism arrived only when the theory was systematised, centuries later. Buddhist doctrine differs, so at most techniques were borrowed (L11 ¶20, ¶22–23).
+   - Jurdaq's pitcher, told in words (`light` p. 20): he answers the orientalists over Abu Dharr, the opener's companion. The chapter returns to its opening here.
+   - [13a] "'irfan has derived its basic sources of inspiration from Islam itself and from nowhere else" (`light` p. 16). Arabic: n.a.
+   - [13b] Q 57:27 "But as for monasticism, they innovated it—We had not prescribed it for them—only seeking Allah's pleasure." Arabic: held.
+   - [13c] Nicholson: "Surely the seeds of mysticism are here." (`light` p. 21). Arabic: n.a.
 **Boxes:**
 - Who's Who: Salman, Abu Dharr, Uways (L11 ¶35–41; Uways is hagiography, ¶39; `light` pp. 20, 23).
 - Story: Shaqiq and the young man on the Mecca road (L12 ¶30–37; `light` p. 24). The well miracle is trimmed. [13j] Q 20:82 "Indeed I forgive those who repent, become faithful, act righteously, and follow guidance." Arabic: held.
 - Who's Who: Hasan al-Basri, set side by side ("ambivalent", L11 ¶64; in ʿAli's chain, `light` pp. 5, 23); Maʿruf, Muhasibi, Dhu'l-Nun (`light` pp. 25–27; L12 ¶3–5, ¶62–64).
 **Try this:** Muhasaba. Fix a time each night to review the day: seek forgiveness for faults, give thanks if there are none (`kernel` p. 68; the Sheikh says it is "still persistent", L12 ¶4). [13k] Imam al-Kazim: "He who does not take account of him own soul once every day is not one of us." (`kernel` p. 68; the extract reads "him own", so check the print). Arabic: VERIFY.
 **Hand-off:** Where did those travellers arrive?
-**Callbacks:** Chs 2, 3, 9 and 11 (in words). **Forward:** Ch 14 (Bayazid, Junayd), Ch 15 (chains).
+**Callbacks:** Ch 2 (light placed in the heart), Ch 3 (the Lovers' prayer), Ch 9 (repentance) and Ch 11 (love), in words. **Forward:** Ch 14 (Bayazid, Junayd), Ch 15 (chains).
 **Cut / gone around:**
 - Asides cut: Western-scholar anecdotes, qiraʾat, Plato, "harsh companions", camp and warfront stories (L11 ¶3, ¶19, ¶24–36, ¶43, ¶73, ¶80–92).
 - Reworded: "complete Shia influence" (¶51) becomes "drew on the Imams' teaching" (`light` p. 5).
@@ -59,7 +59,7 @@ _Per `FRAMEWORK.md` §6, 2026-10-12. Notes, not prose; old numbers 7–9. Every 
 ### 14. Drunk and sober
 **Subheading:** Some who reached the loss of self stayed lost in it; the sober came back to themselves and went further. The theory their experience produced has critics, and their concerns have answers.
 **Conclusion:** Of those who reached fana, the sober went furthest, and the tradition's great theory, though contested, is neither pantheism nor licence. **Serves:** B4 **Old:** 8
-**Opener:** The divider line, recalled in words: in Shaʿban we ask to be among those God glances at, who are thunderstruck by His majesty. Some travellers were, and what came after the swoon divided them (recalls Ch 12).
+**Opener:** The divider line, recalled in words: in Shaʿban we ask to be among those God glances at, who swoon before His Majesty. Some travellers did, and what came after the swoon divided them (recalls Ch 12).
 **Words you'll meet:** sukr · sahw (add to GLOSSARY) · shath · ishara · wahdat al-wujud
 **Sections:**
 1. ## Lost in God, or back with God [14.1]. Of the two ways of arriving at fana, the tradition ranked the return higher.
@@ -77,9 +77,9 @@ _Per `FRAMEWORK.md` §6, 2026-10-12. Notes, not prose; old numbers 7–9. Every 
 2. ## A theory of what they saw [14.2]. Ibn ʿArabi gave the experience a theory, the unity of being, which is grasped by experience, not argument.
    - He is the Shaykh al-Akbar of Shia and Sunni mystics, who shaped Sadra, Khomeini and Tabatabaʾi (L13 ¶33, ¶42–47). The views of him are "wildly divergent" (`light` p. 35).
      - [14h] "certainly the greatest mystic of Islam" (`light` p. 34). Arabic: n.a.
-   - There is one existence, and creatures are its manifestations: "certainly I'm not god or a part of god" (L13 ¶63). Not illusion: "more real than you think" (¶66). It is above reason, and Sadra's gradation came closest (¶62, ¶67). Recalls Ch 3.
+   - There is one existence, and creatures are its manifestations: "certainly I'm not god or a part of god" (L13 ¶63). Not illusion: "more real than you think" (¶66). It is above reason, and Sadra's gradation came closest (¶62, ¶67). Recalls Ch 2.
      - [14i] Q 57:3 "He is the First and the Last, the Manifest and the Hidden". Arabic: held.
-     - [14j] Nahj 1.1.1 "He is with all things but not by association. He is other than all things but not by detachment." (`nahj` p. 122; not Ch 3's sentence). Arabic: VERIFY.
+     - [14j] Nahj 1.1.1 "He is with all things but not by association. He is other than all things but not by detachment." (`nahj` p. 122; not Ch 2's sentence). Arabic: VERIFY.
      - [14k] Khomeini: "the sea is not the waves, although the waves are the sea" (`light` p. 144). Arabic: n.a.
      - [14l] (lecture) "it's not for us to judge because it needs someone who has the experience" (L13 ¶43).
 3. ## The critics' concerns, and the answers [14.3]. The prologue promised this section. It is scoped as how the defenders answer, because no critical Tier B source is held.
@@ -92,7 +92,7 @@ _Per `FRAMEWORK.md` §6, 2026-10-12. Notes, not prose; old numbers 7–9. Every 
 **Boxes:** Who's Who: Hakim al-Tirmidhi and the Seal of the Saints, a hierarchy taken "to very extreme" levels (L13 ¶4–12; side by side `inner_secrets` pp. 98–99; no numbers). · Word study: four views of existence (L13 ¶56–62). · Optional: Attar and Rumi (`light` pp. 33, 36).
 **Try this:** Say *lā ḥawla wa lā quwwata illā biʾllāh* meaning what the lecture says it means: every strength one has is held from Him (L13 ¶63–64). Arabic: VERIFY (not in the duʿa extracts).
 **Hand-off:** How did the road become orders, and where do Shia stand?
-**Callbacks:** Chs 1, 3, 6 and 12. **Forward:** Ch 15 (orders), Ch 16 (baqa completed as return).
+**Callbacks:** Chs 1, 2, 6 and 12. **Forward:** Ch 15 (orders), Ch 16 (baqa completed as return).
 **Cut / gone around:**
 - Reworded: Junayd as Bayazid's "student" (¶25, chronology) becomes "a generation later"; "sovereignty" (¶13, ¶28) becomes sahw (`light` p. 57).
 - Omitted: the unclear attribution in ¶26.
@@ -152,16 +152,17 @@ _Per `FRAMEWORK.md` §6, 2026-10-12. Notes, not prose; old numbers 7–9. Every 
 ## Quote ledger
 | id | short text | source | Arabic | ch.sec |
 |---|---|---|---|---|
-| P4 | "whom You call… thunderstruck" | `light` p. 165 | held §109–110 | divider |
-| 13a | "from Islam itself" | `light` p. 16 | n.a. | 13.1 |
-| 13b | "monasticism, they innovated it" | Q 57:27 | held | 13.1 |
-| 13c | "seeds of mysticism" | `light` p. 21 | n.a. | 13.1 |
-| 13d | "illuminated with the light of faith" | `light` p. 19 | VERIFY | 13.2 |
-| 13e | "a treasure of knowledge" | `light` p. 4 | n.a. | 13.2 |
-| 13f | "Is it not time yet" | Q 57:16 | held | 13.3 |
-| 13g | "bones of a pig" | Nahj 3.221, p. 760 | VERIFY | 13.3 |
-| 13h | "fire in paradise… water on to hell" | L12 ¶54 | n.a. | 13.3 |
-| 13i | "teachings of Imam Ali and other Imams" | `light` p. 5 | n.a. | 13.3 |
+| P4 | "responded to You when You called them… swoons before Your Majesty" | `duas-munajat-shabaniyah` §109–110 (duas.org wording, FRAMEWORK §8.3) | held §109–110 | divider |
+| 13l | "in exile, deserted and alone" | `light` p. 20 | n.a. | 13 opener |
+| 13a | "from Islam itself" | `light` p. 16 | n.a. | 13.3 |
+| 13b | "monasticism, they innovated it" | Q 57:27 | held | 13.3 |
+| 13c | "seeds of mysticism" | `light` p. 21 | n.a. | 13.3 |
+| 13d | "illuminated with the light of faith" | `light` p. 19 | VERIFY | 13.1 |
+| 13e | "a treasure of knowledge" | `light` p. 4 | n.a. | 13.1 |
+| 13f | "Is it not time yet" | Q 57:16 | held | 13.2 |
+| 13g | "bones of a pig" | Nahj 3.221, p. 760 | VERIFY | 13.2 |
+| 13h | "fire in paradise… water on to hell" | L12 ¶54 | n.a. | 13.2 |
+| 13i | "teachings of Imam Ali and other Imams" | `light` p. 5 | n.a. | 13.2 |
 | 13j | "I forgive those who repent" | Q 20:82 | held | 13 box |
 | 13k | "take account of… once every day" | `kernel` p. 68 | VERIFY | 13 Try |
 | 14a | "snake from its skin" | `light` p. 25 | n.a. | 14.1 |

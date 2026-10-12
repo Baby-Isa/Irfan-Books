@@ -87,7 +87,7 @@ _FRAMEWORK §6 notes. Old numbers: 8=11 … 12=15. "Held" = Arabic in `duas-*.md
 **Boxes:** Story, *the guest of the mosque*: no better food than hunger [@kernel, p. 77]. Word Study: tabattul.
 **Try this:** after each obligatory prayer, the Tasbih of al-Zahraʾ, slowly, with attention (L10 ¶55; [@mafatih, p. 802]), framed by [NB1.219.1] "God has made his remembrance the burnish for your hearts—with it, you can hear after your earlier deafness, see after your earlier night-blindness" [@nahj, 1.219.1, p. 522] (D28).
 **Hand-off:** What keeps a traveller going when discipline alone runs dry?
-**Callbacks / forward:** Ch 3, 8 (dhikr dusts the heart, L07 ¶25–27), 9. Ahead: 11, epilogue (its opener recalls L10 ¶23–26).
+**Callbacks / forward:** Ch 2 (the prostration dhikr), 8 (dhikr dusts the heart, L07 ¶25–27), 9. Ahead: 11, epilogue (its opener recalls L10 ¶23–26).
 **Cut / gone around:** "Kashani" verse unnamed. Miʿraj hadith from `journey`. Dreams, the woman near madness, Qadiri stone, Shariati, ʿAli's bread, meat, Nimatullahi, whirling, logistics: out. Tabatabaʾi's forty-day remark (not in `kernel`) kept as the Sheikh's caution. Garbled ʿAli hadith (L10 ¶25) and "one year is enough" (¶26) replaced by held lines. Al-Batul: no held source, out.
 **Target:** ~3,000.
 
@@ -108,17 +108,18 @@ _FRAMEWORK §6 notes. Old numbers: 8=11 … 12=15. "Held" = Arabic in `duas-*.md
 2. ## Love as the Imams pray it [11.2]: worship as the free, not as traders or slaves.
    - Love is given, not acquired: God "shows the face of himself", so the Imams always asked for it (L12 ¶39–42); [Q5:54] "a people whom He loves and who love Him".
    - [NB3.222] "Some worship God out of desire for his reward—that is the worship of merchants. Others worship God from fear of his punishment—that is the worship of slaves. A third group worship God to give thanks for his favors—that is the worship of the free!" [@nahj, 3.222, p. 760]. Beside it [LT94] al-Sadiq: "There are till others who worship Allah because they love Him. Their worship is that of freemen" [@light, p. 94]. The Sheikh: "because he deserves to be worshipped" (L12 ¶60). Ch 1's `light` pp. 4, 44 recalled in words.
-   - [K123] "suppose ... that I am able to endure Your chastisement, How can I endure separation from You?" (Kumayl §123–124, held); no Thursday scene (Ch 2, 13, 16 use it).
+   - [K123] "suppose ... that I am able to endure Your chastisement, How can I endure separation from You?" (Kumayl §123–124, held); no Thursday scene (Ch 3 and 16 use it; Ch 13 opens on Abu Dharr).
    - The Lovers, the Sheikh's choice (L01 ¶27): [SAH656] "who can have tasted the sweetness of Thy love, then wanted another in place of Thee?" [@sahifa, p. 656].
    - [LAN88] "Love of Allah is a fire which does not pass by anything without burning it up" [@lantern, p. 88]: in the book attributed to al-Sadiq, on ʿAli's authority (true for either Imam at L12 ¶38).
 3. ## Even love is left at the door [11.3]: love too is a means, left behind on arrival.
    - [LT95] "In the beginning the spiritual traveler goes forward with the help of love, but after traversing a few stages he realizes that love is different from the beloved" [@light, p. 95].
+   - Held beside it, same passage in the Kernel's translation (not re-quoted): `kernel` pp. 72–73 (the wayfarer leaves behind the love that had been his means). The Bistami line on p. 73 is Ch 14's.
    - [SADI45] "If you look to your friend for his favors, / You are tied to yourself not to your friend" (Saʿdi) [@light, p. 45].
    - Rabiʿa in one line, her prayer as the Sheikh reads it, "you are more than enough for me" (L12 ¶59–60); pointer to Ch 13. Sets up Ch 12.
 **Boxes:** Reflection: [FH89] "Ask your heart whether it is in search of God or whether it is in love with itself" [@forty_hadith, p. 89]. Word Study: mahabba.
 **Try this:** read the Whispered Prayer of the Lovers (Sahifa, Munajat 9) once this week, slowly (L01 ¶27–31; L11 ¶58–59; [@sahifa, pp. 656–657]).
 **Hand-off:** Where does love carry the traveller in the end?
-**Callbacks / forward:** Ch 1, 2 (ʿArafah §783–784, Lovers "gazing"), Part One divider, 10. Ahead: 12, 13.
+**Callbacks / forward:** Ch 1, 3 (ʿArafah §783–784, Lovers "gazing"), Part One divider, 10. Ahead: 12, 13.
 **Cut / gone around:** early schools, Maʿruf, Dhul-Nun, Rabiʿa's torch: Ch 13 (Maʿruf's teaching kept, unnamed, ¶39–41). Garbled "divine fire" (L12 ¶38) replaced by the Lantern. "Nahj is full of love" (L11 ¶60) not claimed; L01 ¶31 not used. Nahj 3.222 says "thanks", so it sits beside al-Sadiq's "love".
 **Target:** ~2,800.
 
@@ -128,7 +129,7 @@ _FRAMEWORK §6 notes. Old numbers: 8=11 … 12=15. "Held" = Arabic in `duas-*.md
 **Subheading:** The first journey ends in fana: losing the false sense of self before God's glory, not becoming God. The traveller then comes back to themselves, sober, seeing only God.
 **Conclusion:** the first journey ends in seeing only God while remaining oneself. **Serves:** B3 **Old:** 15
 **Crescendo plan:** opener in fana's posture; 12.1 clears the ground; 12.2 climbs three degrees, each the truth of words the reader already says, to a summit that finishes the prologue's Munajat sentence; 12.3 returns sober and ends on the highest seeing. No box in 12.2; dangers brief.
-**Opener:** sujud, twice in every rakʿa. [JR88] Prostration is "the position of annihilation in Allah" [@journey, p. 88]. Ch 3's prostration dhikr recalled in words.
+**Opener:** sujud, twice in every rakʿa. [JR88] Prostration is "the position of annihilation in Allah" [@journey, p. 88]. Ch 2's prostration dhikr recalled in words.
 **Words you'll meet:** fanaʾ · baqaʾ · sukr / sahw · shath · farq baʿd al-jamʿ
 **Sections:**
 1. ## What is lost is the false self [12.1]: fana loses a false picture of the self; one neither ceases to exist nor becomes God.
@@ -154,7 +155,7 @@ _FRAMEWORK §6 notes. Old numbers: 8=11 … 12=15. "Held" = Arabic in `duas-*.md
 **Boxes:** Word Study (in 12.1): fana and baqa in [Q55:26-27] "Everyone on it is ephemeral, yet lasting is the majestic and munificent Face of your Lord" [@kernel, pp. 14–15].
 **Try this:** when you recite Surah al-Ikhlas in salah this week, stop on its first word, *Huwa*, "He", as the Sheikh asks (L09 ¶66–68).
 **Hand-off (to Part Four):** Others have walked this far. Where did the road come from, and who walked it first?
-**Callbacks / forward:** prologue (§105–107), Ch 3, 6, 7, 8, 11. Ahead: 14, 16 ("just the beginning", L15 ¶59).
+**Callbacks / forward:** prologue (§105–107), Ch 2, 6, 7, 8, 11. Ahead: 14, 16 ("just the beginning", L15 ¶59).
 **Cut / gone around:** Knysh, Baldick (not held) unnamed. "Train them / kill them" (L07 ¶62–63), Hinduism and incarnation claims: out. "Tams" → "in attributes". Khidr at Badr, Ikhlas-kafir hadith, Umayyads, wine of paradise, power station: out. Inaudible "mukhlasin" (¶22): Satan point only. "How glorified I am" (¶39) unattributed. Rumi (unlocated) out. Shaykh–murid (¶37): Ch 7, 15. `light` p. 57 is Ch 14's; `forty_hadith` p. 515 instead.
 **Target:** ~3,200.
 

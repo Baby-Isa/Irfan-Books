@@ -19,8 +19,8 @@ Prologue (approved) before Part One; Epilogue "First steps" after Part Five; App
 
 ## 2. Chapter points (carried from ARGUMENT v2.1; old number in brackets)
 **1 More than the minimum** (old 1, approved text; title change proposed). 1.1–1.4 as ARGUMENT v2.1.
-**2 You already know these words** (old 2). Brief: `docs/briefs/02-case.md`.
-**3 Knowing about God is not knowing Him** (old 3). Brief: `docs/briefs/03-case.md`. Reframed as the gap: we hold much knowledge *about* God; the prayers ask to *know* Him.
+**2 Knowing about God is not knowing Him** (old 3; swapped up, D41). Brief: `docs/briefs/02-case.md`. Reframed as the gap: we hold much knowledge *about* God; the prayers ask to *know* Him. Try this: the prostration dhikr (`kernel` p. 56).
+**3 You already know these words** (old 2; swapped down, D41). Brief: `docs/briefs/03-case.md`. Opens on Duʿa Kumayl; the prayers we already say ask for that knowing. Try this: the Munajat's last petitions (§82–111) this week; the whole prayer in Shaʿban.
 **4 Know yourself, know your Lord** (old 4). 4.1–4.3 as v2.1; 4.3 seeds "veils, not distance" (D26), developed in 8.
 **5 The soul and its worlds** (old 5). 5.1–5.4.
 **6 No path outside the law** (old 6, "The ship, the sea and the pearl"). 6.1–6.3; 6.3 previews the four journeys (full in 16).
@@ -60,7 +60,7 @@ English from `light` pp. 163–166 (the prologue's translation; cite `[@light, p
 | 83 | "a tongue the truth of which may be submitted to You" | Ch 10 (silence) |
 | 59 | "If You haul me into the hell, I will tell its inmates that I love You" | Ch 11 (love) |
 | 108 | "let our souls get suspended by the glory of Your sanctity" | Ch 12 (fana) |
-| 109–110 | "make me one of those whom You call and they respond; when You look at and they are thunderstruck by Your majesty" | Part Four divider |
+| 109–110 | "(please) appoint me of those who responded to You when You called them, and at whom You glanced so he swoons before Your Majesty" (duas.org wording, §8.3; cite `[@duas_munajat_shabaniyah, §109–110]`) | Part Four divider |
 | 111 | "You whisper to them secretly and they work for You openly" | Ch 16 (return to people) |
 | 120–121 | "if Your severe punishment calls me to Hell, the abundance of Your reward invites me to Paradise" | Ch 17 (hell and the return) |
 | 128–131 | "let me be attached to the Light of Your Majestic Glory, so that I may know You alone, be away from others…" | Part Five divider; the epilogue recalls it in words |
@@ -108,13 +108,13 @@ End each Part's file with a **quote ledger**: id | short text | source and locat
 ## 8. Reconciliation of the five Part outlines (2026-10-12)
 A ledger check across `part-1.md`–`part-5.md` found no quote planned twice. Where two chapters cite the same source page, they quote different sentences, and no Qur'an verse is quoted in two chapters. The planners' cross-Part points are settled as follows.
 1. **Four journeys:** Ch 6 previews them in a sentence or two and points to Ch 16. Its table box is cut, and its L09 ¶89/¶91 quotes move to Ch 16.
-2. **Duʿa ʿArafah:** the attribution of its closing section (from about §668) is debated. Where a line is presented as Imam Husayn's (Ch 16, Karbala), use the main body only. Ch 2's §689, §781 and §783–784 sit in the closing section, so at drafting either swap them for main-body lines or other prayers, or attribute them as "Duʿa ʿArafah, as given in the Mafatih" (true on either reading; D39).
-3. **Munajat §109–110 (Part Four divider):** *Light*'s English here is ungrammatical, so this one slot uses the duas.org wording: "appoint me of those who responded to You when You called them, and at whom You glanced so he swoons before Your Majesty". Every other Munajat line uses *Light*.
-4. **Openers:** Ch 2 (Duʿa Kumayl) and Ch 16 (Imam ʿAli to Kumayl, Nahj 3.133) both open on Kumayl, so Ch 13 opens on something else, such as a companion familiar from majalis, if held sources carry them.
+2. **Duʿa ʿArafah:** the attribution of its closing section (from about §668) is debated. Where a line is presented as Imam Husayn's (Ch 16, Karbala), use the main body only. Ch 3's §689, §781 and §783–784 sit in the closing section, so at drafting either swap them for main-body lines or other prayers, or attribute them as "Duʿa ʿArafah, as given in the Mafatih" (true on either reading; D39).
+3. **Munajat §109–110 (Part Four divider):** *Light*'s English here is ungrammatical, so this one slot uses the duas.org wording (§109–110 of `duas-munajat-shabaniyah.md`): "My Lord, (please) appoint me of those who responded to You when You called them, and at whom You glanced so he swoons before Your Majesty". Every other Munajat line uses *Light*.
+4. **Openers:** Ch 3 (Duʿa Kumayl) and Ch 16 (Imam ʿAli to Kumayl, Nahj 3.133) both open on Kumayl, so Ch 13 opens on something else: a companion familiar from majalis. `light` p. 20 holds Abu Dharr (his protest, exile and death alone), so Ch 13 opens on him; Salman and Uways stay in the Who's Who box.
 5. **Ch 12's last line** is Imam ʿAli's "I did not see a thing without beholding God with it, in it, before it, and after it" (`forty_hadith` p. 516). Ch 16 does not reuse it.
 6. **Kubra's two journeys** (involuntary and voluntary; L08 ¶5–8) go to Ch 17, for the willing return.
 7. **Ch 11 and Nahj 3.222:** the saying speaks of worship "to give thanks", not of love. Ch 11 sets it beside Imam al-Sadiq's love version (`light` p. 94) instead of reading love into it.
-8. **The Lovers prayer:** Ch 2 has "granted gazing upon Thy face"; Ch 11 has "tasted the sweetness of Thy love".
+8. **The Lovers prayer:** Ch 3 has "granted gazing upon Thy face"; Ch 11 has "tasted the sweetness of Thy love".
 9. **"Whoever knows himself knows his Lord":** the Prophet (D19, `lantern`) and Imam ʿAli (`journey` p. 125, as the Sheikh says) are shown side by side in Ch 4. OMISSIONS is revised when Ch 4 is drafted.
 10. **Ch 15 order:** techniques (old 9.4) come before authority (old 9.3), so the chapter ends on the Imam. Each step still depends only on earlier ones.
 11. **Left out:** Qadi al-Nuʿman as the lecture's example of a bad inner reading (L16 ¶4–5). There is no held source, and the Ismaili scholar should not appear only as the bad example; the principle stays.

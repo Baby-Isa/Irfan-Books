@@ -1,5 +1,7 @@
 # Book 2: the plan for approval
 
+_Snapshot presented for approval (D40). Later changes (Ch 2/3 swap, Ch 13 opener on Abu Dharr, Part Four divider wording) are in `FRAMEWORK.md` §8–§9, the part files and `docs/ARGUMENT.md` v3, which take precedence._
+
 _2026-10-12. Compiled from `FRAMEWORK.md` and `part-1.md` to `part-5.md`. Nothing here is new content; where a part file is unclear, a note says so. Section 6 lists the decisions that need you._
 
 ## 1. The book in one page

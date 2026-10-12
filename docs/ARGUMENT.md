@@ -139,7 +139,7 @@ _Divider (Munajat §94): "My Lord, inspire me with a passionate love of remember
 - **Conclusion:** love drives the path.
 - 11.1 Fear and renunciation start the journey; love carries it, and the early schools lacked it. [B3] L11 ¶61–63; L12 ¶38–61; L15 ¶11–13 (added: `lantern` p. 58; `kernel` p. 70). The early schools' history is Ch 13's, which calls back here.
 - 11.2 The Imams voice this love: the worship of the free, not of merchants or slaves; the Lovers' prayer. [B3] L12 ¶38–42, ¶60; L01 ¶27–31 (Nahj 3.222 set beside al-Sadiq's love version, `light` p. 94, because the Nahj saying speaks of thanks, FRAMEWORK §8.7; Sahifa pp. 656–657; Kumayl §123–124; `lantern` p. 88)
-- 11.3 Even love is finally a means, left behind at the Beloved. [B3] L12 ¶59–60 (Rabiʿa in a line) (added: `light` pp. 45, 95)
+- 11.3 Even love is finally a means, left behind at the Beloved. [B3] L12 ¶59–60 (Rabiʿa in a line) (added: `kernel` pp. 72–73; `light` pp. 45, 95)
 - → Where does love carry the traveller in the end?
 
 **Ch 12. Losing the self, finding God.** (old 15) **The crescendo of the book.**
@@ -150,7 +150,7 @@ _Divider (Munajat §94): "My Lord, inspire me with a passionate love of remember
 - → Others have walked this far. Where did the road come from, and who walked it first?
 
 ### Part Four: Fellow travellers (B4). Who else is on this road, and where did they arrive?
-_Divider (Munajat §109–110, in the duas.org wording, FRAMEWORK §8.3): "My Lord, appoint me of those who responded to You when You called them, and at whom You glanced so he swoons before Your Majesty." [duas §109–110; cf. @light, p. 165]_
+_Divider (Munajat §109–110, in the duas.org wording, FRAMEWORK §8.3): "My Lord, (please) appoint me of those who responded to You when You called them, and at whom You glanced so he swoons before Your Majesty." [duas §109–110; cf. @light, p. 165]_
 _Tone: the analytical step back after the crescendo. Calm, clear, curious._
 
 **Ch 13. Where it comes from.** (old 7, "Roots and the first seekers")
@@ -162,7 +162,7 @@ _Tone: the analytical step back after the crescendo. Calm, clear, curious._
 
 **Ch 14. Drunk and sober.** (old 8)
 - **Conclusion:** of those who reached fana, the sober went furthest, and the tradition's great theory, though contested, is neither pantheism nor licence.
-- 14.1 The knowers divided over the state beyond the self, Bayazid's intoxication or Junayd's sobriety, and the tradition ranked the return higher. [B4] L13 ¶3–34 (added: `light` pp. 25, 27, 57; `kernel` p. 73)
+- 14.1 The knowers divided over the state beyond the self, Bayazid's intoxication or Junayd's sobriety, and the tradition ranked the return higher. [B4] L13 ¶3–34 (added: `light` pp. 25, 27, 57; `kernel` p. 73, Bistami line only)
 - 14.2 Ibn ʿArabi gave the tradition its theory, the unity of being, which the lecturer holds is grasped by experience, not argument. [B4] L13 ¶35–67 (added: `light` pp. 34–35, 144; Nahj 1.1.1)
 - 14.3 That theory drew Shia critics; the held defenders answer that it is neither pantheism nor licence, and the lecturer himself declines to judge. [B4] L13 ¶43, ¶47–55; L01 ¶6 (side by side: `light` p. 34 against `inner_secrets` p. 99 on Ibn ʿArabi's Seal of the Saints; added: `forty_hadith` pp. 345, 402; `light` pp. 13–14, 144; `inner_secrets` pp. 98–99). The critics' concerns are reported as the defenders give them (FRAMEWORK §9); no critical source is held.
 - → How did the road become orders, and where do Shia stand?
@@ -190,8 +190,8 @@ _Tone: the emotion comes back and is brought home._
 - **Conclusion:** every soul returns to God, and ʿirfan is making that return willingly, now.
 - 17.1 The Quran may be read from the inside, on condition that the inner meaning agrees with the outer and never cancels it. [B5] L16 ¶3–17 (the opener scene; added: `light` p. 110; `journey` p. 54)
 - 17.2 The return reverses creation: existence, knowledge, power and will were given, and are surrendered in reverse order to be re-given by God (Tusi). [B5] L16 ¶17–32 (`forty_hadith` p. 517 holds the Tusi text)
-- 17.3 Hell is the same return, refused: the same surrender undergone against one's will. [B5] L16 ¶39–55; L08 ¶5–8 (Kubra's involuntary and voluntary journeys, FRAMEWORK §8.6) (side by side, as agreement: `forty_hadith` pp. 137, 365 keep the fire literal as well)
-- _Closing section [conclusion], no new point:_ the willing return, now. Hell comes before it.
+- 17.3 Hell is the same return, refused: the same surrender undergone against one's will. [B5] L16 ¶39–55 (side by side, as agreement: `forty_hadith` pp. 137, 365 keep the fire literal as well)
+- _Closing section [conclusion], no new point:_ the willing return, now. Hell comes before it. It carries Kubra's two journeys, involuntary and voluntary (L08 ¶5–8, FRAMEWORK §8.6), as the pair between which the reader chooses.
 - → So how does one begin, this week?
 
 **Prologue** (approved, edited for v3, D41): states the thesis and B1–B5 as a map of the book; says what ʿirfan is not (magic, a cult, a replacement for fiqh or taqlid); answers "isn't this Sufism?" in a line (Ch 15 answers it fully); opens with the Munajat's §105–107 petition.
@@ -205,7 +205,7 @@ _Tone: the emotion comes back and is brought home._
 |---|---|---|
 | **Munajat Shaʿbaniyyah, allocated (one use each)** | D13, D19, D40–D41; FRAMEWORK §4 and §8.3 | English from `light` pp. 163–166 (cite `[@light, p. N]`); Arabic only from `sources/extracts/duas-munajat-shabaniyah.md` by §, never from memory. **Prologue:** §105–107 (epigraph, used). **Part dividers:** One §73–74 (p. 164); Two §5–7 (p. 163); Three §94 (p. 165); Four §109–110 (duas.org wording, because *Light*'s is ungrammatical); Five §128–131 (p. 166). **Chapters:** Ch 2 §88; Ch 3 §104, §92–93, §82, and §73–74 spoken to; Ch 4 §32; Ch 5 §118–119 (epigraph); Ch 6 §126–127 (epigraph); Ch 8 §80; Ch 9 §64–65 (epigraph) and §100–101; Ch 10 §83; Ch 11 §59; Ch 12 §108; Ch 16 §111 (epigraph); Ch 17 §120–121. **Epilogue:** §124. **Appendix:** the whole prayer. A chapter may recall an earlier quote in words, never re-quote it. |
 | **"Try this"** | gap analysis 4; OUTLINE §5; FRAMEWORK §9 | One sourced act per chapter, doable this week; calendar-bound rites become the month or year rung. Ch 1 Q 30:21–24 daily; Ch 2 the prostration dhikr; Ch 3 the Munajat's last petitions once (Shaʿban recital as the month rung); Ch 4 Q 59:18–24 after prayer; Ch 5 the intention before sleep; Ch 6 one prayer at the start of its time; Ch 7 seek the company that reminds you of God; Ch 8 the Musabbihat; Ch 9 the Dhu'l-Qaʿdah rite (a hundred istighfar after one prayer as the weekly version); Ch 10 Tasbih al-Zahraʾ framed by Nahj 1.219.1 (D28); Ch 11 the Lovers' prayer; Ch 12 stop on *Huwa* in Ikhlas; Ch 13 muhasaba; Ch 14 *la hawla*; Ch 15 find your own practice; Ch 16 pray first for others; Ch 17 read verses as addressed to you. The epilogue gathers them into a graded plan with `journey`. |
-| **Scene-opener on familiar ground** | gap analysis 4; OUTLINE §1 | Every chapter: a fast, a majlis, a line of a duʿa, a graveside, salah, Ramadan. Under 150 words, before "Words you'll meet". Duʿa Kumayl opens Ch 3 and Ch 16 only; Ch 13 opens on a companion (Salman, Abu Dharr or Uways). |
+| **Scene-opener on familiar ground** | gap analysis 4; OUTLINE §1 | Every chapter: a fast, a majlis, a line of a duʿa, a graveside, salah, Ramadan. Under 150 words, before "Words you'll meet". Duʿa Kumayl opens Ch 3 and Ch 16 only; Ch 13 opens on a companion, Abu Dharr (`light` p. 20); Salman and Uways go in its Who's Who box. |
 | **Hand-offs (→)** | OUTLINE §6; FRAMEWORK §3 | One question after every chapter (above). Chs 3, 7, 12, 15 and 17 hand off to the next Part or the epilogue. |
 | **Portrait-style history** | gap analysis 5 | Chs 7 and 13–15: at most five figures in the prose, the rest in Who's Who boxes. |
 | **"The inside of what you already do"** | gap analysis; D10 voice | Ch 2 (a fast, the prostration), Ch 3 (the duʿas you recite), Ch 6 (attention in your prayer), Ch 9 (istighfar), Ch 10 (Ramadan's disciplines, dhikr), Ch 12 (sujud), Ch 16 (ʿArafah), Ch 17 (Surah Yasin and the Quran you read). Each names the familiar practice in its opener and its "Try this". |

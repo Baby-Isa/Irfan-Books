@@ -18,7 +18,7 @@ _Planning notes per FRAMEWORK §6. Ch 7 = old 10 plus a short old 9.3. Munajat E
 **Words you'll meet:** *nafs* · *ruh* · *hijab* (pl. *hujub*) · *qurb* · *liqaʾ Allah* [add to GLOSSARY first]
 **Sections:**
 1. ## The instrument of all knowing [4.1] — the soul is what we know with, so it comes first.
-   - The Sheikh opens theory with the soul, "the means to understand and to learn" (L04 ¶7). The soul knows itself by presence, the clearest case of Ch 3's second knowing (L04 ¶4–5, ¶49).
+   - The Sheikh opens theory with the soul, "the means to understand and to learn" (L04 ¶7). The soul knows itself by presence, the clearest case of Ch 2's second knowing (L04 ¶4–5, ¶49).
    - Q 91:7–10: the soul is fashioned with discernment; "the whole story of human being in this world is about human soul" (L04 ¶12). quote [4-Q91] "one who purifies it is felicitous, and one who betrays it fails." — Q 91:9–10
 2. ## Forgetting God, forgetting ourselves [4.2] — the Qur'an ties the two losses together; the tradition ties the two knowings together.
    - quote [4-Q59] "Do not be like those who forget Allah, so He makes them forget their own souls." (Q 59:19). The Sheikh: most of us have forgotten our souls; remembering God turns attention back to the soul (L04 ¶13–14). Shomali: "forgetting Him causes us to forget ourselves in turn" [@self_knowledge, p. 8].
@@ -32,7 +32,7 @@ _Planning notes per FRAMEWORK §6. Ch 7 = old 10 plus a short old 9.3. Munajat E
 **Boxes:** Word Study: "Whoever knows himself": two attributions, two readings (L04 ¶29–33). Who's Who: Mirza Muhammad ʿAli Shahabadi, Khomeini's teacher, "a murid with his murshid" [@forty_hadith, p. 8].
 **Try this:** After the daily prayers, recite Q 59:18–24 and reflect on its meaning, as Shahabadi asked his pupils to: "Our Shaykh would ask us to recite these verses after daily prayers and to contemplate over their meaning" [@forty_hadith, p. 201].
 **Hand-off:** If the self is the door, how deep does it go?
-**Callbacks / pointers:** Ch 1 (the faculty: one clause, not re-argued), Ch 3 (knowledge by presence), Prologue's "veils of light", all in words. Points to Ch 5, Ch 8.
+**Callbacks / pointers:** Ch 1 (the faculty: one clause, not re-argued), Ch 2 (knowledge by presence), Prologue's "veils of light", all in words. Points to Ch 5, Ch 8.
 **Cut / gone around:** orientalists (¶10–11); Buddhists (¶26–27); Adam "in his image" (¶8); Cardinal story (¶62) and "Do not be ignorant of your soul" (¶52), unsourced; angels Q&A (¶34–39). By wording: ¶29 vs ¶33 → "some knowing, never complete"; ¶29 "eternal" → "outlasts the body"; ¶54 quoted as said.
 **Target:** ~2,800 words.
 
@@ -89,8 +89,9 @@ _Planning notes per FRAMEWORK §6. Ch 7 = old 10 plus a short old 9.3. Munajat E
 3. ## To the last breath [6.3] — even the end of the road is lived under the law, among people.
    - Tabatabaʾi: "from the beginning of wayfaring to its final stage the wayfarer must abide by all the precepts of the luminous Shari'ah"; the claim of release is "a big lie and slander" [@kernel, p. 30].
    - The Prophet, asked why he strove in worship though forgiven (Q 48:2): "Don't you want me to be God's grateful servant?" [@kernel, p. 30]. (Ties to the epigraph.)
-   - The four journeys in outline: to God, in God, back to creation, among creation; the last "would bring him down to the level of ordinary people" (L09 ¶71–72, ¶91); the Imams knew more than the law "of course, they follow the Sharia" (L09 ¶89). Pointer to Ch 16.
-**Boxes:** Word Study: *karamat*, *muʿjiza* and *sihr* (L06 ¶17–18). "The four journeys at a glance": a four-line table (L09 ¶71–72).
+   - The four journeys are previewed in a sentence or two, no more: to God, in God, back to creation, among creation (L09 ¶70–72). The last journey ends among people. Pointer to Ch 16, which walks them (FRAMEWORK §8.1).
+   - (L09 ¶89 "of course, they follow the Sharia" and L09 ¶91 "would bring him down to the level of ordinary people": moved to Ch 16.)
+**Boxes:** Word Study: *karamat*, *muʿjiza* and *sihr* (L06 ¶17–18). (The four-journeys table box is cut, FRAMEWORK §8.1.)
 **Try this:** For one prayer a day this week, pray it at the start of its time with nothing scheduled around it, as Khomeini advises ("set aside a certain time out of his day and night hours exclusively for the sake of worship" [@forty_hadith, p. 375]); at *Allahu akbar*, "know what you are saying" (L06 ¶26).
 **Hand-off:** The law is the boundary. Who walks beside the traveller?
 **Callbacks / pointers:** Prologue's third principle, Ch 1 (powers), Ch 5 (states). Points to Ch 7, Ch 10, Ch 16. Prose names: Kubra, ʿAbd al-Samad Hamadani, Bahari, Khomeini, Tabatabaʾi; Mutahhari and Amuli in footnotes only.

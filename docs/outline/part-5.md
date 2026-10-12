@@ -19,30 +19,30 @@ _Follows `docs/outline/FRAMEWORK.md` §6. Framing: the road is travelled for the
 **Words you'll meet:** al-asfar al-arbaʿa (**add to GLOSSARY**), baqaʾ, al-Haqq, wilaya, malakut.
 **Sections:**
 1. ## A quarter of the way [16.1] — after fanaʾ the road goes on: the first two journeys.
-   - Ch 6 tabled the four journeys; here they are walked (L09 ¶70–72). Mutahhari gives the same four in the same order (`light` p. 49).
+   - Ch 6 only previewed the four journeys in a sentence or two; here they are walked (L09 ¶70–72). Mutahhari gives the same four in the same order (`light` p. 49).
    - First: the dark and luminous veils removed, nafs to qalb to ruh, ending in fanaʾ (L09 ¶72–74; Ch 8, 12 in words); "just one quarter of the way" (L09 ¶75).
    - Second: under God's complete wilaya; fanaʾ gives way to baqaʾ; the knower feels himself again "a servant of Allah" (L09 ¶78–81).
 2. ## The way back [16.1] — the third and fourth journeys bring the knower back to people, with God.
    - Third: creation seen as God's names at work; [Q6:75] "that he might be of those who possess certitude"; now he can tell others, and the Sheikh no longer calls him a mystic (L09 ¶83–86).
-   - Fourth: how everything returns to God (L09 ¶87–88). Ch 6 quoted ¶91's "level of ordinary people"; here quote its other half: those who finish only the first journey find it "very difficult for them to mix with the people" (L09 ¶91). Ch 14's drunk travellers recalled in words.
+   - Fourth: how everything returns to God (L09 ¶87–88). Both halves of ¶91 are quoted here (moved from Ch 6, FRAMEWORK §8.1): the fourth journey "would bring him down to the level of ordinary people and they can live with ordinary people", and those who finish only the first journey find it "very difficult for them to mix with the people" (L09 ¶91). Ch 14's drunk travellers recalled in words.
    - [Mu50] "The fourth journey is amongst the people while still united with God." (`light` p. 50).
    - [Am140] "one sees the source of Oneness in the forms of multiplicity and the forms of multiplicity in the source of Oneness" (`inner_secrets` p. 140).
    - The epigraph and divider recalled in words: away from all but God in the heart, among people in the body.
-3. ## Who completes it [16.3] — side by side (D20, D25), gently.
-   - The Sheikh: the third journey is open to "some very high caliber mystics"; the completed fourth belongs to the Prophet and his successors, whose inner knowledge stayed within the Book and the shariʿa (L09 ¶87, ¶89; Ch 6 quoted ¶89, so paraphrase).
+3. ## Who completes it [16.2] — side by side (D20, D25), gently.
+   - The Sheikh: the third journey is open to "some very high caliber mystics"; the completed fourth belongs to the Prophet and his successors, whose inner knowledge stayed within the Book and the shariʿa (L09 ¶87, ¶89). Quote ¶89 here (moved from Ch 6, FRAMEWORK §8.1): the Imams knew more than the law, yet "of course, they follow the Sharia".
    - Tabatabaʾi: holding both worlds is "Perhaps… exclusive to the prophets and the awliya' and whoever God wishes"; yet [Tb20] "the office of prophethood and Imamate is something exclusive, but attainment to… fana' in the Essence of the One‑which is called wilayah‑is not at all exclusive" (`kernel` p. 20; parallel `light` p. 64, cite one). His reason: the Prophet's summons "implies the possibility of travelling" (Q 33:21 cited).
    - Common ground stated: both place the full return in the Prophet and the Imams.
-4. ## From ʿArafah to Karbala [16.2] — the Imams embody the return; Karbala offered as a reflection (D16), not as the Sheikh's teaching.
+4. ## From ʿArafah to Karbala [16.3] — the Imams embody the return; Karbala offered as a reflection (D16), not as the Sheikh's teaching.
    - [Kh138] "it were they who established justice in the world and rose against the wrongdoers. Imam Husayn also did the same thing. Just see his Supplication of the Day of Arafah and ponder over it." (`light` p. 138).
    - Scene: he left his tent "accompanied by a group of his household, sons, and servants" and raised his hands "just like a poor man begging food" (Mafatih p. 374).
    - [A742] "make me refer to You with the garb of lights" (ʿArafah §742–743, held); [A790] "What can one who misses You find any substitute? What can one who finds You miss anything else?" (§790–791, held).
    - Reflection: the man who prayed this at ʿArafah was killed at Karbala with his household, among people and for them, with God (Mafatih p. 401: "On this day, Imam al-Husayn (a.s.) was martyred.").
    - Conclusion stated once. Stop on the concrete: the ʿAshura instruction to "express sympathy to each other" (Mafatih p. 401).
-**Boxes (≤3):** Who's Who: Kumayl ibn Ziyad (Nahj 3.133 n. 4). (Ch 6 has the four-journeys table and Ch 3 the Mulla Sadra box; name Sadra's *al-Asfar* in one line, L09 ¶70.)
+**Boxes (≤3):** Who's Who: Kumayl ibn Ziyad (Nahj 3.133 n. 4). (Ch 6 has no table now, only a preview line, and Ch 2 holds the Mulla Sadra Who's Who box; name Sadra's *al-Asfar* in one line, L09 ¶70.)
 **Try this:** in duʿa, pray first for other believers by name, from the heart, then for yourself: "firstly we pray for them and then should mention our own wants and desires" (`journey` p. 83).
 **Hand-off:** The friends of God return to people. Where does every soul return?
-**Callbacks / forward pointers:** Ch 6 (journeys tabled; the law), Ch 8 (veils), Ch 12 (fanaʾ, baqaʾ), Ch 14 (the drunk), Ch 15 (authority is the Imam's), Ch 2 (ʿArafah, Munajat). Forward: Ch 17.
-**Cut / gone around (D15, D39):** Sadra's "rationalized mysticism" (L09 ¶70–71, garbled): one line. Out: ¶72's close, ¶73's "last verse" (Abu Hamza's veil line left to Ch 8), the unidentified Salat al-Layl duʿa (¶80), Ibrahim's "authority over my name" (¶87; Q 6:75 kept), inaudible ¶90, ¶92–93. ¶87 "only the Prophet" vs ¶89 "and… successor": ¶89 followed. The ʿArafah prayer's year is not tied to Karbala (true on either reading). ʿArafah §668 ff.: authorship of this closing part is debated [VERIFY]; Ch 2 quotes it too, so decide once.
+**Callbacks / forward pointers:** Ch 6 (journeys previewed; the law), Ch 8 (veils), Ch 12 (fanaʾ, baqaʾ), Ch 14 (the drunk), Ch 15 (authority is the Imam's), Ch 3 (ʿArafah, Munajat, Kumayl). Forward: Ch 17.
+**Cut / gone around (D15, D39):** Sadra's "rationalized mysticism" (L09 ¶70–71, garbled): one line. Out: ¶72's close, ¶73's "last verse" (Abu Hamza's veil line left to Ch 8), the unidentified Salat al-Layl duʿa (¶80), Ibrahim's "authority over my name" (¶87; Q 6:75 kept), inaudible ¶90, ¶92–93. ¶87 "only the Prophet" vs ¶89 "and… successor": ¶89 followed. The ʿArafah prayer's year is not tied to Karbala (true on either reading). ʿArafah §668 ff.: authorship of this closing part is debated [VERIFY]; settled in FRAMEWORK §8.2: Ch 16 uses the main body only (§742–743, §790–791), and Ch 3 attributes its closing-section lines "as given in the Mafatih".
 **Target:** ~2,800 words.
 
 ---
@@ -55,7 +55,7 @@ _Follows `docs/outline/FRAMEWORK.md` §6. Framing: the road is travelled for the
 **Words you'll meet:** taʾwil, mathal, maʿad, rida, tawakkul, taslim.
 **Sections:**
 1. ## Reading from the inside [17.1] — inner meaning is read on one condition: it agrees with the outer and never cancels it.
-   - Not meanings "at the will of some mystic", nor a scheme brought from outside; "a type of insightful look at the verses of the Quran"; the apparent meaning "doesn't go away" (L16 ¶3–8). Ch 3's Light Verse recalled in words.
+   - Not meanings "at the will of some mystic", nor a scheme brought from outside; "a type of insightful look at the verses of the Quran"; the apparent meaning "doesn't go away" (L16 ¶3–8). Ch 2's Light Verse recalled in words.
    - Two held guards: [Kh110] "Islam does not allow anybody to interpret the Qur'an according to his personal opinion or private judgment" (`light` p. 110); [J54] "Limiting the meanings and aims of the Holy Qur'an to their apparent… also closes the path" (`journey` p. 54).
    - Test: the collar here, the chain "seventy cubits in length" there (Q 69:32); "whoever has been blind in this [world], will be blind in the Hereafter" (Q 17:72). The Sheikh keeps the real chain too: "we cannot deny the deeper meanings as well" (L16 ¶13–17).
 2. ## Given in order, returned in reverse [17.2] — existence, knowledge, power and will were given; they go back in reverse.
@@ -74,13 +74,14 @@ _Follows `docs/outline/FRAMEWORK.md` §6. Framing: the road is travelled for the
    - Mercy: intercession completes believers' light, "Our Lord! Perfect our light for us" (Q 66:8; L16 ¶34, ¶37–39).
    - [M120] "My Lord, if Your severe punishment calls me to Hell, the abundance of Your reward invites me to Paradise." (`light` p. 166; Arabic held §120–121).
 5. ## Going back now [conclusion] — ʿirfan is the willing return, made in this life.
+   - Kubra's two journeys (FRAMEWORK §8.6; the Sheikh gives them as the advice of Najm al-Din Kubra, L08 ¶5–8): God has set two journeys for the children of Adam, one involuntary (*qahri*) and one voluntary (*ikhtiyari*). Everyone meets the Lord: through death, barzakh and the resurrection, a journey "out of your control", "longer and harder" (L08 ¶7–8). The mystic's way is the same meeting made voluntarily, in this world, "a shortcut" (L08 ¶7), and it carries "more merits" (L08 ¶8). This names in one pair what 17.3 has just described (L16 ¶39–41, "either voluntarily or involuntarily"). No verse is cited for it: the Sheikh himself flags a slip in the quotation and names a verse (L08 ¶5–6) whose wording does not match, so the point is stated as Kubra's advice, as given (D39). Left out: ¶6's remark on those who do not hope to meet Him, ¶8's garbled middle (D39).
    - Completed here, "The Great Terror will not upset them" (Q 21:103; L16 ¶40, numbering corrected).
    - [Q2:156] "Indeed we belong to Allah and to Him do we indeed return", said at every death, said now of oneself (added).
    - Conclusion stated once. End on [Q89:27–28] "O soul at peace! Return to your Lord, pleased and pleasing!" (build; Ch 5 cites 89:27 without quoting it).
 **Boxes (≤3):** Word Study: taʾwil and tafsir (gnostic commentaries "not the exegesis… exposed some aspects of it", `light` p. 109). Who's Who: Nasir al-Din Tusi (d. 672/1273, `light` p. 36; commentary on the *Isharat*, `light` p. 50; "the best of the later scholars", `forty_hadith` p. 517).
 **Try this:** each day read a few verses and take their commands and warnings "as though all of them have been revealed especially for him" (`journey` p. 46); method: one verse from several sides (pp. 49–52).
 **Hand-off:** So how does one begin, this week?
-**Callbacks / forward pointers:** Ch 3 (Light Verse), Ch 5 (worlds, barzakh), Ch 11 (Munajat §59 in words), Ch 12 (fanaʾ), Ch 16. Forward: epilogue.
+**Callbacks / forward pointers:** Ch 2 (Light Verse), Ch 5 (worlds, barzakh), Ch 11 (Munajat §59 in words), Ch 12 (fanaʾ), Ch 16. Forward: epilogue.
 **Cut / gone around (D15, D39):** "Tafseer-e-Sunan" (¶4) unidentified: out. Qadi al-Nuʿman (¶4–5) not named (no held source; a Khoja reader should not meet a neighbouring community only as the bad example); the principle stays. Ghazali's *Mishkat* and the Ibn ʿAwf dream (¶7–8, ¶52–53) out; held guards stand beside the Sheikh's rule. Tusi's garbled title (¶17), Sadra's excerpts (¶18), "senses are spies" (¶21), the letter hadith (¶26–27), Ridwan and Malik/Sulayman (¶25–26, ¶44–45), three spans of knowledge (¶29; §670 instead), garbled ¶26 and ¶50: out. The mulk/malakut hadith (¶51) is unidentified: `forty_hadith` p. 137 makes the point.
 **Target:** ~3,000 words.
 
@@ -96,9 +97,9 @@ _Follows `docs/outline/FRAMEWORK.md` §6. Framing: the road is travelled for the
    - [J109] "select the proper program which is suitable for him"; [J161] do not drop a deed you cannot do fully, "he should perform it, as much as possible" (`journey` pp. 109, 161).
    - The wajibat first (Ch 6), and a tested companion (Ch 7), in words.
 2. ## This week — daily acts of minutes.
-   - Ch 1: Q 30:21–24, slowly, once a day (D28). Ch 3: the prostration dhikr, believed (`kernel` p. 56). Ch 4: Q 59:18–24 after the daily prayers (`forty_hadith` p. 201). Ch 5: before sleep, examine yourself (`lantern` p. 24). Ch 6: one prayer at the start of its time (`forty_hadith` p. 375). Ch 16: pray first for others by name (`journey` p. 83).
+   - Ch 1: Q 30:21–24, slowly, once a day (D28). Ch 2: the prostration dhikr, believed (`kernel` p. 56). Ch 3: the Munajat's last petitions (§82–111, Appendix) once, slowly, "with presence of heart" (Mafatih p. 245; brief 03). Ch 4: Q 59:18–24 after the daily prayers (`forty_hadith` p. 201). Ch 5: before sleep, examine yourself (`lantern` p. 24). Ch 6: one prayer at the start of its time (`forty_hadith` p. 375). Ch 16: pray first for others by name (`journey` p. 83).
 3. ## This month — one practice held for a month.
-   - Ch 2: the Munajat in Shaʿban "with presence of heart" (Mafatih p. 245; L01 ¶22). Ch 7: seek the company that reminds you of God (`lantern` p. 13). Ch 10: remembrance, "the burnish for your hearts" (Nahj 1.219.1, `nahj` p. 522; recalled, act as Part Three names it). Ch 17: verses read as addressed to you (`journey` p. 46), in Ramadan if it falls then.
+   - Ch 3: in Shaʿban, the whole Munajat "as much as you can" (L01 ¶22), with the English beside it (the longer rung of the same act). Ch 7: seek the company that reminds you of God (`lantern` p. 13). Ch 10: remembrance, "the burnish for your hearts" (Nahj 1.219.1, `nahj` p. 522; recalled, act as Part Three names it). Ch 17: verses read as addressed to you (`journey` p. 46), in Ramadan if it falls then.
    - [Placeholders: Ch 8, Ch 9 Try this, from `part-3.md`.]
 4. ## This year — one practice kept a year.
    - Choose one act above and keep it a year (L10 ¶25–26).
@@ -113,7 +114,7 @@ _Follows `docs/outline/FRAMEWORK.md` §6. Framing: the road is travelled for the
 ---
 
 ## Quote ledger (Part Five)
-| id | short text | source and location | Arabic | ch.section |
+| id | short text | source and location | Arabic | ch.section (by position) |
 |---|---|---|---|---|
 | M128 | "attached to the Light of Your Majestic Glory" | `light` p. 166; Munajat §128–131 | held | divider |
 | M111 | "whisper to them secretly… work for You openly" | `light` p. 165; Munajat §111 | held | 16 epigraph |
@@ -150,4 +151,4 @@ _Follows `docs/outline/FRAMEWORK.md` §6. Framing: the road is travelled for the
 | J109, J161 | "suitable for him"; "as much as possible" | `journey` pp. 109, 161 | n.a. | Epilogue 1 |
 | M124 | "one of those who always remember You" | `light` p. 166; Munajat §124 | held | Epilogue 5 |
 
-_Lecture lines quoted: L09 ¶75, ¶81, ¶87, ¶91 (second half only); L16 ¶3, ¶5, ¶8, ¶15, ¶28, ¶31, ¶39, ¶43, ¶47–49; L08 ¶26; L10 ¶26._
+_Lecture lines quoted: L09 ¶75, ¶81, ¶87, ¶89 and ¶91 (both halves; ¶89 and ¶91 moved from Ch 6); L16 ¶3, ¶5, ¶8, ¶15, ¶28, ¶31, ¶39, ¶43, ¶47–49; L08 ¶7–8 (Kubra); L08 ¶26; L10 ¶26._
