@@ -51,7 +51,7 @@ English from `light` pp. 163–166 (the prologue's translation; cite `[@light, p
 | 92–93 | "place me among Your friends in the position of one who hopes for an increase in Your love" | Ch 2 §2 |
 | 82 | "provide me with a heart, the passion of which may bring it near You" | Ch 2 §2 |
 | 88 | "One who follows Your path is enlightened" | Ch 3 §3–4 |
-| 32 | "I have been unjust to my soul for I have not looked after it" | Ch 4 (forgetting the self) |
+| 32 | "I have been unjust to my soul for I have not looked after it" (p. 163) | Ch 4 (forgetting the self) |
 | 118–119 | "if my disregard for preparations to meet You has put me to sleep, my knowledge of Your kind bounties has awakened me" | Ch 5 (sleep, waking, meeting) |
 | 126–127 | "who do not fail to show You their gratitude and do not take Your orders lightly" | Ch 6 (the law) |
 | 94 | "inspire me with a passionate love of remembering You so that I may keep on remembering You" | Part Three divider |
