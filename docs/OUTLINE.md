@@ -1,5 +1,7 @@
 # Outline v2.1 (canonical: D12; source-aligned: D19)
 
+_Superseded for structure and chapter order by `docs/outline/` and ARGUMENT v3 (D40–D41). Chapter numbers below are the old (v2.1) numbers; use the old→new map in `docs/outline/FRAMEWORK.md` §2._
+
 _Book 2 (Expanded). About 65k words of body text, with boxes on top (D14). Lecture sources are given as `LNN ¶a–b`; also read the matching `notes/IrfanNN.md`. Held-source anchors come from `sources/maps/`. Earlier versions are in git history._
 
 ## Every chapter has
