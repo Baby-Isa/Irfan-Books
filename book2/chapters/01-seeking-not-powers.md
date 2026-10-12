@@ -74,7 +74,9 @@ Cattle see and hear perfectly well, so the comparison cannot be about the senses
 
 He compares this faculty to a machine. The ear catches the sound, but "there is something inside which doesn't catch it. There is a machine inside which is [rusted]." That machine is the soul. It has to be repaired before it can catch the signals of God. For Sheikh Bahmanpour, this is the whole subject in one sentence: mysticism is about making the soul hear, see and reflect. He adds that this is not easy, and requires a great deal of training.
 
-Placing the fault in the receiver has two consequences. The first is that the problem is not a shortage of evidence. God is not withholding signs; we are failing to receive them. The second is that the problem can be solved. A faculty that exists but has rusted can be repaired; one that is absent cannot be made fit for purpose. The *Kernel of the Kernels*, a record of ʿAllama Tabatabaʾi's early lectures on the path, opens by saying that the pull towards the unseen is "part of the innate instincts of the human being" [@kernel, p. 4]. The longing for God, and the faculty that perceives Him, are part of how we are made.
+Placing the fault in the receiver has two consequences. The first is that the problem is not a shortage of evidence. God is not withholding signs; we are failing to receive them.
+
+The second is that the problem can be solved. A faculty that exists but has rusted can be repaired; one that is absent cannot be made fit for purpose. The *Kernel of the Kernels*, a record of ʿAllama Tabatabaʾi's early lectures on the path, opens by saying that the pull towards the unseen is "part of the innate instincts of the human being" [@kernel, p. 4]. The longing for God, and the faculty that perceives Him, are part of how we are made.
 
 Repair is only the start. Once the inner faculty begins to work, Sheikh Bahmanpour says, the journey begins, and it does not end; it is a path that "has a beginning and no end".
 

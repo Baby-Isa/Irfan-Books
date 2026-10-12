@@ -168,3 +168,15 @@ _Append only. Each entry: date, decision, why. To reverse a decision, add a new 
 - **Ch 1 §6** is retitled "The aim is God, not powers". Tabatabaʾi's p. 101 remark on judging a teacher is dropped as repetitive.
 - **Layout:** a verse block's reference (and a quote's source) now sits top right, above the Arabic, so the space below the quote matches the space above it.
 - **The muqarrabun "given Paradise in this world"** is kept, attributed to the Sheikh (L01 ¶16), and reworded for clarity.
+
+## 2026-10-12: D34. Credits
+- **Title page:** "Based on a lecture series by Sheikh M. S. Bahmanpour" and "Edited by Zafar Abbas Juma". The user's uncle, who knows the Sheikh, approved the prologue and Ch 1 and agreed this framing. "Edited" (or "Curated") signals that the book adds no personal opinions. The alternative wordings "Adapted from…" and "Curated by…" are still open.
+
+## 2026-10-12: D35. Paragraph spacing (trial)
+- **Layout:** paragraphs now have a half-line gap (`spacing: 1.1em`) as well as the first-line indent. This is what the user asked for, to make long passages easier to read, and it adds about one page per 17. The user should confirm after seeing it. To revert, set `spacing: 0.66em` in `build/template.typ`.
+- **Writing rule:** paragraphs of 50–65 words, 110 at most (TONE rule 22).
+
+## 2026-10-12: D36. The prologue and Ch 1 are the exemplar
+- **Approval:** the user and his uncle approved them, and git tag `exemplar-v1` freezes them. `docs/EXEMPLAR.md` records the target numbers and the first-draft → final pairs.
+- **Writers:** every writer reads the exemplar in full before drafting.
+- **Tone editing:** a new `tone-editor` agent line-edits each draft against the exemplar before the fidelity check.

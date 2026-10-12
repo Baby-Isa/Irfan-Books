@@ -111,5 +111,9 @@ A believer who prays, fasts and recites duʿas, and who has wondered whether the
 **Do:** cut a qualifier no reader doubts ("there is nothing wrong, in the shariʿa, with being rich" becomes "there is nothing wrong with pursuing material wealth"), and cut a paragraph that only re-proves a point already made.
 **Don't:** add a fourth authority when three have made the case. Say "in his lectures", never "in his class".
 
+### 22. Keep paragraphs short enough to breathe
+**Do:** aim for 50–65 words per paragraph, with 110 at most. Split where a new claim begins, as in the exemplar: "Placing the fault in the receiver has two consequences. The first is… / The second is that the problem can be solved…"
+**Don't:** run a definition, a qualification and a quotation together in one block of 150 words or more.
+
 ## Check before handing over
 Read only the first sentence of every paragraph in order. If the argument does not follow, fix the openings (rule 1). Then read every sentence against its section's point note (rules 2 and 11). Then search for "as we should", "rarely", "never", "lip service", "intelligent", "busy", "you will find", "of course", and for any quotation that is not spoken to in the sentence after it.

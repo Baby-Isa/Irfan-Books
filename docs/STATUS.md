@@ -7,11 +7,9 @@ _Update at the end of every task. Keep it short. History lives in git and DECISI
 - **Gate A:** case brief, approved by the user.
 - **Gate B:** prose, then the fact-check, then the PDF.
 
-**Now:** Prologue and Ch 1 (Book 2) being polished with the user as the model for the whole book (TONE.md rules 1–17). Prologue reviewed through round 5; Ch 1 revised to match, awaiting the user's review. Then Ch 2 brief.
+**Now:** Prologue and Ch 1 (Book 2) approved by the user and his uncle, and frozen as the exemplar (D36, tag `exemplar-v1`). See `docs/HANDOVER.md`.
 
-**2026-10-08, tone round 3:** the user judged the tone "miles off". His feedback is distilled into `docs/TONE.md` (D31: paragraph linkage, sentence-relevance test, no lecturing or presumption, every quote spoken to and carrying its Arabic, no suspense, "let's"). Prologue and Ch 1 rewritten against it (prologue ~1.25k body incl. epigraph; Ch 1 ~2.7k body + 0.35k boxes; Arabic on every displayed Quran/duʿa quote via `.ayah words=` and `.quote ar=`; 1 VERIFY for the Nahj 3.403 Arabic, 1 QUERY on "These are shirk"). PDF: `samples/prologue-and-ch01.pdf`. Advice to the user on steering tone: `docs/TONE-GUIDANCE.md`. Not yet committed.
-
-**Next:** the user's verdict on the round-3 tone; then Chapter 2 case brief.
+**Next:** Part One. Present the Ch 2 and Ch 3 briefs (Gate A), then draft → tone-editor → fidelity-checker → user review.
 
 ## Open questions for the user or lecturer
 1. The lecturer is M. S. Bahmanpour (from the slides). Confirm his preferred title and name format.

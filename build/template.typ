@@ -185,7 +185,7 @@
   set document(title: title)
   set text(font: serif, size: 11pt, fill: ink, lang: "en", region: "GB", hyphenate: true,
     features: ("onum", "liga", "kern"))
-  set par(justify: true, leading: 0.66em, first-line-indent: (amount: 1.2em, all: false), spacing: 0.66em)
+  set par(justify: true, leading: 0.66em, first-line-indent: (amount: 1.2em, all: false), spacing: 1.1em)
   set page(
     width: 6in, height: 9in,
     margin: (inside: 22mm, outside: 18mm, top: 22mm, bottom: 24mm),
@@ -232,6 +232,10 @@
     align(center, text(size: 13pt, style: "italic", fill: teal, subtitle))
     v(10mm)
     star-band(width: 70%)
+    v(14mm)
+    align(center, text(size: 11pt, fill: ink)[Based on a lecture series by\ Sheikh M. S. Bahmanpour])
+    v(6mm)
+    align(center, text(size: 11pt, fill: ink)[Edited by\ Zafar Abbas Juma])
     v(1fr)
     if edition != "" { align(center, text(size: 10pt, fill: teal, smallcaps(edition))) }
     if draft { v(4mm); align(center, text(font: sans, size: 8pt, fill: rgb("#8A4B00"))[DRAFT — not for distribution]) }

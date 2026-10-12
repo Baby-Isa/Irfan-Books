@@ -1,141 +1,75 @@
-# Handover to a new session (2026-10-08)
+# Handover to a new session (2026-10-12)
 
-_Read this first, then `CLAUDE.md`, then `docs/STATUS.md`. Everything is on branch `claude/stoic-euler-p7myev` in `Baby-Isa/Irfan-Books`._
+_Read this first, then `CLAUDE.md`, `docs/STATUS.md` and `docs/EXEMPLAR.md`. Everything is on branch `claude/stoic-euler-p7myev` in `Baby-Isa/Irfan-Books`._
 
-## 1. Where we are, in one line
-The book's argument pyramid (`docs/ARGUMENT.md` v2, Fable-amended) is drafted. **Four decisions on it are awaiting the user** (section 2). After those, the Chapter 1 case brief (`docs/briefs/01-case.md` v2.1) needs the user's approval. Then Chapter 1 is written on top of it (Gate B), and production continues chapter by chapter.
+## 1. Where we are
+The prologue and Chapter 1 of Book 2 are finished and approved. The user's uncle, who knows Sheikh Bahmanpour well, read them and was happy for the work to continue as it is. Together they are the written model for the rest of the book (`docs/EXEMPLAR.md`, git tag `exemplar-v1`). The argument pyramid is approved (`docs/ARGUMENT.md` v2.1, D25–D28). The next task is **Part One: the Chapter 2 and 3 briefs.**
 
-## 2. Open decisions: restate these to the user first
-Present each one in plain bullets: what it means, then the options with their pros and cons, then a recommendation. Record the answers in `docs/DECISIONS.md` (next number is D25) and update ARGUMENT.md.
+## 2. Agreed since the last handover
+- **Credits (D34):** the title page reads "Based on a lecture series by Sheikh M. S. Bahmanpour" and "Edited by Zafar Abbas Juma". "Edited" signals that the book adds no personal opinions. "Adapted from…" and "Curated by…" are still possible alternatives, so ask once.
+- **Provenance (D32):** it was a lecture series, which the uncle attended. Never describe it as part of a BA.
+- **Spelling (D32):** "Qur'an", "Qur'anic" and "jannah".
+- **Voice:** `docs/LINGO.md` (D29), `docs/TONE.md` rules 1–22 (D30, D31, D33, D35), and the exemplar (D36).
+- **Point notes (D30):** under every `##` heading in a draft, a `::: {.point}` note states what that section argues. The user reviews the prose against it. Review builds drop the notes.
+- **Arabic with every quote:** every Qur'an, hadith or duʿa quotation carries its Arabic in a small font.
+  - Qur'an: `::: {.ayah ref="S:A" words="N-M"}` slices the verified text.
+  - Hadith and duʿa: `::: {.quote ar="…"}`, with the Arabic copied from a held extract only.
+- **Layout:**
+  - The verse reference sits at the bottom right.
+  - The gap above and below a quote is balanced.
+  - Paragraphs have a half-line gap as well as the indent. This is a trial (D35), so confirm it with the user.
+- **Readability:** the user found some paragraphs too long. Keep them to 50–65 words, with 110 at most (TONE 22).
 
-### Decision 1: how strong is Chapter 16's conclusion?
-**What it is about.** The "four journeys" are the mystics' map of the whole path:
-1. from creation to God, ending in fana
-2. in God
-3. back to creation, with God
-4. among creation, with God, guiding others
+## 3. Plan: how to write the rest of the book to the same standard
+Work one Part at a time, in this order: Part One (Ch 2–3), Part Two (Ch 4–6), Part Three (7–9), Part Four (10–15), Part Five (16–17), then the epilogue.
 
-Sheikh Bahmanpour teaches (L09 ¶87–89) that the fourth journey, returning to guide people, is completed only by the Prophet and the Imams. ʿAllama Tabatabaʾi's circle (`kernel` p. 20; `light` p. 64) holds that wilaya, the friendship with God that the journey's completion expresses, "is not at all exclusive": others can reach it in their measure.
+For each chapter:
+1. **Gate A, the brief.** Write `docs/briefs/NN-case.md` from the template and ARGUMENT.md. Present it to the user as short bullets: conclusion, points, headings, quotes planned, "Try this", hand-off. Wait for approval. The two briefs in a Part can be presented together.
+2. **Draft.** Use the `chapter-writer` (Opus or Fable). It reads the exemplar in full first, writes the point notes before the prose, keeps quotes short, puts Arabic with every quote, and paraphrases the Sheikh's informal speech.
+3. **Tone pass.** The `tone-editor` agent line-edits the draft against the exemplar and TONE.md. Apply its edits.
+4. **Fidelity pass.** The `fidelity-checker` (Sonnet) checks quotes, verses, citations and Arabic against the sources. Fix anything high or medium.
+5. **The orchestrator reads the draft itself.**
+   - Measure paragraph and sentence length against the targets in EXEMPLAR.md.
+   - Read each paragraph's first sentence for the links between paragraphs.
+   - Build the draft PDF with point notes.
+6. **User review.** Send the PDF plus a GitHub raw link (section 6). Apply the feedback. Add any new, repeatable lesson to TONE.md with its before/after. The user often sends voice notes (section 6).
+7. **After each Part,** make a review copy for the uncle (`--review`).
 
-**Option A (current v2):** the conclusion is *"The path's completion is a return to people, with God, shown fully in the Prophet and the Imams."* The disagreement sits inside the chapter, at point 16.3, side by side.
-- *Pros:*
-  - The conclusion is true under the lecturer's own view, so the chapter never contradicts him.
-  - It is the safest form for a Shia readership.
-  - The debate is still shown honestly.
-- *Cons:*
-  - It is less inspiring for the reader ("this is for them").
-  - The book's final promise (B5) feels slightly remote.
+Chapter-specific decisions to honour:
+- **Ch 4:** seed "travel means removing veils" in a few sentences, pointing forward to Ch 11 (D26).
+- **Ch 9:** keeps four points, including 9.4 (D27).
+- **Ch 13:** uses Imam ʿAli on remembrance (Nahj 1.219.1) as its "Try this" (D28).
+- **Ch 16:** its conclusion follows the lecturer. Tabatabaʾi's view that wilaya is not exclusive sits gently beside it in 16.3 (D25).
 
-**Option B (v1):** the conclusion is *"The path ends in return to people, with God."* It is stated generally, with the lecturer's restriction shown as one view in 16.3.
-- *Pros:*
-  - It is more hopeful and personal.
-  - It matches Tabatabaʾi and the book's "open to every believer" theme from Chapter 1.
-- *Cons:*
-  - The chapter's headline then sits against the lecturer's explicit teaching, which is a fidelity risk in a book "inspired by" him.
+## 4. Open items
+- **Arabic of Nahj 3.403** (Ch 1, Imam ʿAli on God's special devotees): copy it from the printed Qutbuddin edition, p. 810. The extract's Arabic is garbled. The review build shows the quote in English only.
+- **QUERY for the Sheikh:** in "These are shirk" (L01 ¶32), does "these" mean seeking wonders, or the powers themselves?
+- **Munajat Shaʿbaniyyah epigraph lines:** check each against Mafatih p. 244 before print.
+- **Permissions:** permission is needed for every quoted translation before publishing (SOURCES.md).
+- **The Sheikh's preferred title and name form:** "Sheikh M. S. Bahmanpour" is used for now.
+- **Paragraph spacing:** the trial (D35) is not yet confirmed.
+- **Book 1 (Faithful):** parked at the pilot stage. Ask the user whether it is still wanted.
 
-**Recommendation:** A. It keeps fidelity, and 16.3 still lets the reader see the wider view.
-
-### Decision 2: where does "travel means removing veils, not covering distance" go?
-**What it is about.** The lecturer says (L07 ¶4; L08 ¶3–9) that the spiritual journey is not movement towards a distant God. God is already "nearer than the jugular vein", so travelling means removing the veils over one's own heart. Fable placed this as new point 11.1, opening "The stages".
-
-**Option A (current, Ch 11):**
-- *Pros:*
-  - It is exactly where the lecturer says it: the opening of the practical lectures.
-  - It frames the stages that follow ("each stage removes a veil").
-- *Cons:*
-  - The reader has already read four chapters about the self without this key idea.
-
-**Option B (Ch 4, "Know yourself"):**
-- *Pros:*
-  - It fits the theme that the way to God runs through the self.
-  - It plants the idea early, so everything after reads in its light.
-- *Cons:*
-  - It moves the lecture's material out of its own context.
-  - Chapter 11 then loses its opening claim and needs another.
-
-**Option C, both:** state it briefly in Ch 4 as a consequence, and fully in Ch 11 as the frame of the road.
-- *Pros:* the idea is seeded early and paid off later.
-- *Cons:* slight repetition, which must be kept to one sentence in Ch 4.
-
-**Recommendation:** C, with Ch 4 holding only one sentence pointing forward.
-
-### Decision 3: does Chapter 9 get a fourth point?
-**What it is about.** New point 9.4, restored from L14 ¶65–71, says that set techniques of dhikr are secondary, because each soul receives God's grace in its own shape, so a seeker needs a trustworthy guide, not a lineage. This is one of Sheikh Bahmanpour's most distinctive teachings. Without it, Chapter 9 explains the institutional difference between Sufis and Shia but not the spiritual reason for it.
-
-**Option A, keep 9.4 (four points):**
-- *Pros:*
-  - It is the lecturer's own argument.
-  - It completes the chapter's logic (the institution versus the individual soul).
-  - It hands off naturally to Ch 10, "Finding a guide".
-- *Cons:*
-  - The chapter is longer.
-  - It slightly overlaps Ch 10's subject.
-
-**Option B, fold it into 9.3:**
-- *Pros:* tighter, with three points.
-- *Cons:* 9.3 then carries two ideas (authority and technique), which weakens its sharpness as a single claim.
-
-**Recommendation:** A. Four points is fine. The length budget (about 3–3.6k words) still holds.
-
-### Decision 4: settled
-The epigraphs use *Light Within Me* (D24). Permissions for all translations are to be obtained before publishing.
-
-### Decision 5: Chapter 1's "Try this"
-**What it is about.** Every chapter ends with one small, sourced practice. There are two candidates for Chapter 1.
-
-**Option A: read the four Surah Rum signs (Q 30:21–24) slowly, once a day for a week, and notice one of the signs in your own day.**
-- *Pros:*
-  - It comes straight from the lecture's own opening.
-  - It is concrete, practises exactly what the chapter argues (perceiving signs), and suits beginners.
-- *Cons:* none significant.
-
-**Option B: Imam ʿAli on remembrance as the polish of hearts (Nahj 1.219.1): a few minutes of dhikr daily.**
-- *Pros:* it previews the disciplines and is from a held source.
-- *Cons:*
-  - It belongs more naturally to Ch 13 (remembrance).
-  - It is less tied to Chapter 1's argument.
-
-**Recommendation:** A, and keep B for Chapter 13.
-
-## 3. How the user works (non-negotiable; also in CLAUDE.md)
-- **Background:** management consulting. Wants MECE, Pyramid Principle, and argument like a lawyer's case.
-- **Pyramid** (`docs/ARGUMENT.md`, D23): thesis, then B1–B5, then chapter points N.x [Bn], then section headings [N.x].
-- **Two gates per chapter** (D22):
-  - Gate A: present the case brief as bullets and get approval.
-  - Gate B: write the prose, run the fidelity check, send the PDF.
-- **Reader:** an intelligent, impatient friend.
-  - No jokes, ever, including the lecturer's asides.
-  - No throat-clearing.
-  - No rhetorical-question chains.
-  - Never condescending.
-  - About 20% leaner: 3,000–3,600 words of body per chapter.
-- **Fidelity:** the book is heavily inspired by Sheikh Bahmanpour's lectures and stays close to them. In ARGUMENT v2, 46 of 54 points are carried by the lectures. Additions are cited. Where scholars differ, they are set side by side, gently (D20).
-- **Reporting:** lead with the conclusion, use structured bullets, and keep it brief.
-
-## 4. Key files
+## 5. Key files
 | Purpose | File |
 |---|---|
-| Argument pyramid | `docs/ARGUMENT.md`; the review is `reviews/argument-review-fable.md` |
-| Chapter briefs | `docs/briefs/01-case.md`, `_TEMPLATE.md` |
-| Content and sources per chapter | `docs/OUTLINE.md` v2.1 |
-| All decisions | `docs/DECISIONS.md` (D1–D24) |
-| Style and voice | `docs/STYLE_GUIDE.md`; design is in `docs/DESIGN.md` |
-| Sources | `docs/SOURCES.md`; `sources/maps/*.md` (one map per source book); `sources/extracts/*.md` (full text with page markers); `sources/quran/` (Arabic plus Qaraʾi and Shakir) |
-| Lecture material | `transcripts/text/IrfanNN.md` (canonical, ¶-numbered); `notes/IrfanNN.md` |
-| Omitted lecture claims | `docs/OMISSIONS.md` |
-| Build | `python3 build/build.py pdf book2 "01*"` (needs `pip install typst`); `build/quran.py S:A` |
-| Current Ch 1 prose (pre-brief, to be rewritten) | `book2/chapters/01-seeking-not-powers.md`; PDF `samples/ch01-seeking-not-powers.pdf` |
+| The model to imitate | `docs/EXEMPLAR.md`; `book2/chapters/00-prologue.md`; `book2/chapters/01-seeking-not-powers.md` |
+| Voice rules | `docs/TONE.md` (22 rules with before/after); `docs/LINGO.md` |
+| Argument | `docs/ARGUMENT.md` v2.1; `docs/briefs/` |
+| Decisions | `docs/DECISIONS.md` (D1–D36) |
+| Agents | `.claude/agents/`: `chapter-writer`, `tone-editor`, `fidelity-checker`, `transcript-analyst` |
+| Advice to the user on steering tone | `docs/TONE-GUIDANCE.md` |
 
-## 5. Next steps, in order
-1. Restate decisions 1, 2, 3 and 5 (section 2) and get the user's answers. Record them as D25+ and update ARGUMENT.md, removing the "draft" status once the user approves the pyramid.
-2. Re-present the Chapter 1 brief (`docs/briefs/01-case.md`) as bullets for approval, adjusted for the decisions.
-3. Gate B for Chapter 1:
-   - Rewrite the prose on the approved brief, using the chapter-writer agent (Opus), cut by about 20% from v2.
-   - Run the fidelity-checker (Sonnet).
-   - Build the PDF and send it.
-4. Chapter 2 brief, and so on, one chapter at a time.
-
-## 6. Environment notes
-- **Network:** al-islam.org is blocked by Cloudflare. tanzil.net and duas.org are reachable.
-- **Large PDFs** live in the GitHub Release "Source-Material-Upload" or in `sources/books/`. Only text extracts are committed.
+## 6. Working notes
+- **Builds:**
+  - Draft with point notes: `python3 build/build.py pdf book2 "0[01]*"` → `samples/prologue-and-ch01.pdf`
+  - Clean reader copy: `… --review` → `samples/prologue-and-ch01-review.pdf`
+  - Requires `pip install typst`.
+- **Mobile downloads:** the user can't download files sent in chat on mobile. Commit the PDF and give the raw link: `https://github.com/Baby-Isa/Irfan-Books/raw/claude/stoic-euler-p7myev/samples/<file>.pdf`.
+- **Voice notes (.m4a):** Hugging Face is blocked by the network policy. To transcribe:
+  1. `pip install sherpa-onnx soundfile`.
+  2. Download `https://github.com/k2-fsa/sherpa-onnx/releases/download/asr-models/sherpa-onnx-whisper-small.en.tar.bz2` and `…/asr-models/silero_vad.onnx` from GitHub.
+  3. Convert the audio with `ffmpeg -ar 16000 -ac 1`.
+  4. Run Whisper with VAD segmentation. Expect some garbling, and confirm unclear points with the user.
+- **Reporting:** lead with the conclusion, use short bullets, and quote changed lines in full so the user can check them without opening the file.
 - **Commits:** commit and push after each unit of work. Don't open a PR unless asked.
