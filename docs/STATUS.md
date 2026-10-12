@@ -9,7 +9,7 @@ _Update at the end of every task. Keep it short. History lives in git and DECISI
 
 **Now:** Prologue and Ch 1 (Book 2) approved by the user and his uncle, and frozen as the exemplar (D36, commit `32e44c9`). See `docs/HANDOVER.md`.
 
-**Now (2026-10-12):** the Ch 2 and Ch 3 briefs are written (`docs/briefs/02-case.md`, `03-case.md`, D38) and await the user's approval (Gate A). The voice gate (D37, `docs/VOICE-TEST.md`) is built and calibrated.
+**Now (2026-10-12):** the storyline (`docs/STORYLINE.md`, D39) is with the user for review. The Ch 2 and Ch 3 briefs (v2, user decisions applied) are written (`docs/briefs/02-case.md`, `03-case.md`, D38) and await the user's approval (Gate A). The voice gate (D37, `docs/VOICE-TEST.md`) is built and calibrated.
 
 **Next:** on approval, draft Ch 2 and 3 → tone-editor → voice gate (profile + blind judge) → fidelity-checker → user review.
 

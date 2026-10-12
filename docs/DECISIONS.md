@@ -191,3 +191,9 @@ _Append only. Each entry: date, decision, why. To reverse a decision, add a new 
 
 ## 2026-10-12: D38. Part One briefs (Ch 2 and 3) drafted for Gate A
 - `docs/briefs/02-case.md` and `docs/briefs/03-case.md`, from ARGUMENT v2.1 and source evidence packs. Ch 2 drops the L06/L10 anchors on 2.3 (neither lecture quotes a duʿa) and takes its occasions from the Mafatih. Ch 3 marks the "study serves" clause of 3.4 as added (Khomeini, Tabatabaʾi), since the Sheikh gives study no role. Awaiting user approval.
+
+## 2026-10-12: D39. The storyline; no questions for the Sheikh; Ch 2 and 3 brief decisions
+- **Storyline (`docs/STORYLINE.md`):** the whole book as a slide deck. Each chapter has a heading (its title) and a one-sentence plain-English subheading stating its point, with its steps as bullets beneath. Read alone, the subheadings tell the argument from start to finish. The user reviews it before approving the Part One briefs. It is the plain-English reading of ARGUMENT.md, and the two must stay in step.
+- **No questions for the Sheikh (general rule):** questions add time and fuss. Where a lecture passage is unclear, go around it: leave it out, use a clearer passage, word it so it is true on either reading, or set a held source beside it. CLAUDE.md golden rule 5 is updated. The Ch 1 marker on "These are shirk" is removed; the text quotes his words as said. The `[QUERY]` marks still in ARGUMENT.md and OUTLINE.md (6.2, 10.1, 16.3) are resolved this way when each chapter's brief is written.
+- **Ch 2:** the whole Munajat Shaʿbaniyyah goes in an appendix. The chapter quotes only the key lines, where it needs them.
+- **Ch 3:** the "study serves" clause stays, attributed to Khomeini and Tabatabaʾi. The thousand-doors hadith (L03 ¶10) is left out.

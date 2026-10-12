@@ -13,6 +13,7 @@ Both books start as a pilot chapter. The chosen style then goes into full produc
 
 | Task | Read |
 |---|---|
+| Plain-English storyline of every chapter (heading + subheading) | `docs/STORYLINE.md` (keep in step with ARGUMENT.md) |
 | Voice gate before the user sees a chapter | `docs/VOICE-TEST.md` |
 | Write or edit a chapter | **`docs/EXEMPLAR.md` and the two exemplar files it names (read in full first)**, `docs/LINGO.md`, `docs/TONE.md` (stance and paragraph flow; every rule has a before/after), `docs/ARGUMENT.md`, that chapter's brief in `docs/briefs/`, `docs/STYLE_GUIDE.md`, `docs/GLOSSARY.md`, that chapter's entry in `docs/OUTLINE.md`, the relevant `notes/` and transcript ¶ ranges |
 | Typesetting or layout | `docs/DESIGN.md`, `build/` |
@@ -28,7 +29,7 @@ Don't load all the transcripts or notes into one context. Delegate per-lecture o
 2. **Book 1 traceability.** Each paragraph ends with a hidden source comment, for example `<!-- src: L03 ¶12-15 -->`. If a claim isn't in the transcripts, it doesn't go in Book 1.
 3. **Book 2 additions are cited.** Use Pandoc citations (`[@key, p. 12]`) with keys from `sources/bibliography.bib`. Use only held or clearly identified sources (see SOURCES.md tiers). If there is no source, use `[VERIFY]` or leave the addition out.
 4. **Glossary first.** A term's spelling and transliteration come from `docs/GLOSSARY.md`. Add a new term there before using it.
-5. **The lecturer's views are theirs.** Don't "correct" their theology. Flag apparent errors with `[QUERY: …]` for the user to raise with the lecturer.
+5. **The lecturer's views are theirs.** Don't "correct" their theology. **No questions for the Sheikh (D39):** where a lecture passage is unclear, garbled or doubtful, go around it: leave it out, use a clear passage that makes the same point, word it so it is true on either reading, or set a held source beside it. Don't add new `[QUERY]` markers.
 6. **Transcripts are canonical and read-only.** `transcripts/text/IrfanNN.md` is cited as `L{NN} ¶{n}`.
 7. **Update `docs/STATUS.md`** at the end of every task. Log decisions in `docs/DECISIONS.md`.
 8. **Be economical with tokens.**

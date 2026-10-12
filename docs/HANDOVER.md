@@ -44,7 +44,7 @@ Chapter-specific decisions to honour:
 
 ## 4. Open items
 - **Arabic of Nahj 3.403** (Ch 1, Imam ʿAli on God's special devotees): copy it from the printed Qutbuddin edition, p. 810. The extract's Arabic is garbled. The review build shows the quote in English only.
-- **QUERY for the Sheikh:** in "These are shirk" (L01 ¶32), does "these" mean seeking wonders, or the powers themselves?
+- ~~QUERY for the Sheikh on "These are shirk"~~: closed by D39 (no questions for the Sheikh). The Ch 1 text quotes his words as said, which is true on either reading, and the marker is removed.
 - **Munajat Shaʿbaniyyah epigraph lines:** check each against Mafatih p. 244 before print.
 - **Permissions:** permission is needed for every quoted translation before publishing (SOURCES.md).
 - **The Sheikh's preferred title and name form:** "Sheikh M. S. Bahmanpour" is used for now.
@@ -56,7 +56,7 @@ Chapter-specific decisions to honour:
 |---|---|
 | The model to imitate | `docs/EXEMPLAR.md`; `book2/chapters/00-prologue.md`; `book2/chapters/01-seeking-not-powers.md` |
 | Voice rules | `docs/TONE.md` (22 rules with before/after); `docs/LINGO.md` |
-| Argument | `docs/ARGUMENT.md` v2.1; `docs/briefs/` |
+| Argument | `docs/ARGUMENT.md` v2.1; `docs/STORYLINE.md` (plain-English deck); `docs/briefs/` |
 | Decisions | `docs/DECISIONS.md` (D1–D36) |
 | Agents | `.claude/agents/`: `chapter-writer`, `tone-editor`, `fidelity-checker`, `transcript-analyst` |
 | Advice to the user on steering tone | `docs/TONE-GUIDANCE.md` |

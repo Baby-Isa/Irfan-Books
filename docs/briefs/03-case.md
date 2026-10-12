@@ -1,6 +1,6 @@
 # Chapter 3: Case brief
 
-**Status:** draft for Gate A (2026-10-12)
+**Status:** draft v2 for Gate A (2026-10-12; user's decisions applied, D39)
 **Title:** Two kinds of knowing
 **Serves:** B1 (`docs/ARGUMENT.md` v2.1)
 
@@ -25,11 +25,11 @@ _Fidelity: 3.1–3.3 and the first half of 3.4 are the Sheikh's. **The second ha
 2. **Where reason stops** [3.2]
    - Reason knows a thing by its attributes (colour, size, function) and never reaches what carries them. In the Sheikh's account, even Ibn Sina granted that the reality of things is beyond human capacity. (L03 ¶25–27)
    - God has no colour or dimension, so analysis has nothing to hold. Imam ʿAli: "Soaring thoughts cannot reach him and deep minds cannot fathom him" (Nahj 1.1.1; L02 ¶38 recalls the same sermon).
-   - Philosophy divides things into units; ʿirfan seeks God in His unity. Its knowledge is positive, not only the negative "God is not this". It is grasped by the soul, never as the Essence itself. (L03 ¶33, ¶35, ¶38)
+   - Philosophy divides things into units; ʿirfan seeks God in His unity. In the Sheikh's words, "We cannot know the essence of god… But we want to know him", through His attributes: a positive knowledge, not only the negative "God is not this". (L03 ¶33, ¶35, ¶38; the chapter follows ¶38 exactly, so no query is needed)
 3. **Light in the heart** [3.3]
    - The hadith the Sheikh quotes: "Knowledge is not extensive learning. Rather, it is a light that God casts in the heart of whomever He wills" (`forty_hadith` p. 331; `lantern` p. 10; L03 ¶18).
    - The light is not withheld: "Allah is the Light of the heavens and the earth" (Q 24:35). It is everywhere; the heart is closed. On God's side there is no hindrance. (L03 ¶20–21)
-   - **Heart to heart:** the Sheikh recalls Imam ʿAli saying that the Prophet opened to him a thousand doors of knowledge, each opening a thousand more, "not from mind to mouth but from heart". This knowledge came to the Imams this way, and comes to us through them. (L03 ¶10–11) Reported as the Sheikh's account, paraphrased; no held source, so `[VERIFY]` (see question 2).
+   - **Heart to heart:** the Sheikh's point, in his own words: this knowledge passes "not from mind to mouth but from heart", and for Shia it comes to us through the Imams. (L03 ¶10–11) The thousand-doors hadith he cites there is left out (no held source; D39).
 4. **The path is purification** [3.4]
    - University or hawza knowledge comes by *fikr*: thinking, assembling, analysing. Knowledge of God comes by *suluk*, the path of purification: "You purify yourself and then wait for Allah to put the light in your heart." (L03 ¶20)
    - The first step is to polish the soul by what the Prophet asked of us; "without this there is no maarifah". (L03 ¶47–49)
@@ -59,7 +59,7 @@ _Fidelity: 3.1–3.3 and the first half of 3.4 are the Sheikh's. **The second ha
 
 **Boxes:**
 - Word Study: *ʿilm al-husuli* and *ʿilm al-huduri*.
-- Story: Ibn Sina and Abu Saʿid Abu'l-Khayr. Use the Sheikh's version, in which Ibn Sina changed after the meeting and wrote asking to learn (L03 ¶23–24), beside Mutahhari's note that Ibn Sina "developed mystic inclinations" late in life (`light` p. 42).
+- Story: Ibn Sina and Abu Saʿid Abu'l-Khayr. The Sheikh's account, given as his ("the Sheikh tells how…"): Ibn Sina changed after the meeting and wrote asking to learn (L03 ¶23–24). Beside it, Mutahhari's note that Ibn Sina "developed mystic inclinations" late in life (`light` p. 42).
 - Who's Who: Mulla Sadra, who moved philosophy from the Peripatetic school to the "transcendent" (L03 ¶28), with his own confession that his syllogisms "were barren" (`kernel` p. 7).
 
 **Target:** about 3,000 words of body.
@@ -70,11 +70,11 @@ _Fidelity: 3.1–3.3 and the first half of 3.4 are the Sheikh's. **The second ha
 - **The light hadith:** the English is held in three versions. **No clean Arabic held:** the forty_hadith Arabic is broken in extraction, and lantern has none. So `ar="[VERIFY]"`.
 - **Nahj 1.1.1:** the extract's Arabic is garbled and is a variant, so `ar="[VERIFY]"`, as for Nahj 3.403 in Ch 1.
 
-## QUERYs for the Sheikh
-1. L02 ¶34, "You cannot know god by ilmul khusu": this is presumably "husuli", meaning acquired knowledge cannot reach God. Confirm.
-2. L03 ¶26, ¶38 and ¶28, ¶33: the soul grasps God's attributes and self-disclosure "by presence", but never the Essence. Is that his meaning?
-3. L03 ¶23–24: what is the source for Ibn Sina's letter to Abu Saʿid?
+## Unclear lecture passages, gone around (D39: no questions for the Sheikh)
+- **L02 ¶34**, "You cannot know god by ilmul khusu": garbled (probably "husuli"). It is not used; L03 ¶26–27 makes the same point clearly ("your mind cannot analyse" God).
+- **Essence and attributes:** the chapter follows L03 ¶38 word for word (no essence, yes attributes), so nothing has to be interpreted.
+- **Ibn Sina's letter:** told as the Sheikh's account, with Mutahhari beside it.
 
-## Questions for the user
-1. **The "study serves" clause is added, not the Sheikh's.** Keep it in the conclusion (attributed, side by side), or drop it so the conclusion reads "…reached by purification, not by study alone"? **Recommend:** keep it. It is what Khomeini and Tabatabaʾi teach, and it stops the chapter sounding anti-learning.
-2. **The thousand-doors hadith (L03 ¶10):** no held source. Report it as the Sheikh's account with `[VERIFY]`, or leave it out? **Recommend:** report it in a sentence, attributed, with no displayed quotation, until it is sourced.
+## Decided (D39)
+- The "study serves" clause stays in the conclusion, attributed to Khomeini and Tabatabaʾi.
+- The thousand-doors hadith is left out.

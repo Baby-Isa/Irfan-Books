@@ -1,6 +1,6 @@
 # Chapter 2: Case brief
 
-**Status:** draft for Gate A (2026-10-12)
+**Status:** draft v2 for Gate A (2026-10-12; user's decisions applied, D39)
 **Title:** You already know these words
 **Serves:** B1 (`docs/ARGUMENT.md` v2.1)
 
@@ -42,13 +42,13 @@ _Fidelity: 2.1 and 2.2 are carried by the lecture (L01 ¶17–31 is the Sheikh's
 ## Cut or omitted (D15)
 - The angels "burnt in the love of Allah" and mystics who lose speech (L01 ¶30–31), as asides.
 - The animals-and-humans remark (L01 ¶24), the wealth remark (¶26) and "I will find the translation" (¶31).
-- "Heart burn with the love of seeking you" (L01 ¶31). It is not in Chittick's Lovers, so it stays a QUERY and is not used.
+- "Heart burn with the love of seeking you" (L01 ¶31). It is not in Chittick's Lovers, so it is not used.
 - The lecturer's naming of Imam Zayn al-ʿAbidin as a reciter of the Shaʿbaniyyah (L01 ¶17). The book follows the Mafatih: Imam ʿAli and the Imams (OUTLINE amendment).
 - Nahj 3.403 (L01 ¶27). It is already in Chapter 1.
 
 ## Threads
 - **"The inside of what you already do":** Kumayl in the opener; the Munajat, Abu Hamza and ʿArafah in sections 1–4; Try this.
-- **Munajat thread:** see question 1 below. The Part One epigraph line (§73–74, "awakened me to Your love") can be spoken to in section 3.
+- **Munajat thread:** the chapter quotes only the petitions it needs, where it needs them (five or six lines). The full prayer, Arabic and English, goes in an appendix that the chapter points to (D39). The Part One epigraph line (§73–74, "awakened me to Your love") can be spoken to in section 3.
 - **"Try this":** the Sheikh's own recommendation: recite the Munajat Shaʿbaniyyah "as much as you can" (L01 ¶22), "with presence of heart" (Mafatih p. 245), with the English beside the Arabic. Outside Shaʿban, read its last ten petitions (§82–111) once a week.
 
 **Boxes:** Word Study: *munajat* and *duʿa*. History: the Mafatih al-Jinan and al-Sahifa al-Sajjadiyya (compiler and dates `[VERIFY]` against a held source). Try this (above).
@@ -59,6 +59,6 @@ _Fidelity: 2.1 and 2.2 are carried by the lecture (L01 ¶17–31 is the Sheikh's
 - **Munajat, Kumayl, Abu Hamza, ʿArafah:** clean Arabic and English held in `sources/extracts/duas-*.md` (§N). Mafatih p. 244 confirms the Munajat stems, but its Arabic is scrambled, so it is cited, not copied.
 - **The Lovers (Sahifa, Chittick):** English held; **no clean Arabic held**, so each Lovers quote carries `ar="[VERIFY]"` until it is typed from a printed Sahifa.
 
-## Questions for the user
-1. **"Ch 2 presents the whole prayer" (OUTLINE, D13).** The Munajat is over a hundred lines, which clashes with TONE 10 (short quotations). **Recommend:** quote five or six petitions in the chapter and print the full prayer, Arabic and English, as an appendix that the chapter points to.
-2. **The Lovers without held Arabic:** use its two lines with `[VERIFY]` Arabic, or rely on the prayers whose Arabic is held? **Recommend:** keep the two lines; they are the Sheikh's own choice.
+## Decided (D39)
+- The whole Munajat goes in an appendix, not in the chapter. The chapter takes the key lines where they support its points.
+- The Lovers: its two lines are kept, because they are the Sheikh's own choice, with `[VERIFY]` Arabic until it is typed from a printed Sahifa.
