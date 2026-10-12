@@ -1,6 +1,6 @@
 # Handover to a new session (2026-10-12)
 
-_Read this first, then `CLAUDE.md`, `docs/STATUS.md` and `docs/EXEMPLAR.md`. Everything is on branch `claude/stoic-euler-p7myev` in `Baby-Isa/Irfan-Books`._
+_Read this first, then `CLAUDE.md`, `docs/STATUS.md` and `docs/EXEMPLAR.md`. Work up to D36 is on branch `claude/stoic-euler-p7myev`; D37 onwards (voice gate, structure v3, Part One drafts) is on `claude/zealous-edison-mh1dpk`, which contains all of it. Plan the book from `docs/outline/` (FRAMEWORK and part files) and ARGUMENT v3._
 
 ## 1. Where we are
 The prologue and Chapter 1 of Book 2 are finished and approved. The user's uncle, who knows Sheikh Bahmanpour well, read them and was happy for the work to continue as it is. Together they are the written model for the rest of the book (`docs/EXEMPLAR.md`, commit `32e44c9` on this branch). The argument pyramid is approved (`docs/ARGUMENT.md` v2.1, D25–D28). The next task is **Part One: the Chapter 2 and 3 briefs.**
@@ -66,7 +66,7 @@ Chapter-specific decisions to honour:
   - Draft with point notes: `python3 build/build.py pdf book2 "0[01]*"` → `samples/prologue-and-ch01.pdf`
   - Clean reader copy: `… --review` → `samples/prologue-and-ch01-review.pdf`
   - Requires `pip install typst`.
-- **Mobile downloads:** the user can't download files sent in chat on mobile. Commit the PDF and give the raw link: `https://github.com/Baby-Isa/Irfan-Books/raw/claude/stoic-euler-p7myev/samples/<file>.pdf`.
+- **Mobile downloads:** the user can't download files sent in chat on mobile. Commit the PDF and give the raw link: `https://github.com/Baby-Isa/Irfan-Books/raw/<current branch>/samples/<file>.pdf`.
 - **Voice notes (.m4a):** Hugging Face is blocked by the network policy. To transcribe:
   1. `pip install sherpa-onnx soundfile`.
   2. Download `https://github.com/k2-fsa/sherpa-onnx/releases/download/asr-models/sherpa-onnx-whisper-small.en.tar.bz2` and `…/asr-models/silero_vad.onnx` from GitHub.

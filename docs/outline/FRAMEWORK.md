@@ -20,7 +20,7 @@ Prologue (approved) before Part One; Epilogue "First steps" after Part Five; App
 ## 2. Chapter points (carried from ARGUMENT v2.1; old number in brackets)
 **1 More than the minimum** (old 1, approved text; title change proposed). 1.1–1.4 as ARGUMENT v2.1.
 **2 Knowing about God is not knowing Him** (old 3; swapped up, D41). Brief: `docs/briefs/02-case.md`. Reframed as the gap: we hold much knowledge *about* God; the prayers ask to *know* Him. Try this: the prostration dhikr (`kernel` p. 56).
-**3 You already know these words** (old 2; swapped down, D41). Brief: `docs/briefs/03-case.md`. Opens on Duʿa Kumayl; the prayers we already say ask for that knowing. Try this: the Munajat's last petitions (§82–111) this week; the whole prayer in Shaʿban.
+**3 You already know these words** (old 2; swapped down, D41). Brief: `docs/briefs/03-case.md`. Opens on Duʿa Kumayl; the prayers we already say ask for that knowing. Try this: the Munajat's petitions §82–111) this week; the whole prayer in Shaʿban.
 **4 Know yourself, know your Lord** (old 4). 4.1–4.3 as v2.1; 4.3 seeds "veils, not distance" (D26), developed in 8.
 **5 The soul and its worlds** (old 5). 5.1–5.4.
 **6 No path outside the law** (old 6, "The ship, the sea and the pearl"). 6.1–6.3; 6.3 previews the four journeys (full in 16).

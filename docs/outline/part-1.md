@@ -117,7 +117,7 @@ _(Approved text, frozen at `32e44c9`. Title changed from "Seeking, not powers" (
 5. ## Words already on our lips [conclusion]. The conclusion, once. The full prayer is in the Appendix.
 **Boxes:** Word Study: munajat and duʿa. History: the Mafatih and the Sahifa (compiler and dates VERIFY). Try this.
 **Try this (approved brief):**
-- **This week:** read the last petitions of the Munajat Shaʿbaniyyah (§82–111, in the Appendix) once, slowly, with the English beside the Arabic, "with presence of heart" (Mafatih p. 245).
+- **This week:** read the petitions of the Munajat Shaʿbaniyyah from §82 to §111 (in the Appendix) once, slowly, with the English beside the Arabic, "with presence of heart" (Mafatih p. 245).
 - **In Shaʿban (the longer rung):** follow the Sheikh's own advice and recite the whole prayer "as much as you can" (L01 ¶22).
 **Hand-off:** These prayers keep asking God to work on the heart and the self. What is this self?
 **Callbacks / forward pointers:** Ch 1's two aims (maʿrifah, love); the Appendix. Forward: Part Four (how far each believer goes).

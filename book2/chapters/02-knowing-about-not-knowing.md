@@ -32,9 +32,9 @@ Maʿrifah turns inward, and it is bound up with purifying the self. The mystic's
 
 The two words are kept apart here only as a working distinction. Sheikh Bahmanpour notes that the religious texts use *ʿilm* and *maʿrifah* for the same thing. When they speak of ʿilm they mean maʿrifah; they do not count the other kind as knowledge in the full sense. He separates the words to make the difference between the two kinds of knowing easier to see.
 
-Imam Khomeini and Murtada Mutahhari draw the same line as the Sheikh between the two kinds of knowing. In his commentary on a saying of Imam ʿAli (ʿa), Imam Khomeini reports the view that a gnostic of God "knows God through direct witnessing", while a scholar of God "attains the knowledge of God through philosophical proofs" [@forty_hadith, p. 542]. The word Imam Khomeini uses for that witnessing, *huduriyyah*, shares its root with *ʿilm al-huduri*. The gnostic's knowledge of God is knowledge by presence.
+Imam Khomeini records the same line between the two kinds of knowing. In his commentary on a saying of Imam ʿAli (ʿa), he reports the view that a gnostic of God "knows God through direct witnessing", while a scholar of God "attains the knowledge of God through philosophical proofs" [@forty_hadith, p. 542]. The word Imam Khomeini uses for that witnessing, *huduriyya*, shares its root with *ʿilm al-huduri*. The gnostic's knowledge of God is knowledge by presence.
 
-Mutahhari makes the same contrast with an image from the sciences. The philosopher's knowledge, he writes, is like that of a mathematician who has thought a problem through. The knowledge sought by the ʿarif "is experienced and witnessed", like the knowledge a scientist gains in his laboratory [@light, p. 41]. A result in the laboratory is known because it has been observed, not because it has been deduced.
+Murtada Mutahhari draws the contrast himself, with an image from the sciences. The philosopher's knowledge, he writes, is like that of a mathematician who has thought a problem through. The knowledge sought by the ʿarif "is experienced and witnessed", like the knowledge a scientist gains in his laboratory [@light, p. 41]. A result in the laboratory is known because it has been observed, not because it has been deduced.
 
 ::: {.box-word title="Word Study: ʿIlm al-husuli and ʿilm al-huduri"}
 *Husul* means acquiring or obtaining; *hudur* means presence. In *ʿilm al-husuli*, acquired knowledge, what reaches the mind is a concept or an image of the thing, while the thing itself stays outside. Sheikh Bahmanpour's example is an object in front of him: there is a picture of it in his mind, and the picture is there because of the object. In *ʿilm al-huduri*, knowledge by presence, the thing known is itself present to the soul, as our own self, our hunger and our pain are present. Chapter 1's Word Study noted that there is no way to God except through knowledge, and left open what kind of knowledge that is. The ʿarif's knowledge of God is of the second kind.
@@ -48,7 +48,7 @@ Reason knows a thing by its attributes and never reaches the reality that carrie
 
 Acquired knowledge is the work of reason, *ʿaql*, the theoretical intellect by which we reason, understand and argue. Reason has a limit, and Sheikh Bahmanpour says where it lies. When we know a thing, we know its attributes: its colour, its size, what it does. Reason does not reach the thing that carries those attributes. Every description says that it is brown or square or useful, and none says what the "it" is.
 
-In the Sheikh's account, Ibn Sina, the master of the philosophers, granted this. To know the reality of a thing, he held, is beyond human capacity; what we know of an object is its characteristics and attributes. If this is true of a stone, it is true far more of God. God has no colour, no dimension and no function for the mind to take hold of.
+In the Sheikh's account, Ibn Sina, the master of the philosophers, granted this. To know the reality of a thing, he held, is beyond human capacity; what we know of an object is its characteristics and attributes. If this is true of the things around us, it is true far more of God. God has no colour, no dimension and no function for the mind to take hold of.
 
 ::: {.box-story title="Story: Ibn Sina and Abu Saʿid"}
 Sheikh Bahmanpour tells how Ibn Sina changed after he met Abu Saʿid Abu'l-Khayr, a great mystic of his time. As a young man Ibn Sina had no rival among the philosophers. Towards the end of his life, the Sheikh says, he wrote to Abu Saʿid asking to learn from him. In his *al-Isharat wa'l-Tanbihat* he then wrote a section on the stations of the ʿarifs, which the teachers of ʿirfan in Qum still teach and regard as unsurpassed. The Sheikh does not count Ibn Sina an ʿarif; his mind was bright enough to write that section from a visit and a correspondence. His remark that the reality of things is beyond human capacity came before he wrote that section. Murtada Mutahhari also records that the two men met [@light, p. 29]. He summarises the same section of the *Isharat*, and calls Ibn Sina "mainly a philosopher, not a mystic", though one who "especially towards the end of his life ... developed mystic inclinations" [@light, p. 42].
@@ -66,7 +66,7 @@ Reason is not left with nothing to do. Arguments can show that God exists, the S
 
 This knowledge of God's attributes is positive, and the Sheikh sets it against the negative kind. Much of what we know about God is negative: God is not a body, and God is not in one place and absent from another. Such statements are true; each says what God is not. The prophets, he says, were after something else. They wanted a real experience and knowledge of God, "a positive and not a negative knowledge".
 
-That positive knowledge is not reached by analysis. In ʿirfan, the Sheikh says, it is a knowledge that comes from the illumination of the heart. The prophets knew God in this way, with a knowledge present in their hearts and not worked out by argument.
+That positive knowledge is not reached by analysis. In ʿirfan, the Sheikh says, it comes from the illumination of the heart, and it "could be actually grasped by the soul". Knowledge by presence ordinarily covers only our own states, he grants; of things outside us, knowledge has to be acquired. The way to knowing God by presence therefore runs through the soul's knowledge of itself, the subject of Chapter 4. The prophets knew God in this way, with a knowledge present in their hearts and not worked out by argument.
 
 ::: {.box-who title="Who's Who: Mulla Sadra"}
 In Sheikh Bahmanpour's account, Mulla Sadra changed the whole course of Islamic philosophy. He moved it from the Peripatetic philosophy, *al-hikma al-mashshaʾiyya*, to what is called the transcendent philosophy, *al-hikma al-mutaʿaliya*. For Mulla Sadra, the Sheikh says, the reality of things can be known only by the soul, through knowledge by presence, and this is the only way to know God. *Kernel of the Kernels* calls him Sadr al-Mutaʾallihin Shirazi, "the pride of the philosophers of the East". It records that after a lifetime in philosophy he asked God's pardon for the years spent on "the pseudo-philosophers and polemicists from among the theologians", until "it became clear to me that their syllogisms were barren and their path devoid of straightness" [@kernel, p. 7]. He then surrendered his affairs to God and His Messenger, and followed the Prophet's guidance without looking for a rational justification for it [@kernel, p. 7].
@@ -86,7 +86,7 @@ Knowledge is not extensive learning. Rather, it is a light that God casts in the
 
 The hadith sets the two kinds of knowing side by side. Extensive learning is acquired knowledge, gathered from outside. The light is not gathered at all; God places it in the heart. The *Lantern of the Path*, attributed to Imam al-Sadiq (ʿa), uses nearly the same words. Knowledge, it says, is a light "which Allah casts into the heart of whomsoever He wills" [@lantern, p. 10].
 
-The words "whomever He wills" could be read to mean that God rations His light among a chosen few. Sheikh Bahmanpour sets beside them a verse of Surah al-Nur.
+The words "whomever He wills" might suggest that God keeps His light for a chosen few. Sheikh Bahmanpour speaks of the light differently, and he does so with a verse of Surah al-Nur.
 
 ::: {.ayah ref="24:35" words="1-4"}
 Allah is the Light of the heavens and the earth.
@@ -114,7 +114,7 @@ The first step of purification is to polish the soul by doing whatever the Proph
 
 Having done this, the traveller waits for Allah's help and looks to nothing else. The Sheikh points to the verse of Surah al-Anfal that calls the believers to answer Allah and the Apostle when he summons them to what will give them life (Q 8:24). That life comes, he says, when a person follows the Prophet completely and then waits for the help of Allah.
 
-The Munajat Shaʿbaniyyah puts the same order into one line.
+The Munajat Shaʿbaniyyah ties the light to the path in one line.
 
 ::: {.quote ar="إِنَّ مَنِ ٱنْتَهَجَ بِكَ لَمُسْتَنِيرٌ" source="Munajat Shaʿbaniyyah"}
 One who follows Your path is enlightened. [@light, p. 165; @duas_munajat_shabaniyah, §88]
@@ -124,9 +124,9 @@ The prologue opened on a line from this prayer that asks for the eyes of the hea
 
 A path that is not thought alone leaves open what study is for. Three of the great teachers of the tradition speak to how fikr and suluk relate. For Imam Khomeini and ʿAllama Tabatabaʾi, study prepares the ground for purification, though it cannot take its place.
 
-Imam Khomeini puts little store by mere knowledge. A learning that does not bring faith with it, he writes, "is the greatest of veils". He adds that "one has to approach a veil in order to tear it into shreds" [@forty_hadith, p. 403]. The sciences, he goes on, are seeds of spiritual experience. A few reach the higher stations without them, but that is rare. The usual way is first to remember God and learn of Him, His names and His attributes, then to open the heart through exercises and austerities [@forty_hadith, p. 403].
+Imam Khomeini puts little store by mere knowledge. A learning that does not bring faith with it, he writes, "is the greatest of veils". He adds that "one has to approach a veil in order to tear it into shreds" [@forty_hadith, p. 403]. The sciences, he goes on, are seeds of spiritual experience; the usual way is first to learn of God, His names and His attributes, then to open the heart through exercises and austerities [@forty_hadith, p. 403]. In another place he gives the view of those who know the subject, that such preliminaries "prepare the soul for receiving knowledge through inspiration" [@forty_hadith, p. 331].
 
-ʿAllama Tabatabaʾi gives study a fixed place near the start. Once the traveller has set out, the first essential, he writes, is knowledge of the rules of the shariʿa, learned from a jurist. The traveller then puts that knowledge into practice and perseveres until conviction and gnosis grow by degrees. "For knowledge gives birth to action and action in turn brings knowledge" [@kernel, p. 56]. In his scheme, what is learned from the jurist begins the circle, and the deeper knowledge comes back from the practice.
+ʿAllama Tabatabaʾi, in the lectures recorded in *Kernel of the Kernels*, gives learning a fixed place near the start. Once the traveller has set out, the first essential, he says, is knowledge of the rules of the shariʿa, learned from a jurist. The traveller then puts that knowledge into practice and perseveres until conviction and gnosis grow by degrees. "For knowledge gives birth to action and action in turn brings knowledge" [@kernel, p. 56]. In his scheme, what is learned from the jurist begins the circle, and the deeper knowledge comes back from the practice.
 
 Murtada Mutahhari, the third, separates the philosopher from the ʿarif by the means each uses. The philosopher works with reason, deductions and proofs. The means of the ʿarif, he writes, are "the heart and the purification, disciplining and perfecting of the self" [@light, p. 42]. His list starts with the heart, and every item after it is a form of purification.
 
@@ -136,12 +136,12 @@ Murtada Mutahhari, the third, separates the philosopher from the ʿarif by the m
 Knowing God differs in kind from knowing about God, and it is reached by purification, which study serves but cannot replace.
 :::
 
-Those brought near to God, the ʿurafaʾ, know Him in the second way: through a veil removed, not a definition learned. The knowing that comes with that nearness is knowledge by presence. Knowledge about God is acquired from outside, through the senses and reason; it works by defining, and reason stops at the attributes of things. Knowing God is present to the soul, as hunger is present to the one who fasts, and it comes as a light that God places in a purified heart.
+Those brought near to God, the ʿurafaʾ, know Him in the second way, through a veil removed and not a definition learned. Their knowing is present to the soul, as hunger is present to the one who fasts, and it comes as a light that God places in a purified heart.
 
-Knowing God therefore differs in kind from knowing about God. It is reached by purification, which study serves but cannot replace.
+Knowing God therefore differs in kind from knowing about God. It is reached by purification; study, in the view of Imam Khomeini and ʿAllama Tabatabaʾi, serves it but cannot replace it.
 
 Where, then, does an ordinary believer already stand on this path?
 
 ::: {.box-try title="Try this"}
-In every prostration of the daily prayer we say, "Glory belongs to my Lord, the Exalted, and Him do I praise." ʿAllama Tabatabaʾi uses these words to show how knowledge follows action [@kernel, pp. 56–57]. For one week, in one prayer each day, say them slowly, "believing it to be a fact". Notice your own lowliness with your forehead on the ground, then the majesty of the One you are calling exalted. From "a very minor action, such as this dhikr said in prostration", he writes, a person comes to discover God's absolute majesty [@kernel, p. 57].
+In every prostration of the daily prayer we say, "Glory belongs to my Lord, the Exalted, and Him do I praise." ʿAllama Tabatabaʾi uses these words to show how knowledge follows action [@kernel, pp. 56–57]. For one week, in one prayer each day, say them slowly, "believing it to be a fact". Notice your own lowliness with your forehead on the ground, then the majesty of the One you are calling exalted. From "a very minor action, such as this dhikr said in prostration", he says, a person comes to discover God's absolute majesty [@kernel, p. 57].
 :::

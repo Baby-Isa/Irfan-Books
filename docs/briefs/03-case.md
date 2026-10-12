@@ -55,7 +55,7 @@
 - **Try this** (below).
 
 ## Try this
-- **This week:** read the last petitions of the Munajat Shaʿbaniyyah (§82–111, in the Appendix) once, slowly, with the English beside the Arabic, "with presence of heart" (Mafatih p. 245).
+- **This week:** read the petitions of the Munajat Shaʿbaniyyah from §82 to §111 (in the Appendix) once, slowly, with the English beside the Arabic, "with presence of heart" (Mafatih p. 245).
 - **In Shaʿban:** follow the Sheikh's own advice and recite the whole prayer "as much as you can" (L01 ¶22).
 
 ## Gone around (D39) and cut (D15)
