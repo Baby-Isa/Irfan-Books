@@ -80,7 +80,7 @@ _(Approved text, frozen at `32e44c9`. Title changed from "Seeking, not powers" (
 5. ## Knowing by drawing near [conclusion]. The conclusion, once.
 **Boxes:** Word Study: ʿilm al-husuli and ʿilm al-huduri. Story: Ibn Sina and Abu Saʿid (the Sheikh's account, L03 ¶23–24; `light` p. 42). Who's Who: Mulla Sadra (L03 ¶28; `kernel` p. 7).
 **Try this:** in prostration, say "Glory belongs to my Lord, the Exalted, and Him do I praise" while believing it, and notice one's lowliness and God's majesty (`kernel` p. 56).
-**Hand-off:** Purification sounds far off. Is there anywhere an ordinary believer already stands on this path?
+**Hand-off:** Where, then, does an ordinary believer already stand on this path?
 **Callbacks / forward pointers:** Ch 1's Word Study promised this chapter. Forward: Ch 3 (our prayers already ask for this knowing).
 **Cut / gone around:**
 - L02 ¶34 (garbled) is not used.
@@ -92,7 +92,7 @@ _(Approved text, frozen at `32e44c9`. Title changed from "Seeking, not powers" (
 ### 3. You already know these words
 **Subheading:** The prayers we recite in Shaʿban, in Ramadan and at ʿArafah already ask for what the mystics seek, so the goal of ʿirfan is not foreign or reserved for an elite: it is already on our lips.
 **Conclusion:** the goal of ʿirfan is already on the believer's lips. **Serves:** B1. **Old number:** 2; moved to Ch 3 (D41) to close Part One on hope.
-**Opener (≤150 words):** Thursday night, Duʿa Kumayl. Epigraph [K221] "And my heart enthralled by Your love!" Link back to Ch 2: purification sounded far off, yet the words we already say ask for exactly what Ch 2 described.
+**Opener (≤150 words):** Thursday night, Duʿa Kumayl. Epigraph [K221] "And my heart enthralled by Your love!" Link back to Ch 2's closing question (where does an ordinary believer already stand?): the words we already say ask for exactly what Ch 2 described.
 **Words you'll meet:** munajat, duʿa, Mafatih al-Jinan, inqitaʿ (severance; add to the glossary first).
 **Sections:**
 1. ## Cut off from all else [3.1]. Point: the prayers' first request is to be cut off, in the heart, from everything but God.

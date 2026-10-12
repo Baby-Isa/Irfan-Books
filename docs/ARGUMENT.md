@@ -70,7 +70,7 @@ _Divider (Munajat §73–74): "My Lord, I was not strong enough to move away fro
 - 2.2 Reason analyses attributes and stops short of any essence, above all God's. [B1] L03 ¶25–28, ¶33, ¶35, ¶38 (old 3.2)
 - 2.3 Knowledge of God is light that God places in a purified heart, passed heart to heart, not mind to mind. [B1] L03 ¶10–11, ¶18–21 (added: `forty_hadith` p. 331; `lantern` p. 10) (old 3.3)
 - 2.4 Therefore the path is purification (suluk), not thought alone; study prepares the ground but cannot replace it. [B1] L03 ¶19–20, ¶47–49 (added, side by side: `forty_hadith` p. 403; `kernel` p. 56; `light` p. 42) (old 3.4)
-- → Purification sounds far off. Is there anywhere an ordinary believer already stands on this path?
+- → Where, then, does an ordinary believer already stand on this path?
 
 **Ch 3. You already know these words.** (old 2; moved down to close Part One on hope, D41)
 - **Conclusion:** the goal of ʿirfan is already on the believer's lips.

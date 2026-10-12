@@ -15,7 +15,7 @@
 ## Sections (each heading serves the point in brackets)
 0. **Opener** (under 150 words, before "Words you'll meet")
    - Thursday night, Duʿa Kumayl, a prayer most of us know. Epigraph: "And my heart enthralled by Your love!" (Kumayl §221, Arabic held).
-   - The first paragraph names the prayer and says the line asks for love of God. It links back to Ch 2: purification sounded far off, yet the words we already say ask for exactly what Ch 2 described.
+   - The first paragraph names the prayer and says the line asks for love of God. It links back to Ch 2's closing question (where does an ordinary believer already stand?): the words we already say ask for exactly what Ch 2 described.
 1. **Cut off from all else** [3.1]
    - The prayers' first request is that the heart be cut off from everything but God. The Sheikh: "they have to cut off from everything first" (L01 ¶18, ¶20). It is a severance in the heart, not a withdrawal from family or society (L01 ¶25–26, paraphrased).
    - Quotes:

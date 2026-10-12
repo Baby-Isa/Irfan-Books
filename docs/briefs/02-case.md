@@ -42,7 +42,7 @@ _Fidelity: 2.1–2.3 and the first half of 2.4 are the Sheikh's. The second half
      - Mutahhari: the ʿarif's means are "the heart and the purification, disciplining and perfecting of the self" (`light` p. 42).
 5. **Knowing by drawing near** [conclusion]
    - The conclusion is stated once.
-   - Hand-off: "Purification sounds far off. Is there anywhere an ordinary believer already stands on this path?"
+   - Hand-off: "Where, then, does an ordinary believer already stand on this path?"
 
 ## Boxes (≤3)
 - **Word Study:** *ʿilm al-husuli* and *ʿilm al-huduri*. Ch 1's Word Study points here.

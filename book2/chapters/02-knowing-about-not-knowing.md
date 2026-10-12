@@ -136,11 +136,11 @@ Murtada Mutahhari, the third, separates the philosopher from the ʿarif by the m
 Knowing God differs in kind from knowing about God, and it is reached by purification, which study serves but cannot replace.
 :::
 
-Chapter 1 described the ʿurafaʾ as those brought near to God, from whom a veil has been removed. The knowing that comes with that nearness is knowledge by presence. Knowledge about God is acquired from outside, through the senses and reason; it works by defining, and reason stops at the attributes of things. Knowing God is present to the soul, as hunger is present to the one who fasts, and it comes as a light that God places in a purified heart.
+Those brought near to God, the ʿurafaʾ, know Him in the second way: through a veil removed, not a definition learned. The knowing that comes with that nearness is knowledge by presence. Knowledge about God is acquired from outside, through the senses and reason; it works by defining, and reason stops at the attributes of things. Knowing God is present to the soul, as hunger is present to the one who fasts, and it comes as a light that God places in a purified heart.
 
 Knowing God therefore differs in kind from knowing about God. It is reached by purification, which study serves but cannot replace.
 
-Purification sounds far off. Is there anywhere an ordinary believer already stands on this path?
+Where, then, does an ordinary believer already stand on this path?
 
 ::: {.box-try title="Try this"}
 In every prostration of the daily prayer we say, "Glory belongs to my Lord, the Exalted, and Him do I praise." ʿAllama Tabatabaʾi uses these words to show how knowledge follows action [@kernel, pp. 56–57]. For one week, in one prayer each day, say them slowly, "believing it to be a fact". Notice your own lowliness with your forehead on the ground, then the majesty of the One you are calling exalted. From "a very minor action, such as this dhikr said in prostration", he writes, a person comes to discover God's absolute majesty [@kernel, p. 57].

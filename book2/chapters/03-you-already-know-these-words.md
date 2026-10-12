@@ -52,7 +52,7 @@ A heart cut off from all else is free for God, and the prayers go on to ask to s
 
 A heart cleared of everything but God is free for Him. The prayers go on to ask for three things: to see God with the heart, to love Him, and to come near Him. Let's take them in turn.
 
-The first is sight, and the Munajat's petition for light in the eyes of the heart, with which this book opened, asks for it. Sheikh Bahmanpour explains why the request is made of the heart. The eyes in our heads work, and still we miss the signs, because the faculty behind them is blind. The prayer asks God to give that inner eye light to see by.
+The first is sight, the subject of the Munajat's petition for light in the eyes of the heart. Sheikh Bahmanpour explains why the request is made of the heart. The eyes in our heads work, and still we miss the signs, because the faculty behind them is blind. The prayer asks God to give that inner eye light to see by.
 
 The same petition asks that these eyes pass through the veils of light. The mystics speak of veils of light and darkness that the heart must pass through, and Sheikh Bahmanpour notes that people unfamiliar with such words sometimes take them for mistakes. The phrase comes from the Munajat itself.
 
