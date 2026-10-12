@@ -3,7 +3,7 @@
 _Read this first, then `CLAUDE.md`, `docs/STATUS.md` and `docs/EXEMPLAR.md`. Everything is on branch `claude/stoic-euler-p7myev` in `Baby-Isa/Irfan-Books`._
 
 ## 1. Where we are
-The prologue and Chapter 1 of Book 2 are finished and approved. The user's uncle, who knows Sheikh Bahmanpour well, read them and was happy for the work to continue as it is. Together they are the written model for the rest of the book (`docs/EXEMPLAR.md`, git tag `exemplar-v1`). The argument pyramid is approved (`docs/ARGUMENT.md` v2.1, D25–D28). The next task is **Part One: the Chapter 2 and 3 briefs.**
+The prologue and Chapter 1 of Book 2 are finished and approved. The user's uncle, who knows Sheikh Bahmanpour well, read them and was happy for the work to continue as it is. Together they are the written model for the rest of the book (`docs/EXEMPLAR.md`, commit `32e44c9` on this branch). The argument pyramid is approved (`docs/ARGUMENT.md` v2.1, D25–D28). The next task is **Part One: the Chapter 2 and 3 briefs.**
 
 ## 2. Agreed since the last handover
 - **Credits (D34):** the title page reads "Based on a lecture series by Sheikh M. S. Bahmanpour" and "Edited by Zafar Abbas Juma". "Edited" signals that the book adds no personal opinions. "Adapted from…" and "Curated by…" are still possible alternatives, so ask once.

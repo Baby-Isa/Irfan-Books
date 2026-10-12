@@ -1,6 +1,6 @@
 # The exemplar: prologue and Chapter 1 (D36)
 
-The approved prologue (`book2/chapters/00-prologue.md`) and Chapter 1 (`book2/chapters/01-seeking-not-powers.md`) are the written model for every later chapter. They were revised with the user over seven rounds, and the user's uncle, who knows Sheikh Bahmanpour, approved them. Git tag `exemplar-v1` freezes this version.
+The approved prologue (`book2/chapters/00-prologue.md`) and Chapter 1 (`book2/chapters/01-seeking-not-powers.md`) are the written model for every later chapter. They were revised with the user over seven rounds, and the user's uncle, who knows Sheikh Bahmanpour, approved them. Git commit `32e44c9` freezes this version.
 
 **Every writer reads both files in full before drafting**, then `docs/TONE.md` and `docs/LINGO.md`. Imitate the exemplar's rhythm, not only its rules.
 

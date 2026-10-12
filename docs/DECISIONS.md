@@ -177,6 +177,6 @@ _Append only. Each entry: date, decision, why. To reverse a decision, add a new 
 - **Writing rule:** paragraphs of 50–65 words, 110 at most (TONE rule 22).
 
 ## 2026-10-12: D36. The prologue and Ch 1 are the exemplar
-- **Approval:** the user and his uncle approved them, and git tag `exemplar-v1` freezes them. `docs/EXEMPLAR.md` records the target numbers and the first-draft → final pairs.
+- **Approval:** the user and his uncle approved them, and commit `32e44c9` on this branch freezes them. `docs/EXEMPLAR.md` records the target numbers and the first-draft → final pairs.
 - **Writers:** every writer reads the exemplar in full before drafting.
 - **Tone editing:** a new `tone-editor` agent line-edits each draft against the exemplar before the fidelity check.

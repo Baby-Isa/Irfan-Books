@@ -7,7 +7,7 @@ _Update at the end of every task. Keep it short. History lives in git and DECISI
 - **Gate A:** case brief, approved by the user.
 - **Gate B:** prose, then the fact-check, then the PDF.
 
-**Now:** Prologue and Ch 1 (Book 2) approved by the user and his uncle, and frozen as the exemplar (D36, tag `exemplar-v1`). See `docs/HANDOVER.md`.
+**Now:** Prologue and Ch 1 (Book 2) approved by the user and his uncle, and frozen as the exemplar (D36, commit `32e44c9`). See `docs/HANDOVER.md`.
 
 **Next:** Part One. Present the Ch 2 and Ch 3 briefs (Gate A), then draft → tone-editor → fidelity-checker → user review.
 
