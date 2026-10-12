@@ -197,3 +197,17 @@ _Append only. Each entry: date, decision, why. To reverse a decision, add a new 
 - **No questions for the Sheikh (general rule):** questions add time and fuss. Where a lecture passage is unclear, go around it: leave it out, use a clearer passage, word it so it is true on either reading, or set a held source beside it. CLAUDE.md golden rule 5 is updated. The Ch 1 marker on "These are shirk" is removed; the text quotes his words as said. The `[QUERY]` marks still in ARGUMENT.md and OUTLINE.md (6.2, 10.1, 16.3) are resolved this way when each chapter's brief is written.
 - **Ch 2:** the whole Munajat Shaʿbaniyyah goes in an appendix. The chapter quotes only the key lines, where it needs them.
 - **Ch 3:** the "study serves" clause stays, attributed to Khomeini and Tabatabaʾi. The thousand-doors hadith (L03 ¶10) is left out.
+
+## 2026-10-12: D40. Book 2 restructured around the reader's journey (proposed, awaiting approval)
+- **User's direction:** why travel → getting ready → travelling the road → who else you meet on the road → the destination. The book builds to a crescendo about two-thirds of the way through (Ch 12, losing the self) and has no side quests before it. "Isn't this Sufism?" is answered in a line in the prologue and fully in Ch 15.
+- **Structure v3:**
+  - Part One, The Call (1–3)
+  - Part Two, Getting ready (4–7; Finding a guide moves here)
+  - Part Three, The Road (8–12)
+  - Part Four, Fellow travellers (13–15; old Part Three)
+  - Part Five, The Destination (16–17)
+  - Epilogue and an Appendix with the full Munajat
+- **Part dividers:** title, the reader's question, a two- or three-line answer, the chapter titles and a Munajat line.
+- **Detailed outline:** `docs/outline/` holds FRAMEWORK, part-1 to part-5 and REVIEW (presented by Fable). Every quote is allocated once across the book, including a line-by-line Munajat allocation.
+- **Supersedes on approval:** Fable's earlier suggestion (keep Part Three before the Road, and move Ch 8 into it). The user rejected it.
+- **Pending:** ARGUMENT.md v3, STORYLINE.md and OUTLINE.md are regenerated from `docs/outline/` once the user approves.
