@@ -38,13 +38,18 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | dhikr | zikr, zikrullah, zikrul kaseer, zikran kaseera, dhikr kathir | | Remembrance of God, especially abundant remembrance | L04 |
 | dhikr khafi | zikrul khatib | | Hidden remembrance of God | L14 |
 | diyafat Allah | ziyafatullah | | God's hospitality | L05 |
-| du'a | dua | | Supplication | L01 |
+| duʿa | dua, du'a | | Supplication; the general word for any request addressed to God | L01 |
+| Duʿa Abu Hamza al-Thumali | Abu Hamza | | Imam Zayn al-ʿAbidin's supplication for the nights of Ramadan, narrated by Abu Hamza al-Thumali (Mafatih p. 282) | B2 Ch3 |
+| Duʿa ʿArafah | Arafah, Arafat | | Imam al-Husayn's supplication on the Day of ʿArafah (Mafatih p. 374); the authorship of its closing section is debated, so lines from it are given "as in the Mafatih" | B2 Ch3 |
+| Duʿa Kumayl | dua Kumayl | | The supplication Imam ʿAli taught Kumayl ibn Ziyad, recited on Thursday evenings and mid-Shaʿban (Mafatih p. 129) | L01 |
 | fanaʾ | Fanaa, fanah, fanaa, Sana | | Annihilation of the soul's limits and self-perception | L04 |
 | farq baʿd al-jamʿ | farq al bad al jam, alfarq waadal jaam | | Separation after union; return to creation after unification | L09 |
+| fikr | fikr | | Thought; reasoning and analysis, set against suluk as a way of knowing | L03 |
 | fiqh | | | Islamic jurisprudence; the law's obligatory minimum | B2 Ch1 |
 | fuʾad | Al-Faad | | Heart or inner faculty | L05 |
 | ghawth | ghaus | | A rank of the saintly hierarchy | L13 |
 | ghusl al-tawba | Ghusle Tauba | | Ritual bath of repentance | L08 |
+| hadd (pl. hudud) | Hadd, hudood | | Definition; also limit or boundary: to define a thing is to limit it | L02 |
 | hijab (pl. hujub) | hujuba | | Veil; the veils of light and darkness between the heart and God | L01 |
 | hajj | hajj | | The pilgrimage to Mecca | L01 |
 | haqiqa | Haqiqa | | The truth or reality; seeing what the Prophet saw | L06 |
@@ -116,6 +121,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | muraqaba | muraqabah, muraaqabah | | Watchfulness of God's presence | L04 |
 | murid | Mureed, Murad | | Disciple; the one who wills | L09 |
 | musawwir | Musawwir | | Divine name: the fashioner | L03 |
+| mushahada huduriyya | mushahadah huduriyyah (Forty Hadith) | | Direct witnessing; knowing God by presence (Khomeini, Forty Hadith p. 542) | B2 Ch2 |
 | mustahabb | mustahab, mustahabaat, mustahabbat | | Recommended | L01 |
 | nabiyyin | nabiyeen, nabiyyen | | Prophets; first of the four categories (Q 4:69) | L01 |
 | Nahj al-Balagha | Nahjul Balagah | | The collection of Imam ʿAli's sermons, letters and sayings | L01 |
@@ -148,6 +154,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | salihin | saleheen, saaliheen, salehun | | The righteous; fourth and lowest category of the muqarrabun | L01 |
 | salik | saalik | | Wayfarer on the path | L08 |
 | shafaʿa | shafaa | | Intercession | L16 |
+| Shaʿban | Shaban | | The eighth month of the Islamic calendar, before Ramadan; the month of the Munajat Shaʿbaniyyah | L01 |
 | shariʿa | shariah, sharia | | The outward law | L01 |
 | Shaytan | shaitan | | Satan | L01 |
 | shirk | shirk | | Associating partners with God | L01 |
@@ -180,6 +187,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | wajib | wajib | | Obligatory | L01 |
 | waswas | waswaas | | Whispered temptations | L08 |
 | wali | wali | | Friend of God; singular of awliyaʾ | L02 |
+| Whispered Prayer of the Lovers | Munajat al-Muhibbin | | The ninth of the fifteen whispered prayers printed with the Sahifa Sajjadiyya (Chittick, p. 656) | L01 |
 | wilaya | wilayat, wilayatik | | Friendship with God; closeness and authority | L01 |
 | wilaya takwiniyya / tashriʿiyya | Wilayatu-e-Takvini / Tashri | | Authority over creation and over religion | L13 |
 | wujud | wajood | | Existence | L03 |
