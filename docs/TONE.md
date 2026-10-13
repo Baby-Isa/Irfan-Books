@@ -115,5 +115,57 @@ A believer who prays, fasts and recites duʿas, and who has wondered whether the
 **Do:** aim for 50–65 words per paragraph, with 110 at most. Split where a new claim begins, as in the exemplar: "Placing the fault in the receiver has two consequences. The first is… / The second is that the problem can be solved…"
 **Don't:** run a definition, a qualification and a quotation together in one block of 150 words or more.
 
+### 23. Name the Sheikh sparingly (D42)
+**Do:** let the Sheikh's teaching be the book's own exposition. The prologue says the lectures are the book's core, so his points can be stated straight. Name him:
+- when a point is introduced as his and is distinctively his ("Sheikh Bahmanpour defines mysticism as…");
+- when he is quoted;
+- when he is set beside another scholar.
+
+Once he is named, the rest of that line of thought belongs to him, so don't name him again in the next sentence or the next paragraph. Aim for about one mention per 250 words, and never two in a paragraph. `build/voice.py` flags more than 5 per 1,000 words.
+**Don't:** "Allah's light, the Sheikh says, is everywhere…" straight after "Sheikh Bahmanpour speaks of the light differently…". Don't use "he says", "he adds" or "he notes" as filler.
+- Before: "Sheikh Bahmanpour names the source with a hadith on knowledge, which Imam Khomeini also quotes in his Forty Hadith."
+- After: "A hadith on knowledge, which Imam Khomeini quotes in his Forty Hadith, names it."
+- Before: "The light, the Sheikh says, comes to the hearts of the pure, and darkness covers the impure."
+- After: "The light comes to the hearts of the pure, and darkness covers the impure."
+
+### 24. Straight prose, not "he said, she said" (D42)
+**Do:** make the point in the book's voice and bring in a scholar only where his words add something the argument needs. Two voices on one point are usually enough. Let the logic, not the list of quotations, decide what a section contains.
+**Don't:** build a section around fitting in direct quotations; "Khomeini says… Tabatabaʾi writes… Mutahhari adds…" reads as a literature review.
+- Before (Ch 2 v1, where reason stops): three loose paragraphs of attributed sayings on positive and negative knowledge.
+- After: one chain in plain prose. Reason proves that God is and says what He is not. Positive knowledge needs knowledge by presence. We have knowledge by presence only of our own soul. So God must be found within the soul.
+
+### 25. Every paragraph earns its place in the chain
+**Do:** before keeping a paragraph, name the link it adds between the section's opening and its point note. If a section's point is simple, it needs few paragraphs. Build up to the strongest point so it lands as a conclusion the reader has been led to.
+**Don't:** keep paragraphs because they are true and sourced. The user's test: does the reader feel the section is bloated?
+
+### 26. Callbacks re-explain enough to be understood a week later
+**Do:** when recalling an earlier chapter, give the reader the gist of what was argued there in a sentence or two.
+- Before: "Chapter 1 reached the same conclusion by another road, when it placed the fault in the receiver."
+- After: "This book's first chapter reached the same conclusion by a different road. Surah al-Rum says that God's signs are for those who reflect, know, listen, and reason, and yet most people pass them by. Nothing in the signs is hidden and nothing is wrong with our eyes; the fault lies with an inner faculty that has rusted and does not receive."
+
+### 27. "Therefore" only after the argument is made
+**Do:** build the premises before a "therefore" or "so". If the conclusion has not been argued for in the text above it, argue it first.
+- Before: "The severance the prayers ask for is therefore in the heart, not in the household or the marketplace." This came with no earlier mention of the household.
+- After: the request is stated, then the worry it raises (leaving family and work), then the prayer that names what is cut away (love of the world), then the friends of God who keep their families. Only then: "The severance the prayers ask for is therefore in the heart."
+
+### 28. Name the referent when it is out of working memory
+**Do:** extend rule 13 across sentences. If "the second kind" or "it" points to something that was not in the sentence before, name it.
+- Before: "The ʿarif's knowledge of God is of the second kind."
+- After: "The ʿarif's knowledge of God is knowledge by presence."
+
+### 29. Explain a source's puzzle, or leave it out
+**Do:** when a lecture remark raises a puzzle, explain it in full, or cut it.
+- Before: "Sheikh Bahmanpour notes that people unfamiliar with such words sometimes take them for mistakes. The phrase comes from the Munajat itself." (abrupt, and the puzzle is never stated)
+- After: "Some who meet these words for the first time think the prayer must be mistaken, since the Qur'an says that sight cannot perceive God (Q 6:103). The Sheikh's answer is that the prayer is not speaking of the eyes in our heads."
+
+### 30. Make doctrine consistent across chapters
+**Do:** when two sources seem to pull against each other, reconcile them in the text with a held source. For example, God "puts" light in the heart, yet the light is everywhere. The text reconciles them: God's giving never stops ("no niggardliness in the higher realms", `forty_hadith` p. 331), purification makes the heart able to receive it, and its lighting in any heart is still God's act.
+**Don't:** leave a line that a careful reader will find contradicts an earlier one ("Purification is the traveller's part; the light is Allah's to give").
+
+### 31. Vary the rhythm of neighbouring sentences
+**Do:** when two sentences in a row share a structure and length, vary the second ("and" in place of a comma, or a different opening).
+- Before: "It reaches us from outside, through the senses or by reasoning. We form concepts of the things around us, then analyse those concepts."
+- After: "…We form concepts of the things around us and then analyse those concepts."
+
 ## Check before handing over
-Read only the first sentence of every paragraph in order. If the argument does not follow, fix the openings (rule 1). Then read every sentence against its section's point note (rules 2 and 11). Then search for "as we should", "rarely", "never", "lip service", "intelligent", "busy", "you will find", "of course", and for any quotation that is not spoken to in the sentence after it.
+Read only the first sentence of every paragraph in order. If the argument does not follow, fix the openings (rule 1). Then read every sentence against its section's point note (rules 2 and 11). Then count the Sheikh's name (rule 23) and the attribution verbs ("he says", "he adds", "he notes"). Then search for "as we should", "rarely", "never", "lip service", "intelligent", "busy", "you will find", "of course", and for any quotation that is not spoken to in the sentence after it.

@@ -9,7 +9,7 @@ The prologue and Chapter 1 of Book 2 are finished and approved. The user's uncle
 - **Credits (D34):** the title page reads "Based on a lecture series by Sheikh M. S. Bahmanpour" and "Edited by Zafar Abbas Juma". "Edited" signals that the book adds no personal opinions. "Adapted from…" and "Curated by…" are still possible alternatives, so ask once.
 - **Provenance (D32):** it was a lecture series, which the uncle attended. Never describe it as part of a BA.
 - **Spelling (D32):** "Qur'an", "Qur'anic" and "jannah".
-- **Voice:** `docs/LINGO.md` (D29), `docs/TONE.md` rules 1–22 (D30, D31, D33, D35), and the exemplar (D36).
+- **Voice:** `docs/LINGO.md` (D29), `docs/TONE.md` rules 1–31 (D30, D31, D33, D35), and the exemplar (D36).
 - **Point notes (D30):** under every `##` heading in a draft, a `::: {.point}` note states what that section argues. The user reviews the prose against it. Review builds drop the notes.
 - **Arabic with every quote:** every Qur'an, hadith or duʿa quotation carries its Arabic in a small font.
   - Qur'an: `::: {.ayah ref="S:A" words="N-M"}` slices the verified text.
@@ -55,7 +55,7 @@ Chapter-specific decisions to honour:
 | Purpose | File |
 |---|---|
 | The model to imitate | `docs/EXEMPLAR.md`; `book2/chapters/00-prologue.md`; `book2/chapters/01-seeking-not-powers.md` |
-| Voice rules | `docs/TONE.md` (22 rules with before/after); `docs/LINGO.md` |
+| Voice rules | `docs/TONE.md` (31 rules with before/after); `docs/LINGO.md` |
 | Argument | `docs/ARGUMENT.md` v2.1; `docs/STORYLINE.md` (plain-English deck); `docs/briefs/` |
 | Decisions | `docs/DECISIONS.md` (D1–D36) |
 | Agents | `.claude/agents/`: `chapter-writer`, `tone-editor`, `fidelity-checker`, `transcript-analyst` |

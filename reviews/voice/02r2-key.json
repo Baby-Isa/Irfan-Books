@@ -1,0 +1,19 @@
+{
+ "A": "control",
+ "B": "chapter",
+ "C": "exemplar",
+ "D": "control",
+ "E": "exemplar",
+ "F": "chapter",
+ "G": "exemplar",
+ "H": "control",
+ "I": "exemplar",
+ "J": "chapter",
+ "K": "chapter",
+ "L": "control",
+ "_meta": {
+  "chapter": "book2/chapters/02-knowing-about-not-knowing.md",
+  "control": "7225b76:book2/chapters/01-seeking-not-powers.md",
+  "exemplar": "32e44c9"
+ }
+}

@@ -276,6 +276,13 @@ def profile(specs):
         print(f"   Function-word Delta: median {st.median(ds):.2f} over {len(ds)} chunks; "
               f"{over}/{len(ds)} chunks beyond the exemplar's 90th percentile ({d90:.2f}).")
         hits = lingo_hits(paras)
+        body = " ".join(t for _, t in paras)
+        sheikh = len(re.findall(r"\bSheikh\b|\bBahmanpour\b(?<!Sheikh Bahmanpour)", body))
+        says = len(re.findall(r"\b(?:he|she) (?:says|adds|notes|remarks|grants|points out)\b", body))
+        rate = 1000 * sheikh / max(f["words"], 1)
+        print(f"   Sheikh named {sheikh} times ({rate:.1f} per 1k; cap 5, TONE 23); 'he says'-type verbs: {says}")
+        if rate > 5:
+            hits.append(f"attribution: Sheikh named {rate:.1f} times per 1,000 words (cap 5, TONE 23)")
         for h in hits:
             print(f"   LINGO {h}")
         # Delta is reported, not gated: calibration showed it does not separate

@@ -54,16 +54,19 @@ Everything in Book 1, plus the following.
 - **Length:** about 3,000–3,600 words of body per chapter.
 
 ## Book 2 voice and chapter shape (D10, OUTLINE v2)
-- **Voice:** talk to the reader, as in a normal non-fiction book. Name Sheikh Bahmanpour occasionally, where the view is distinctively his ("Sheikh Bahmanpour argues…"). Don't write "the lecture says" in every paragraph.
+- **Voice:** talk to the reader, as in a normal non-fiction book. Name Sheikh Bahmanpour sparingly (TONE 23): when a point is distinctively his, when he is quoted, or when he is set beside another scholar. Otherwise state his teaching as the book's own exposition.
 - **Chapter shape:** the order of introduction, then `::: {.words}`, then body, then "Try this" is set in OUTLINE v2.
 - **Quran:** use `::: {.ayah ref="S:A"}` with **Qaraʾi's English**, from `python3 build/quran.py S:A`. When the lecturer paraphrases a verse, quote Qaraʾi and keep his point in the prose.
 - **Unsourced lecture claims:** omit or rework them, and log each one in `docs/OMISSIONS.md` (D15).
 - **Differing views (D20):** the book is inspired by the lectures but draws on the wider literature. Where scholars differ, set the views side by side, gently and generously, for example: "Sheikh Bahmanpour emphasises…; ʿAllama Tabatabaʾi, for his part, …". Never write heavy critique or "X is wrong". Let the reader see the range.
 
 ## Both books
+- **Commas:** use the Oxford comma in every list of three or more ("to see, to love, and to draw near") (D42).
+- **Chapter numbers in prose:** in words ("Chapter Two", "Chapters One to Three"). Chapter-opening numerals in the layout stay as figures.
+- **Callout boxes:** at most one Story, Who's Who, Word Study or History box per section. Try this is extra, at the chapter's end (D42).
 - **Honorifics:**
   - Use ﷺ after the Prophet's name, the first time per section.
-  - Use (ʿa) for the Imams and Lady Fatima, and (ʿaj) for Imam al-Mahdi.
+  - Use (as) for the Imams and Lady Fatima (the reader's familiar form; D42), and (atfs) for Imam al-Mahdi.
   - Use "God" or "Allah": Allah in devotional contexts, God in philosophical ones. Be consistent within a paragraph.
 - **Transliteration (light):**
   - Write ʿayn as ʿ and hamza as ʾ (not at the start of a word).

@@ -8,7 +8,7 @@ You write one chapter of a book based on a lecture series on ʿIrfan.
 
 ## Before writing, read
 - **`docs/EXEMPLAR.md`, then `book2/chapters/00-prologue.md` and `book2/chapters/01-seeking-not-powers.md` in full.** They are the approved model. Match their rhythm and their numbers.
-- `docs/TONE.md` (rules 1–22) and `docs/LINGO.md`
+- `docs/TONE.md` (rules 1–31) and `docs/LINGO.md`
 - `CLAUDE.md` (the "Golden rules" section)
 - `docs/STYLE_GUIDE.md`
 - `docs/GLOSSARY.md`

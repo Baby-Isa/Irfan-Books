@@ -17,10 +17,10 @@ There is a verse often recited at weddings, one most of us know. In Surah al-Rum
 ## What the minimum leaves out
 
 ::: {.point}
-The obligatory acts are enough for salvation, and that is not contested. What is contested is the claim that they are the whole of the religion. In Surah al-Rum the Qur'an asks for more than the minimum: it asks us to reflect on, know, listen to and reason about its signs.
+The obligatory acts are enough for salvation, and that is not contested. What is contested is the claim that they are the whole of the religion. In Surah al-Rum the Qur'an asks for more than the minimum: it asks us to reflect on, know, listen to, and reason about its signs.
 :::
 
-Let's start with two claims. The first is that a believer who prays, fasts, pays what is due and goes on hajj can hope for *jannah*, provided they do what is *wajib* and avoid what is forbidden. This claim is not contested. Sheikh Bahmanpour accepts it as fair for ordinary believers. Mohammad Ali Shomali makes the same point, describing the obligatory rules of fiqh as "the minimally necessary conditions of human perfection" [@self_knowledge, p. 17].
+Let's start with two claims. The first is that a believer who prays, fasts, pays what is due, and goes on hajj can hope for *jannah*, provided they do what is *wajib* and avoid what is forbidden. This claim is not contested. Sheikh Bahmanpour accepts it as fair for ordinary believers. Mohammad Ali Shomali makes the same point, describing the obligatory rules of fiqh as "the minimally necessary conditions of human perfection" [@self_knowledge, p. 17].
 
 The second claim goes further, and it is the one this book disputes. Some jurists and activists hold that the obligatory acts are the whole of the religion; anything beyond them, they say, is made up by the whims and wishes of certain mystics.
 
@@ -38,7 +38,7 @@ There are indeed signs in that for a people who listen.
 There are indeed signs in that for people who exercise their reason.
 :::
 
-Four times in a row, the Qur'an makes the same point. The signs are all around us: in marriage, in the people we meet, in sleep, in work, in the weather. Yet they are for those who reflect, know, listen and reason. This reflecting, knowing, listening and reasoning is what the Qur'an asks of us beyond the minimum.
+Four times in a row, the Qur'an makes the same point. The signs are all around us: in marriage, in the people we meet, in sleep, in work, in the weather. Yet they are for those who reflect, know, listen, and reason. This reflecting, knowing, listening, and reasoning is what the Qur'an asks of us beyond the minimum.
 
 For the avoidance of doubt, this invitation from the Qur'an is not an invitation to circumvent the law or to abandon the prescribed wajibat. Imam Khomeini insists that a genuine seeker's devotion "is within the bounds of the Shari'ah" [@forty_hadith, p. 61]. Within those bounds, the Qur'an is just as insistent, in these verses and others, that it invites us to more than the obligatory acts.
 
@@ -48,7 +48,7 @@ For the avoidance of doubt, this invitation from the Qur'an is not an invitation
 Most of us, the devout included, accept that the signs exist because the Qur'an says so, but we do not perceive them. The Qur'an describes that gap itself.
 :::
 
-An invitation addressed to those who reflect, know, listen and reason implies that many people do none of these things. Sheikh Bahmanpour does not limit this to the careless. Most pious people, he says, even those careful about the shariʿa, do not find a sign in these verses. Looking at the variety of languages and colours, we are more likely to see a reason for division than a sign of God.
+An invitation addressed to those who reflect, know, listen, and reason implies that many people do none of these things. Sheikh Bahmanpour does not limit this to the careless. Most pious people, he says, even those careful about the shariʿa, do not find a sign in these verses. Looking at the variety of languages and colours, we are more likely to see a reason for division than a sign of God.
 
 We have heard these verses many times, and we accept that there are signs in them because the Qur'an says so; yet accepting that a sign exists is not the same as perceiving it. The Qur'an describes the gap in one verse.
 
@@ -72,7 +72,7 @@ they have hearts with which they do not understand, they have eyes with which th
 
 Cattle see and hear perfectly well, so the comparison cannot be about the senses. Sheikh Bahmanpour reads it as being about what lies behind the senses. Eyes and ears take in the surface of things, whereas inside a human being there should be something more: a faculty, which animals lack, that turns what the senses take in into understanding. In most of us, he says, it is not working.
 
-He compares this faculty to a machine. The ear catches the sound, but "there is something inside which doesn't catch it. There is a machine inside which is [rusted]." That machine is the soul. It has to be repaired before it can catch the signals of God. For Sheikh Bahmanpour, this is the whole subject in one sentence: mysticism is about making the soul hear, see and reflect. He adds that this is not easy, and requires a great deal of training.
+He compares this faculty to a machine. The ear catches the sound, but "there is something inside which doesn't catch it. There is a machine inside which is [rusted]." That machine is the soul. It has to be repaired before it can catch the signals of God. For Sheikh Bahmanpour, this is the whole subject in one sentence: mysticism is about making the soul hear, see, and reflect. He adds that this is not easy, and requires a great deal of training.
 
 Placing the fault in the receiver has two consequences. The first is that the problem is not a shortage of evidence. God is not withholding signs; we are failing to receive them.
 
@@ -86,7 +86,7 @@ Repair is only the start. Once the inner faculty begins to work, Sheikh Bahmanpo
 The Qur'an describes believers in whom this faculty works: hearts that tremble at God's mention, those who know, those who fear Him, the friends of God. These are the people the tradition calls the ʿurafaʾ.
 :::
 
-If the faculty can be repaired, there should be people in whom it already works. The Qur'an describes them more than once. Sheikh Bahmanpour divides people into two groups: those whose souls work, and those whose souls do not. He calls the first group the *ʿurafaʾ*, the plural of *ʿarif*. He sets the prophets and the Imams (ʿa) aside as a class of their own, and looks at ordinary believers who see more than the rest. The first description of them is in Surah al-Anfal.
+If the faculty can be repaired, there should be people in whom it already works. The Qur'an describes them more than once. Sheikh Bahmanpour divides people into two groups: those whose souls work, and those whose souls do not. He calls the first group the *ʿurafaʾ*, the plural of *ʿarif*. He sets the prophets and the Imams (as) aside as a class of their own, and looks at ordinary believers who see more than the rest. The first description of them is in Surah al-Anfal.
 
 ::: {.ayah ref="8:2" words="1-8"}
 The faithful are only those whose hearts tremble [with awe] when Allah is mentioned,
@@ -106,13 +106,13 @@ Only those of Allah's servants having knowledge fear Him.
 
 Most of us fear Allah's punishment. The people of this verse fear Him with a fear that is not about punishment at all.
 
-Surah Yunus adds to their names, which Sheikh Bahmanpour treats as the same people: the *awliyaʾ Allah*, the friends of God (Q 10:62). Imam ʿAli (ʿa) describes what these friends see that others miss.
+Surah Yunus adds to their names, which Sheikh Bahmanpour treats as the same people: the *awliyaʾ Allah*, the friends of God (Q 10:62). Imam ʿAli (as) describes what these friends see that others miss.
 
 ::: {.quote ar="[VERIFY: Arabic of Nahj 3.403 from Qutbuddin p. 810]" source="Nahj al-Balagha"}
 God's special devotees are those who perceive the world's reality when others are deceived by her appearance. They occupy themselves with what is coming when others occupy themselves with the present. [@nahj, 3.403]
 :::
 
-Other people look at the surface of the world; the friends of God look at what lies inside it. Sheikh Bahmanpour is careful about what this means. There is nothing wrong with pursuing material wealth in this life; the trouble is being solely occupied with it. The friends of God have families, friends and a place in society, as we do. They think not about themselves but about God, and in their hearts they are cut off from everything else.
+Other people look at the surface of the world; the friends of God look at what lies inside it. Sheikh Bahmanpour is careful about what this means. There is nothing wrong with pursuing material wealth in this life; the trouble is being solely occupied with it. The friends of God have families, friends, and a place in society, as we do. They think not about themselves but about God, and in their hearts they are cut off from everything else.
 
 ## What they are given, and why it is open to all
 
@@ -159,7 +159,7 @@ This is the case for pursuing ʿirfan. The Qur'an invites more than the minimum,
 ## The aim is God, not powers
 
 ::: {.point}
-Training the soul can aim at powers or at God. Sheikh Bahmanpour calls powers sought this way shirk. Tabatabaʾi, Khomeini and Mutahhari each agree in their own way: the aim of ʿirfan is God alone.
+Training the soul can aim at powers or at God. Sheikh Bahmanpour calls powers sought this way shirk. Tabatabaʾi, Khomeini, and Mutahhari each agree in their own way: the aim of ʿirfan is God alone.
 :::
 
 Pursuing ʿirfan means training the soul, and soul-training is not unique to Islam. People take up the inner life for different reasons. Some train the soul in an attempt to gain power: to be in two places at once, to see the future or the past, or to master the hidden world of the soul. Sheikh Bahmanpour says this kind of mysticism must be held apart from the real thing. Islamic mysticism is about catching the signs of Allah: becoming sensitive to them, and learning to hear and see.
@@ -174,7 +174,7 @@ Sayyid Muhammad Husayn Tabatabaʾi is best known as the author of *al-Mizan*, a 
 
 Imam Khomeini reports the test his teacher Ayatullah Shahabadi used: the measure of true spiritual effort is how much selfishness is in it. If a traveller's "spiritual exercises are meant for acquiring powers for worldly ends, his efforts are rendered invalid" [@forty_hadith, p. 61].
 
-Murtada Mutahhari uses the same word as Sheikh Bahmanpour. The ʿurafaʾ, he writes, consider it "a kind of shirk (polytheism) for one's goal in life and particularly in worship to be something other than God Himself", and he recalls Imam ʿAli (ʿa) saying that he worshipped God not from fear of His Fire or desire for His Paradise but because he found Him worthy of worship [@light, p. 44].
+Murtada Mutahhari uses the same word as Sheikh Bahmanpour. The ʿurafaʾ, he writes, consider it "a kind of shirk (polytheism) for one's goal in life and particularly in worship to be something other than God Himself", and he recalls Imam ʿAli (as) saying that he worshipped God not from fear of His Fire or desire for His Paradise but because he found Him worthy of worship [@light, p. 44].
 
 The scholars differ in emphasis but agree that powers are not the aim. Sheikh Bahmanpour calls such powers shirk. Mutahhari explains why seeking them would be so: the goal has become something other than God.
 
@@ -187,7 +187,7 @@ The scholars differ in emphasis but agree that powers are not the aim. Sheikh Ba
 With powers set aside, what remains is the definition Sheikh Bahmanpour gave at the end of his first lecture: ʿirfan "is actually seeking and nothing else". It seeks two things: *maʿrifah*, the knowledge of God; and the love of God.
 
 ::: {.box-word title="Word Study: ʿIrfan and maʿrifah"}
-*ʿIrfan*, *maʿrifah*, *ʿarif* and its plural *ʿurafaʾ* belong to one family of words about knowing. An ʿarif, as Sheikh Bahmanpour puts it, is "someone who knows". "Mystic" is used of Christians, Hindus and Buddhists alike; ʿarif is the Islamic word, and it makes a precise claim. Murtada Mutahhari draws the line. The philosopher wants a correct picture of the world in his mind. The ʿarif "wishes to reach the very kernel and reality of existence, God, to become connected to it and witness it" [@light, p. 12]. *Lantern of the Path*, attributed to Imam al-Sadiq (ʿa), says that there is no way to God except through knowledge [@lantern, p. 9]. What kind of knowledge that is, and how it differs from what we learn from books, is the subject of Chapter 2.
+*ʿIrfan*, *maʿrifah*, *ʿarif* and its plural *ʿurafaʾ* belong to one family of words about knowing. An ʿarif, as Sheikh Bahmanpour puts it, is "someone who knows". "Mystic" is used of Christians, Hindus, and Buddhists alike; ʿarif is the Islamic word, and it makes a precise claim. Murtada Mutahhari draws the line. The philosopher wants a correct picture of the world in his mind. The ʿarif "wishes to reach the very kernel and reality of existence, God, to become connected to it and witness it" [@light, p. 12]. *Lantern of the Path*, attributed to Imam al-Sadiq (as), says that there is no way to God except through knowledge [@lantern, p. 9]. What kind of knowledge that is, and how it differs from what we learn from books, is the subject of Chapter Two.
 :::
 
 ʿAllama Tabatabaʾi's definition agrees: "The real gnostic is he who worships Allah not, because he hopes for any reward or is afraid of any punishment, but only because he knows Him and loves Him" [@light, p. 4].
@@ -197,5 +197,5 @@ With powers set aside, what remains is the definition Sheikh Bahmanpour gave at 
 If the aim is to know and love God, what kind of knowing is that?
 
 ::: {.box-try title="Try this"}
-Sheikh Bahmanpour built his first lesson on the four signs of Surah al-Rum. For one week, read Q 30:21–24 slowly once a day. After each verse, ask yourself what he found in its ending: whether you reflect, whether you know, whether you listen and whether you use your reason. Then, at some point in the day, notice one of the four signs where it occurs in your life: the affection in your home, the languages and colours of the people you meet, your own sleep and the work that earns your living, or the rain.
+Sheikh Bahmanpour built his first lesson on the four signs of Surah al-Rum. For one week, read Q 30:21–24 slowly once a day. After each verse, ask yourself what he found in its ending: whether you reflect, whether you know, whether you listen, and whether you use your reason. Then, at some point in the day, notice one of the four signs where it occurs in your life: the affection in your home, the languages and colours of the people you meet, your own sleep and the work that earns your living, or the rain.
 :::

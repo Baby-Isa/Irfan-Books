@@ -220,3 +220,24 @@ _Append only. Each entry: date, decision, why. To reverse a decision, add a new 
 - **Other approvals:** ʿArafah closing-section lines are attributed "as given in the Mafatih"; Qadi al-Nuʿman is left out; Ch 13 opens on a companion.
 - **Fable's fixes and the user's tone arc:** recorded in `docs/outline/FRAMEWORK.md` §9. Part Four is the analytical step back after the crescendo; Part Five brings the emotion home.
 - **Ch 2 and Ch 3 briefs approved.** Drafting begins.
+
+## 2026-10-13: D42. User's Ch 2/3 review, round 1: style and voice rules
+- **Honorifics:** (as) replaces (ʿa) for the Imams. The reader knows "(as)"; "(ʿa)" was an academic transliteration of the same ʿalayhi/ʿalayhim al-salam. (atfs) is used for Imam al-Mahdi. ﷺ stays for the Prophet.
+- **Oxford comma** throughout the book; **chapter numbers in words** in prose ("Chapter Two"); **one callout box per section**.
+- **Attribution:** name the Sheikh about 70% less (TONE 23). Straight prose, not "he said, she said" (TONE 24). `build/voice.py` now flags more than 5 mentions per 1,000 words.
+- **New TONE rules 23–31:**
+  - attribution (23)
+  - straight prose (24)
+  - each paragraph earns its place in the chain (25)
+  - callbacks re-explained (26)
+  - "therefore" only after the argument is made (27)
+  - name the referent (28)
+  - explain a source's puzzle or cut it (29)
+  - doctrine consistent across chapters (30)
+  - varied rhythm (31)
+- **Applied:** Ch 2 rewritten as v2; Ch 3 revised; the prologue and Ch 1 got only the mechanical changes (honorifics, Oxford commas, chapter numbers in words). The Sheikh-mention cut in the approved prologue and Ch 1 awaits the user's go-ahead.
+- **Content decisions in Ch 2 v2:**
+  - "False hunger" is kept as the Sheikh's point, made precise: the felt state cannot be mistaken; only conclusions drawn from it can (L02 ¶31–32).
+  - The light-in-the-heart tension is reconciled with `forty_hadith` p. 331 ("no niggardliness in the higher realms") and Q 2:282.
+  - The Ibn Sina box is now the held story (`light` p. 29) with its point: an argument cannot take the place of deeds.
+  - The unsourced line "knowledge comes from the Imam" (L03 ¶11) is dropped (D39).
