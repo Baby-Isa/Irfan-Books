@@ -327,8 +327,9 @@ def house_style(t):
     t = re.sub(r"\bQuran", "Qur'an", t)
     t = t.replace("(ʿa)", "(as)")
     t = re.sub(r"\bChapter (\d+)\b", lambda m: "Chapter " + NUMBER_WORDS.get(m.group(1), m.group(1)), t)
-    # Oxford comma: "X, Y and Z" -> "X, Y, and Z" within a clause (heuristic).
-    t = re.sub(r"(\b[^,.;:!?\n\"“]+, [^,.;:!?\n\"“]+?) (and|or) ", r"\1, \2 ", t)
+    # Oxford comma: strip every comma before "and"/"or" in every passage alike.
+    # (Adding commas heuristically created a false "comma before a pair" habit.)
+    t = re.sub(r", (and|or) ", r" \1 ", t)
     return t
 
 

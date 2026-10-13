@@ -9,9 +9,9 @@ _Update at the end of every task. Keep it short. History lives in git and DECISI
 
 **Now:** Prologue and Ch 1 (Book 2) approved by the user and his uncle, and frozen as the exemplar (D36, commit `32e44c9`). See `docs/HANDOVER.md`.
 
-**Now (2026-10-12):** Part One drafted. Ch 2 (Knowing about God is not knowing Him) and Ch 3 (You already know these words) passed the tone edit, the voice gate (profile and blind judge, `reviews/voice/02-report.md`, `03-report.md`) and the fidelity check (`reviews/book2-02.md`, `book2-03.md`; all medium items fixed). PDFs: `samples/part-one.pdf` (draft with point notes) and `samples/part-one-review.pdf`. Awaiting user review.
+**Now (2026-10-13):** Ch 2 rewritten (v2) and Ch 3 revised after the user's first review (D42), with a Fable edit and a fidelity check; voice gate re-run with house-style normalisation. PDFs: `samples/part-one.pdf`, `samples/part-one-review.pdf`. Awaiting the user's read of Ch 2–3.
 
-**Next:** user feedback on Part One; then the Part Two briefs (Ch 4–7) from `docs/outline/part-2.md`.
+**Next:** user feedback; the user's decision on cutting the Sheikh's name in the prologue and Ch 1; then the Part Two briefs.
 
 **Next:** on approval, draft Ch 2 and 3 → tone-editor → voice gate (profile + blind judge) → fidelity-checker → user review.
 
