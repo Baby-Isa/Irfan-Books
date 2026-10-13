@@ -90,9 +90,9 @@ Imam Khomeini explains why purification matters so much. When the soul is purifi
 Be wary of Allah and Allah will teach you.
 :::
 
-The teaching follows the wariness. The light does not have to be fetched, because it is always being given; a purified heart is one that is able to receive it. The will in the hadith remains God's, and the lighting of any heart is His act. What purification changes is the heart, which it brings within reach of a light that is never withheld.
+In the verse, God's teaching follows on from wariness of Him. The light does not have to be fetched, because it is always being given; a purified heart is one that is able to receive it. The will in the hadith remains God's, and the lighting of any heart is His act. Purification changes the heart and brings it within reach of a light that is never withheld.
 
-The light comes to the hearts of the pure, and darkness covers the impure. This book's first chapter reached the same conclusion by a different road. Surah al-Rum says that God's signs are for those who reflect, know, listen, and reason, and yet most people pass them by. Nothing in the signs is hidden and nothing is wrong with our eyes; the fault lies with an inner faculty that has rusted and does not receive. Here the same truth is told as light: present everywhere, and received only where the heart is open.
+The light comes to the hearts of the pure, and darkness covers the impure. Chapter One reached the same conclusion by a different road. Surah al-Rum says that God's signs are for those who reflect, know, listen, and reason, and yet most people pass them by. Nothing in the signs is hidden and nothing is wrong with our eyes; the fault lies with an inner faculty that has rusted and does not receive.
 
 A light received in one heart can reach another. We are familiar with knowledge passing from one mind to another, through speech and writing; we are less familiar with knowledge passing from one heart to another. The knowledge of the ʿurafaʾ passes, in the Sheikh's words, "from heart to heart", and not from mind to mouth. Receiving it directly from God is possible but difficult, and most travellers begin through someone who has already received it. Chapter Seven returns to that companion.
 
