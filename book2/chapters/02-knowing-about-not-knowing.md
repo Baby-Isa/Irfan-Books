@@ -15,7 +15,7 @@ Most of what we know of God is of the kind gained by study. We learn the rulings
 ## Knowing about, and knowing
 
 ::: {.point}
-Acquired knowledge comes from outside and works by defining, which is limiting. Knowledge by presence is already with the soul; it is arrived at, not worked out, and no argument can remove it. The ʿarif's knowledge of God is knowledge by presence.
+Acquired knowledge comes from outside and works by defining, which is limiting. Knowledge by presence is already with the soul; it is arrived at, not worked out, and it is known without error. The ʿarif's knowledge of God is knowledge by presence.
 :::
 
 Let's start with the two kinds of knowing. The first is acquired knowledge, *ʿilm al-husuli*. It reaches us from outside, through the senses or by reasoning. We form concepts of the things around us and then analyse those concepts. Almost everything we learn from teachers and books is of this kind.
@@ -24,7 +24,7 @@ Acquired knowledge works by defining its object. To understand a thing, we sort 
 
 The second kind is knowledge by presence, *ʿilm al-huduri*. It does not come from outside and needs no concept to carry it; it is with the soul already. The plainest case is our knowledge of our own self. Hunger, the example this chapter opened with, is another, and so are pain and anxiety. Anxiety has a cause outside us, yet the feeling arises inside the soul, and the cause is not the feeling.
 
-Knowledge by presence is complete in a way that acquired knowledge is not. When the body is hungry, the soul knows it at once and without effort, and nothing of the hunger is missed. No one can argue a hungry person out of feeling hungry, and no one needs to argue them into it. The Sheikh even allows for a false hunger, felt when the body has eaten enough. Its cause can mislead, but the one who feels it cannot be mistaken about the feeling. Any error lies in what is concluded from it.
+Knowledge by presence is complete in a way that acquired knowledge is not. When the body is hungry, the soul knows it at once and without effort, and nothing of the hunger is missed. The Sheikh adds that the hunger may even be false, and yet what is felt is real. The point is worth drawing out. A person who has eaten enough can still feel hungry, and no one can argue them out of the feeling. What can be wrong is the conclusion drawn from it, that the body needs food; the feeling itself is known without error.
 
 This second kind of knowing is what the mystics are after. Sheikh Bahmanpour defines mysticism as the urge to reach out to the infinite through knowledge by presence. The two kinds of knowing aim at different things: *ʿilm* aims at understanding, and *maʿrifah* aims at arriving. A person does not try to understand their hunger; they arrive at it and feel it. In the same way, the mystic's aim is to arrive at God and not to define Him, since a God who has been defined has been limited.
 
@@ -54,7 +54,7 @@ What reason can do, it does. It can show that God exists, and it can say what He
 
 ʿIrfan asks for the positive side, to know God as the Merciful, the Compassionate, and the Forgiving. The names can be learned from a book. To know God as Merciful from within, as a hungry person knows their hunger, is the other kind of knowing, the knowledge by presence of this chapter's first section.
 
-Positive knowledge of this kind can only be knowledge by presence, and we have knowledge by presence of one thing only: what is within us, our own self and its states. Mulla Sadra held that knowledge by presence is the only way to know the reality of anything, God above all. If God is to be known, and not only known about, the knowing must happen within the soul.
+Positive knowledge of this kind can only be knowledge by presence, and we have knowledge by presence only of what is within us: our own self and some of its states. Mulla Sadra held that knowledge by presence is the only way to know the reality of anything, God above all. If God is to be known, and not only known about, the knowing must happen within the soul.
 
 The soul is not an empty place to look. A sense of God already lives there, however faint; Sheikh Bahmanpour calls it a vague idea of God that we carry inside us, present and mostly unnoticed. The answer to how God can be known lies in a soul we have hardly begun to know.
 
@@ -84,13 +84,13 @@ Allah is the Light of the heavens and the earth.
 
 Allah's light is everywhere, in the heavens and in the earth, and He is with us wherever we are. He does not pick out some people for light and pass over others; nothing is held back on His side. The heart is what is closed, and the work of the ʿurafaʾ is to open it and let the light in.
 
-Imam Khomeini explains why an open heart is enough. When the soul is purified, he writes, divine teaching follows, "for there is no niggardliness in the higher realms, which are bounteous by necessity" [@forty_hadith, p. 331]. He grounds this in a promise of Surah al-Baqarah.
+Imam Khomeini explains why purification matters so much. When the soul is purified, he writes, divine teaching follows, "for there is no niggardliness in the higher realms, which are bounteous by necessity" [@forty_hadith, p. 331]. He grounds this in a promise of Surah al-Baqarah.
 
 ::: {.ayah ref="2:282" words="121-124"}
 Be wary of Allah and Allah will teach you.
 :::
 
-The teaching follows the wariness. The light does not have to be fetched or earned, because it is always being given; a purified heart is one that is able to receive it. The will in the hadith is not a choice between people. The lighting of any heart is still God's act, and purification is what brings a heart within reach of it.
+The teaching follows the wariness. The light does not have to be fetched, because it is always being given; a purified heart is one that is able to receive it. The will in the hadith remains God's, and the lighting of any heart is His act. What purification changes is the heart, which it brings within reach of a light that is never withheld.
 
 The light comes to the hearts of the pure, and darkness covers the impure. This book's first chapter reached the same conclusion by a different road. Surah al-Rum says that God's signs are for those who reflect, know, listen, and reason, and yet most people pass them by. Nothing in the signs is hidden and nothing is wrong with our eyes; the fault lies with an inner faculty that has rusted and does not receive. Here the same truth is told as light: present everywhere, and received only where the heart is open.
 
@@ -110,7 +110,7 @@ Purification begins with the shariʿa. Its first step is to polish the soul by d
 
 Practice depends on knowing what to practise, and this is where study comes in. ʿAllama Tabatabaʾi, in the lectures recorded in *Kernel of the Kernels*, places it at the start. The first essential for the traveller, he says, is knowledge of the rules of the shariʿa, learned from a jurist. The traveller puts that knowledge into practice and persists until conviction and gnosis grow by degrees, "for knowledge gives birth to action and action in turn brings knowledge" [@kernel, p. 56]. Learning starts the circle, practice purifies the heart, and the purified heart receives a deeper knowledge, which leads to better practice.
 
-Imam Khomeini puts the same order in one image. A learning that does not bring faith with it, he writes, "is the greatest of veils"; yet "one has to approach a veil in order to tear it into shreds" [@forty_hadith, p. 403]. Study brings the traveller up to the veil, and purification is what tears it.
+Imam Khomeini gives study its place, with a warning. A learning that does not bring faith with it, he writes, "is the greatest of veils"; yet "one has to approach a veil in order to tear it into shreds" [@forty_hadith, p. 403]. In his account, learning about God comes first, and exercises and austerities then open the heart [@forty_hadith, p. 403].
 
 The Munajat Shaʿbaniyyah ties the light to the path in one line.
 
@@ -121,7 +121,7 @@ One who follows Your path is enlightened. [@light, p. 165; @duas_munajat_shabani
 The prologue opened on a line from this prayer that asks for the eyes of the heart to be lit until they reach the source of God's grandeur. This line names who receives that light: the one who follows God's path.
 
 ::: {.box-story title="Story: The philosopher and the ʿarif"}
-Murtada Mutahhari records a meeting that shows the ʿarif's refusal to let argument stand in for deeds, between Ibn Sina and Abu Saʿid ibn Abi al-Khayr, one of the most famous of all the ʿurafaʾ. Abu Saʿid was preaching on the necessity of deeds, and on obedience and disobedience to God. Ibn Sina answered him with a quatrain. Wherever God's favour and grace are found, it ran, "Let the not-done be like the done, the done like the not-done." It was a clever case for leaning on God's forgiveness instead of on deeds. Abu Saʿid replied at once with a quatrain of his own, which ends: "Do not rely on forgiveness, for never / Was the not-done like the done, the done like the not-done" [@light, p. 29]. The philosopher had argued his way past the need for deeds, and the ʿarif would not let an argument take the place of practice.
+Murtada Mutahhari records a meeting between Ibn Sina and Abu Saʿid ibn Abi al-Khayr, one of the most famous of all the ʿurafaʾ. Abu Saʿid was preaching on the necessity of deeds, and on obedience and disobedience to God. Ibn Sina answered him with a quatrain. Wherever God's favour and grace are found, it ran, "Let the not-done be like the done, the done like the not-done." The verse leaned on God's forgiveness in place of deeds. Abu Saʿid replied at once with a quatrain of his own, which ends: "Do not rely on forgiveness, for never / Was the not-done like the done, the done like the not-done" [@light, p. 29]. The ʿarif would not let a verse, however well turned, take the place of deeds, which is this section's point. Mutahhari adds that towards the end of his life Ibn Sina "developed mystic inclinations" [@light, p. 42].
 :::
 
 ## Knowing by drawing near

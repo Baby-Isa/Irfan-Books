@@ -50,15 +50,15 @@ A heart cut off from all else is free for God, and the prayers go on to ask to s
 
 A heart cleared of everything but God is free for Him. The prayers go on to ask for three things: to see God with the heart, to love Him, and to come near Him. Let's take them in turn.
 
-The first is sight. The Munajat asks God to light the eyes of the heart so that they look at Him, and pass even through the veils of light. Some who meet these words for the first time think the prayer must be mistaken, since the Qur'an says that sight cannot perceive God (Q 6:103). The Sheikh's answer is that the prayer is not speaking of the eyes in our heads. Those eyes work, and still we miss God's signs, because the faculty behind them is blind. The prayer asks God to give that inner eye light to see by.
+The first is sight. The Munajat asks God to light the eyes of the heart so that they look at Him, and pass even through the veils of light. The Sheikh raises the difficulty himself: the Qur'an says that sight cannot perceive God (Q 6:103), and some who meet these words take them for a mistake. In a later lecture he gives the answer. The eyes cannot catch Him; the prayer is speaking of the heart. Those eyes work, and still we miss God's signs, because the faculty behind them is blind. The prayer asks God to give that inner eye light to see by.
 
-Duʿa ʿArafah, as given in the Mafatih, speaks of that light as something God has already given to some.
+Duʿa ʿArafah, as given in the Mafatih, speaks of that light as something God has already lit in the hearts of His friends.
 
 ::: {.quote ar="أَنْتَ ٱلَّذِي أَشْرَقْتَ ٱلأَنْوَارَ فِي قُلُوبِ أَوْلِيَائِكَ" source="Duʿa ʿArafah"}
 It is You Who have lit the illuminations in the hearts of Your intimate servants [@duas_dua_arafah_imam_husain, §781]
 :::
 
-The word translated "Your intimate servants" is *awliyaʾ*, the friends of God whom Chapter One met in Surah Yunus. Chapter Two described a light that is everywhere and that a purified heart receives. This line adds that its lighting in any heart is still God's act; nothing reaches the heart except by His giving.
+The word translated "Your intimate servants" is *awliyaʾ*, the friends of God whom Chapter One met in Surah Yunus. Chapter Two described a light that is everywhere and that a purified heart receives. This line says the same from the side of prayer: the lighting of any heart is God's act.
 
 The second request is love. The Munajat asks for a place among God's friends, and it defines that place by love.
 

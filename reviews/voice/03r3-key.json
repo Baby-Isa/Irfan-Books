@@ -1,0 +1,19 @@
+{
+ "A": "exemplar",
+ "B": "control",
+ "C": "control",
+ "D": "chapter",
+ "E": "exemplar",
+ "F": "control",
+ "G": "control",
+ "H": "exemplar",
+ "I": "chapter",
+ "J": "exemplar",
+ "K": "chapter",
+ "L": "chapter",
+ "_meta": {
+  "chapter": "book2/chapters/03-you-already-know-these-words.md",
+  "control": "7225b76:book2/chapters/01-seeking-not-powers.md",
+  "exemplar": "32e44c9"
+ }
+}
