@@ -54,6 +54,7 @@ The test was run on the exemplar and on the drafts the user rejected, to check t
 - Drafts that are close to the final text get past the judge but not the profile. A chapter must pass **both**.
 - Function-word Delta does not separate the drafts from the exemplar out of sample (median 0.88–0.91 against the exemplar's own 0.89), because the reference is only about 3,300 words. It is reported but is not a gate.
 - In the first run, the spelling "Quran" for "Qur'an" gave the control away; the packet now normalises spelling.
+- **House style is normalised in every passage (2026-10-13).** In round 2 for Ch 2 and Ch 3, the judges' strongest tells were conventions the user adopted after the exemplar was frozen: chapter numbers in words, the Oxford comma and "(as)" (D42). They were reading style, not voice. Every passage, the reference included, now passes through `house_style()`, which applies the current conventions, before the judge sees it. The round-2 runs are recorded but not counted.
 
 **The tells the judges used most** (for writers and the tone-editor):
 - a claim, a colon and a quotation stacked in one sentence (TONE 15)

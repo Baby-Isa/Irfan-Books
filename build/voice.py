@@ -317,6 +317,21 @@ def passages(md, n, rng, min_words=110, max_words=190):
     return [cands[int(k * step + rng.random() * step)] for k in range(n)]
 
 
+NUMBER_WORDS = {str(i): w for i, w in enumerate(
+    "Zero One Two Three Four Five Six Seven Eight Nine Ten Eleven Twelve Thirteen "
+    "Fourteen Fifteen Sixteen Seventeen".split())}
+
+
+def house_style(t):
+    """Apply the current house style (D32, D42) to any passage, old or new."""
+    t = re.sub(r"\bQuran", "Qur'an", t)
+    t = t.replace("(ʿa)", "(as)")
+    t = re.sub(r"\bChapter (\d+)\b", lambda m: "Chapter " + NUMBER_WORDS.get(m.group(1), m.group(1)), t)
+    # Oxford comma: "X, Y and Z" -> "X, Y, and Z" within a clause (heuristic).
+    t = re.sub(r"(\b[^,.;:!?\n\"“]+, [^,.;:!?\n\"“]+?) (and|or) ", r"\1, \2 ", t)
+    return t
+
+
 def blind(nn, chapter, control=None, n=4, seed=None):
     rng = random.Random(seed if seed is not None else nn)
     pro = read_source(f"{EXEMPLAR_REV}:{EXEMPLAR[0]}")
@@ -333,8 +348,9 @@ def blind(nn, chapter, control=None, n=4, seed=None):
         cmd = cmd[cmd.index("## Some do see"):]
     items += [("control", p) for p in passages(cmd, n, rng)]
     rng.shuffle(items)
-    # Spelling is a house-style giveaway, not voice (D32): normalise it.
-    norm = lambda t: re.sub(r"\bQuran", "Qur'an", t)
+    # House style is a giveaway, not voice: normalise it in every passage, so the
+    # judge cannot tell old text from new by conventions adopted later (D32, D42).
+    norm = house_style
     reference, items = norm(reference), [(src, norm(p)) for src, p in items]
 
     VOICE_DIR.mkdir(parents=True, exist_ok=True)

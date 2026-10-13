@@ -44,15 +44,17 @@ Reason knows things by their attributes and never reaches what they are. With Go
 
 Acquired knowledge is the work of reason, *ʿaql*, the faculty by which we reason, understand, and argue. Reason has a limit. When we know a thing, we know its attributes: its colour, its size, and what it does. Reason does not reach the thing that carries those attributes. Every description says that it is brown or square or useful, and none says what the "it" is. Ibn Sina, the greatest of the Muslim philosophers, granted this. The reality of things, he held, is beyond human capacity.
 
-If this is true of the things around us, it is true far more of God. God has no colour, no size, and no use for the mind to take hold of, and no boundary for a definition to draw. Imam ʿAli (as) says as much at the opening of the first oration in *Nahj al-Balagha*, where he praises God.
+If this is true of the things around us, it is true far more of God. God has no colour or size for the mind to take hold of, and no boundary for a definition to draw. Imam ʿAli (as) says as much at the opening of the first oration in *Nahj al-Balagha*, where he praises God.
 
 ::: {.quote ar="[VERIFY: Arabic of Nahj 1.1.1 from Qutbuddin p. 121]" source="Nahj al-Balagha"}
 Soaring thoughts cannot reach him and deep minds cannot fathom him. [@nahj, 1.1.1]
 :::
 
-Soaring and depth are the two strengths of reason, its range and its penetration, and the Imam says that neither arrives at God. The next sentence of the oration gives the reason. God, it says, "cannot be described, for he is beyond the limits of demarcated boundaries" [@nahj, 1.1.1].
+The Imam's two images, soaring and depth, name the two strengths of reason, its range and its penetration, and neither arrives at God. The next sentence of the oration gives the reason. God, it says, "cannot be described, for he is beyond the limits of demarcated boundaries" [@nahj, 1.1.1].
 
-What reason can do, it does. It can show that God exists, and it can say what He is not: He is not a body, He is not in one place and absent from another, and He has no partner. All of this is true, and all of it is knowledge about God. It is also negative; each statement removes something from Him. ʿIrfan asks for the positive side, to know God as the Merciful, the Compassionate, and the Forgiving. Those names can be learned from a book. Knowing Him as Merciful, in the way the hungry know hunger, cannot.
+What reason can do, it does. It can show that God exists, and it can say what He is not: He is not a body, He is not in one place and absent from another, and He has no partner. All of this is true, and all of it is knowledge about God. It is also negative; each statement removes something from Him.
+
+ʿIrfan asks for the positive side, to know God as the Merciful, the Compassionate, and the Forgiving. The names can be learned from a book. To know God as Merciful from within, as a hungry person knows their hunger, is the other kind of knowing, the knowledge by presence of this chapter's first section.
 
 Positive knowledge of this kind can only be knowledge by presence, and that points to one place. We have knowledge by presence only of what is within us: our own self and its states. Of everything outside us, our knowledge has to be acquired. If God is to be known, and not only known about, the knowing must happen within the soul. Mulla Sadra held that this is the only way to know the reality of anything, and the only way to know God.
 
