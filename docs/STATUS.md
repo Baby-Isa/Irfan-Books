@@ -13,7 +13,6 @@ _Update at the end of every task. Keep it short. History lives in git and DECISI
 
 **Next:** user feedback; the user's decision on cutting the Sheikh's name in the prologue and Ch 1; then the Part Two briefs.
 
-**Next:** on approval, draft Ch 2 and 3 → tone-editor → voice gate (profile + blind judge) → fidelity-checker → user review.
 
 ## Open questions for the user or lecturer
 1. The lecturer is M. S. Bahmanpour (from the slides). Confirm his preferred title and name format.
