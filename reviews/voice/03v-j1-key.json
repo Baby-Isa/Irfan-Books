@@ -1,0 +1,39 @@
+{
+ "A": "control",
+ "B": "exemplar",
+ "C": "exemplar",
+ "D": "exemplar",
+ "E": "chapter",
+ "F": "exemplar",
+ "G": "chapter",
+ "H": "chapter",
+ "I": "exemplar",
+ "J": "chapter",
+ "K": "control",
+ "L": "chapter",
+ "M": "chapter",
+ "N": "control",
+ "O": "exemplar",
+ "P": "control",
+ "Q": "control",
+ "R": "control",
+ "_meta": {
+  "candidate": [
+   "book2/chapters/03-you-already-know-these-words.md"
+  ],
+  "reference": [
+   "reviews/voice/corpus/A-prologue.md",
+   "reviews/voice/corpus/A-ch01.md@0-3"
+  ],
+  "exemplar": [
+   "reviews/voice/corpus/A-ch01.md@4-9"
+  ],
+  "control": [
+   "reviews/voice/corpus/X-ch02-v1-2d8143e.md",
+   "reviews/voice/corpus/X-ch03-v1-2d8143e.md"
+  ],
+  "fold": "A",
+  "judge_model": "opus",
+  "round": "v2"
+ }
+}
