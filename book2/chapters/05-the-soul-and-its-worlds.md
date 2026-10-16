@@ -30,8 +30,11 @@ The world has three depths, so the dead have gone deeper into it, not away.
 5. The intellect grasps meanings with no image or matter, and these belong to a third world, the world of intellects.
 6. The world of images links the other two, so it is called barzakh, a barrier.
 7. None of these worlds is a place; each is a deeper dimension of this one, the world of intellects with some difference.
-8. So far: three worlds make one reality, and none of them is far away.
-9. Therefore the dead have gone deeper into our world, not away from it.
+8. Imam ʿAli (as) taught that this world lies inside the hereafter, which surrounds it.
+9. So far: three worlds make one reality, and none of them is far away.
+10. Therefore the dead have gone deeper into our world, not away from it.
+
+New story (D47): The churchman's question to Imam ʿAli, L04 ¶62.
 :::
 
 Let's start with a claim of the mystics: the human soul is the whole of creation in small, a compact copy of everything that exists. We know things in three ways: through the senses, the imagination, and the intellect. If the soul is a copy of creation, each of these three should give us a sample of one world. Each world can then be approached through something we already know.
@@ -47,6 +50,8 @@ The intellect gives us a sample of the third world. Every person we have met has
 The world of images stands between the other two. That is why it is also called barzakh, a barrier. Pure intellect and matter cannot meet directly, so a middle world is needed between them. Whatever is in the world of intellects is reflected first in the world of images, which has the shape and colour of matter without its weight. Only then does it reach the world of matter.
 
 None of these worlds is a place we travel to. In Sheikh Bahmanpour's words, the world of images "is another dimension of the same world in which we are living", and so, with some difference, is the world of intellects. The unseen worlds surround this one, but in depth and not in distance: each is a deeper dimension of the world we are in now.
+
+Imam ʿAli (as) also spoke of this world as surrounded, in a story Sheikh Bahmanpour tells. A Christian churchman once came to him with questions. One was whether the hereafter lies inside this world, or this world inside the hereafter. Imam ʿAli (as) answered that this world lies inside the hereafter. This world is the smaller one, and the hereafter surrounds it. The lectures set the answer beside the verse that says hell surrounds the faithless (Q 9:49).
 
 There are three worlds, then, and they make one reality. The senses meet matter, the imagination samples a world of images, and the intellect grasps pure meaning. Each lies deeper than the one before, and none of them is far away.
 
@@ -116,6 +121,8 @@ What we do now shapes the image body we will meet after death.
 4. On the Last Day people will be grouped by their true natures.
 5. Piety shines as light on the Last Day; Shomali holds that some rewards are the deeds themselves made visible.
 6. Therefore the image body is being shaped now, and part of what we meet after death may be our own deeds.
+
+New story (D47): Ibn ʿArabi and Surah Yasin, L13 ¶35–37.
 :::
 
 If every soul passes into the middle world in any case, it can seem that what we do here changes little. Habit shows otherwise, because repeated acts shape the self. Shomali takes the example of lying. A child telling a first lie feels uneasy and later remorseful. With repetition "the soul becomes inured to the effects" [@self_knowledge, p. 20], until lying costs little effort.
@@ -137,6 +144,10 @@ The day you will see the faithful, men and women, with their light moving swiftl
 The lectures read this light as the shining of the pious themselves. The body of the Last Day, they note, is not the image body. Piety makes both shine. On the Last Day that light goes ahead to light the way. Shomali states a general principle about reward and punishment: "Sometimes rewards or punishments are nothing other than the actions. They are just the realities of those actions made manifest in another universe" [@self_knowledge, p. 77]. Some rewards, on this view, are the deeds themselves, seen for what they are.
 
 If some rewards are the deeds themselves, the form a soul meets after death may be, in part, the work of its own deeds. Shomali himself draws a related conclusion from the fact that heaven and hell already exist: "our future is now present" [@self_knowledge, p. 77]. The image body is being shaped now, by what we do.
+
+::: {.box-story title="Story: Ibn ʿArabi and Surah Yasin"}
+Sheikh Bahmanpour tells a story that the great mystic Ibn ʿArabi told of his own childhood. At the age of twelve he fell seriously ill and went into a coma. It was so serious that everyone thought he had died. In that state he saw horrible-looking people who were trying to hurt him. Then a figure breathing out a wonderful perfume defended him and drove them away. Ibn ʿArabi asked who he was. The figure answered that he was Surah Yasin, his protector. When the boy came round, he found his father at his bedside in tears. His father had just finished reciting Surah Yasin for his recovery, and the boy had not known. The lecture draws a general point from it. Even a lie or a word of comfort, which we take for mere words, has an image in the world of images, and that image is as real as the figure the boy saw.
+:::
 
 ## The self can change its state
 
