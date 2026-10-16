@@ -60,6 +60,8 @@ The prayers then ask for what ʿirfan seeks: to see God with the heart, to love 
 6. The third request is nearness.
 7. The Munajat asks God for a heart whose passion brings it near; a prayer of the Sahifa asks to join those already near.
 8. Nearness is felt when we call on God. Therefore the three requests, sight, love, and nearness, are what ʿirfan seeks.
+
+New story (D47): The young man who saw paradise, L07 ¶38; L11 ¶42–43.
 :::
 
 A heart cleared of everything but God is free for Him. The prayers go on to ask for three things: to see God with the heart, to love Him, and to come near Him.
@@ -70,6 +72,10 @@ The prayer does not ask for the eyes in our heads. It asks for the eyes of the h
 
 ::: {.quote ar="أَنْتَ ٱلَّذِي أَشْرَقْتَ ٱلأَنْوَارَ فِي قُلُوبِ أَوْلِيَائِكَ" source="Duʿa ʿArafah"}
 It is You Who have lit the illuminations in the hearts of Your intimate servants [@duas_dua_arafah_imam_husain, §781]
+:::
+
+::: {.box-story title="Story: The young man who saw paradise"}
+In two of his lectures, Sheikh Bahmanpour told of a young companion whom the Prophet ﷺ asked how he was. The young man answered that he could see paradise and hell, and could tell which of the companions were in each. The Prophet hushed him and told him not to speak of such things, but said that he knew he was truthful. The lesson drawn in the lectures is that the young man was not set apart from the other companions. He had purified his soul, and anyone who goes through that purification can see what others cannot. The hadith collection al-Kafi names him as Harithah ibn Malik al-Ansari. In its version, the Prophet turned to his companions and said, "This is a man whose heart has been illuminated with the light of faith by God" [@light, p. 19]. Harithah's sight was the kind the Munajat asks for: it came through the heart rather than the eyes, and God had lit it.
 :::
 
 The second request is love. The Munajat asks for a place among God's friends, and it defines that place by love.
