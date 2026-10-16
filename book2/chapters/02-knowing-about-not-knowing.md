@@ -149,11 +149,11 @@ Murtada Mutahhari records a meeting between Ibn Sina and Abu Saʿid ibn Abi al-K
 ::: {.point}
 Knowing God is a different kind of knowing, reached by purification.
 
-1. The ʿurafaʾ know God by presence, as a light given to a purified heart, which study serves but cannot replace.
+1. What study cannot give comes through purification: the ʿurafaʾ know God by presence, as a light given to a purified heart, and that differs in kind from knowing about Him.
 2. That leaves the question of where an ordinary believer already stands on this path.
 :::
 
-Those brought near to God, the ʿurafaʾ, know Him by presence: a veil is removed, rather than a definition learned. Their knowing is present to the soul, as hunger is present to the one who fasts, and it comes as a light that God gives to a purified heart. Knowing God therefore differs in kind from knowing about God. It is reached by purification. Study, as Imam Khomeini and ʿAllama Tabatabaʾi hold, serves that purification but cannot replace it.
+What study cannot give comes to the ʿurafaʾ through purification. They are brought near to God and know Him by presence: a veil is removed, rather than a definition learned. Their knowing is present to the soul, as hunger is present to the one who fasts. It comes as a light that God gives to a purified heart, and so it differs in kind from knowing about God.
 
 Where, then, does an ordinary believer already stand on this path?
 

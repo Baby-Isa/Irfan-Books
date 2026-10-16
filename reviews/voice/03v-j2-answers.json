@@ -1,0 +1,89 @@
+{"profile": [
+  "Opens a chapter or section on a quoted prayer or verse and at once says plainly what it asks: 'These words come from the Munajat Shaʿbaniyyah, a prayer many of us recite in the month of Shaʿban. The line asks God to light up the eyes of our hearts'",
+  "Each paragraph picks up the last paragraph's closing noun or point: 'That side of the religion is called ʿirfan.' → 'ʿIrfan is the Arabic name for…'; 'That something … is the subject of this chapter.' → 'Let's start with two claims.'",
+  "Paragraphs stop on the point, in a short plain sentence, not a flourish: 'In most of us, it is not working.' 'That machine is the soul.' 'This claim is not contested.'",
+  "Short-to-medium sentences; clauses often joined by a bare 'and' without a comma: 'ʿIrfan is the Arabic name for what English books call Islamic mysticism and the two words do not say the same thing'; 'We witness the rain as rain and the marriage as a marriage and we pass them by'",
+  "Semicolons to set two halves against each other and colons before lists: 'God is not withholding signs; we are failing to receive them.' 'The signs are all around us: in marriage, in the people we meet, in sleep, in work, in the weather.' One 'whereas': 'Eyes and ears take in the surface of things, whereas inside a human being there should be something more'",
+  "Sources brought in sparingly, one name per paragraph at most, with a precise verb and a short embedded quotation that is then applied: 'Sheikh Bahmanpour compares this faculty to a machine… That machine is the soul.' 'ʿAllama Tabatabaʾi explains what passing by a sign means; a person who sees a red light…' 'In Murtada Mutahhari's words, the ʿarif…'. After first mention, 'the Sheikh'. Never 'he says' as filler",
+  "Stance is 'we', 'us', 'most of us', counting the author among the failing, never scolding: 'Most of us see only the lamp.' 'In most of us, it is not working.' Uses 'Let's start with…', 'let's turn to the Qur'an' to move the argument; 'you' only once, in the book's introduction",
+  "Numbered steps signposted plainly: 'Placing the fault in the receiver has two consequences. The first is… The second is…'; 'The first is… The second is… The third principle is the most important'",
+  "Concrete, homely diction and images: red light and lamp, rusted machine, rain, marriage, cattle; Arabic terms given once with a gloss in apposition: 'the wajibat', 'maʿrifah, knowledge', 'the shariʿa'",
+  "Cross-references to chapters as part of the argument, not decoration: 'as Chapter One shows', 'Chapter Fourteen sets out their wider concerns'",
+  "Explains a verse after it, in one or two sentences, before moving on: 'Four times in a row, the Qur'an makes the same point. The signs are all around us…'",
+  "Never does: rhetorical questions, dramatic suspense or withheld names, grand or abstract diction ('peak of understanding'), aphoristic sign-offs, repeated attribution tags in one paragraph, or paragraphs that restate what was just concluded"
+ ],
+ "passages": {
+  "A": {"p": 42, "verdict": "different", "tells": [
+    "'Knowing God, rather than only knowing about Him, comes through purifying the heart.' — second paragraph opens on a new subject instead of the heart 'enthralled by His love' the first paragraph ended on; Author A would carry that noun forward",
+    "'That leaves the question of where an ordinary believer already stands on this path.' — a loose connective that raises a question the passage does not then take up; Author A moves straight to the claim",
+    "'on every Thursday evening, the night before Friday, when many of us hear it' — a true remark stacked on another without moving the argument; Author A would write 'a prayer many of us hear on Thursday evenings'",
+    "'what these words we already know ask for: the knowing and love that ʿirfan seeks' — the chapter statement restates the previous sentence; Author A states the subject once"
+  ]},
+  "B": {"p": 40, "verdict": "different", "tells": [
+    "'comes to God with nothing to offer but its need of Him' — grander, more devotional diction than Author A's plain register; A would write 'asks from need'",
+    "'They plead from below it. Many of their meanings are above us and not understanding them does not make them meaningless. We are honoured by the invitation to recite them.' — a run of short true remarks that do not move the argument; 'We are honoured' adds nothing the point needs",
+    "'If the reciter is sincere, God may grant the request, as He granted the Imams what they asked.' — a closing flourish; Author A would stop on the point ('not understanding them does not make them meaningless')"
+  ]},
+  "C": {"p": 30, "verdict": "different", "tells": [
+    "'the Sheikh sets it against… The prophets, he says… the Sheikh says… he grants' — four attribution tags in two paragraphs, 'he says' as filler; Author A names the Sheikh once and then states the point in his own voice",
+    "'The prophets knew God in this way, with a knowledge present in their hearts and not worked out by argument.' — the conclusion restated after the paragraph has already moved on to Chapter Four; Author A would end on the cross-reference",
+    "'God is not a body and God is not in one place and absent from another' — an 'and' chain of examples where Author A would use a colon list: 'God is not a body, not in one place and absent from another'"
+  ]},
+  "D": {"p": 75, "verdict": "same", "tells": [
+    "Semicolon antitheses ('Other people look at the surface of the world; the friends of God look at what lies inside it'), 'as we do', 'The first gift is nearness:', Arabic glossed after the verse ('The Arabic for \"brought near\" is muqarrabun') and the verse explained in one plain sentence all match Author A"
+  ]},
+  "E": {"p": 32, "verdict": "different", "tells": [
+    "'The severance the prayers ask for is therefore in the heart' — the conclusion is stated first and the evidence (Abu Hamza) only arrives in the next paragraph; Author A gives the quotation and then draws the point",
+    "'Duʿa Abu Hamza al-Thumali makes the Munajat's request in its own way, naming the attachment it wants removed.' — re-introduces a prayer the preceding text already named and announced ('names exactly what is to be cut away'); Author A does not introduce a source twice",
+    "'not the world itself or the people and the work in it' — restates 'not in the household or the marketplace' from the paragraph before; Author A says it once"
+  ]},
+  "F": {"p": 38, "verdict": "different", "tells": [
+    "'The scholars differ in emphasis but agree that powers are not the aim.' — a summary paragraph restating what the quotations have just shown; Author A moves on",
+    "'Mutahhari also explains why seeking them would be shirk: the goal has become something other than God.' — repeats the content of the quotation given one paragraph earlier; Author A explains a quotation once, directly after it",
+    "'Murtada Mutahhari… he writes… he recalls… Mutahhari also… Sheikh Bahmanpour gave' — names cycled through three short paragraphs; Author A names a source once per point"
+  ]},
+  "G": {"p": 60, "verdict": "same", "tells": [
+    "Each paragraph picks up the last ('familiar' → 'Familiarity with the words is not the same as…'; Tabrizi's restriction → 'Sheikh Bahmanpour still recommends'), the two positions are separated cleanly with a colon list and the chapter claim is stated once; a slight blur in 'could assume it' is the only weakness"
+  ]},
+  "H": {"p": 40, "verdict": "different", "tells": [
+    "'Then: \"These are shirk.\"' — a dramatic pause before a short quotation; Author A embeds quotations in a plain sentence ('the Sheikh calls these shirk')",
+    "'Shirk, setting up a partner beside God, is the gravest charge in Islam.' — a tidy closing line; Author A would stop on the Sheikh's point or on what shirk means for the seeker",
+    "'People take up the inner life for different reasons.' — a true generality that does not move the argument on; Author A goes straight to 'Some train the soul to gain power'",
+    "'must be held apart from the real thing' — spoken, informal phrasing; Author A would write 'is not ʿirfan'"
+  ]},
+  "I": {"p": 72, "verdict": "same", "tells": [
+    "'Let's start with the two kinds of knowing', the Arabic given once with gloss ('ʿilm al-husuli', 'hadd, also means a limit'), one source brought in with a precise verb ('Sheikh Bahmanpour draws the lesson from the word'), concrete example ('the rational animal') and each paragraph picking up the last ('Acquired knowledge works by defining its object') all match Author A"
+  ]},
+  "J": {"p": 58, "verdict": "same", "tells": [
+    "Picks up the book's opening prayer, glosses the Arabic in apposition ('this severance (inqitaʿ)'), rules out the wrong reading in one clause and ends on a forward link to the next prayer; the only slip is 'reads the order as deliberate: … but \"they have to cut off from everything first\"' stacking claim, colon and quotation"
+  ]},
+  "K": {"p": 55, "verdict": "same", "tells": [
+    "Numbered gifts ('The second gift', 'The third gift'), Arabic glossed once ('hayat tayyiba, is a clean life'), semicolon lists of ranks and a plain closing point ('The way in is righteous action') match Author A; 'For the muqarrabun, the terms are entirely different' leaves its verse thinly explained and 'None of this would matter to an ordinary reader' presumes a little"
+  ]},
+  "L": {"p": 70, "verdict": "same", "tells": [
+    "Opens on the reference's last point ('If the faculty can be repaired, there should be people in whom it already works'), sorts with a semicolon ('The prophets and the Imams (as) are a class of their own; the ʿurafaʾ are ordinary believers'), explains the verse concretely afterwards ('A heart trembles only at the mention of someone it has some experience of') and ends on a forward link"
+  ]},
+  "M": {"p": 35, "verdict": "different", "tells": [
+    "'Sheikh Bahmanpour sets… which he describes as… the Sheikh says… In his words' — four attribution tags in two short paragraphs; Author A names the Sheikh once and then speaks",
+    "'the path to purity, a striving towards purification' — the same thing said twice in apposition; Author A glosses an Arabic word once",
+    "'The knowledge of ʿirfan, the Sheikh says, is not something one can read anywhere or work out and that is why it comes through suluk.' — restates the previous paragraph's fikr/suluk point before adding anything",
+    "'Purification is the traveller's part; the light is Allah's to give.' — a balanced aphorism as a sign-off; Author A would end on the quotation's plain sense"
+  ]},
+  "N": {"p": 48, "verdict": "different", "tells": [
+    "'the heart is brought near by its own passion for God' and 'from the peak of understanding and longing' — grand, abstract diction; Author A writes 'asks to be near Him'",
+    "'is one of fifteen whispered prayers printed with al-Sahifa al-Sajjadiyya' — a true remark that does not move the argument; Author A gives only the context the point needs",
+    "'With this third request, the prayers have asked for all that ʿirfan seeks: to see God with the heart, to love Him and to be near Him.' — a summary line closing the paragraph; Author A would let the three requests stand and move to the difficulty"
+  ]},
+  "O": {"p": 68, "verdict": "same", "tells": [
+    "One source, one precise verb ('Sheikh Bahmanpour reads… as another name for'), Arabic glossed once ('tawhid, God's oneness'), semicolon antithesis ('the intellect alone cannot reach its depths and only the awakened soul can'), each verse explained in one or two plain sentences and forward links ('Surah Yunus gives them another name') match Author A"
+  ]},
+  "P": {"p": 62, "verdict": "same", "tells": [
+    "Numbered requests ('The second request is love', 'The third request is nearness'), the quotation explained straight after with Arabic glossed in apposition ('the friendship asked for here (wilaya)'), 'the Sheikh' after first mention and plain short sentences ('The other is love for Him') match Author A; 'These are the two things ʿirfan seeks and both are in one line' is a mild summary line"
+  ]},
+  "Q": {"p": 65, "verdict": "same", "tells": [
+    "Concrete homely image carried into the point ('no one has to be told that they are hungry… The hunger is known from the inside'), 'we' and 'Most of what we know of God', one source with a precise verb ('Sheikh Bahmanpour uses hunger to describe'), a cross-reference used as a step ('Chapter One argued…') and a plain close ('knowing God and not only knowing about Him') match Author A"
+  ]},
+  "R": {"p": 65, "verdict": "same", "tells": [
+    "Picks up 'The second kind' from the acquired/presence split, bare-'and' chains ('the soul knows it at once and without effort and nothing of the hunger is missed'), semicolon close ('the feeling comes from inside the soul; the cause is not the feeling') and 'the Sheikh notes' used once per paragraph match Author A"
+  ]}
+ }}
