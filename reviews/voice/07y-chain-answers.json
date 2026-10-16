@@ -1,0 +1,84 @@
+{
+  "sections": {
+    "1": {
+      "point": "Open with Musa's search for Khidr, then say the chapter will show why a guide helps and how to recognise a true one, after one line recalling that the law marks the road.",
+      "steps": [
+        "A familiar scene: a prophet who spoke with God travels far to ask another man to teach him.",
+        "Draw the lesson: seekers on the road to God look for the same help, and the search costs time and effort.",
+        "Recall that the law marks the road's boundary; the open question is who walks beside the traveller.",
+        "State what the chapter will establish: why a guide helps and how to know a true one."
+      ]
+    },
+    "2": {
+      "point": "Whatever stage scholars say the need begins at, the companion a traveller needs is one who has already walked the road.",
+      "steps": [
+        "The road has turns inside the soul (strange states) that a traveller cannot read alone.",
+        "Only someone who has passed through those states can explain them, so the guide must have travelled, not just studied.",
+        "Scholars differ on when the need falls: the Sheikh after the first steps of the law, Tabatabaʾi at the beginning, Mutahhari at every stage.",
+        "Across the three, the guide is always one who has walked the road."
+      ]
+    },
+    "3": {
+      "point": "A guide's authority is that of a knowledgeable person under the Imams, not a link in a chain beside them, and one submits to him only if he has reached a very high rank.",
+      "steps": [
+        "Ask what authority the guide holds; the Sufi orders answer with a chain of masters passing the Prophet's inner knowledge.",
+        "Shia hold that knowledge passed to the Imams, so there is no tariqa in Shia Islam.",
+        "The orders demand total submission; Shia instead find a trusted instructor with no licence.",
+        "That instructor is Tabatabaʾi's general teacher, consulted like anyone knowledgeable.",
+        "Submission to him is permitted only at a very high rank.",
+        "The special teacher, whose company never ends, is the Prophet and the Imams."
+      ]
+    },
+    "4": {
+      "point": "There are real, nameable teachers of this road in recent generations, and the line Tabatabaʾi belonged to was not a Sufi order.",
+      "steps": [
+        "If travellers find instructors, there must be instructors; Tabatabaʾi names his own, Qadi.",
+        "Qadi's line runs back through Akhund Hamadani, who trained several guides.",
+        "Tabatabaʾi says this line belonged to none of the Sufi orders and is a line of teachers, not a chain of authority."
+      ]
+    },
+    "5": {
+      "point": "Test a guide by law (breaking it rules him out), by long company (which shows him), and by whether he turns people to God or to himself; wonders prove nothing.",
+      "steps": [
+        "Belonging to a line does not prove a teacher, so he must be tested; learning cannot show he has travelled.",
+        "Wonders cannot show it either: they come early on the road and are no sign of nearness to God.",
+        "Breaking even one injunction of the law shows a claimant to be a liar.",
+        "The law only rules out; long company is how a true teacher is recognised.",
+        "Pretenders draw people to themselves; the positive test is where a guide turns people.",
+        "ʿIsa's saying gives the simplest form of that test."
+      ]
+    }
+  },
+  "paragraphs": {
+    "¶1": {"label": "advance", "why": "The hook: Musa, a prophet, travels far to find Khidr and asks to be taught. Sets up the verse and the chapter's subject."},
+    "¶2": {"label": "advance", "why": "Draws the lesson from the verse, recalls earlier ground (the law marks the road) in one sentence, and states what the chapter will establish."},
+    "¶3": {"label": "advance", "why": "Supplies the first step: the road has turns in the soul that a traveller cannot read alone and can lose the way over."},
+    "¶4": {"label": "advance", "why": "Supplies the second step: only one who has passed through those states can explain them, so the guide must have travelled the road himself."},
+    "¶5": {"label": "advance", "why": "Opens the disagreement on timing and gives the Sheikh's placement (after the first steps of the law), the first of the three positions ¶9 draws together."},
+    "¶6": {"label": "aside", "why": "A detail of what a beginner does instead (Musabbihat, Qadi's year-long instruction). Nothing in ¶7-¶9 uses it; the section's point lands without it. Its one later use is a cross-reference in ¶17 that could be dropped."},
+    "¶7": {"label": "advance", "why": "The second position: Tabatabaʾi places the general teacher at the beginning of wayfaring."},
+    "¶8": {"label": "advance", "why": "The third position: Mutahhari describes guidance at every stage, and supplies the Khidr verse that ¶9 uses to tie the three together."},
+    "¶9": {"label": "restate", "why": "Summarises the three placements already given in ¶5, ¶7 and ¶8 and repeats ¶4's claim that the guide must have travelled the road."},
+    "¶10": {"label": "advance", "why": "Poses the authority question and gives the Sufi answer: a chain of masters carrying the Prophet's inner knowledge."},
+    "¶11": {"label": "advance", "why": "The Shia reply: that knowledge passed to the Imams by inheritance, so there is no tariqa in Shia Islam."},
+    "¶12": {"label": "advance", "why": "Contrasts the orders' total submission with the Shia practice of finding a trusted instructor with no licence, the figure ¶13 identifies."},
+    "¶13": {"label": "advance", "why": "Identifies the Shia instructor with Tabatabaʾi's general teacher, consulted like anyone knowledgeable; introduces the verse."},
+    "¶14": {"label": "advance", "why": "Supplies the submission bar: one may not surrender to a teacher short of the manifestation of the Divine Essence."},
+    "¶15": {"label": "advance", "why": "Supplies the special teacher, the Prophet and Imams, whose company never ends; this is what puts the guide under them rather than in their place."},
+    "¶16": {"label": "restate", "why": "States the conclusion by combining ¶11, ¶14 and ¶15, and adds a forward pointer to Chapter Fifteen. No new link."},
+    "¶17": {"label": "advance", "why": "Converts the need into a question of supply and answers it with the first named teacher, Qadi, named by Tabatabaʾi himself."},
+    "¶18": {"label": "advance", "why": "Extends the line back through Akhund Hamadani and his pupils, establishing a succession of teachers in recent generations. The disambiguation of the two Hamadanis is a side remark inside an advancing paragraph."},
+    "¶19": {"label": "advance", "why": "Supplies the second half of the point: the line belonged to none of the Sufi orders and is a line of teachers, not a chain of authority."},
+    "¶20": {"label": "aside", "why": "What the teachers taught (attention to the self) links to the book's thesis but the section's point, that such teachers exist and belonged to no order, does not need it, and nothing later uses it."},
+    "¶21": {"label": "advance", "why": "Opens the section's argument: a line does not vouch for every claimant, so a guide must be tested, and learning cannot show whether he has travelled."},
+    "¶22": {"label": "advance", "why": "Rules out wonders as a test: they arise early and are no sign of nearness to God. This is the point's 'never by wonders'."},
+    "¶23": {"label": "advance", "why": "Supplies the law test: abandoning one injunction shows a claimant to be a liar, whatever his wonders."},
+    "¶24": {"label": "advance", "why": "Supplies the positive test: long company, with the box's fourteen years as the example."},
+    "¶25": {"label": "aside", "why": "Handles the case where company is impossible (weigh the teacher's prescriptions against Book, Sunnah and the Imams). Reasonable, but the point does not include it and ¶29 does not carry it; the chain closes without it."},
+    "¶26": {"label": "advance", "why": "Supplies the third test: pretenders turn people to themselves, so the question is where a guide turns people."},
+    "¶27": {"label": "support", "why": "Introduces ʿIsa's saying, the example that ¶28 reads as the simplest form of ¶26's test."},
+    "¶28": {"label": "support", "why": "Reads the quotation as three marks of where company turns us; supports ¶26's test and ties it back to ¶24's watching over time. Adds no new link of its own."},
+    "¶29": {"label": "restate", "why": "Chapter-level summary repeating ¶4, ¶16 and the tests of ¶22-¶26. The section's conclusion has effectively already been stated as each test landed."},
+    "¶30": {"label": "aside", "why": "A one-line transition question that opens the next chapter's subject. The point does not need it and it answers nothing."}
+  }
+}
