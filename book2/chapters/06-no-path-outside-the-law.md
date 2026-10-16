@@ -36,9 +36,7 @@ Mulla ʿAbd al-Samad Hamadani, a Shia ʿarif who had a hadith of the Ahl al-Bayt
 
 Hamadani found all three depths in a single salah. As service to God, *khidma*, the prayer is at the depth of the law. As a drawing near, *qurb*, it is at the depth of the path, and as an arrival, *wusul*, it is at the depth of the truth.[Sayyid Haydar Amuli records the saying: "Surely prayer is service, a coming closer and an arrival." @inner_secrets, p. 32] One prayer holds all three, and a prayer like the Prophet's serves God, draws near to Him, and arrives.
 
-The ʿurafaʾ give the three depths other names as well, and two sets of them show what each depth brings. The first set is three degrees of certainty. Keeping the law in the most perfect way gives *ʿilm al-yaqin*, the knowledge of certainty: being certain that God is there without seeing Him, as a person in England is certain that Paris lies across the Channel without having been there. *ʿAyn al-yaqin*, the sight of certainty, is like seeing the city's houses from the car on arriving, and *haqq al-yaqin*, the truth of certainty, is being inside the city and witnessing what goes on there.
-
-The second set is the levels of faith: *islam*, *iman*, and *ihsan*. Islam is submission, doing what the law asks. Surah al-Hujurat marks the step from islam to iman, when some Bedouins claim more than they have.
+The ʿurafaʾ give the three depths other names as well, and the levels of faith show what each depth brings: *islam*, *iman*, and *ihsan*. Islam is submission, doing what the law asks. Surah al-Hujurat marks the step from islam to iman, when some Bedouins claim more than they have.
 
 ::: {.ayah ref="49:14" words="1-14"}
 The Bedouins say, 'We have faith.' Say, 'You do not have faith yet; rather, say, "We have embraced Islam," for faith has not yet entered into your hearts.'
