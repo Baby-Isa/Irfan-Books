@@ -18,9 +18,15 @@ There is a verse often recited at weddings, one most of us know. In Surah al-Rum
 
 ::: {.point}
 The obligatory acts are enough for salvation, and that is not contested. What is contested is the claim that they are the whole of the religion. In Surah al-Rum the Qur'an asks for more than the minimum: it asks us to reflect on, know, listen to, and reason about its signs.
+
+New story (D47): The man who asked what was enough, L01 ¶5.
 :::
 
 Let's start with two claims. The first is that a believer who prays, fasts, pays what is due, and goes on hajj can hope for *jannah*, provided they do what is *wajib* and avoid what is forbidden. This claim is not contested. Sheikh Bahmanpour accepts it as fair for ordinary believers. Mohammad Ali Shomali makes the same point, describing the obligatory rules of fiqh as "the minimally necessary conditions of human perfection" [@self_knowledge, p. 17].
+
+::: {.box-story title="Story: The man who asked what was enough"}
+Sheikh Bahmanpour began the case for ʿirfan with a story about a man who came to the Prophet ﷺ. The man said that he had no eagerness for the night prayer (*salat al-layl*), the recommended fasts, and the like. He asked whether he would go to jannah if he prayed the five daily prayers, fasted in Ramadan, paid his zakat, and went on hajj once. The Prophet said yes: if he did these things, he would go to jannah. From this answer the lecture drew its opening question: if the obligatory acts alone are enough for jannah, why should anyone take on the hard work of ʿirfan? The Prophet's answer is the reason the first claim is not contested: the obligatory acts are enough for salvation.
+:::
 
 The second claim goes further, and it is the one this book disputes. Some jurists and activists hold that the obligatory acts are the whole of the religion; anything beyond them, they say, is made up by the whims and wishes of certain mystics.
 
