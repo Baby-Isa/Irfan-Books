@@ -13,7 +13,9 @@ _Update at the end of every task. Keep it short. History lives in git and DECISI
 
 **2026-10-16:** Ch 2 and Ch 3 tightened after the user said they still meander next to the prologue and Ch 1 (Ch 2 body 2,024 → 1,826 words; Ch 3 1,739 → 1,576). Cuts: the light/hadith contradiction resolved once instead of twice (Ch 2), the Mutahhari contrast and Khomeini order sentence in "The path is purification" (Ch 2), the Mutahhari "sublime ideas" paragraph (Ch 3), restated conclusions and quote paraphrases. Voice profile PASS on both.
 
-**Next:** user feedback; the user's decision on cutting the Sheikh's name in the prologue and Ch 1; then the Part Two briefs.
+**2026-10-16, Part Two drafted (Ch 4–7).** Pipeline per chapter: brief (`docs/briefs/04`–`07-case.md`, from `docs/outline/part-2.md`) → Opus draft → Fable structural edit with each section's point → own read-through against `docs/briefs/LESSONS.md` → voice profile and blind judge → fact-check (`reviews/book2-04`–`07.md`), Medium items fixed. Voice: all four profiles PASS; blind PASS for 04 (0/4 flagged), 05 (1/4, false alarms 1/4), 06 (0/4), 07 (0/4). Ch 2/3 tightening fact-checked (`reviews/book2-02-03-tighten.md`) and fixed; Ch 2 blind rounds 7–8 invalid (judges missed the control), last valid round r5 PASS (see `reviews/voice/02-report.md`). PDFs: `samples/parts-one-two.pdf`, `samples/parts-one-two-review.pdf`.
+
+**Next:** the user's read of Part Two (and of the tightened Ch 2–3); then the Part Three briefs (Ch 8–12). Open: Ch 7 names 7 teachers in prose (guideline 5); [VERIFY] Arabic in Ch 6 (Kubra image; the Prophet's grateful-servant reply) and Ch 7 (ʿIsa's saying) need printed editions.
 
 
 ## Open questions for the user or lecturer
