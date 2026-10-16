@@ -1,6 +1,7 @@
 # Part Four outline: Fellow travellers (Chs 13–15)
 
 _Per `FRAMEWORK.md` §6, 2026-10-12. Notes, not prose; old numbers 7–9. Every quote checked against its extract._
+_D47 (2026-10-16): each chapter's **Told stories** line names the Sheikh's own story or stories it tells in full, as his account (box or short prose; no printed source needed), from `reviews/stories-audit.md` (#). At most two per chapter, so Ch 13 keeps two and recalls the rest._
 
 ## Part Four divider
 - **Part Four: Fellow travellers.** *Who else is on this road, and where did they arrive?*
@@ -13,23 +14,20 @@ _Per `FRAMEWORK.md` §6, 2026-10-12. Notes, not prose; old numbers 7–9. Every 
 ### 13. Where it comes from
 **Subheading:** The road was not brought in from outside. It grew from the Qur'an, the companions and the Imams, and its first travellers met fear, renunciation and love in that order, with the Imams ahead of them all.
 **Conclusion:** ʿIrfan is native to Islam, and the Imams stand above those who first walked it. **Serves:** B4 **Old:** 7
-**Opener (≤150 words; a companion, not Kumayl, FRAMEWORK §8.4):** Abu Dharr al-Ghifari, whose protest, exile and lonely death the majalis tell. [13l] "This led him to suffer torture and exile, and finally it was in exile, deserted and alone, that he passed away from this world." (`light` p. 20). Arabic: n.a. Some orientalists, the same page says, went looking outside Islam for what moved him. The chapter asks the same of the whole road. You have walked it; who walked it first, and where did it come from? (The Sheikh's report of the Prophet's saying on Abu Dharr, L11 ¶35, is not quoted: no held text.)
+**Opener (≤150 words; a companion, not Kumayl, FRAMEWORK §8.4):** Abu Dharr al-Ghifari, whose protest, exile and lonely death the majalis tell. [13l] "This led him to suffer torture and exile, and finally it was in exile, deserted and alone, that he passed away from this world." (`light` p. 20). Arabic: n.a. Some orientalists, the same page says, went looking outside Islam for what moved him. The chapter asks the same of the whole road. You have walked it; who walked it first, and where did it come from? (The Sheikh's report of the Prophet's saying on Abu Dharr, L11 ¶35, that he would live alone, die alone and be raised alone, may now be given in paraphrase as the Sheikh's account (D47); not quoted: no held text.)
 **Words you'll meet:** Sufi · zuhd · tawakkul · muhasaba
 **Sections:**
 1. ## The Qur'an, the companions and the Imams [13.1]. The roots are inside Islam from the first generation.
-   - The young companion after the dawn prayer who saw paradise and hell (`light` p. 19; L11 ¶42–43). Recalls Ch 2: light placed in the heart.
-   - [13d] "This is a man whose heart has been illuminated with the light of faith by God" (`light` p. 19, from al-Kafi). Arabic: VERIFY.
+   - The young companion after the dawn prayer who saw paradise and hell (`light` p. 19; L11 ¶42–43), recalled in words: Ch 3 now tells it in full and quotes [13d] (D47), so it is not retold or re-quoted here. Recalls Ch 2: light placed in the heart.
    - ʿAli is the source: the chains of Sunni and Shia mystics run to him, through companions such as Salman, Uways and Kumayl (`light` pp. 4–5; the three go in the Who's Who box, not told here).
    - [13e] Tabatabaʾi on ʿAli: "His sayings on this subject are a treasure of knowledge." (`light` p. 4). Arabic: n.a.
    - Imam al-Sadiq as a great early teacher: Schimmel's view as the Sheikh reports it (L11 ¶45–46); held evidence in `light` pp. 24–25 (Fudayl, Maʿruf, Shaqiq).
 2. ## Fear, renunciation, love, and the Imams above them [13.2]. The first seekers leaned to fear, renunciation or love, often near the Imams, who stand above them.
    - These are three temperaments, not exclusive, and love became "the victorious side" (L11 ¶61–63; L12 ¶9). This is the order the reader met in Ch 11.
-   - **Fear: Fudayl b. ʿIyad.** A highwayman who heard Q 57:16 from a rooftop and answered "yes, it is time, my Lord". He was known for weeping, and is a trusted reporter in both traditions (L12 ¶19–22; `light` p. 25). Recalls Ch 9.
-     - [13f] Q 57:16 "Is it not time yet for those who have faith that their hearts should be humbled for Allah's remembrance". Arabic: held.
+   - **Fear: Fudayl b. ʿIyad.** The highwayman whose turning at Q 57:16 Ch 9.1 tells (D47), recalled in a clause. He was known for weeping, and is a trusted reporter in both traditions (L12 ¶19–22; `light` p. 25).
    - **Renunciation: Ibrahim b. Adham.** The prince of Balkh, taught by al-Sadiq (L12 ¶9–11; `light` p. 24). His three levels of zuhd, the highest where the world is too slight to mention (L12 ¶12–16). Tawakkul: do your part, then rely; nobody should repeat the old desert trials (L11 ¶78–90).
      - [13g] Nahj 3.221 "By God, this world of yours is worth less in my eyes than the bones of a pig in the hand of a leper." (`nahj` p. 760). Arabic: VERIFY.
-   - **Love: Rabiʿa.** Repentance is God's gift; the torch and the water, "a story told of her" (L12 ¶53–54; L11 ¶72–73; `light` p. 24). The worship of the free is recalled in words (Nahj 3.222 belongs to Ch 11).
-     - [13h] (lecture) "I want to throw fire in paradise and to pour water on to hell so that these 2 veils disappear" (L12 ¶54).
+   - **Love: Rabiʿa.** Repentance is God's gift (L12 ¶53; `light` p. 24); the torch and the water, told in Ch 11.2 with [13h] (D47), recalled in words. The worship of the free is recalled in words (Nahj 3.222 belongs to Ch 11).
    - **The Imams above.** The seekers' words were "an echo" of al-Baqir and al-Sadiq, and Rabiʿa's verses do not compare with the Lovers' prayer (L11 ¶58–59; recalls Ch 3). Love was missing among the early seekers, but not in the Imams (L12 ¶56). The Shaqiq story (box). "completely different in terms of their calibre" (L12 ¶37).
      - [13i] "those elements of spiritual life which we find in the sayings, and teachings of Imam Ali and other Imams" (`light` p. 5). Arabic: n.a.
 3. ## Not brought in from outside [13.3]. [Short closing section, about 300 words, FRAMEWORK §9: the three claims (monks, Neoplatonism, techniques) and the pitcher.] The road was not imported; at most, some techniques were borrowed.
@@ -44,11 +42,13 @@ _Per `FRAMEWORK.md` §6, 2026-10-12. Notes, not prose; old numbers 7–9. Every 
 - Who's Who: Salman, Abu Dharr, Uways (L11 ¶35–41; Uways is hagiography, ¶39; `light` pp. 20, 23).
 - Story: Shaqiq and the young man on the Mecca road (L12 ¶30–37; `light` p. 24). The well miracle is trimmed. [13j] Q 20:82 "Indeed I forgive those who repent, become faithful, act righteously, and follow guidance." Arabic: held.
 - Who's Who: Hasan al-Basri, set side by side ("ambivalent", L11 ¶64; in ʿAli's chain, `light` pp. 5, 23); Maʿruf, Muhasibi, Dhu'l-Nun (`light` pp. 25–27; L12 ¶3–5, ¶62–64).
+
+**Told stories (D47):** (1) Shaqiq and the young man who was Imam al-Kazim (#43, L12 ¶30–37), carrying **13.2**'s "the Imams above": the **box** above. (2) Abu Dharr alone to the end (#32, L11 ¶35), the **opener** (prose, `light` p. 20), returned to in 13.3. Moved out (Ch 13 planned five): Harithah to Ch 3 (told there, D47), Fudayl to Ch 9.1, Rabiʿa's torch to Ch 11.2; each recalled here in words. Ibrahim b. Adham stays a portrait, not a told story.
 **Try this:** Muhasaba. Fix a time each night to review the day: seek forgiveness for faults, give thanks if there are none (`kernel` p. 68; the Sheikh says it is "still persistent", L12 ¶4). [13k] Imam al-Kazim: "He who does not take account of him own soul once every day is not one of us." (`kernel` p. 68; the extract reads "him own", so check the print). Arabic: VERIFY.
 **Hand-off:** Where did those travellers arrive?
-**Callbacks:** Ch 2 (light placed in the heart), Ch 3 (the Lovers' prayer), Ch 9 (repentance) and Ch 11 (love), in words. **Forward:** Ch 14 (Bayazid, Junayd), Ch 15 (chains).
+**Callbacks:** Ch 2 (light placed in the heart), Ch 3 (the Lovers' prayer; Harithah), Ch 9 (repentance; Fudayl) and Ch 11 (love; Rabiʿa's torch), in words. **Forward:** Ch 14 (Bayazid, Junayd), Ch 15 (chains).
 **Cut / gone around:**
-- Asides cut: Western-scholar anecdotes, qiraʾat, Plato, "harsh companions", camp and warfront stories (L11 ¶3, ¶19, ¶24–36, ¶43, ¶73, ¶80–92).
+- Asides cut: the theologian's quip (L11 ¶3, its second half; the first half is 13.3's), Plato (¶19), Western-scholar anecdotes (¶24–26), qiraʾat (¶27–33), "harsh companions" (¶43, its second half; the first half is 13.1's companion), the aside on women and love (¶73, its second half; the torch in ¶72–73 is Ch 11's), the camp story (¶80–81) and the warfront story (¶91–92). Abu Dharr and Salman (¶35–36) and tawakkul (¶78–90) stay.
 - Reworded: "complete Shia influence" (¶51) becomes "drew on the Imams' teaching" (`light` p. 5).
 - Left out: Hasan–Sajjad exchange (¶68–70, garbled; Shaqiq carries it); four-levels hadith (¶46–48, not held, D15).
 - Worded around: "halwa, not speaking" as borrowed (¶22) clashes with Ch 10's Qur'anic roots; say only "techniques, not doctrine".
@@ -90,13 +90,14 @@ _Per `FRAMEWORK.md` §6, 2026-10-12. Notes, not prose; old numbers 7–9. Every 
    - *Ecstatic sayings and licence:* the tradition answered them itself (§1).
    - *Ibn ʿArabi's Sunni loyalties and passages hostile to Shiʿa* (L13 ¶47–55): reason, not experience, settles Shia–Sunni questions; visions take the shape of one's theology; "you cannot 100% accept someone or reject". Side by side: his chain runs to Gilani (`light` p. 34), while Amuli reads his Seal of the Saints as ʿAli (`inner_secrets` p. 99). The Sheikh rates the Sunni-side case "much much more powerful" (¶55).
 **Boxes:** Who's Who: Hakim al-Tirmidhi and the Seal of the Saints, a hierarchy taken "to very extreme" levels (L13 ¶4–12; side by side `inner_secrets` pp. 98–99; no numbers). · Word study: four views of existence (L13 ¶56–62). · Optional: Attar and Rumi (`light` pp. 33, 36).
+**Told stories (D47):** (1) Bayazid's four days (#46, L13 ¶17–18; `kernel` p. 73), in **14.1**, **prose**: asked about renunciation, he gave up this world, then the next, then all but God; on the fourth day nothing was left but God. (2) "Praise be to me" and its two readings (#47, L13 ¶19–22), in **14.1**, **prose**, as planned above ("loses himself" for the transcript's "loves himself", ¶21). Both already planned; no change.
 **Try this:** Say *lā ḥawla wa lā quwwata illā biʾllāh* meaning what the lecture says it means: every strength one has is held from Him (L13 ¶63–64). Arabic: VERIFY (not in the duʿa extracts).
 **Hand-off:** How did the road become orders, and where do Shia stand?
 **Callbacks:** Chs 1, 2, 6 and 12. **Forward:** Ch 15 (orders), Ch 16 (baqa completed as return).
 **Cut / gone around:**
 - Reworded: Junayd as Bayazid's "student" (¶25, chronology) becomes "a generation later"; "sovereignty" (¶13, ¶28) becomes sahw (`light` p. 57).
 - Omitted: the unclear attribution in ¶26.
-- Cut: Simorgh (¶23–25), "Shia ideas via extremists" (¶7), Plato, dreams and dream-given books (¶35–43), "sum total" (¶61–62), the Sahifa link (¶17–18, garbled), Gorbachev (¶51–52).
+- Cut: Simorgh (¶23–25), "Shia ideas via extremists" (¶7), Plato, dreams and dream-given books (¶38–43), "sum total" (¶61–62), the Sahifa link (¶17–18, garbled), Gorbachev (¶51–52). Ibn ʿArabi and Surah Yasin (¶35–37) is told in Ch 5 (D47); not retold here.
 - Generalised: the Rajabiyyun passage (¶48) appears only as "passages hostile to Shiʿa".
 **Target:** ~2,900 words
 
@@ -129,7 +130,7 @@ _Per `FRAMEWORK.md` §6, 2026-10-12. Notes, not prose; old numbers 7–9. Every 
      - [15e] Amuli: paths to Allah "as many as the souls of creation" (`inner_secrets` p. 195). Arabic: VERIFY. They are many within Islam, not "any religion" (L14 ¶70).
    - The Shia masters refuse a technique that breaks the law.
      - [15f] "it is not permissible in the sacred Shari 'ah to concentrate on a stone or piece of wood" (`kernel` p. 87). Arabic: n.a.
-   - The guide is recalled in words only (L14 ¶22–24; Ch 7 owns the test).
+   - The guide is recalled in words (L14 ¶22; Ch 7 owns the test). Then the Sheikh's account of Hasanzadeh consulting Tabatabaʾi is told in full (told story, D47, below): why a guide who has walked the road is needed at the pitfalls.
 4. ## Authority belongs to the Imam [15.4]. There is no chain of authority beside the Imam and no blind obedience; a teacher, yes.
    - Imamah leaves no room for a rival silsila (L14 ¶6). Total submission is "an exaggeration" (¶25).
      - [15g] "our tariqah is that of the marhum Akhund which does not end in any of these silsilahs" (`kernel` p. 88). Arabic: n.a.
@@ -138,6 +139,7 @@ _Per `FRAMEWORK.md` §6, 2026-10-12. Notes, not prose; old numbers 7–9. Every 
      - [15i] Yet Amuli: "My arriving at the Truth and my unveilings were not dependent on the above" (`inner_secrets` p. 14). Arabic: n.a.
    - The chapter ends on [15j] "the Imam's company is necessary after the attainment of the goal (wusul) too" (`kernel` p. 81). Arabic: n.a.
 **Boxes:** Who's Who: al-Ghazali (`light` p. 31) and Fayd Kashani's *al-Mahajja al-bayda*, the *Ihya* reworked with the Imams' hadith (L14 ¶41–45; `light` p. 40). · History: why the orders rose and lost weight (L14 ¶19; `light` p. 40).
+**Told stories (D47):** Hasanzadeh consults Tabatabaʾi (#58, L14 ¶23–24), in **15.3**, **prose**: the Sheikh read in Ayatullah Hasanzadeh's writings that he met many experiences he did not understand, went to ʿAllama Tabatabaʾi, said "this is how I feel", and was told very simply what to do next; the hardest are experiences "without persons". A channel needs someone who has travelled it, not a lineage. Restored: Ch 7's outline cut it as "not held"; under D47 it needs no printed source, and Ch 7 does not tell it, so it is told here only (resolves the Ch 7 cut vs this recall).
 **Try this:** For a week, notice in which act you already keep (salah, the Qur'an, a duʿa) your heart is most present, and give it a fixed daily time: "everyone should find his or her own suitable type of practice and worship" (L14 ¶70–71). Alternative: the silent lā ilāha illā'llāh, the hidden dhikr (L14 ¶57–58).
 **Hand-off:** If authority belongs to the Imam, what does the completed journey look like in him?
 **Callbacks:** Chs 6, 7, 10, 13 and 14. **Forward:** Ch 16.
@@ -157,11 +159,11 @@ _Per `FRAMEWORK.md` §6, 2026-10-12. Notes, not prose; old numbers 7–9. Every 
 | 13a | "from Islam itself" | `light` p. 16 | n.a. | 13.3 |
 | 13b | "monasticism, they innovated it" | Q 57:27 | held | 13.3 |
 | 13c | "seeds of mysticism" | `light` p. 21 | n.a. | 13.3 |
-| 13d | "illuminated with the light of faith" | `light` p. 19 | VERIFY | 13.1 |
+| 13d | "illuminated with the light of faith" | `light` p. 19 | VERIFY | Ch 3 box (D47); 13.1 recalls in words |
 | 13e | "a treasure of knowledge" | `light` p. 4 | n.a. | 13.1 |
-| 13f | "Is it not time yet" | Q 57:16 | held | 13.2 |
+| 13f | "Is it not time yet" | Q 57:16 | held | moved to Ch 9.1 (D47) |
 | 13g | "bones of a pig" | Nahj 3.221, p. 760 | VERIFY | 13.2 |
-| 13h | "fire in paradise… water on to hell" | L12 ¶54 | n.a. | 13.2 |
+| 13h | "fire in paradise… water on to hell" | L12 ¶54 | n.a. | moved to Ch 11.2 (D47) |
 | 13i | "teachings of Imam Ali and other Imams" | `light` p. 5 | n.a. | 13.2 |
 | 13j | "I forgive those who repent" | Q 20:82 | held | 13 box |
 | 13k | "take account of… once every day" | `kernel` p. 68 | VERIFY | 13 Try |
@@ -190,4 +192,4 @@ _Per `FRAMEWORK.md` §6, 2026-10-12. Notes, not prose; old numbers 7–9. Every 
 | 15i | "not dependent on the above" | `inner_secrets` p. 14 | n.a. | 15.4 |
 | 15j | "the Imam's company… after… the goal" | `kernel` p. 81 | n.a. | 15.4 |
 
-**Claimed here (others avoid):** Q 57:16 and `kernel` p. 68 (vs Ch 9); Rabiʿa's torch and the Bistami line on `kernel` p. 73 (vs Ch 11); [15g], [15j] (vs Ch 7, which keeps the weaver chain and the two kinds of teacher).
+**Claimed here (others avoid):** `kernel` p. 68 (vs Ch 9); the Bistami line on `kernel` p. 73 (vs Ch 11). Q 57:16 and Rabiʿa's torch now belong to Ch 9 and Ch 11 with their stories (D47), and Harithah's story and [13d] to Ch 3; [15g], [15j] (vs Ch 7, which keeps the weaver chain and the two kinds of teacher).

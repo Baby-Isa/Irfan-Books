@@ -1,6 +1,7 @@
 # Part Three: The Road (detailed outline, Ch 8–12)
 
 _FRAMEWORK §6 notes. Old numbers: 8=11 … 12=15. "Held" = Arabic in `duas-*.md` §; Qur'an via `quran.py`._
+_D47 (2026-10-16): each chapter's **Told stories** line names the Sheikh's own story or stories it tells in full, as his account (`::: {.box-story}` or a short prose paragraph; no printed source needed), from `reviews/stories-audit.md` (#). At most two per chapter._
 
 ## Part divider
 - **Part Three: The Road.** *How is it walked?*
@@ -29,10 +30,11 @@ _FRAMEWORK §6 notes. Old numbers: 8=11 … 12=15. "Held" = Arabic in `duas-*.md
    - [IS109] seven base qualities (vanity, arrogance, miserliness, envy, cupidity, excessive sexual desire, anger) exchanged for "gnosis, wisdom, forbearance, humility, generosity, chastity and courage" [@inner_secrets, p. 109].
    - **Fana** named, defined in Ch 12: [IS195] "the last of the levels and the highest of the stations of the path" [@inner_secrets, p. 195].
 **Boxes:** History, *a philosopher's ladder*: Ibn Sina's stations as a table, iradah to arrival [@light, pp. 45–50]; [LT48] flashes "like flashes of lightning appearing and instantly vanishing" (p. 48); Tusi's nine stages (p. 50); the Sheikh's "from behind the clouds" and host's house flagged as his (L15 ¶21–22, ¶47). Word Study: tajliya, takhliya, tahliya.
+**Told stories (D47):** The Tehran preacher who asked for the hadith (#29, L10 ¶14–15), in 8.2 under **Tahliya**: an almost unschooled preacher, whose majlis the Sheikh attended, would state a teaching and ask his listeners for the verse or hadith, sure there was one; knowledge given to a purified heart, as the reward of ihsan (L10 ¶11–12; Q 12:22 cited, not quoted). Keep the Sheikh's rider that formal study still matters (¶15). Unnamed ("Dehlvi" may be a mishearing); no dates. **Prose.**
 **Try this:** recite the Musabbihat (or one) before sleep; Qadi gave beginners this for a year (L07 ¶15–16); al-Kafi via [@mafatih, p. 1036].
 **Hand-off:** Where on it does one set foot first?
 **Callbacks / forward:** prologue (veils of light), Ch 1, 4.3 (D26), 6, 7 (L07 ¶14). Ahead: 9–12, 16.
-**Cut / gone around:** Isaac of Nineveh (not held). "Sana……" gap read via ¶12; "tarkhiyyah" dropped; Ibn Sina's garbled Arabic given in English. Sikh anecdote, angels, Zayd/Haritha (Ch 13 has `light` p. 19), Abu Saʿid: out. Musabbihat worded as al-Kafi's advice (true on either attribution).
+**Cut / gone around:** Isaac of Nineveh (not held). "Sana……" gap read via ¶12; "tarkhiyyah" dropped; Ibn Sina's garbled Arabic given in English. Sikh anecdote, angels, Zayd/Haritha (told in Ch 3, D47; recalled in Ch 13.1), Abu Saʿid: out. Musabbihat worded as al-Kafi's advice (true on either attribution).
 **Target:** ~2,700.
 
 ---
@@ -44,7 +46,7 @@ _FRAMEWORK §6 notes. Old numbers: 8=11 … 12=15. "Held" = Arabic in `duas-*.md
 **Words you'll meet:** tawba · istighfar · mujahada · husn al-khuluq
 **Sections:**
 1. ## Anyone can begin [9.1]: the road begins with repentance, open after any sin.
-   - Wake, then repent (L08 ¶10–11); sinners qualify (¶12): Bishr and Fudayl in a line, pointer to Ch 13.
+   - Wake, then repent (L08 ¶10–11); sinners qualify (¶12): Bishr in a line; Fudayl told in full (story box, below); Ch 13 recalls him.
    - [LAN48] "the repentance of the elite is for being occupied with anything other than Allah, and the repentance of the common people is for wrong actions" [@lantern, p. 48].
    - Despair, "this path is not for me", is the obstacle (L08 ¶16–18): [Q39:53] "do not despair of the mercy of Allah. Indeed Allah will forgive all sins."
    - [FH249] "When a servant turns to God with sincere repentance (tawbatan nasuhan), God loves him" [@forty_hadith, p. 249]; [LAN59] the heart "is polished by the burnish of repentance" [@lantern, p. 59].
@@ -58,10 +60,11 @@ _FRAMEWORK §6 notes. Old numbers: 8=11 … 12=15. "Held" = Arabic in `duas-*.md
    - "the first and foremost ... condition is to behave yourself with regards to people"; a "system of justice" blocks the rise until wrongs are put right (L08 ¶39–40); the Imams were people "everyone loved to sit with" (¶40–41).
    - [IS108] "I have been sent to perfect good behaviour" [@inner_secrets, p. 108]; [LT70] "It is not possible to acquire the position of the virtuous and the pure without acquiring their qualities" [@light, p. 70]; [NB1.191] "They forgive those who oppress them, give to those who refuse them, and foster those who cut them off" [@nahj, 1.191, p. 480].
 **Boxes:** Story, *told to stop*: a young man in Tehran recited Ziyarat ʿAshura daily; light showed in his face; an elder told his father to stop him: "you need to have basis. You are rushing" (L08 ¶24–27); no names. Optional, only if Ch 7 does not use it: the Zanjan engineer, "Have a bath for repentance" [@light, p. 84].
+**Told stories (D47):** (1) Fudayl the highwayman (#41, L12 ¶19–22), in **9.1**, **box**: a young highwayman climbs a wall at night to reach a girl he loves, hears Q 57:16 recited in the house, answers "yes, it is time, my Lord", goes to the desert and repents; he became a trusted reporter in both traditions. Anyone can begin; one verse can turn a life. Moved from Ch 13.2, which recalls it; Q 57:16 [13f] moves with it (Arabic held). Skip ¶20's contradictory sentence ("it is not the time"). (2) The young man told to stop (#19, L08 ¶24–27), the 9.2 box above, no names.
 **Try this:** the Dhu'l-Qaʿdah Sunday prayer as Mafatih gives it: ghusl, wudu, four rakʿas (Fatiha; Tawhid three times; Falaq and Nas), *astaghfirullah* one hundred times, the *la hawla* formula, the supplication [@mafatih, p. 356]; the Sheikh's start of suluk (L08 ¶29–33). Supplication Arabic [VERIFY].
 **Hand-off:** What trains the soul once it has turned?
 **Callbacks / forward:** Ch 5, 6, 7, 8. Ahead: 10, 13, epilogue.
-**Cut / gone around:** Kubra (L08 ¶5–8) out; his involuntary/voluntary journeys suit Ch 17. Rite per Mafatih, not the lecture's 70 istighfar. Story names omitted (uncertain). "Half of deen" (¶41) replaced by held lines; joke, ʿUnwan (not held) out.
+**Cut / gone around:** Kubra (L08 ¶5–8) out; his involuntary/voluntary journeys suit Ch 17. Rite per Mafatih, not the lecture's 70 istighfar. Story names omitted (uncertain). "Half of deen" (¶41) replaced by held lines; joke out; ʿUnwan is told in Ch 7 (D47).
 **Target:** ~2,800.
 
 ---
@@ -85,6 +88,7 @@ _FRAMEWORK §6 notes. Old numbers: 8=11 … 12=15. "Held" = Arabic in `duas-*.md
    - Held doses: hunger short of "weakness" (`kernel` p. 76); sahar "to the extent permitted by the wayfarer's constitution" (`kernel` p. 78); [LT102] liturgies "are just like a medicine which may suit some and may not suit others" [@light, p. 102]; [LAN55] "The best form of worship is that which comes nearest to security ... the most consistent, be it ever so small" [@lantern, p. 55].
    - Seclusion side by side (D20): the Sheikh's nightly hour, and his own caution that forty-day retreats and feats can stir unusual powers but are "not desirable" (L10 ¶44–47); [KR77] special seclusion "is considered essential by the masters (mashayikh) of the Way" [@kernel, p. 77]; [LAN50] "There is no prophet nor regent (wasi) who has not chosen retreat in his lifetime" [@lantern, p. 50].
 **Boxes:** Story, *the guest of the mosque*: no better food than hunger [@kernel, p. 77]. Word Study: tabattul.
+**Told stories (D47):** Uways and the single night of prostration (#60, L15 ¶41–43), in **10.1** under **Night**: a whole night in rukuʿ, the next in sajda; asked if he tired, the night was short, and he wished his whole life one night passed in one prostration. Those at home with God do not tire, because the body follows the soul (¶43): the soul's hold loosened. Given as a report the Sheikh cites (no source named). His own contrast, that fifteen minutes of sajda tires us because we are not familiar with it (¶42), hands on to 10.2's doses. **Prose.** (Audit's alternative home; Ch 12 takes Khidr at Badr instead.) In **Hunger**, a clause may recall Ch 7's ʿUnwan, whose counsel the Sheikh gives as "a good explanation of this silence and hunger" (L08 ¶77–78).
 **Try this:** after each obligatory prayer, the Tasbih of al-Zahraʾ, slowly, with attention (L10 ¶55; [@mafatih, p. 802]), framed by [NB1.219.1] "God has made his remembrance the burnish for your hearts—with it, you can hear after your earlier deafness, see after your earlier night-blindness" [@nahj, 1.219.1, p. 522] (D28).
 **Hand-off:** What keeps a traveller going when discipline alone runs dry?
 **Callbacks / forward:** Ch 2 (the prostration dhikr), 8 (dhikr dusts the heart, L07 ¶25–27), 9. Ahead: 11, epilogue (its opener recalls L10 ¶23–26).
@@ -111,16 +115,18 @@ _FRAMEWORK §6 notes. Old numbers: 8=11 … 12=15. "Held" = Arabic in `duas-*.md
    - [K123] "suppose ... that I am able to endure Your chastisement, How can I endure separation from You?" (Kumayl §123–124, held); no Thursday scene (Ch 3 and 16 use it; Ch 13 opens on Abu Dharr).
    - The Lovers, the Sheikh's choice (L01 ¶27): [SAH656] "who can have tasted the sweetness of Thy love, then wanted another in place of Thee?" [@sahifa, p. 656].
    - [LAN88] "Love of Allah is a fire which does not pass by anything without burning it up" [@lantern, p. 88]: in the book attributed to al-Sadiq, on ʿAli's authority (true for either Imam at L12 ¶38).
+   - Rabiʿa's torch and water (told story, D47, below); the Sheikh sets her beside ʿAli's three kinds of worship (L12 ¶59–60).
 3. ## Even love is left at the door [11.3]: love too is a means, left behind on arrival.
    - [LT95] "In the beginning the spiritual traveler goes forward with the help of love, but after traversing a few stages he realizes that love is different from the beloved" [@light, p. 95].
    - Held beside it, same passage in the Kernel's translation (not re-quoted): `kernel` pp. 72–73 (the wayfarer leaves behind the love that had been his means). The Bistami line on p. 73 is Ch 14's.
    - [SADI45] "If you look to your friend for his favors, / You are tied to yourself not to your friend" (Saʿdi) [@light, p. 45].
    - Rabiʿa in one line, her prayer as the Sheikh reads it, "you are more than enough for me" (L12 ¶59–60); pointer to Ch 13. Sets up Ch 12.
 **Boxes:** Reflection: [FH89] "Ask your heart whether it is in search of God or whether it is in love with itself" [@forty_hadith, p. 89]. Word Study: mahabba.
+**Told stories (D47):** Rabiʿa with the torch and the water (#36, L11 ¶72–73; L12 ¶54), in **11.2**: she hurries through the street with fire in one hand and water in the other, to burn paradise and put out hell, "so that these 2 veils disappear" and no one worships from fear or hope [13h, moved from Ch 13]. Worship as the free, as the Sheikh reads her (L12 ¶60). "The story is told" (¶54): given as told, not vouched. **Prose** (11.2 may hold the Word Study). Moved from Ch 13.2, which recalls it in words.
 **Try this:** read the Whispered Prayer of the Lovers (Sahifa, Munajat 9) once this week, slowly (L01 ¶27–31; L11 ¶58–59; [@sahifa, pp. 656–657]).
 **Hand-off:** Where does love carry the traveller in the end?
 **Callbacks / forward:** Ch 1, 3 (ʿArafah §783–784, Lovers "gazing"), Part One divider, 10. Ahead: 12, 13.
-**Cut / gone around:** early schools, Maʿruf, Dhul-Nun, Rabiʿa's torch: Ch 13 (Maʿruf's teaching kept, unnamed, ¶39–41). Garbled "divine fire" (L12 ¶38) replaced by the Lantern. "Nahj is full of love" (L11 ¶60) not claimed; L01 ¶31 not used. Nahj 3.222 says "thanks", so it sits beside al-Sadiq's "love".
+**Cut / gone around:** early schools, Maʿruf, Dhul-Nun: Ch 13 (Maʿruf's teaching kept, unnamed, ¶39–41). Rabiʿa's torch is told here, in 11.2 (D47). Garbled "divine fire" (L12 ¶38) replaced by the Lantern. "Nahj is full of love" (L11 ¶60) not claimed; L01 ¶31 not used. Nahj 3.222 says "thanks", so it sits beside al-Sadiq's "love".
 **Target:** ~2,800.
 
 ---
@@ -143,6 +149,7 @@ _FRAMEWORK §6 notes. Old numbers: 8=11 … 12=15. "Held" = Arabic in `duas-*.md
    - **Action:** "it is really not you who is seeing" (L09 ¶52–54): the truth of *la hawla wa la quwwata illa billah*; tasted, not thought (¶57–59); [Q18:44] "There, all authority belongs to Allah, the Real."
    - **Attributes:** God's attributes wherever one looks: the truth of *la ilaha illa Allah* (L09 ¶60–61); [Q2:255] "Allah—there is no god except Him—is the Living One, the All-sustainer" (¶63).
    - **Essence:** "just his glory, which is overshadowing everything" (L09 ¶64); only *Huwa* (¶66): [Q112:1] "Say, 'He is Allah, the One.'"
+   - Imam ʿAli's dream of Khidr before Badr (told story, D47, below).
    - Tabatabaʾi counts four, adding the Names [@light, pp. 107–108]: one clause.
    - **Summit:** the prologue's sentence asked the heart's eyes to pierce the veils of light; it continues [M108] "and let our souls get suspended by the glory of Your sanctity" (`light` p. 165; §108, held).
 3. ## Coming back, sober [12.3]: fana has dangers; the healthy end is baqa, oneself again, seeing God and the world together.
@@ -153,10 +160,11 @@ _FRAMEWORK §6 notes. Old numbers: 8=11 … 12=15. "Held" = Arabic in `duas-*.md
    - [L09¶46] "God is veiled by creation for us ... the creation is veiled by God ... neither of them is veiled by the other" (L09 ¶46).
    - **Last line:** [FH516] Imam ʿAli, "I did not see a thing without beholding God with it, in it, before it, and after it" [@forty_hadith, p. 516]. Arabic VERIFY.
 **Boxes:** Word Study (in 12.1): fana and baqa in [Q55:26-27] "Everyone on it is ephemeral, yet lasting is the majestic and munificent Face of your Lord" [@kernel, pp. 14–15].
+**Told stories (D47):** Imam ʿAli's dream of Khidr before Badr (#28, L09 ¶65), in **12.2** under **Essence**: before Badr he dreams of Khidr and asks for a duʿa to repeat; Khidr teaches him one that calls on God as *Huwa*, "He", and none but He; on the day of Badr he is seen attacking on every side, reciting Surah al-Ikhlas and these words. The essence step is the truth of the word we already say in Ikhlas. As the Sheikh's report of a hadith from Amir al-Muʾminin; "before Badr", not "the ninth" (garbled); the duʿa paraphrased, Arabic only if found held [VERIFY]. **Prose** (no box in 12.2). Restored: cut earlier for want of a held source. The Try this recalls it in words.
 **Try this:** when you recite Surah al-Ikhlas in salah this week, stop on its first word, *Huwa*, "He", as the Sheikh asks (L09 ¶66–68).
 **Hand-off (to Part Four):** Others have walked this far. Where did the road come from, and who walked it first?
 **Callbacks / forward:** prologue (§105–107), Ch 2, 6, 7, 8, 11. Ahead: 14, 16 ("just the beginning", L15 ¶59).
-**Cut / gone around:** Knysh, Baldick (not held) unnamed. "Train them / kill them" (L07 ¶62–63), Hinduism and incarnation claims: out. "Tams" → "in attributes". Khidr at Badr, Ikhlas-kafir hadith, Umayyads, wine of paradise, power station: out. Inaudible "mukhlasin" (¶22): Satan point only. "How glorified I am" (¶39) unattributed. Rumi (unlocated) out. Shaykh–murid (¶37): Ch 7, 15. `light` p. 57 is Ch 14's; `forty_hadith` p. 515 instead.
+**Cut / gone around:** Knysh, Baldick (not held) unnamed. "Train them / kill them" (L07 ¶62–63), Hinduism and incarnation claims: out. "Tams" → "in attributes". Ikhlas-kafir hadith, Umayyads, wine of paradise, power station: out. Inaudible "mukhlasin" (¶22): Satan point only. "How glorified I am" (¶39) unattributed. Rumi (unlocated) out. Shaykh–murid (¶37): Ch 7, 15. `light` p. 57 is Ch 14's; `forty_hadith` p. 515 instead.
 **Target:** ~3,200.
 
 ---
@@ -212,5 +220,7 @@ _FRAMEWORK §6 notes. Old numbers: 8=11 … 12=15. "Held" = Arabic in `duas-*.md
 | FH515 | bringing him to himself | `forty_hadith` 515 | n.a. | 12.3 |
 | IS116 | true affirmation | `inner_secrets` 116 | n.a. | 12.3 |
 | FH516 | did not see a thing without… God | `forty_hadith` 516 | VERIFY | 12.3 last line |
+| 13f | Q 57:16 "Is it not time yet" (moved from Ch 13, D47) | Qur'an | held | 9 box (Fudayl) |
+| 13h | "fire in paradise… water on to hell" (moved from Ch 13, D47) | L12 ¶54 | n.a. | 11.2 |
 | Qur'an | 50:16; 6:122; 39:53; 73:1–8, 20; 51:17–18; 33:41; 2:152; 5:54; 55:26–27; 18:44; 2:255; 112:1 | Qur'an | quran.py | 8.1, 8.2, 9.1, 10, 11.2, 12 |
 | Lecture | L10 ¶21; L07 ¶21; L07 ¶59; L09 ¶46 | transcripts | n.a. | 8.1, 8.2, 12.1, 12.3 |

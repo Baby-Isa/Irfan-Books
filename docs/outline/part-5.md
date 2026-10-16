@@ -1,6 +1,7 @@
 # Detailed outline: Part Five and the Epilogue
 
 _Follows `docs/outline/FRAMEWORK.md` §6. Framing: the road is travelled for the destination, God. Old Ch 16–17 points (ARGUMENT v2.1) under new numbers; D16, D20, D25, D39 applied. Every English quote checked in the extract named; Qur'an English is Qaraʾi via `build/quran.py` ("build" = Arabic inserted by the build)._
+_D47 (2026-10-16): each chapter's **Told stories** line names the Sheikh's own story it tells in full, as his account (box or short prose; no printed source needed), from `reviews/stories-audit.md` (#)._
 
 ## Part Five divider
 - **PART FIVE · The Destination**
@@ -27,7 +28,7 @@ _Follows `docs/outline/FRAMEWORK.md` §6. Framing: the road is travelled for the
    - Fourth: how everything returns to God (L09 ¶87–88). Both halves of ¶91 are quoted here (moved from Ch 6, FRAMEWORK §8.1): the fourth journey "would bring him down to the level of ordinary people and they can live with ordinary people", and those who finish only the first journey find it "very difficult for them to mix with the people" (L09 ¶91). Ch 14's drunk travellers recalled in words.
    - [Mu50] "The fourth journey is amongst the people while still united with God." (`light` p. 50).
    - [Am140] "one sees the source of Oneness in the forms of multiplicity and the forms of multiplicity in the source of Oneness" (`inner_secrets` p. 140).
-   - The epigraph and divider recalled in words: away from all but God in the heart, among people in the body.
+   - The epigraph and divider recalled in words: away from all but God in the heart, among people in the body. Imam al-Sadiq's robe shows it (told story, D47, below).
 3. ## Who completes it [16.2] — side by side (D20, D25), gently.
    - The Sheikh: the third journey is open to "some very high caliber mystics"; the completed fourth belongs to the Prophet and his successors, whose inner knowledge stayed within the Book and the shariʿa (L09 ¶87, ¶89). Quote ¶89 here (moved from Ch 6, FRAMEWORK §8.1): the Imams knew more than the law, yet "of course, they follow the Sharia".
    - Tabatabaʾi: holding both worlds is "Perhaps… exclusive to the prophets and the awliya' and whoever God wishes"; yet [Tb20] "the office of prophethood and Imamate is something exclusive, but attainment to… fana' in the Essence of the One‑which is called wilayah‑is not at all exclusive" (`kernel` p. 20; parallel `light` p. 64, cite one). His reason: the Prophet's summons "implies the possibility of travelling" (Q 33:21 cited).
@@ -39,6 +40,7 @@ _Follows `docs/outline/FRAMEWORK.md` §6. Framing: the road is travelled for the
    - Reflection: the man who prayed this at ʿArafah was killed at Karbala with his household, among people and for them, with God (Mafatih p. 401: "On this day, Imam al-Husayn (a.s.) was martyred.").
    - Conclusion stated once. Stop on the concrete: the ʿAshura instruction to "express sympathy to each other" (Mafatih p. 401).
 **Boxes (≤3):** Who's Who: Kumayl ibn Ziyad (Nahj 3.133 n. 4). (Ch 6 has no table now, only a preview line, and Ch 2 holds the Mulla Sadra Who's Who box; name Sadra's *al-Asfar* in one line, L09 ¶70.)
+**Told stories (D47):** Sufyan al-Thawri and Imam al-Sadiq's robe (#40, L12 ¶14), in **section 2** ("The way back"), **box**: Sufyan sees the Imam at a gathering in a precious, kingly robe and objects; the Imam draws it aside to show a harsh, uncomfortable garment beneath: do not show your renunciation. Among people outwardly, with God inwardly, as the epigraph says. Told as the Sheikh's account (no held source); "the best zuhd is to conceal zuhd" is not quoted as ʿAli's (OMISSIONS: not in the Nahj). Unplanned before; the audit's home (Ch 13.2) is full.
 **Try this:** in duʿa, pray first for other believers by name, from the heart, then for yourself: "firstly we pray for them and then should mention our own wants and desires" (`journey` p. 83).
 **Hand-off:** The friends of God return to people. Where does every soul return?
 **Callbacks / forward pointers:** Ch 6 (journeys previewed; the law), Ch 8 (veils), Ch 12 (fanaʾ, baqaʾ), Ch 14 (the drunk), Ch 15 (authority is the Imam's), Ch 3 (ʿArafah, Munajat, Kumayl). Forward: Ch 17.
@@ -71,6 +73,7 @@ _Follows `docs/outline/FRAMEWORK.md` §6. Framing: the road is travelled for the
    - A will held against God's: heaven and earth "would have surely fallen apart" (Q 23:71); the chain's length is "the length of the will that they have" (L16 ¶42–43); helpless, humiliated, separated (¶45–47); [Q87:13] "he will neither live in it, nor die" (¶55).
    - The Sheikh: "It is not a punishment which is brought to you by God. God doesn't want to revenge." (¶47–48); the thorns and boiling water: "of course it's all true" (¶49).
    - Side by side (D20), as agreement: Khomeini keeps both fires, "The fire of the hell of deeds and the physical hell encompasses the without and travels towards the within" (`forty_hadith` p. 137), and rejects reducing them to inner states as "against the traditions of the prophets and the celestial scriptures" (p. 365).
+   - One reality, a true form in each world: the Prophet's dream of ʿAbd al-Rahman ibn ʿAwf (told story, D47, below), after "of course it's all true" and before the side by side.
    - Mercy: intercession completes believers' light, "Our Lord! Perfect our light for us" (Q 66:8; L16 ¶34, ¶37–39).
    - [M120] "My Lord, if Your severe punishment calls me to Hell, the abundance of Your reward invites me to Paradise." (`light` p. 166; Arabic held §120–121).
 5. ## Going back now [conclusion] — ʿirfan is the willing return, made in this life.
@@ -79,10 +82,11 @@ _Follows `docs/outline/FRAMEWORK.md` §6. Framing: the road is travelled for the
    - [Q2:156] "Indeed we belong to Allah and to Him do we indeed return", said at every death, said now of oneself (added).
    - Conclusion stated once. End on [Q89:27–28] "O soul at peace! Return to your Lord, pleased and pleasing!" (build; Ch 5 cites 89:27 without quoting it).
 **Boxes (≤3):** Word Study: taʾwil and tafsir (gnostic commentaries "not the exegesis… exposed some aspects of it", `light` p. 109). Who's Who: Nasir al-Din Tusi (d. 672/1273, `light` p. 36; commentary on the *Isharat*, `light` p. 50; "the best of the later scholars", `forty_hadith` p. 517).
-**Try this:** each day read a few verses and take their commands and warnings "as though all of them have been revealed especially for him" (`journey` p. 46); method: one verse from several sides (pp. 49–52).
+**Told stories (D47):** The Prophet's dream of ʿAbd al-Rahman ibn ʿAwf (#61, L16 ¶52–54), in **17.3**, **box**: an example the Sheikh takes from Ghazali's *Mishkat al-Anwar*. The Prophet ﷺ sees in a dream the rich companion ʿAbd al-Rahman ibn ʿAwf crawling towards paradise: the rich do not enter easily, with much to account for. In this world the same thing would look like a man crawling slowly up a hill to a paradise on its summit. "Both of them are right" (¶54): one reality takes a true form in each world. It carries 17.3's point that the fire and the boiling water are real and are also the will's own state, and leads into the side by side. The Sheikh's account, paraphrased; the dream is not quoted as a hadith and not verified against the *Mishkat* [VERIFY if the print is held]. ¶53's garbled "travelling towards paradise crown" is read from its own close ("someone is crawling"). Restored: cut earlier because held guards stand beside the rule; it is the only story in Ch 17's own lecture that carries a section point. (Ibn ʿArabi and Surah Yasin, the first choice, is told in Ch 5, D47: not planned here; a one-line recall at most.)
+**Try this:** each day read a few verses and take their commands and warnings "as though all of them have been revealed especially for him" (`journey` p. 46); method: one verse from several sides (pp. 49–52). Framed by "recite and ascend", which Ch 5 left for here (L05 ¶29–30): the Sheikh reports a hadith that in paradise the reader is told to recite and go up, and reads it so that one rises by the depth to which the verses are taken in, not by their number. Given as the Sheikh's report, paraphrased; the hadith is not held [VERIFY if quoted].
 **Hand-off:** So how does one begin, this week?
 **Callbacks / forward pointers:** Ch 2 (Light Verse), Ch 5 (worlds, barzakh), Ch 11 (Munajat §59 in words), Ch 12 (fanaʾ), Ch 16. Forward: epilogue.
-**Cut / gone around (D15, D39):** "Tafseer-e-Sunan" (¶4) unidentified: out. Qadi al-Nuʿman (¶4–5) not named (no held source; a Khoja reader should not meet a neighbouring community only as the bad example); the principle stays. Ghazali's *Mishkat* and the Ibn ʿAwf dream (¶7–8, ¶52–53) out; held guards stand beside the Sheikh's rule. Tusi's garbled title (¶17), Sadra's excerpts (¶18), "senses are spies" (¶21), the letter hadith (¶26–27), Ridwan and Malik/Sulayman (¶25–26, ¶44–45), three spans of knowledge (¶29; §670 instead), garbled ¶26 and ¶50: out. The mulk/malakut hadith (¶51) is unidentified: `forty_hadith` p. 137 makes the point.
+**Cut / gone around (D15, D39):** "Tafseer-e-Sunan" (¶4) unidentified: out. Ch 5's "recite and ascend" pointer lands in the Try this. Qadi al-Nuʿman (¶4–5) not named (no held source; a Khoja reader should not meet a neighbouring community only as the bad example); the principle stays. Ghazali's *Mishkat* as a source for the rule (¶7–8) out; held guards stand beside the Sheikh's rule. The Ibn ʿAwf dream (¶52–54) is now the told story (D47). Tusi's garbled title (¶17), Sadra's excerpts (¶18), "senses are spies" (¶21), the letter hadith (¶26–27), Ridwan and Malik/Sulayman (¶25–26, ¶44–45), three spans of knowledge (¶29; §670 instead), garbled ¶26 and ¶50: out. The mulk/malakut hadith (¶51) is unidentified: `forty_hadith` p. 137 makes the point.
 **Target:** ~3,000 words.
 
 ---
@@ -106,6 +110,7 @@ _Follows `docs/outline/FRAMEWORK.md` §6. Framing: the road is travelled for the
    - [Placeholders: Ch 11, 12 (`part-3.md`); Ch 13, 14, 15 (`part-4.md`).] Maliki's heavier programmes (`journey` pp. 109, 155) are the ceiling, not the start.
 5. ## Close — the divider's petition recalled in words; then [M124] "make me one of those who always remember You" (`light` p. 166; Arabic held §124). Stop there (D29).
 **Boxes:** one table: chapter · act · source · week / month / year.
+**Told stories (D47):** none new. Every story that fits is told earlier, so the Epilogue recalls in a line each: the young man told to stop (Ch 9, #19) in §1, and Qadi's year of the Musabbihat (Ch 7 and 8, #15) in §4. [Flag for the user: D47 says "every chapter"; the Epilogue is not counted as one here.]
 **Try this:** the table.
 **Hand-off:** none.
 **Cut / gone around:** the guide-or-charlatan checklist (old OUTLINE) is Ch 7's; one line here. Maliki's weak-chain and dirt-and-tied-neck practices (`journey` pp. 151–152, 170) not offered.
@@ -151,4 +156,4 @@ _Follows `docs/outline/FRAMEWORK.md` §6. Framing: the road is travelled for the
 | J109, J161 | "suitable for him"; "as much as possible" | `journey` pp. 109, 161 | n.a. | Epilogue 1 |
 | M124 | "one of those who always remember You" | `light` p. 166; Munajat §124 | held | Epilogue 5 |
 
-_Lecture lines quoted: L09 ¶75, ¶81, ¶87, ¶89 and ¶91 (both halves; ¶89 and ¶91 moved from Ch 6); L16 ¶3, ¶5, ¶8, ¶15, ¶28, ¶31, ¶39, ¶43, ¶47–49; L08 ¶7–8 (Kubra); L08 ¶26; L10 ¶26._
+_Lecture lines quoted: L09 ¶75, ¶81, ¶87, ¶89 and ¶91 (both halves; ¶89 and ¶91 moved from Ch 6); L16 ¶3, ¶5, ¶8, ¶15, ¶28, ¶31, ¶39, ¶43, ¶47–49, ¶54 ("Both of them are right", Ibn ʿAwf box, D47); L08 ¶7–8 (Kubra); L08 ¶26; L10 ¶26._
