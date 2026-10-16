@@ -1,0 +1,19 @@
+{
+ "A": "control",
+ "B": "control",
+ "C": "chapter",
+ "D": "chapter",
+ "E": "control",
+ "F": "exemplar",
+ "G": "exemplar",
+ "H": "exemplar",
+ "I": "control",
+ "J": "chapter",
+ "K": "chapter",
+ "L": "exemplar",
+ "_meta": {
+  "chapter": "book2/chapters/07-finding-a-guide.md",
+  "control": "7225b76:book2/chapters/01-seeking-not-powers.md",
+  "exemplar": "32e44c9"
+ }
+}

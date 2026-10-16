@@ -1,0 +1,19 @@
+{
+ "A": "chapter",
+ "B": "chapter",
+ "C": "exemplar",
+ "D": "chapter",
+ "E": "control",
+ "F": "control",
+ "G": "control",
+ "H": "exemplar",
+ "I": "exemplar",
+ "J": "control",
+ "K": "exemplar",
+ "L": "chapter",
+ "_meta": {
+  "chapter": "book2/chapters/04-know-yourself.md",
+  "control": "7225b76:book2/chapters/01-seeking-not-powers.md",
+  "exemplar": "32e44c9"
+ }
+}

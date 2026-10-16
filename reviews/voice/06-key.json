@@ -1,0 +1,19 @@
+{
+ "A": "exemplar",
+ "B": "chapter",
+ "C": "chapter",
+ "D": "chapter",
+ "E": "control",
+ "F": "control",
+ "G": "control",
+ "H": "control",
+ "I": "exemplar",
+ "J": "exemplar",
+ "K": "chapter",
+ "L": "exemplar",
+ "_meta": {
+  "chapter": "book2/chapters/06-no-path-outside-the-law.md",
+  "control": "7225b76:book2/chapters/01-seeking-not-powers.md",
+  "exemplar": "32e44c9"
+ }
+}
