@@ -31,7 +31,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 EXEMPLAR = ["book2/chapters/00-prologue.md", "book2/chapters/01-seeking-not-powers.md"]
-EXEMPLAR_REV = "32e44c9"  # frozen exemplar (D36)
+EXEMPLAR_REV = "32e44c9"  # frozen exemplar (D36), snapshotted in reviews/voice/corpus/A-*.md
 # Control drafts the user rejected (pre-D29), same topics as the exemplar.
 CONTROLS = ["7225b76:book2/chapters/01-seeking-not-powers.md",
             "9d02329:book2/chapters/00-prologue.md"]
@@ -231,7 +231,8 @@ def delta(vec, refs):
 def exemplar_paras(rev=True):
     paras = []
     for f in EXEMPLAR:
-        paras += [p for p in paragraphs(read_source(f"{EXEMPLAR_REV}:{f}" if rev else f))
+        src = CORPUS + ("A-prologue.md" if "prologue" in f else "A-ch01.md")
+        paras += [p for p in paragraphs(read_source(src if rev else f))
                   if p[0] == "body"]
     return paras
 
@@ -294,27 +295,76 @@ def profile(specs):
     return report
 
 
-# ---------------------------------------------------------------- blind test
-def passages(md, n, rng, min_words=110, max_words=190):
-    """n passages of one or two adjacent body paragraphs, spread across the text."""
+# ---------------------------------------------------------------- blind test (v2, D44)
+# Author A is the frozen exemplar (D36, commit 32e44c9), snapshotted in the corpus
+# folder so the test needs no git history. The controls are drafts the user
+# rejected, on topics outside the exemplar, so no control passage has a near-twin
+# among Author A's passages: in v1, judges caught 28/30 controls that had a twin
+# but only 32/46 without one, so the control check was passing on content.
+CORPUS = "reviews/voice/corpus/"
+A_PRO, A_CH1 = CORPUS + "A-prologue.md", CORPUS + "A-ch01.md"
+CONTROL_POOL = [CORPUS + "X-ch02-v1-2d8143e.md", CORPUS + "X-ch03-v1-2d8143e.md"]
+# Two folds. In fold B, Author A's held-out passages (the prologue) are on topics
+# the reference (Ch 1) does not cover, as a new chapter's always are.
+FOLDS = {"A": {"ref": [A_PRO, A_CH1 + "@0-3"], "pos": [A_CH1 + "@4-9"]},
+         "B": {"ref": [A_CH1], "pos": [A_PRO]}}
+TWIN = 0.10          # max share of a passage's word 4-grams found elsewhere in the packet
+PASS_AUC, FAIL_AUC, VALID_AUC = 0.60, 0.70, 0.75   # set by calibration (VOICE-TEST.md)
+
+
+def read_spec(spec):
+    """'file', 'REV:file', optionally '@a-b' for sections a..b (0 = before the first ##)."""
+    m = re.search(r"@(\d+)(?:-(\d+))?$", spec)
+    md = read_source(spec[:m.start()] if m else spec)
+    if not m:
+        return md
+    md = re.sub(r"\A---\n.*?\n---\n", "", md, flags=re.S)
+    secs = re.split(r"\n(?=## )", md)
+    a, b = int(m.group(1)), int(m.group(2) or m.group(1))
+    return "\n".join(secs[a:b + 1])
+
+
+def pool(md, min_words, max_words):
+    """Every passage of one or more adjacent body paragraphs, min..max words, in order."""
     paras = paragraphs(md, keep_boxes=False, placeholders=True)
-    cands, i = [], 0
+    out, i = [], 0
     while i < len(paras):
         if paras[i][0] != "body":
             i += 1
             continue
         group, wc, j = [], 0, i
-        while j < len(paras) and wc < min_words:
+        while j < len(paras) and wc < min_words and paras[j][0] != "box":
             group.append(paras[j][1])
             wc += len(words(paras[j][1]))
             j += 1
-        if min_words <= wc <= max_words + 60:
-            cands.append("\n\n".join(group))
-        i = j
-    if len(cands) <= n:
-        return cands
-    step = len(cands) / n
-    return [cands[int(k * step + rng.random() * step)] for k in range(n)]
+        if min_words <= wc <= max_words:
+            out.append("\n\n".join(group))
+        i = max(j, i + 1)
+    return out
+
+
+def grams(t, n=4):
+    w = words(t)
+    return {tuple(w[i:i + n]) for i in range(len(w) - n + 1)}
+
+
+def pick(cands, n, rng, seen):
+    """n passages spread across the text, none a near-twin of anything already in `seen`."""
+    order = list(range(len(cands)))
+    if len(cands) > n:     # spread: one random draw per stretch, then the rest as reserves
+        step = len(cands) / n
+        first = [int(k * step + rng.random() * step) for k in range(n)]
+        order = first + [i for i in order if i not in first]
+    out = []
+    for i in order:
+        g = grams(cands[i])
+        if g and len(g & seen) / len(g) > TWIN:
+            continue
+        out.append(cands[i])
+        seen |= g
+        if len(out) == n:
+            break
+    return out
 
 
 NUMBER_WORDS = {str(i): w for i, w in enumerate(
@@ -325,7 +375,8 @@ NUMBER_WORDS = {str(i): w for i, w in enumerate(
 def house_style(t):
     """Apply the current house style (D32, D42) to any passage, old or new."""
     t = re.sub(r"\bQuran", "Qur'an", t)
-    t = t.replace("(ʿa)", "(as)")
+    t = t.replace("(ʿa)", "(as)").replace("’", "'").replace("‘", "'")
+    t = t.replace("“", '"').replace("”", '"')
     t = re.sub(r"\bChapter (\d+)\b", lambda m: "Chapter " + NUMBER_WORDS.get(m.group(1), m.group(1)), t)
     # Oxford comma: strip every comma before "and"/"or" in every passage alike.
     # (Adding commas heuristically created a false "comma before a pair" habit.)
@@ -333,78 +384,152 @@ def house_style(t):
     return t
 
 
-def blind(nn, chapter, control=None, n=4, seed=None):
-    rng = random.Random(seed if seed is not None else nn)
-    pro = read_source(f"{EXEMPLAR_REV}:{EXEMPLAR[0]}")
-    ch1 = read_source(f"{EXEMPLAR_REV}:{EXEMPLAR[1]}")
-    cut = ch1.index("## Some do see")          # reference: prologue + Ch 1 §1–3
-    reference = "\n\n".join(p for k, p in paragraphs(pro + "\n\n" + ch1[:cut],
-                                                      keep_boxes=False, placeholders=True)
-                            if k != "box")
-    items = [("exemplar", p) for p in passages(ch1[cut:], n, rng)]
-    items += [("chapter", p) for p in passages(read_source(chapter), n, rng)]
-    ctrl = control or CONTROLS[0]
-    cmd = read_source(ctrl)
-    if "## Some do see" in cmd:
-        cmd = cmd[cmd.index("## Some do see"):]
-    items += [("control", p) for p in passages(cmd, n, rng)]
-    rng.shuffle(items)
-    # House style is a giveaway, not voice: normalise it in every passage, so the
-    # judge cannot tell old text from new by conventions adopted later (D32, D42).
-    norm = house_style
-    reference, items = norm(reference), [(src, norm(p)) for src, p in items]
+JUDGE_NOTE = ("_Each passage below is either by Author A or by a different hand writing on "
+              "the same broad subject. Any number, including none or all, may be by a different "
+              "hand. Topic varies within one author's work: judge the voice, not the subject. "
+              "House style (spelling, honorifics, commas before 'and') has been made uniform, "
+              "and quotations show as [verse] or [quotation], so neither is evidence._\n")
 
+
+def blind(nn, cand, judges=("opus", "fable", "opus"), n=6, rnd="1", ctrl=None,
+          ref=None, pos=None, folds=None, min_words=120, max_words=260):
+    """One packet per judge, each with its own fold, sample and order."""
     VOICE_DIR.mkdir(parents=True, exist_ok=True)
-    labels = [chr(65 + i) for i in range(len(items))]
-    key = {lab: src for lab, (src, _) in zip(labels, items)}
-    key["_meta"] = {"chapter": chapter, "control": ctrl, "exemplar": EXEMPLAR_REV}
-    (VOICE_DIR / f"{nn}-key.json").write_text(json.dumps(key, indent=1))
-    lines = [f"# Voice packet {nn}\n",
-             "## Reference: Author A (all of this is by Author A)\n", reference,
-             "\n## Test passages\n",
-             "_Each passage below is either by Author A or by a different hand. "
-             "Any number, including none or all, may be by a different hand. "
-             "Topic varies within one author's work: judge the voice, not the subject._\n"]
-    for lab, (_, p) in zip(labels, items):
-        lines += [f"### Passage {lab}\n", p, ""]
-    out = VOICE_DIR / f"{nn}-packet.md"
-    out.write_text("\n".join(lines))
-    print(f"Packet: {out.relative_to(ROOT)} ({len(items)} passages). "
-          f"Key: {(VOICE_DIR / f'{nn}-key.json').relative_to(ROOT)} (do not show the judge).")
-    print(f"The judge writes reviews/voice/{nn}-answers.json, then run: "
+    folds = folds or ["A", "B"]
+    for k, model in enumerate(judges, 1):
+        rng = random.Random(f"{nn}-{rnd}-{k}")
+        fold = folds[(k - 1) % len(folds)]
+        refs = ref or FOLDS[fold]["ref"]
+        poss = pos or FOLDS[fold]["pos"]
+        ctrls = ctrl or CONTROL_POOL
+        reference = "\n\n".join(p for kind, p in paragraphs(
+            "\n\n".join(read_spec(s) for s in refs), keep_boxes=False, placeholders=True)
+            if kind != "box")
+        seen = grams(reference)
+        items = []
+        for src, specs in (("chapter", cand), ("exemplar", poss), ("control", ctrls)):
+            cands = []
+            for s in specs:
+                cands += pool(read_spec(s), min_words, max_words)
+            got = pick(cands, n, rng, seen)
+            if len(got) < n:
+                print(f"  note: judge {k} has {len(got)}/{n} {src} passages (pool too small)")
+            items += [(src, p) for p in got]
+        rng.shuffle(items)
+        reference = house_style(reference)
+        items = [(s, house_style(p)) for s, p in items]
+        labels = [chr(65 + i) for i in range(len(items))]
+        key = {lab: s for lab, (s, _) in zip(labels, items)}
+        key["_meta"] = {"candidate": cand, "reference": refs, "exemplar": poss,
+                        "control": ctrls, "fold": fold, "judge_model": model, "round": rnd}
+        stem = f"{nn}-j{k}"
+        (VOICE_DIR / f"{stem}-key.json").write_text(json.dumps(key, indent=1))
+        lines = [f"# Voice packet {stem}\n",
+                 "## Reference: Author A (all of this is by Author A)\n", reference,
+                 "\n## Test passages\n", JUDGE_NOTE]
+        for lab, (_, p) in zip(labels, items):
+            lines += [f"### Passage {lab}\n", p, ""]
+        (VOICE_DIR / f"{stem}-packet.md").write_text("\n".join(lines))
+        print(f"Judge {k} ({model}, fold {fold}): reviews/voice/{stem}-packet.md, "
+              f"{len(items)} passages, reference {len(words(reference))} words")
+    print(f"Run one fresh voice-judge per packet (Agent model as listed), then: "
           f"python3 build/voice.py score {nn}")
 
 
-def score(nn):
-    key = json.loads((VOICE_DIR / f"{nn}-key.json").read_text())
-    ans = json.loads((VOICE_DIR / f"{nn}-answers.json").read_text())
-    meta = key.pop("_meta")
-    flagged = {src: [] for src in ("exemplar", "chapter", "control")}
-    total = {src: 0 for src in flagged}
-    for lab, src in key.items():
-        total[src] += 1
-        a = ans.get(lab, {})
-        if a.get("verdict") == "different":
-            flagged[src].append((lab, a.get("confidence"), a.get("tells", [])))
-    fx, fc, fk = (len(flagged[s]) for s in ("exemplar", "chapter", "control"))
-    print(f"Blind voice test {nn}: {meta['chapter']} (control {meta['control']})")
-    print(f"  control flagged  {fk}/{total['control']}   (the judge must catch these)")
-    print(f"  exemplar flagged {fx}/{total['exemplar']}   (false alarms)")
-    print(f"  chapter flagged  {fc}/{total['chapter']}")
-    valid = fk >= (total["control"] + 1) // 2 + 1 if total["control"] > 2 else fk >= 1
-    passed = fc <= fx      # no more often than the real author in the same run
-    verdict = ("INVALID (judge missed the control; rerun with a fresh judge)" if not valid
-               else "PASS" if passed else "REWRITE")
+def auc(hi, lo):
+    """P(a random 'hi' score beats a random 'lo' score), ties count half."""
+    if not hi or not lo:
+        return float("nan")
+    return sum((h > l) + 0.5 * (h == l) for h in hi for l in lo) / (len(hi) * len(lo))
+
+
+def load_run(nn):
+    runs = []
+    for kf in sorted(VOICE_DIR.glob(f"{nn}-j*-key.json")):
+        af = Path(str(kf).replace("-key.json", "-answers.json"))
+        if not af.exists():
+            print(f"  missing {af.name}")
+            continue
+        key, ans = json.loads(kf.read_text()), json.loads(af.read_text())
+        ans = ans.get("passages", ans)
+        meta = key.pop("_meta")
+        rows = []
+        for lab, src in key.items():
+            a = ans.get(lab, {})
+            p = a.get("p", a.get("probability"))
+            if p is None:     # v1 answers: verdict and confidence only
+                c = a.get("confidence", 3)
+                p = 50 + 10 * c if a.get("verdict") == "same" else 50 - 10 * c
+            rows.append((src, float(p), lab, a))
+        runs.append((kf.name[:-9], meta, rows))
+    return runs
+
+
+def score(nn, quiet=False):
+    runs = load_run(nn)
+    if not runs:
+        sys.exit(f"No answers for {nn}")
+    per = []
+    print(f"Blind voice test {nn}: {runs[0][1]['candidate']}")
+    print(f"  {'judge':10} {'model':6} fold  mean p: A-held  chapter control   "
+          f"AUC A>control  A>chapter  chapter>control")
+    for stem, meta, rows in runs:
+        g = {s: [p for src, p, _, _ in rows if src == s] for s in ("exemplar", "chapter", "control")}
+        m = {s: st.mean(v) if v else float("nan") for s, v in g.items()}
+        r = (auc(g["exemplar"], g["control"]), auc(g["exemplar"], g["chapter"]),
+             auc(g["chapter"], g["control"]))
+        per.append((g, r))
+        print(f"  {stem:10} {meta['judge_model']:6} {meta['fold']:4} "
+              f"{m['exemplar']:13.0f} {m['chapter']:8.0f} {m['control']:7.0f}   "
+              f"{r[0]:13.2f} {r[1]:10.2f} {r[2]:16.2f}")
+    valid = st.mean(r[0] for _, r in per)
+    gap = st.mean(r[1] for _, r in per)
+    better = st.mean(r[2] for _, r in per)
+    # Bootstrap over passages within each judge: how sure is the A>chapter figure?
+    rng = random.Random(0)
+    boots = []
+    for _ in range(2000):
+        vals = []
+        for g, _ in per:
+            ex = [rng.choice(g["exemplar"]) for _ in g["exemplar"]]
+            ch = [rng.choice(g["chapter"]) for _ in g["chapter"]]
+            vals.append(auc(ex, ch))
+        boots.append(st.mean(vals))
+    boots.sort()
+    lo, hi = boots[int(0.05 * len(boots))], boots[int(0.95 * len(boots)) - 1]
+    if valid < VALID_AUC:
+        verdict = "INVALID (the panel could not tell Author A from the rejected drafts)"
+    elif gap <= PASS_AUC:
+        verdict = "PASS"
+    elif gap <= FAIL_AUC:
+        verdict = "BORDERLINE (act on the tells, then re-run)"
+    else:
+        verdict = "REWRITE"
+    print(f"  panel: validity AUC {valid:.2f} (need {VALID_AUC}); "
+          f"A-over-chapter AUC {gap:.2f} (90% {lo:.2f}-{hi:.2f}; pass <= {PASS_AUC}, "
+          f"rewrite > {FAIL_AUC}); chapter-over-control {better:.2f}")
     print(f"  verdict: {verdict}")
-    for lab, conf, tells in flagged["chapter"]:
-        print(f"  Passage {lab} (chapter, confidence {conf}): act on these")
-        for t in tells:
-            print(f"     - {t}")
-    if flagged["exemplar"]:
-        print("  False alarms on the real author: discount any chapter tell of the same kind")
-        for lab, conf, tells in flagged["exemplar"]:
-            for t in tells:
-                print(f"     - [{lab}] {t}")
+    out = {"validity_auc": valid, "a_over_chapter_auc": gap, "ci90": [lo, hi],
+           "chapter_over_control_auc": better, "verdict": verdict,
+           "judges": [{"stem": s, "model": m["judge_model"], "fold": m["fold"],
+                       "auc": dict(zip(("a_over_control", "a_over_chapter", "chapter_over_control"), r))}
+                      for (s, m, _), (_, r) in zip(runs, per)]}
+    (VOICE_DIR / f"{nn}-score.json").write_text(json.dumps(out, indent=1))
+    if quiet:
+        return verdict
+    # Tells: chapter passages rated below the median of Author A's own passages
+    for (stem, meta, rows), (g, _) in zip(runs, per):
+        bar = st.median(g["exemplar"]) if g["exemplar"] else 50
+        low = [(lab, p, a) for src, p, lab, a in rows if src == "chapter" and p < bar]
+        fa = [(lab, p, a) for src, p, lab, a in rows if src == "exemplar" and p < 50]
+        for lab, p, a in sorted(low, key=lambda x: x[1]):
+            print(f"  {stem} {lab} (chapter, p={p:.0f}; Author A median {bar:.0f}): act on these")
+            for t in a.get("tells", []):
+                print(f"     - {t}")
+        for lab, p, a in fa:
+            print(f"  {stem} {lab} (Author A false alarm, p={p:.0f}): discount chapter tells like these")
+            for t in a.get("tells", []):
+                print(f"     - {t}")
     return verdict
 
 
@@ -418,13 +543,14 @@ if __name__ == "__main__":
     a = sys.argv[1:]
     if not a:
         sys.exit(__doc__)
+    opt = lambda name, default=None: a[a.index(name) + 1] if name in a else default
+    lst = lambda name: opt(name).split(",") if opt(name) else None
     if a[0] == "profile":
-        specs = a[1:]
-        profile(specs or EXEMPLAR)
+        profile(a[1:] or EXEMPLAR)
     elif a[0] == "blind":
-        ctrl = a[a.index("--control") + 1] if "--control" in a else None
-        rnd = a[a.index("--round") + 1] if "--round" in a else "1"
-        blind(a[1], a[2], ctrl, seed=f"{a[1]}-{rnd}")
+        blind(a[1], [a[2]], judges=tuple(lst("--judges") or ("opus", "fable", "opus")),
+              n=int(opt("--n", 6)), rnd=opt("--round", "1"), ctrl=lst("--control"),
+              ref=lst("--ref"), pos=lst("--pos"), folds=lst("--folds"))
     elif a[0] == "score":
         v = score(a[1])
         sys.exit(0 if v == "PASS" else 1)

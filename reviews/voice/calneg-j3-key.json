@@ -1,0 +1,39 @@
+{
+ "A": "exemplar",
+ "B": "chapter",
+ "C": "control",
+ "D": "exemplar",
+ "E": "chapter",
+ "F": "exemplar",
+ "G": "control",
+ "H": "exemplar",
+ "I": "control",
+ "J": "chapter",
+ "K": "chapter",
+ "L": "control",
+ "M": "control",
+ "N": "chapter",
+ "O": "chapter",
+ "P": "control",
+ "Q": "exemplar",
+ "R": "exemplar",
+ "_meta": {
+  "candidate": [
+   "reviews/voice/corpus/X-ch02-v1-2d8143e.md"
+  ],
+  "reference": [
+   "reviews/voice/corpus/A-prologue.md",
+   "reviews/voice/corpus/A-ch01.md@0-3"
+  ],
+  "exemplar": [
+   "reviews/voice/corpus/A-ch01.md@4-9"
+  ],
+  "control": [
+   "reviews/voice/corpus/X-ch03-v1-2d8143e.md",
+   "reviews/voice/corpus/X-ch01-7225b76.md"
+  ],
+  "fold": "A",
+  "judge_model": "opus",
+  "round": "1"
+ }
+}
