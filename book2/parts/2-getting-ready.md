@@ -8,7 +8,7 @@ epigraph: "I have come running to You and am standing before You imploring You i
 source: "Munajat Shaʿbaniyyah"
 ---
 
-The road to God runs through our own self, which is deeper than it looks. The shariʿa is its boundary from the first step to the last, and a tested guide walks beside the traveller, under Imam al-Mahdi (atfs) and never in his place.
+The road to God runs through our own self, which is deeper than it looks. The shariʿa is its boundary from the first step to the last, and a tested guide walks beside the traveller, under the Imams (as) and never in their place.
 
 4 · Know yourself, know your Lord\
 5 · The soul and its worlds\

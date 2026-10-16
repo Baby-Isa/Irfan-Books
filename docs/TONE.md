@@ -206,7 +206,7 @@ Once he is named, the rest of that line of thought belongs to him, so don't name
 - Before: "The lectures allow that reading but prefer the other, and set beside the saying narrations which show that it speaks of a knowledge that is possible."
 - After: "The lectures accept that reading but prefer the other. Other narrations show that the saying speaks of a knowledge we can reach."
 - Before: "a tested guide walks beside the traveller, under the Imam, never in his place"
-- After: "a tested guide walks beside the traveller, under Imam al-Mahdi (atfs) and never in his place"
+- After: "a tested guide walks beside the traveller, under the Imams (as) and never in their place" (L14 ¶8–9 means the line of Imams, so the plural names them)
 **Don't:** compress. The reader should enjoy the read, not decode it. `build/voice.py profile` flags sentences of 30+ words with three or more commas.
 
 ### 39. Open the chapter on its own title
