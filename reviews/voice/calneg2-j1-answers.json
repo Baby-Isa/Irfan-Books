@@ -1,0 +1,48 @@
+{"profile": [
+  "Opens a paragraph on the previous paragraph's point, often restating it as a premise: 'If the signs are present and plain and yet we still pass them by, the fault is on our side.' / 'Placing the fault in the receiver has two consequences.'",
+  "Ends paragraphs on the point itself, sometimes with a short plain sentence rather than an aphorism: 'Most of us see only the lamp.' / 'In most of us, he says, it is not working.'",
+  "Medium-length declarative sentences, plainly built; semicolons join contrasts: 'God is not withholding signs; we are failing to receive them.' Occasional 'whereas': 'Eyes and ears take in the surface of things, whereas inside a human being...'",
+  "Brings sources in with plain verbs and phrases: 'In Murtada Mutahhari's words', 'Imam Khomeini insists', 'ʿAllama Tabatabaʾi explains', 'Sheikh Bahmanpour reads it as'; 'he says' is set mid-sentence but sparingly",
+  "Explains a verse or quotation straight after it: after the cattle verse, 'Cattle see and hear perfectly well, so the comparison cannot be about the senses.'",
+  "Inclusive 'we' / 'most of us', rarely 'you'; an occasional 'let's' to begin a step: 'Let's start with two claims.' / 'Most of us see only the lamp.'",
+  "Plain written register, concrete examples (red light, lamp, rain, marriage); no grand diction, no slang",
+  "Chapter openings follow a formula: quotation, then 'These words come from...' or 'There is a verse often recited at weddings, one most of us know.', then what the line asks for",
+  "Signposts structure explicitly and soberly: 'The first is...', 'The second claim goes further', 'Each answers one question and depends on the one before.'",
+  "Never uses rhetorical questions, scene-setting suspense, sentence fragments for effect, scolding, or tidy summary aphorisms; does not withhold names"
+ ],
+ "passages": {
+  "A": {"p": 35, "verdict": "different", "tells": [
+    "'The first three ranks, he says, ... ordinary people, he says, ... It is difficult, he says, ... yet he says ... A human being, he says' — five 'he says' in two paragraphs, used as filler; Author A sets 'he says' once at most per paragraph and otherwise reports with 'Sheikh Bahmanpour reads...'",
+    "'He means this as a statement of what we were made for.' — a gloss that repeats rather than moves on; Author A would go straight from the quotation to its consequence"]},
+  "B": {"p": 38, "verdict": "different", "tells": [
+    "'Three of the great teachers of the tradition speak to how fikr and suluk relate. For Imam Khomeini and ʿAllama Tabatabaʾi...' — announces three and names two; Author A's signposting counts exactly ('Placing the fault in the receiver has two consequences. The first...')",
+    "'He adds that ... The sciences, he goes on, ... In another place he gives the view...' — a chain of quotations from one teacher left unexplained; Author A explains each quotation before moving on",
+    "'Imam Khomeini puts little store by mere knowledge.' — idiomatic, slightly literary turn; Author A would write 'Imam Khomeini says that knowledge alone...'",
+    "'A path that is not thought alone leaves open what study is for.' — abstract, compressed opening; Author A states the link plainly"]},
+  "C": {"p": 70, "verdict": "same", "tells": ["Picks up the previous point ('Reason has a limit and Sheikh Bahmanpour says where it lies'), concrete examples ('brown or square or useful'), and an 'If this is true of..., it is true far more of God' step, as in the reference."]},
+  "D": {"p": 60, "verdict": "same", "tells": ["Semicolon contrast ('through speech and writing; we have no such experience...'), 'for Sheikh Bahmanpour' and 'the Sheikh adds' used sparingly, plain register; the second paragraph's opening slightly repeats the first."]},
+  "E": {"p": 64, "verdict": "same", "tells": ["Semicolon antithesis opening, 'Sheikh Bahmanpour is careful about what this means', the verse explained straight after ('The Arabic for \"brought near\" is muqarrabun'), all as in the reference."]},
+  "F": {"p": 68, "verdict": "same", "tells": ["Sober signposting ('The second kind is...'), a back-reference to the chapter's opening example, and a short plain closing ('the cause is not the feeling') rather than an aphorism."]},
+  "G": {"p": 62, "verdict": "same", "tells": ["Recap in plain declaratives like 'This book argues that...' in the reference; the second paragraph picks up 'pursuing ʿirfan' and ends on 'learning to hear and see', echoing the reference's 'making the soul hear, see and reflect'."]},
+  "H": {"p": 8, "verdict": "different", "tells": [
+    "'The families have gathered and the nikah is about to be read.' — present-tense scene-setting for effect; Author A opens 'There is a verse often recited at weddings, one most of us know' and moves straight to what the verse says",
+    "'It is beautiful and it is true.' and 'The floor is real and it saves.' — tidy aphoristic closing lines; Author A ends on the point ('This claim is not contested.')",
+    "'Nothing in this chapter asks you to doubt the first claim.' — addresses and reassures 'you'; Author A uses 'we' and simply states 'This claim is not contested'",
+    "'Start with what is not in dispute.' — bare imperative to the reader; Author A writes 'Let's start with two claims.'"]},
+  "I": {"p": 55, "verdict": "same", "tells": ["Opens on a familiar experience (like the reference's wedding verse), then 'Most of what we know of God...' and a plain back-reference to Chapter One; 'They do not read it in a book or work it out from the clock' is a little more literary than usual."]},
+  "J": {"p": 70, "verdict": "same", "tells": ["Same opening formula as the reference ('These words come from...', what the prayer is and when 'many of us' recite it, 'The line asks God for...'), then picks up the last chapter's question and states the chapter's task."]},
+  "K": {"p": 64, "verdict": "same", "tells": ["'Let's start with...' as in the reference; the quotation is explained straight after (the Arabic term glossed), and 'In the heart, he answers, it is.' is plain and on the point."]},
+  "L": {"p": 66, "verdict": "same", "tells": ["Opens on the previous point ('Knowledge that analysis cannot produce has to come from somewhere else'), explains the hadith straight after, and the closing paragraph picks up the hadith's own words."]},
+  "M": {"p": 40, "verdict": "different", "tells": [
+    "'Then: \"These are shirk.\"' — a dramatic fragment; Author A introduces quotations in full sentences ('In Murtada Mutahhari's words, the ʿarif ...')",
+    "'He ended his first lecture more strongly.' — narrates the lecture for effect; Author A reports the Sheikh's view ('Sheikh Bahmanpour reads it as...')",
+    "'... though he may not admit it by word of mouth'.' — the paragraph ends on a stacked quotation from ʿAllama Tabatabaʾi with no comment; Author A explains a quotation before moving on"]},
+  "N": {"p": 70, "verdict": "same", "tells": ["'If the faculty can be repaired, there should be people in whom it already works' picks up the reference's argument exactly; the verse is explained straight after, then a plain link to the next verse."]},
+  "O": {"p": 62, "verdict": "same", "tells": ["'Most of us fear Allah's punishment' uses the reference's 'most of us' stance; 'Sheikh Bahmanpour reads ... as' and plain verse-to-verse linking. 'Tawhid is simple to say and hard to grasp' is a slightly neat antithesis, but it sits mid-paragraph."]},
+  "P": {"p": 62, "verdict": "same", "tells": ["Picks up 'this humility', reports the Sheikh with a mid-sentence 'he says' and 'the Sheikh adds', and ends plainly on what God granted the Imams."]},
+  "Q": {"p": 38, "verdict": "different", "tells": [
+    "'One addresses the heart of the seeker, the other the eye of the one choosing a guide. Neither makes powers the aim of the path.' — a balanced antithesis plus a summary line at the paragraph's end; Author A stops on the point",
+    "'Reading minds or foretelling the future, he says, \"becomes possible...\", but \"the stage of proximity...\" and such things \"are not a sign...\"' — three quotation fragments stacked in one sentence; Author A gives one quotation and explains it",
+    "'One addresses...' — unclear which teacher 'One' is; Author A names who is meant"]},
+  "R": {"p": 58, "verdict": "same", "tells": ["Picks up 'the same petition', notes the Sheikh plainly, glosses the Arabic word after the quotation and links it back to Chapters One and Two; the jump to Duʿa ʿArafah is a little abrupt."]}
+ }}

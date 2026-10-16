@@ -1,0 +1,38 @@
+{"profile": [
+  "Opens a paragraph on the previous paragraph's point, often restating it as the subject: 'Placing the fault in the receiver has two consequences.' / 'An invitation addressed to those who reflect, know, listen and reason implies that many people do none of these things.'",
+  "Ends paragraphs on the point itself or a plain explanatory sentence, rarely a crafted flourish: 'In most of us, he says, it is not working.'",
+  "Medium-length, plain declarative sentences mixed with short ones; no fragments for effect: 'That machine is the soul. It has to be repaired before it can catch the signals of God.'",
+  "Uses semicolons to pair clauses and colons to introduce lists or glosses; occasional 'whereas': 'God is not withholding signs; we are failing to receive them.' / 'Eyes and ears take in the surface of things, whereas inside a human being...'",
+  "Brings the lecturer in with neutral reporting verbs, often mid-sentence: 'Most pious people, he says, even those careful about the shariʿa...' / 'He adds that this is not easy...'",
+  "Introduces scholars by full name with 'In X's words' or a plain verb ('insists', 'explains'), then explains the quotation: 'ʿAllama Tabatabaʾi explains what passing by a sign means; a person who sees a red light...'",
+  "Glosses Arabic terms inline with a comma apposition: 'maʿrifah, knowledge' / 'the wajibat'",
+  "Inclusive 'we/us', occasional 'Let's start with' / 'let's turn to'; almost no direct 'you': 'Let's start with two claims.'",
+  "Signposts chapters and structure plainly: 'That something and why it is worth developing, is the subject of this chapter.' / 'as Chapter One shows'",
+  "Register plain, written, concrete; slightly formal set phrases ('For the avoidance of doubt'); no rhetorical questions, no jokes, no grand diction",
+  "Never stacks antithetical punchlines or literary cadences; never uses 'Here is' presentational openings or fragments like 'None of it is exotic.'"
+],
+ "passages": {
+  "A": {"p": 72, "verdict": "same", "tells": ["'Let's start with...', lecturer reported with 'he says'/'he answers', Arabic term glossed inline ('inqitaʿ, being cut off'), and a back-reference to Chapter One, all as in the reference."]},
+  "B": {"p": 60, "verdict": "same", "tells": ["The quotation is explained right after ('Shirk, setting up a partner beside God, is...'), and Tabatabaʾi is brought in by full name with plain verbs. 'Then:' is a little clipped but not out of character."]},
+  "C": {"p": 28, "verdict": "different", "tells": [
+    "'Here is the passage the wedding verse belongs to.' — a presentational 'Here is' opener; Author A introduces verses with a plain statement ('The Qur'an describes the gap in one verse.')",
+    "'None of it is exotic. It is the ordinary material of a Muslim's week' — clipped fragment-style rhetoric with a writerly phrase; Author A states the point plainly ('The signs are all around us: in marriage, ...')",
+    "'The Qur'an is not asking for a new set of duties. It is asking whether we perceive what is already in front of us.' — a crafted not-X/but-Y antithesis pair; Author A uses one sentence with a semicolon",
+    "'to see, in the marriage and the sleep and the rain, the One whose signs they are.' — lyrical 'and'-chain closing flourish; Author A ends paragraphs on a plain explanatory sentence"
+  ]},
+  "D": {"p": 68, "verdict": "same", "tells": ["Opens exactly like the prologue ('These words come...'), then explains the prayer's context plainly and signposts the chapter ('This chapter sets out what those prayers ask for')."]},
+  "E": {"p": 55, "verdict": "same", "tells": ["Arabic glossed inline and lecturer reported mid-sentence; 'he says' is used more densely than in the reference, which weakens but does not overturn the match."]},
+  "F": {"p": 65, "verdict": "same", "tells": ["Semicolon-paired contrast, 'Sheikh Bahmanpour points out', and the term explained after the verse ('The Arabic for \"brought near\" is muqarrabun') match Author A."]},
+  "G": {"p": 62, "verdict": "same", "tells": ["Numbered steps ('The second gift', 'The third gift'), plain glossing of hayat tayyiba, and a short bridge sentence to the next verse, like 'The Qur'an describes the gap in one verse.'"]},
+  "H": {"p": 65, "verdict": "same", "tells": ["Picks up the last point ('A light placed in one heart...'), uses 'for Sheikh Bahmanpour' and 'the Sheikh adds', plain we-voice."]},
+  "I": {"p": 66, "verdict": "same", "tells": ["Opens on the previous petition, explains the quotation afterward and glosses the term, with chapter back-references, as in the reference."]},
+  "J": {"p": 62, "verdict": "same", "tells": ["Picks up 'this humility', reports the Sheikh with mid-sentence 'he says' and 'the Sheikh adds', plain sentences."]},
+  "K": {"p": 57, "verdict": "same", "tells": ["Introduces scholars plainly and explains quotations; 'A path that is not thought alone leaves open what study is for' is a bit abstract, but the rest matches."]},
+  "L": {"p": 68, "verdict": "same", "tells": ["'Let's start with...', inline Arabic glosses (ʿilm al-husuli, hadd), concrete step-by-step explanation and 'he adds', as in the reference."]},
+  "M": {"p": 65, "verdict": "same", "tells": ["Picks up the last point, uses 'the Sheikh says'/'he grants', explains the quotation, and signposts Chapter Four plainly."]},
+  "N": {"p": 66, "verdict": "same", "tells": ["Picks up 'Acquired knowledge', plain gloss of ʿaql, concrete examples (brown, square, useful), and 'In the Sheikh's account'."]},
+  "O": {"p": 70, "verdict": "same", "tells": ["The opening conditional picks up the previous argument ('If the faculty can be repaired...'), the verse is explained after it, and the sentence leads plainly into the next verse."]},
+  "P": {"p": 55, "verdict": "same", "tells": ["The definition is reported with 'he says' and the quotation explained; the long recap paragraph ending 'ʿIrfan, then, is worth pursuing' is a summary close, but it fits a chapter conclusion in Author A's plain register."]},
+  "Q": {"p": 52, "verdict": "same", "tells": ["Scholars brought in with plain verbs and full names; the last paragraph partly restates what was just quoted, which is weaker, but it ends by explaining the reason, as Author A does."]},
+  "R": {"p": 62, "verdict": "same", "tells": ["Opens on 'the same line', explains the shared root of huduriyya, and adds a plain sentence after the Mutahhari quotation to say what it means."]}
+ }}
