@@ -114,6 +114,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | miʿraj | meraj | | The Prophet's ascension | L01 |
 | Mafatih al-Jinan | | | The prayer manual compiled by Shaykh ʿAbbas Qummi | L01 |
 | munajat | munajat | | An intimate, whispered prayer addressed to God | L01 |
+| Musabbihat | al Musabbihaat | | The five surahs that open with God's glorification (57, 59, 61, 62, 64), recited by the Prophet ﷺ before sleep | L07 |
 | muhasaba | Muhasabha, Mahasabha | | Self-accounting of one's actions, feelings and attitudes | L12 |
 | muhayyamin | mohayyemeen | | Angels lost in love of God | L01 |
 | muhsin (pl. muhsinin) | mohsin, mohsineen, mohsenoon, muhsinun, muhsinin | | One who has ihsan | L06 |
