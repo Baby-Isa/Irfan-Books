@@ -8,9 +8,9 @@ chapter: 3
 And my heart enthralled by Your love! [@duas_dua_kumayl, §221]
 :::
 
-These words come near the end of Duʿa Kumayl, the prayer Imam ʿAli (as) taught to Kumayl ibn Ziyad, one of his closest disciples. The Mafatih al-Jinan recommends it on every Thursday evening, the night before Friday, when many of us hear it [@mafatih, p. 129]. The line asks God for a heart enthralled by His love.
+These words come near the end of Duʿa Kumayl, the prayer Imam ʿAli (as) taught to Kumayl ibn Ziyad, one of his closest disciples. It is a prayer many of us hear on Thursday evenings [@mafatih, p. 129]. The line asks God for a heart enthralled by His love.
 
-Knowing God, rather than only knowing about Him, comes through purifying the heart. That leaves the question of where an ordinary believer already stands on this path. Duʿa Kumayl asks for the love that goes with that knowing, and other prayers we recite ask for the knowing itself. This chapter sets out what these words we already know ask for: the knowing and love that ʿirfan seeks.
+A heart enthralled by God's love is one of the two things ʿirfan seeks. Other prayers we recite ask for the second, knowing God. This chapter shows that we already know these words.
 
 ::: {.words}
 *duʿa*: supplication, any request made to God · *munajat*: an intimate, whispered prayer to God · *Mafatih al-Jinan*: the standard manual of Shia prayers · *inqitaʿ*: severance of the heart from all but God
@@ -57,26 +57,23 @@ The prayers then ask for what ʿirfan seeks: to see God with the heart, to love 
 
 1. A heart cleared of everything but God is free to ask three things of Him.
 2. The first is sight, though the Qur'an says sight cannot perceive God.
-3. The eyes cannot catch God, but the heart can, once God gives it light.
-4. The lighting of any heart is God's act, so the light is asked of Him.
-5. The second request is love: a place among God's friends.
-6. That friendship is knowledge of God and love of Him, the two things ʿirfan seeks.
-7. The third request is nearness.
-8. The Munajat asks that the heart's own passion bring it near; a prayer of the Sahifa asks to join those already near.
-9. Nearness is felt when we call on God. Therefore the three requests, sight, love, and nearness, are what ʿirfan seeks.
+3. The eyes cannot catch God, but the heart can, once God gives it the light only He can give.
+4. The second request is love: a place among God's friends.
+5. That friendship is knowledge of God and love of Him, the two things ʿirfan seeks.
+6. The third request is nearness.
+7. The Munajat asks that the heart's own passion bring it near; a prayer of the Sahifa asks to join those already near.
+8. Nearness is felt when we call on God. Therefore the three requests, sight, love, and nearness, are what ʿirfan seeks.
 :::
 
 A heart cleared of everything but God is free for Him. The prayers go on to ask for three things: to see God with the heart, to love Him, and to come near Him.
 
 The first is sight. The Munajat asks God to light the eyes of the heart so that they look at Him and pass even through the veils of light. Yet the Qur'an says that sight cannot perceive God (Q 6:103), so some who meet these words take them for a mistake. Sheikh Bahmanpour raises this difficulty himself.
 
-His answer, given in a later lecture, is that the eyes cannot catch God but the heart can. That agrees with the verse. Our physical eyes work perfectly well. We still miss God's signs, because the inner faculty behind them is blind. The prayer asks God to give that inner faculty, the eye of the heart, light to see by. Duʿa ʿArafah speaks of that light as something God has already lit in the hearts of His friends.
+His answer, given in a later lecture, is that the eyes cannot catch God but the heart can. That agrees with the verse. Our physical eyes work perfectly well. We still miss God's signs, because the inner faculty behind them is blind. The prayer asks God to give that inner faculty, the eye of the heart, light to see by, and only He can give it. Duʿa ʿArafah says He has already lit that light in the hearts of His intimate servants, the friends of God (*awliyaʾ*).
 
 ::: {.quote ar="أَنْتَ ٱلَّذِي أَشْرَقْتَ ٱلأَنْوَارَ فِي قُلُوبِ أَوْلِيَائِكَ" source="Duʿa ʿArafah"}
 It is You Who have lit the illuminations in the hearts of Your intimate servants [@duas_dua_arafah_imam_husain, §781]
 :::
-
-"Your intimate servants" here are the friends of God (*awliyaʾ*). The line names God as the one who lit their hearts. The lighting of any heart is His act, which is why the Munajat asks Him for the light.
 
 The second request is love. The Munajat asks for a place among God's friends, and it defines that place by love.
 
@@ -121,7 +118,7 @@ Here I am begging You by my need for You. [@duas_dua_arafah_imam_husain, §689]
 
 Need is the only plea in this line, and the Munajat line at the head of Part One goes further. There the reciter admits to having had no strength to move away from disobedience "except when You awakened me to Your love" [@light, p. 164], so even the turning towards God is His doing.
 
-The answer to the difficulty rests on the same humility. The words do not claim that the reciter has reached their level. They plead from below it. Many of their meanings are above us, and not understanding them does not make them meaningless. We are honoured by the invitation to recite them. If the reciter is sincere, God may grant the request, as He granted the Imams what they asked.
+The answer to the difficulty rests on the same humility. The words plead from below their level rather than claim it, so a reciter may say them without understanding many of their meanings. We are honoured to be invited to recite them, and God may grant a sincere reciter's request, as He granted the Imams what they asked.
 
 ::: {.box-word title="Word Study: duʿa and munajat"}
 *Duʿa* is the general word for supplication: any request addressed to God, in any words. A *munajat* is one kind of duʿa. The Mafatih's English calls the Munajat Shaʿbaniyyah a "confidential prayer" [@mafatih, p. 243], and William Chittick translates the fifteen munajat printed with the Sahifa as "whispered prayers" [@sahifa, p. 9]. Both translations describe speech meant for God alone. Mirza Jawad Maliki Tabrizi explains why the Imams' supplications reach further than their other words. In their narrations they spoke with people, whereas in their supplications they spoke with God, and the level of speech depends on the understanding of the one addressed. The Qur'an, he writes, is a "Descending-Qur'an", God's words to His servants. The supplications are an "Ascending-Qur'an", the words of His most distinguished servants rising towards Him [@journey, p. 43].
@@ -161,14 +158,11 @@ Sheikh Bahmanpour still recommends the Munajat to every listener, to be recited 
 ::: {.point}
 The goal of ʿirfan is already on the believer's lips.
 
-1. The prayers we already have ask for what ʿirfan seeks: severance, light, love, and nearness.
-2. Therefore, said from need on nights we keep, the goal of ʿirfan is already on our lips.
-3. The prayers keep asking God to work on the heart, the self within us, which leaves the question of what the self is.
+1. Therefore: the prayers ask for what ʿirfan seeks, from need, on nights we keep, so its goal is already on our lips.
+2. The prayers keep asking God to work on the heart, the self within us, which leaves the question of what the self is.
 :::
 
-Access to these words is where an ordinary believer already stands on the path. The Munajat Shaʿbaniyyah, Duʿa Kumayl, Duʿa Abu Hamza al-Thumali, and Duʿa ʿArafah ask for the knowing that ʿirfan seeks and the love that goes with it. They ask God to cut the heart off from all else, to light it, to fill it with His love, and to bring it near.
-
-They ask in the voice of someone in need, on nights the ordinary believer keeps. The goal of ʿirfan is therefore not foreign to us: it is already on our lips.
+Access to these words is where an ordinary believer already stands on the path. The prayers ask for what ʿirfan seeks, in the voice of someone in need, on nights the ordinary believer keeps. The goal of ʿirfan is therefore not foreign to us: it is already on our lips.
 
 These prayers keep asking God to work on the heart, the self within us. What is this self?
 

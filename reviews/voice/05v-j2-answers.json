@@ -1,0 +1,67 @@
+{"profile": [
+  "Opens a paragraph on the last one's point, often by naming it: 'The second claim goes further and it is the one this book disputes.' / 'Placing the fault in the receiver has two consequences.' / 'Repair is only the start.'",
+  "Ends a paragraph on the point itself, usually a short plain sentence, not a flourish: 'That side of the religion is called ʿirfan.' / 'In most of us, it is not working.' / 'God is not withholding signs; we are failing to receive them.'",
+  "Short-to-medium sentences in a steady rhythm, with frequent four-to-eight-word declaratives: 'This claim is not contested.' / 'That machine is the soul.' Joins with 'and' are common but single, never chained ('We witness the rain as rain and the marriage as a marriage and we pass them by' is the longest).",
+  "Semicolons carry contrasts, colons introduce lists; 'whereas' appears once: 'A faculty that exists but has rusted can be repaired; one that is absent cannot be made fit for purpose.' / 'Surah al-Rum names three more sets of signs: the creation…; our sleep and our work; the lightning and the rain'.",
+  "Sources named once with a plain verb and then referred to as 'the Sheikh'; verbs are 'compares', 'explains', 'insists', 'makes the same point', 'accepts'; 'says' is rare and never filler: 'Sheikh Bahmanpour compares this faculty to a machine.' / 'ʿAllama Tabatabaʾi explains what passing by a sign means'.",
+  "Quotations are short, embedded in the sentence, and immediately applied: after the rusted-machine quote, 'That machine is the soul. It has to be repaired before it can catch the signals of God.' A standalone [verse] is set up by a lead-in sentence ('The Qur'an describes the gap in one verse.') and followed by explanation ('Cattle see and hear perfectly well, so the comparison cannot be about the senses.').",
+  "Stance is first-person plural and includes the writer in the failing: 'Most of us see only the lamp.' / 'we are more likely to see a reason for division than a sign of God'. 'Let's' opens a step ('Let's start with two claims'); 'you' is almost absent; no scolding, no presuming what the reader feels.",
+  "Numbered signposting carries the argument: 'The first is… The second is…', 'Four times in a row', 'Three guiding principles… The first… The second… The third principle is the most important'.",
+  "Diction is plain and concrete, written not spoken: red light and lamp, rusted machine, cattle, 'pays what is due'; Arabic terms are glossed inline ('maʿrifah, knowledge'). Occasional formal legal phrasing ('For the avoidance of doubt').",
+  "Argument moves one step per paragraph; a paragraph never adds a remark that leaves the argument where it was, and a conclusion is stated once ('This is the whole subject in one sentence: mysticism is about making the soul hear, see and reflect.') and then developed, not repeated.",
+  "Never uses rhetorical questions, aphorisms, suspense or staging ('Then:'), 'thus'/'therefore' connectives, dramatic one-sentence paragraphs, or vague abstractions ('the terms are entirely different')."
+ ],
+ "passages": {
+  "A": {"p": 68, "verdict": "same", "tells": ["Opens on the previous point ('Knowledge that analysis cannot produce has to come from somewhere else'), explains the quotation at once ('The hadith sets the two kinds of knowing side by side'), and closes with a plain lead-in to the next step."]},
+  "B": {"p": 62, "verdict": "same", "tells": ["Numbered step ('The first is sleep'), short declaratives with a contrastive semicolon ('It does not leave the body completely; if it did, we would be dead'), quotation applied after it is given; only the slight re-gloss 'It has our shape, but it is not made of any material elements' is loose."]},
+  "C": {"p": 40, "verdict": "different", "tells": [
+    "'The prayer asks to be placed with these: among those chosen for His nearness' — restates the paragraph's opening sentence ('asks for a place among those who have already been brought near'); Author A states a point once.",
+    "'Sheikh Bahmanpour read several of its lines to his listeners' / 'the Sheikh says' — stages the lecture and uses 'says' as filler; Author A names the Sheikh for a comparison or claim, not for the occasion.",
+    "'He cites them to show that ʿirfan has its sources inside Islam, with no need to look for its origin elsewhere' — a true remark that closes the passage without moving the argument on, and the second half repeats the first."
+  ]},
+  "D": {"p": 30, "verdict": "different", "tells": [
+    "'The hadith say that the groups are formed \"according to their true natures\". On that day, \"when the veil…\". Some \"could have fallen lower than a bug…\"' — three quotations stacked with the source withheld until 'Shomali writes' two paragraphs later; Author A names the source first and quotes once.",
+    "'A soul with no fixed station can sink below every animal as well as rise above the angels' — paraphrases the quotation just given instead of taking it somewhere.",
+    "'goes ahead of them and lights their way and it is their own' — an 'and' chain; Author A would write 'goes ahead of them and lights their way; it is their own'.",
+    "'\"They are just the realities of those actions made manifest in another universe\"' — passage ends on an unexplained quotation; Author A follows a quotation with its application."
+  ]},
+  "E": {"p": 55, "verdict": "same", "tells": ["The four-rank sentence with semicolons and inline glosses ('the truthful (siddiqin); the shuhadaʾ, which the translation used here renders \"martyrs\"…') and 'The first three ranks are beyond us; the fourth is a doorway' are Author A's manner; against it, 'For the muqarrabun, the terms are entirely different' is a vague one-line paragraph."]},
+  "F": {"p": 35, "verdict": "different", "tells": [
+    "'A light placed in one heart can reach another and this, for Sheikh Bahmanpour, is how the knowledge of the ʿurafaʾ travels… The knowledge of the ʿurafaʾ, he says, nonetheless passes in the second way' — the paragraph says heart-to-heart three times; Author A says it once and moves on.",
+    "'for Sheikh Bahmanpour' / 'he says' / 'the ʿurafaʾ say' / 'the Sheikh adds' — four attributions in two short paragraphs, 'says' and 'adds' as filler.",
+    "'It reaches the heart through him, even when we do not realise it' — a closing line that adds a remark without a next step."
+  ]},
+  "G": {"p": 40, "verdict": "different", "tells": [
+    "'That doorway is open to people like us: ordinary people can also enter the realm of the muqarrabun. It is difficult, but it is open, because we are made for it.' — says 'open' three times and the colon restates the clause before it; Author A would write the point once.",
+    "'He means this as a statement of what we were made for' — repeats 'because we are made for it' from two sentences earlier.",
+    "'This is the case for pursuing ʿirfan. The Qur'an invites more than the minimum and what stands in the way is a faculty in us that can be repaired… That rank is open to any believer' — a summary paragraph that restates conclusions already made, with a tidy last line."
+  ]},
+  "H": {"p": 75, "verdict": "same", "tells": ["'Let's start with the two kinds of knowing' matches the reference's 'Let's start with two claims'; concrete, stepwise exposition (hadd as limit, 'the rational animal' as a line drawn round us) and the second paragraph picks up 'Acquired knowledge' from the first."]},
+  "I": {"p": 70, "verdict": "same", "tells": ["Each source is named once with a plain verb, quoted briefly and then applied ('In his scheme, what is learned from the jurist begins the circle…'; 'His list starts with the heart and every item after it is a form of purification'); ordered signposting in 'Murtada Mutahhari, the third'."]},
+  "J": {"p": 65, "verdict": "same", "tells": ["Contrastive semicolon opening ('Other people look at the surface of the world; the friends of God look at what lies inside it'), the inclusive 'as we do', the numbered 'The first gift is nearness', and a verse set up and then glossed ('The Arabic for \"brought near\" is muqarrabun')."]},
+  "K": {"p": 38, "verdict": "different", "tells": [
+    "'The scholars differ in emphasis but agree that powers are not the aim.' — a summary line that adds nothing to what the previous paragraph showed.",
+    "'Mutahhari also explains why seeking them would be shirk: the goal has become something other than God.' — restates the quotation already given ('for one's goal… to be something other than God Himself'); Author A does not explain a quotation twice.",
+    "'and he recalls Imam ʿAli (as) saying that he worshipped God not from fear of His Fire or desire for His Paradise but because…' — a long 'and'-joined tail to an already quoted sentence; Author A would start a new sentence."
+  ]},
+  "L": {"p": 62, "verdict": "same", "tells": ["Opens on the reference's own last point ('If the faculty can be repaired, there should be people in whom it already works'), sets up the verse with a lead-in and explains it concretely ('A heart trembles only at the mention of someone it has some experience of'); only 'thus' is slightly off."]},
+  "M": {"p": 68, "verdict": "same", "tells": ["Ordered states ('This is the second state… the third state'), glossed Arabic in brackets, verse set up and then applied in one plain sentence ('That God swears by this self shows its worth'), and a paragraph that ends on the point."]},
+  "N": {"p": 40, "verdict": "different", "tells": [
+    "'Then: \"These are shirk.\"' — staged suspense and a dramatic fragment; Author A would write 'He calls these shirk' inside the sentence.",
+    "'Shirk, setting up a partner beside God, is the gravest charge in Islam.' — a closing flourish after the quotation rather than an application of it.",
+    "'must be held apart from the real thing' — spoken, informal phrasing; Author A would write 'is not what this book means by ʿirfan'.",
+    "'Sheikh Bahmanpour ended his first lecture more strongly.' — describes the lecture occasion; Author A reports what the Sheikh says or compares, not when he said it."
+  ]},
+  "O": {"p": 72, "verdict": "same", "tells": ["Concrete illustration before the term ('Every person we have met has a particular height, voice and face. Yet the mind can grasp \"a human being\" with none of these features'), inline gloss of Arabic, and the second paragraph picks up and orders the three worlds without a closing line."]},
+  "P": {"p": 40, "verdict": "different", "tells": [
+    "'A face can show faith or its absence to those with eyes to see it and a pious person's face can carry light. In this world the change is slow and small and it never deforms the body.' — 'and' chains in consecutive sentences; Author A breaks these into separate sentences or uses a semicolon.",
+    "'The soul's state when it leaves the body fixes that form: \"in whichever state one's soul departs from the body, it assumes a form suited to it…\"' — claim, colon and quotation stacked, and the quotation only repeats the claim.",
+    "Two quotations from Imam Khomeini in one paragraph with no application after the second; Author A quotes once and then says what it means."
+  ]},
+  "Q": {"p": 55, "verdict": "same", "tells": ["Chapter opening in the reference's own pattern ('These words come from the Munajat Shaʿbaniyyah…', then 'This chapter sets out the soul and its worlds: which worlds…, how…, and how…'); 'many of us picture a waiting room' includes the writer; against it, 'The tradition does the same' and 'Death is what we stand before at a graveside' are looser links than Author A's."]},
+  "R": {"p": 35, "verdict": "different", "tells": [
+    "'Familiarity with the words is not the same as reaching what they describe and the scholars say so.' — 'and the scholars say so' is filler; Author A would name the scholar and let the quotation do the work.",
+    "'Imam Khomeini, in one of his talks… \"he tells his listeners\"… Imam Khomeini makes a narrower point' — the same teacher named twice in two paragraphs with three quotations between them, and the source placed vaguely ('in one of his talks').",
+    "'he says that \"those who are fit to do so\" should pray in the style of the Shaʿbaniyyah for God to enlighten them' — the passage ends on an unexplained quotation that adds a true remark without moving the argument on."
+  ]}
+ }}
