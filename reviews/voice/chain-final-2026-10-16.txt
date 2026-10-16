@@ -1,0 +1,7 @@
+  packet         source                                               paras  restate aside  idle%  idle words%
+  02f            book2/chapters/02-knowing-about-not-knowing.md          29        3     3    21          16
+  03f            book2/chapters/03-you-already-know-these-words.md       26        3     1    15          12
+  04f            book2/chapters/04-know-yourself.md                      27        2     4    22          23
+  05f            book2/chapters/05-the-soul-and-its-worlds.md            40        5     2    18          13
+  06f            book2/chapters/06-no-path-outside-the-law.md            37        4     3    19          17
+  07f            book2/chapters/07-finding-a-guide.md                    31        3     2    16          13

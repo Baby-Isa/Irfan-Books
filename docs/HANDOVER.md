@@ -2,21 +2,13 @@
 
 _Read this first, then `CLAUDE.md`, `docs/STATUS.md`, `docs/briefs/LESSONS.md` and `docs/EXEMPLAR.md`. All work is on branch `claude/zealous-edison-mh1dpk` (it contains everything from the older `claude/stoic-euler-p7myev`). If the new session is given a different branch, base it on `claude/zealous-edison-mh1dpk`._
 
-## 1. Where we are
-- **Book 2, Parts One and Two are drafted:** prologue and Ch 1–7. Structure v3 (D40–D41):
-  - Part One, The Call: 1 More than the minimum; 2 Knowing about God is not knowing Him; 3 You already know these words.
-  - Part Two, Getting Ready: 4 Know yourself, know your Lord; 5 The soul and its worlds; 6 No path outside the law; 7 Finding a guide.
-  - Part Three, The Road: 8–12, with the crescendo at Ch 12.
-  - Part Four, Fellow Travellers: 13–15, an analytical step back.
-  - Part Five, The Destination: 16–17, the emotional homecoming. Then the epilogue, and an appendix with the full Munajat Shaʿbaniyyah.
-- **Approval state:**
-  - The prologue and Ch 1 are the frozen exemplar (commit `32e44c9`). The user said "keep the prologue the same"; Ch 1 has since been trimmed (the Sheikh named less often).
-  - Ch 2–3 have had two rounds of user review and were then tightened by about 10% with Fable.
-  - Ch 4–7 are first versions, made Opus draft → Fable edit → own read → voice gate → fact-check.
-- **Sent to the user and awaiting feedback:** `samples/parts-one-two-review.pdf`, raw link https://github.com/Baby-Isa/Irfan-Books/raw/claude/zealous-edison-mh1dpk/samples/parts-one-two-review.pdf. The draft copy with point notes is `samples/parts-one-two.pdf`.
+## 1. Where we are (updated 2026-10-16, later)
+- **Branch:** `claude/irfan-books-part-three-kh8nd2` (based on `claude/zealous-edison-mh1dpk`).
+- **Book 2, Parts One and Two (prologue, Ch 1–7) rebuilt after the user's review (D45):** every section now has a point ladder in its `::: {.point}` note. Sent: `samples/parts-one-two-v2-review.pdf` (reader copy) and `samples/parts-one-two-v2.pdf` (draft with ladders). Awaiting the user's read.
+- **Voice tests (D44, D45):** profile = gate (now also gates "read twice" sentences at 9%); chain audit (`chain-auditor`) = idle paragraphs 15–28%; blind judges (`voice-judge`, 2 per chapter) = advisory, act on fair tells. `docs/VOICE-TEST.md`; calibration in `reviews/voice/CALIBRATION.md`.
 - **Next:**
-  1. Apply the user's feedback on Ch 2–7. Add every repeatable lesson to `docs/briefs/LESSONS.md` and `docs/TONE.md`.
-  2. Then the Part Three briefs (Ch 8–12) from `docs/outline/part-3.md`. Gate A: present them as bullets and wait for approval before any prose.
+  1. Score `reviews/voice/PREDICTIONS-v2-ch02-07.md` against the user's feedback; apply the feedback; add lessons to LESSONS/TONE.
+  2. Part Three briefs (Ch 8–12) from `docs/outline/part-3.md`, each section with a one-line point and paragraph points (template updated). Gate A: bullets for approval before prose.
 
 ## 2. How the user works (beyond CLAUDE.md)
 - **Read `docs/briefs/LESSONS.md` before drafting or reviewing anything.** It holds the 21 lessons from the user's reviews; TONE rules 23–37 hold the before/afters. The biggest are:
@@ -56,7 +48,7 @@ _Read this first, then `CLAUDE.md`, `docs/STATUS.md`, `docs/briefs/LESSONS.md` a
    - inverted openings ("Where X stands is set out by…");
    - short closing reveal sentences;
    - impersonal "as the lecture puts it".
-5. **Voice gate (`docs/VOICE-TEST.md`):**
+5. **Voice gate (`docs/VOICE-TEST.md`, D44–D45; supersedes the steps below):** profile PASS → chain audit 15–28% → two blind judges, act on fair tells. Old steps:
    - Run `python3 build/voice.py profile <chapter>`; it must PASS.
    - Build the blind packet with `python3 build/voice.py blind NN <chapter> [--round R]`. It writes `reviews/voice/NN-packet.md`; rename it to `NNrR-…` for later rounds, as was done for 02r7 and 02r8.
    - Run a fresh `voice-judge` agent on the packet, then score it with `python3 build/voice.py score NN`.
