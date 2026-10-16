@@ -9,6 +9,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | ahwal | Ahwaal | | Mystical states that come and go on the path | L12 |
 | akhfa | | | "The most hidden": the inmost level of the soul, beyond khafi (Mutahhari, `light` p. 58) | B2 Ch5 |
 | akhlaq | | | Ethics; the rules of character that go beyond the legal minimum (Shomali) | B2 Ch1 |
+| Akhund | | | A title for a religious scholar (as in Akhund Mulla Husayn-Quli Hamadani) | B2 Ch7 |
 | al-hikma al-mashshaʾiyya | hikmatul mashaal | | Peripatetic philosophy | L03 |
 | al-hikma al-mutaʿaliya | hikmatul mutaaal | | Transcendent philosophy | L03 |
 | al-ruh al-aʿzam | ruhul aazam | | The greatest spirit | L05 |
@@ -95,6 +96,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | khawass | hawas, khaas | | The elite | L11 |
 | khayal | khayal | | Imagination | L05 |
 | khidma | | | Service to God; in salah, the depth of the law (L06 ¶24) | B2 Ch6 |
+| Khidr | | | The servant of God whom Musa follows in Surah al-Kahf; for the ʿurafaʾ, the master who accompanies a beginner (`forty_hadith` p. 508) | B2 Ch7 |
 | kibriyaʾ | kibriya, Kibriya | | Grandeur of God | L01 |
 | kuffar | kuffar, kaafir | | Unbelievers | L02 |
 | Kubrawiyya | kubrawiyyah | | The order founded by Najm al-Din Kubra | L08 |
