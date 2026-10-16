@@ -1,0 +1,54 @@
+{"profile": [
+  "Opens each paragraph on the last one's point, often by repeating its key noun: 'Despite saying these words in our munajats...', 'The knowing meant here is not information about God.', 'Repair is only the start.'",
+  "Ends a paragraph on the working point, in a short plain sentence that hands on to the next, not on a flourish: 'That side of the religion is called ʿirfan.', 'In most of us, it is not working.'",
+  "Medium sentences cut by short declaratives for weight: 'This claim is not contested.', 'That machine is the soul.'; semicolons carry contrasts ('Eyes and ears take in the surface of things, whereas inside a human being there should be something more'; 'God is not withholding signs; we are failing to receive them.')",
+  "'and' joins at most two clauses; lists run on commas without and-chains: 'in marriage, in the people we meet, in sleep, in work, in the weather'",
+  "Colons introduce a list or the content of a point, rarely a quotation: 'a faculty, which animals lack, that turns what the senses take in into understanding'; 'This is the whole subject in one sentence: mysticism is about making the soul hear, see and reflect.'",
+  "Sources named once per paragraph, then 'the Sheikh' or a pronoun; verbs are precise ('insists', 'explains', 'compares', 'accepts', 'makes the same point'); quotations are clipped into the author's own sentence ('is, in the Sheikh's words, a path that \"has a beginning and no end\"') and always glossed afterwards ('Most of us see only the lamp.')",
+  "A verse is set up by one plain sentence that says what it will show ('The Qur'an describes the gap in one verse.'), then read closely after: 'Cattle see and hear perfectly well, so the comparison cannot be about the senses.'",
+  "Stance is a shared 'we/us/most of us' with occasional 'Let's start with two claims'; never 'you' as address, never scolds or presumes; faults are placed 'on our side'.",
+  "Concrete, written, plain diction; abstractions are made physical (red light and lamp, rusted machine, rain as rain); no grand words, no spoken fillers.",
+  "Cross-refers to chapters as signposts and moves on: 'the subject of this chapter', 'as Chapter One shows'; a word's root is noted when it does work ('It shares its root with maʿrifah').",
+  "Never asks a rhetorical question, never stacks a claim, a colon and a quotation, never ends a paragraph on an unexplained quotation, never says the same thing twice in one paragraph."
+ ],
+ "passages": {
+  "A": {"p": 68, "verdict": "same", "tells": ["Each paragraph picks up the last ('Knowledge that analysis cannot produce has to come from somewhere else'), the hadith is glossed line by line afterwards and sources are named once then handled by pronoun ('he grants')."]},
+  "B": {"p": 62, "verdict": "same", "tells": ["Chapter-opening pattern matches the reference ('These words come near the end of Duʿa Kumayl...'), 'Let's start with the order' mirrors 'Let's start with two claims', and the Sheikh's quotation is clipped into the author's sentence and then located in the prayer."]},
+  "C": {"p": 35, "verdict": "different", "tells": [
+    "'the Sheikh says... he says... the Sheikh says... for Sheikh Bahmanpour... he says' — five attributions in three paragraphs; Author A names a source once per paragraph and then lets the sentences stand.",
+    "'There is no hindrance on His side to pouring His knowledge and bounty upon us. His knowledge and bounty are all there;' — the second sentence restates the first; Author A would cut it and go straight to 'the work of the ʿurafaʾ is to open the heart'.",
+    "'The light, the Sheikh says, comes to the hearts of the pure and darkness covers the impure.' — a true remark dropped in after the Khomeini point without moving the argument on; Author A would either build on it or leave it out."
+  ]},
+  "D": {"p": 28, "verdict": "different", "tells": [
+    "'Reading minds or foretelling the future, he says, \"becomes possible...\", but \"the stage of proximity...\" and such things \"are not a sign...\"' — three quotation fragments chained in one sentence; Author A clips one phrase into a sentence and glosses it.",
+    "'One addresses the heart of the seeker, the other the eye of the one choosing a guide. Neither makes powers the aim of the path.' — a tidy antithesis followed by a summary line to close the paragraph; Author A stops on the working point.",
+    "'ʿAllama Tabatabaʾi's definition says the same thing: \"The real gnostic is he who...\"' — claim, colon, quotation, and the passage ends on it unexplained; Author A reads every quotation afterwards."
+  ]},
+  "E": {"p": 45, "verdict": "different", "tells": [
+    "'\"For knowledge gives birth to action and action in turn brings knowledge\".' — a quotation standing as its own sentence with no introducing clause; Author A writes 'he says that...' or 'in his words' and folds it in.",
+    "'Those brought near to God, the ʿurafaʾ, know Him in the second way, through a veil removed and not a definition learned.' — the paragraph does not pick up Mutahhari's list but restates earlier conclusions in a balanced antithesis; Author A opens on the last paragraph's point.",
+    "'Murtada Mutahhari, the third, separates...' — a catalogue count ('the third') where Author A would link by sense ('Mutahhari draws the line by the means each uses')."
+  ]},
+  "F": {"p": 35, "verdict": "different", "tells": [
+    "'In the heart, he answers, it is.' then 'The severance the prayers ask for is therefore in the heart, not in the household or the marketplace.' — the next paragraph opens by restating the conclusion just reached; Author A would move to the next step.",
+    "'the heart's love for the world, not the world itself or the people and the work in it' and 'He removed love for others from them and what remained was love for Him alone' — the same point made a third and fourth time after each prayer; Author A reads a quotation once for what it adds.",
+    "'that Chapter One described' ... 'the severance Chapter One found in the friends of God' — the same cross-reference in consecutive paragraphs; Author A signposts once."
+  ]},
+  "G": {"p": 35, "verdict": "different", "tells": [
+    "'That doorway is open to people like us: ordinary people can also enter the realm of the muqarrabun.' — colon followed by a restatement of the clause before it; Author A uses a colon to add content.",
+    "'because we are made for it... He means this as a statement of what we were made for... God created us with that capacity and wants us to reach it.' — the closing paragraph says the same thing three ways and ends on a flourish; Author A would keep one sentence and stop.",
+    "'For the muqarrabun, the terms are entirely different from those of ordinary believers.' — a one-line gloss that does not read the verse; Author A says what the verse shows ('Cattle see and hear perfectly well, so...')."
+  ]},
+  "H": {"p": 55, "verdict": "same", "tells": ["Concrete contrast carried by a semicolon ('ʿIlm... aims at understanding; maʿrifah aims at arriving. A person does not try to understand their hunger'), a root noted when it does work ('huduriyya, shares its root with ʿilm al-huduri'), each paragraph building on the last; slightly over-attributed ('Sheikh Bahmanpour' three times) and the last line is a summary."]},
+  "I": {"p": 52, "verdict": "same", "tells": ["Short declaratives, lists on commas ('to be in two places at once, to see the future or the past or to master...'), the Sheikh named once and quoted in clipped phrases; slight doubt over 'Then: \"These are shirk.\"' as a dramatic beat and 'the gravest charge in Islam' as a closing line."]},
+  "J": {"p": 62, "verdict": "same", "tells": ["Differing scholars set side by side neutrally and resolved by distinguishing their questions ('The scholars speak of how far a reciter reaches; the Sheikh speaks of who may begin'), quotations clipped into sentences and followed by the author's reading; matches the preface's promised stance."]},
+  "K": {"p": 75, "verdict": "same", "tells": ["Verse set up in one plain sentence, then read concretely ('God is not far from anyone; being brought near means that a veil... has been removed'), 'we/us' stance, numbered gifts carried as signposts, every paragraph picking up the last noun."]},
+  "L": {"p": 45, "verdict": "different", "tells": [
+    "'The great teachers of the Shia tradition make closely related points, each in his own words.' — a catalogue opener announcing a list of sources rather than picking up the last point; Author A opens on the argument and brings a source in to serve it.",
+    "'If a traveller's \"spiritual exercises are meant for acquiring powers for worldly ends, his efforts are rendered invalid\".' — the paragraph ends on the quotation with no reading of it; Author A glosses every quotation.",
+    "'and he recalls Imam ʿAli (as) saying that he worshipped God not from fear of His Fire or desire for His Paradise but because he found Him worthy of worship.' — a second source appended with 'and' as an extra true remark that does not move the point on; Author A would stop at the shirk point or make the hadith do work."
+  ]},
+  "M": {"p": 72, "verdict": "same", "tells": ["Word-root used for the argument ('The Arabic for a definition, hadd, also means a limit'), concrete examples (hunger, pain, anxiety), semicolon contrasts ('the cause is not the feeling'), sources named once then 'the Sheikh notes'; each paragraph picks up the last."]},
+  "N": {"p": 55, "verdict": "same", "tells": ["'Let's take them in turn' and 'The first is sight' match the reference's enumerating habit, the ʿArafah line is glossed word by word ('The word translated \"Your intimate servants\" is awliyaʾ'); minor doubt over the veils paragraph, which adds a remark ('people unfamiliar with such words sometimes take them for mistakes') without moving on."]},
+  "O": {"p": 72, "verdict": "same", "tells": ["Opens straight on the reference's last point ('If the faculty can be repaired, there should be people in whom it already works'), verses set up in one sentence and read closely afterwards ('A heart trembles only at the mention of someone it has some experience of'), plain concrete diction, semicolon contrasts."]}
+ }}

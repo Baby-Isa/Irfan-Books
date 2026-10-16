@@ -1,0 +1,81 @@
+{"profile": [
+  "Opens a paragraph by picking up the last one's point, often with a demonstrative or a restated noun: 'The knowing meant here is not information about God'; 'Placing the fault in the receiver has two consequences'; 'Repair is only the start'.",
+  "Ends a paragraph on the point itself, usually a short plain sentence that points forward rather than a flourish: 'In most of us, it is not working'; 'That side of the religion is called ʿirfan'.",
+  "Short-to-medium declarative sentences; 'and' joins two items at most, never a chain: 'ʿIrfan travels through the self and never leaves the shariʿa. It is walked by a tested and ordered method.'",
+  "Semicolon for a balanced contrast, colon to unpack a list or an abstraction; 'whereas' once: 'The inner path does not go around the law or rise above it; it is the law lived from the inside'; 'Eyes and ears take in the surface of things, whereas inside a human being there should be something more'.",
+  "Names a teacher once per paragraph with a precise verb ('insists', 'explains', 'compares', 'puts it', 'in X's words'); the quotation is short, embedded in the sentence, and the next sentence says what it means: '\"There is a machine inside which is [rusted].\" That machine is the soul.'",
+  "Signposts structure with numbered steps and 'Let's start with' / 'let's turn to': 'Let's start with two claims. The first is…'; 'The second claim goes further'.",
+  "Stance is 'we'/'most of us', including the author in the failing; 'you' almost never; no scolding, no rhetorical questions: 'Most of us see only the lamp.'",
+  "Concrete, everyday images do the explaining (wedding verse, red light and lamp, rusted machine, cattle); diction plain and written, not spoken.",
+  "Cross-references chapters as part of the argument: 'as Chapter One shows'; 'Chapter Fourteen sets out their wider concerns'.",
+  "Counts and summarises what a text does before drawing the inference: 'Four times in a row, the Qur'an makes the same point.'",
+  "Never does: dramatic fragments, suspense, aphoristic closers, 'So'/'Now' openings, 'he says' as filler within a paragraph that has already named the speaker, a quotation left to stand as the paragraph's last word without comment."
+ ],
+ "passages": {
+  "A": {"p": 32, "verdict": "different", "tells": [
+    "'These, he says, are the two things by which the friends of God fly' — 'he says' used as filler in a paragraph that has already named the Sheikh; Author A would attribute once and move on.",
+    "'ʿAllama Tabatabaʾi's definition says the same thing: \"The real gnostic is he who worships Allah not…\"' — a claim, a colon and a quotation stacked in one sentence and left as the passage's last word; Author A follows a quotation with a sentence saying what it means.",
+    "'One addresses the heart of the seeker, the other the eye of the one choosing a guide. Neither makes powers the aim of the path.' — a tidy summary pair restating a conclusion already drawn; Author A stops on the point.",
+    "'Tabatabaʾi … ʿAllama Tabatabaʾi's definition' — the same scholar brought back twice in three short paragraphs to restate the point about worship without reward that the previous paragraph (and Imam ʿAli) had already made."
+  ]},
+  "B": {"p": 44, "verdict": "different", "tells": [
+    "'the path to purity, a striving towards purification' — a doubled gloss; Author A gives one plain gloss ('suluk, wayfaring').",
+    "'The first step of purification is to polish the soul … Purification, in his account, is polishing the soul so that it starts working.' — the same statement made twice in one paragraph; Author A says it once and goes to the link ('It is the repair of the rusted faculty…').",
+    "'the Sheikh adds … the Sheikh says … the Sheikh says … in his account' — attribution in every paragraph as filler; Author A names the speaker once and then speaks to the quotation.",
+    "'The knowledge of ʿirfan, the Sheikh says, is not something one can read anywhere or work out and that is why it comes through suluk.' — restates the previous paragraph's fikr/suluk contrast without moving on."
+  ]},
+  "C": {"p": 60, "verdict": "same", "tells": [
+    "Opens on the quoted prayer with place and occasion, links back to the previous chapter's question, then 'Let's start with the order in which the prayers ask' and a quotation explained by its position in the prayer — the reference's chapter-opening pattern."
+  ]},
+  "D": {"p": 55, "verdict": "same", "tells": [
+    "Numbered requests ('The second request is love… The third request is nearness'), one quotation per paragraph followed by a plain sentence saying what it asks, and a cross-reference to Chapter One; only 'Sheikh Bahmanpour read several of its lines to his listeners' is a remark that adds nothing."
+  ]},
+  "E": {"p": 55, "verdict": "same", "tells": [
+    "Picks up the repaired faculty from the previous section, divides people plainly into two groups, and explains each verse in a sentence of concrete reasoning ('A heart trembles only at the mention of someone it has some experience of'); the slight aphorism 'Tawhid is simple to say and hard to grasp' is the only thing against it."
+  ]},
+  "F": {"p": 45, "verdict": "different", "tells": [
+    "'The great teachers of the Shia tradition make closely related points, each in his own words.' — a framing sentence that opens on a new subject and adds nothing; Author A would start from the last paragraph's point (shirk) and name the first teacher directly.",
+    "'he \"has no right…\"… Whoever does so \"does not move…\"… \"though he may not admit it by word of mouth\"' — three quotations from one teacher chained in one paragraph; Author A quotes one short phrase and explains it.",
+    "'and he recalls Imam ʿAli (as) saying that he worshipped God not from fear of His Fire…' — the paragraph ends on a second, paraphrased authority tacked on with 'and'; Author A stops on the point."
+  ]},
+  "G": {"p": 75, "verdict": "same", "tells": [
+    "Each paragraph picks up the last ('Acquired knowledge is the work of reason…'), 'Reason has a limit and Sheikh Bahmanpour says where it lies' mirrors the reference's 'The Qur'an says where it lies', and the concrete 'brown or square or useful' example does the explaining."
+  ]},
+  "H": {"p": 28, "verdict": "different", "tells": [
+    "'It is this good life that the mystics seek.' — a closing line restating the paragraph; Author A stops on the description.",
+    "'For the muqarrabun, the terms are entirely different from those of ordinary believers.' — a one-line comment after a verse that does not say what the verse promises; Author A explains the verse in concrete terms.",
+    "'That doorway is open to people like us: ordinary people can also enter the realm of the muqarrabun.' — the colon restates the clause before it; Author A would write the sentence once.",
+    "'because we are made for it… He means this as a statement of what we were made for… God created us with that capacity and wants us to reach it.' — the same conclusion three times in one paragraph; Author A says it once."
+  ]},
+  "I": {"p": 68, "verdict": "same", "tells": [
+    "The hadith is followed by a sentence that says what it does ('The hadith sets the two kinds of knowing side by side… The light is not gathered at all; God places it in the heart'), the semicolon carries the contrast, and the last paragraph picks up 'whomever He wills' to move the argument on."
+  ]},
+  "J": {"p": 42, "verdict": "different", "tells": [
+    "'The severance the prayers ask for is therefore in the heart, not in the household or the marketplace.' — restates the previous paragraph's 'In the heart, he answers, it is' as a new paragraph; Author A moves on.",
+    "'the sensitivity to God's signs that Chapter One described… It is the severance Chapter One found' — the same cross-reference made twice in consecutive paragraphs.",
+    "'What the prayer asks to lose is the heart's love for the world, not the world itself or the people and the work in it.' — a third statement of the heart-not-world point; Author A would let the prayer's own words carry it after one explanation."
+  ]},
+  "K": {"p": 35, "verdict": "different", "tells": [
+    "'That life comes, he says, when a person follows the Prophet completely and then waits for the help of Allah.' — repeats the paragraph's opening sentence ('waits for Allah's help and looks to nothing else') with 'he says' as filler.",
+    "'he writes… He adds that… he goes on… In another place he gives the view' — four attribution tags chaining four quotations from one teacher in one paragraph; Author A quotes once and explains.",
+    "'Three of the great teachers of the tradition speak to how fikr and suluk relate.' — 'speak to' is management idiom and the sentence announces rather than argues; Author A would name the teacher and give the point.",
+    "'Imam Khomeini puts little store by mere knowledge.' — spoken idiom; Author A would write plainly ('Imam Khomeini does not rate learning on its own')."
+  ]},
+  "L": {"p": 45, "verdict": "different", "tells": [
+    "'he says and they are not of our level… In his account, God invites… What the Imams asked for, the Sheikh adds, God granted them.' — three attribution tags in one paragraph and a tacked-on final remark that does not move the argument; Author A attributes once and stops on the point.",
+    "'It adds that it is \"advisable to say it with presence of heart all the time\".' — the passage ends on an unexplained quotation from the manual; Author A would say what the recommendation implies or leave it out.",
+    "'Four of the prayers quoted in this chapter are in the Mafatih al-Jinan… The Mafatih sets each of them on a night or a day… The Munajat Shaʿbaniyyah is listed among the acts of the month' — catalogue information with little argument carried."
+  ]},
+  "M": {"p": 38, "verdict": "different", "tells": [
+    "'This is the case for pursuing ʿirfan.' followed by a paragraph restating the chapter's conclusions — a summary paragraph; Author A does not restate.",
+    "'Then: \"These are shirk.\"' — a dramatic fragment for effect; Author A would write 'He calls these shirk' and explain.",
+    "'Shirk, setting up a partner beside God, is the gravest charge in Islam.' — a weighty closing line; Author A ends on the point, not on a verdict.",
+    "'This kind of mysticism must be held apart from the real thing.' — 'the real thing' is spoken phrasing; Author A would write 'from ʿirfan'."
+  ]},
+  "N": {"p": 70, "verdict": "same", "tells": [
+    "Quotation followed by a plain explanation ('Other people look at the surface of the world; the friends of God look at what lies inside it'), 'as we do' including the author, numbered gifts, and each new paragraph opening on the last one's name or term ('The Arabic for \"brought near\" is muqarrabun')."
+  ]},
+  "O": {"p": 75, "verdict": "same", "tells": [
+    "Opens on a concrete, familiar experience (Ramadan hunger) exactly as the reference opens on the wedding verse, links back to Chapter One's claim, then 'Let's start with the two kinds of knowing' — the reference's structure, register and 'we' stance throughout."
+  ]}
+ }}
