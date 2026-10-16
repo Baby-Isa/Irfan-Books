@@ -1,0 +1,39 @@
+{
+ "A": "exemplar",
+ "B": "control",
+ "C": "exemplar",
+ "D": "chapter",
+ "E": "chapter",
+ "F": "chapter",
+ "G": "control",
+ "H": "control",
+ "I": "chapter",
+ "J": "exemplar",
+ "K": "chapter",
+ "L": "exemplar",
+ "M": "control",
+ "N": "exemplar",
+ "O": "control",
+ "P": "control",
+ "Q": "chapter",
+ "R": "exemplar",
+ "_meta": {
+  "candidate": [
+   "book2/chapters/06-no-path-outside-the-law.md"
+  ],
+  "reference": [
+   "reviews/voice/corpus/A-prologue.md",
+   "reviews/voice/corpus/A-ch01.md@0-3"
+  ],
+  "exemplar": [
+   "reviews/voice/corpus/A-ch01.md@4-9"
+  ],
+  "control": [
+   "reviews/voice/corpus/X-ch02-v1-2d8143e.md",
+   "reviews/voice/corpus/X-ch03-v1-2d8143e.md"
+  ],
+  "fold": "A",
+  "judge_model": "opus",
+  "round": "v2"
+ }
+}
