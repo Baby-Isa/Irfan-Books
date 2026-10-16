@@ -14,7 +14,7 @@ The prayer offers these words as a "confession of my sins" [@light, p. 163]. The
 
 The soul deserves that care because everything we know, we know with it. Our eyes and ears take in the world, but the soul is what understands what they bring. In Sheikh Bahmanpour's words, the soul is "the means to understand and to learn".
 
-We also know the soul from the inside. The images in our mind are known this way: they are present to the soul, so we know them with nothing in between. This is knowledge by presence (*ʿilm al-huduri*). The soul's knowledge of itself is its clearest case, since here the one who perceives and the thing perceived are the same.
+We know our own soul from the inside. We know the images in our mind the same way: they are present to the soul, so we know them with nothing in between. This is knowledge by presence (*ʿilm al-huduri*). The soul's knowledge of itself is its clearest case, since here the one who perceives and the thing perceived are the same.
 
 The theory of ʿirfan therefore begins with the soul, since every other study is carried out with it. Knowing God, rather than knowing about Him, would need this same direct knowing, and so it too must happen in the soul. This chapter sets out why we must know ourselves to know our Lord, and how.
 
@@ -43,7 +43,7 @@ Success and failure, in these verses, turn on what is done with the soul. Whethe
 The whole story of a human being in this world is therefore the story of the soul. We are here to develop it and to make of it what we choose. The Munajat's confession names the failure the surah describes, since a soul that has not been looked after is a soul that has not been purified.
 
 ::: {.box-who title="Who's Who: Mirza Muhammad ʿAli Shahabadi"}
-Mirza Muhammad ʿAli Shahabadi was the teacher who most shaped Imam Khomeini's spiritual life. Imam Khomeini refers to him as "our shaykh" (*shaykhuna*), and the editor of the *Forty Hadith* describes their relationship as "that of a murid with his murshid" (a disciple with his spiritual guide) [@forty_hadith, p. 8]. Shahabadi taught a few select students the *Fusus al-Hikam* of Ibn ʿArabi [@forty_hadith, p. 8]. For the care of the soul, however, he sent them to the Qur'an. He told them to attend constantly to the closing verses of Surah al-Hashr, which begin by telling every soul to consider what it sends ahead for tomorrow (Q 59:18). Reciting them, he said, is "very effective for curing the soul and for holding the mischief of the self and Satan at bay" [@forty_hadith, p. 201].
+Mirza Muhammad ʿAli Shahabadi was the teacher who most shaped Imam Khomeini's spiritual life. Imam Khomeini refers to him as "our shaykh" (*shaykhuna*), and the introduction to the *Forty Hadith* describes their relationship as "that of a murid with his murshid" (a disciple with his spiritual guide) [@forty_hadith, p. 8]. Shahabadi taught a few select students the *Fusus al-Hikam* of Ibn ʿArabi [@forty_hadith, p. 8]. For the care of the soul, however, he sent them to the Qur'an. He told them to attend constantly to the closing verses of Surah al-Hashr, which begin by telling every soul to consider what it sends ahead for tomorrow (Q 59:18). Reciting them, he said, is "very effective for curing the soul and for holding the mischief of the self and Satan at bay" [@forty_hadith, p. 201].
 :::
 
 ## Forgotten together, known together
@@ -87,7 +87,7 @@ Whoever knows his own self knows his Lord. [@lantern, p. 9; @bahmanpour_slides, 
 
 The saying holds because the soul reflects its Maker. God's qualities are infinite and differ greatly from the soul's. Yet there is a likeness, and through it God can be known by looking within. This does not make the soul a part of God. The soul carries something of the spirit (*ruh*) that God breathed into the first human being (Q 15:29). That spirit is something God created, not God Himself.
 
-Knowing God therefore begins with knowing the soul. ʿAllama Tabatabaʾi ties this to a verse that tells believers to take care of their own souls (Q 5:105). He writes that a believer who hears this verse with the desire to remember Allah alone "must see Allah through the window of his own soul" [@light, p. 7].
+Knowing God therefore begins with knowing the soul. ʿAllama Tabatabaʾi ties this to a verse that tells believers to take care of their own souls (Q 5:105). He writes that a man who has access to Divine manifestation and wishes to remember Allah alone, on hearing this verse, "must see Allah through the window of his own soul" [@light, p. 7].
 
 ::: {.box-word title="Word Study: Whoever knows himself"}
 The saying is short in Arabic: *man ʿarafa nafsahu faqad ʿarafa rabbahu*. Its verb, *ʿarafa* (to know), shares its root with maʿrifah and ʿirfan, and its *nafs* is the soul that Surah al-Shams swears by. Mohammad Ali Shomali writes that "it is difficult to find a book on ethics (Akhlaq), which has not quoted it" [@self_knowledge, pp. 8–9]. Some sources give it to the Prophet and others to Imam ʿAli (as). *Lantern of the Path*, attributed to Imam al-Sadiq (as), gives it as the words of the Prophet [@lantern, p. 9]. Mirza Jawad Maliki Tabrizi quotes it from Imam ʿAli (as) [@journey, p. 125], and so do the slides for the lectures [@bahmanpour_slides, Irfan 1: Theory, "Human Soul" slide]. The saying has also been read two ways. Some take it as a denial: no one can know their own soul completely, so no one can know their Lord. Others take it as a promise: whoever comes to know his soul does come to know his Lord. The lectures accept the first reading but prefer the second. They point to other narrations, which show that the saying speaks of a knowledge we can reach.
@@ -105,7 +105,7 @@ God is already near, so reaching Him means lifting, in this life, the veils over
 5. The soul reflects God, so at the meeting it perceives Him in that reflection, not in His Essence.
 6. Even then the soul cannot encompass God: some understanding of Him is possible, complete knowledge is not.
 7. What a soul perceives of God at that meeting depends on what it perceives of Him in this life.
-8. Hence the seeker lifts the veils in this life rather than waiting.
+8. Hence the seeker lifts the veils in this life rather than waiting, since the journey through death is longer and harder.
 9. Whoever uncovers the self sees its reality, and that is knowing its Lord.
 10. Therefore the way to God runs through knowing the self.
 :::
@@ -124,7 +124,7 @@ The verse speaks of the meeting with God (*liqaʾ Allah*). Every soul will take 
 
 What is seen at that meeting is the soul, and the soul is a reflection of God. Seeing it is therefore seeing a reflection of God, and not God Himself. The verse still calls it a meeting with Him. On that day the soul perceives the presence it has always stood in. The believer perceives God's mercy and reward, whereas the unbeliever perceives His justice.
 
-Even then, the soul cannot encompass God. The depth of our own soul cannot be known, so a complete knowledge of its Lord is out of reach. As the lectures put it, "You can get some understanding but knowing [H]im completely … is impossible." Imam Khomeini sets a similar limit for the seeker. Those who hold that the meeting with God is open to the seeker, he writes, do not mean "that it is permissible to fathom the mystery of the Divine Essence", nor that the Essence can be encompassed even by knowledge by presence [@forty_hadith, p. 398].
+Even then, the soul cannot encompass God. The depth of our own soul cannot be known, so a complete knowledge of its Lord is out of reach. As the lectures put it, "You can get some understanding but knowing [H]im completely … is impossible." Imam Khomeini sets a similar limit for the seeker. Those who hold that the meeting with God is open to the seeker, he writes, do not mean that it is permissible "to fathom the mystery of the Divine Essence", or that the Essence can be encompassed in knowledge by presence [@forty_hadith, p. 398].
 
 What a soul perceives of God at that meeting depends on what it perceives of Him now. In the lectures' words, "whoever is completely blind in this world is completely blind in the other world." The Qur'an uses the same image.
 
