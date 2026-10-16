@@ -30,7 +30,8 @@ The world has three depths, so the dead have gone deeper into it, not away.
 5. The intellect grasps meanings with no image or matter, and these belong to a third world, the world of intellects.
 6. The world of images links the other two, so it is called barzakh, a barrier.
 7. None of these worlds is a place; each is a deeper dimension of this one.
-8. Therefore the dead have gone deeper into our world, not away from it.
+8. So far: three worlds make one reality, and none of them is far away.
+9. Therefore the dead have gone deeper into our world, not away from it.
 :::
 
 Let's start with a claim of the mystics: the human soul is the whole of creation in small, a compact copy of everything that exists. We know things in three ways: through the senses, the imagination, and the intellect. If the soul is a copy of creation, each of these three should give us a sample of one world. Each world can then be approached through something we already know.
@@ -46,6 +47,8 @@ The intellect gives us a sample of the third world. Every person we have met has
 The world of images stands between the other two. That is why it is also called barzakh, a barrier. Pure intellect and matter have nothing in common, so they cannot meet directly. Whatever is in the world of intellects is reflected first in the world of images, which has the shape and colour of matter without its weight. Only then does it reach the world of matter.
 
 None of these worlds is a place we travel to. In Sheikh Bahmanpour's words, the world of images "is another dimension of the same world in which we are living", and so is the world of intellects. The unseen worlds surround this one, but in depth and not in distance: each is a deeper dimension of the world we are in now.
+
+There are three worlds, then, and they make one reality. The senses meet matter, the imagination samples a world of images, and the intellect grasps pure meaning. Each lies deeper than the one before, and none of them is far away.
 
 This changes the picture at the graveside. The dead are in barzakh, which is the world of images, and that world is not a distant room. It is a deeper dimension of the world we are living in. Even the resurrection is not a journey elsewhere but a move deeper still, closer to the majesty and beauty of God.
 
@@ -65,8 +68,9 @@ The soul moves between the worlds, as far as the life it lives takes it.
 5. At death the soul lets go of the body completely and lives in an image body with shape but no mass.
 6. The image body was with us all along, so at death the soul sets the body down and goes on in it.
 7. Awake, a person can loosen the hold by turning their attention to God.
-8. The angels, unlike the soul, each have a fixed station they cannot leave.
-9. Therefore the soul, which has none, goes as far as the life it lives takes it.
+8. So far: sleep, death, and watchfulness each loosen the body's hold, and each time the soul reaches the world of images.
+9. The angels, unlike the soul, each have a fixed station they cannot leave.
+10. Therefore the soul, which has none, goes as far as the life it lives takes it.
 :::
 
 The soul has a share in each of these worlds, because it was made to stand between them. The Qur'an says that God breathed of His spirit into the first human being (Q 15:29). Pure spirit and a body of clay have nothing in common, so something that reaches both stands between them. That something is the soul, set between spirit and clay as the world of images is set between intellect and matter. Each of us therefore has an existence here and a counterpart in the world of images.
@@ -91,7 +95,9 @@ The third loosening can happen while we are awake. A person who turns their atte
 *Kernel of the Kernels*, the record of ʿAllama Tabatabaʾi's lectures on the path, describes what may come to a traveller who keeps up muraqaba. Lights appear, at first like flashes of lightning, and "these lights belong to the class of entities of the realm of Barzakh". In the early stages the traveller may see his own soul in bodily form: "he might see himself standing before himself." The lectures then tell of their teacher, Mirza ʿAli Aqa Qadi, who used to say: "One day emerging from the room into the veranda, I saw myself standing silent by my side. I looked very carefully at my face, and observed a mole on it. On returning to my room when I looked into the mirror, I saw that there was a mole on my face that I had not noticed until then" [@kernel, p. 17].
 :::
 
-Sleep, death, and contemplation show a soul that moves between worlds. The angels have no such movement. Each has a fixed station that it cannot rise above. An angel does not change or grow, because it is made as it will always be. Surah al-Saffat gives their own words.
+Sleep, death, and contemplation are three ways of loosening one hold. In sleep the hold slackens for a night, at death it lets go entirely, and in watchfulness a person loosens it on purpose. Each time, the soul reaches the world of images.
+
+The angels have no such movement between worlds. Each has a fixed station that it cannot rise above. An angel does not change or grow, because it is made as it will always be. Surah al-Saffat gives their own words.
 
 ::: {.ayah ref="37:164"}
 There is none among us but has a known place.
@@ -107,28 +113,28 @@ What we do now shapes the image body we will meet after death.
 1. Repeated acts shape the self, as the habit of lying shows.
 2. The image body records that shaping far more than the face does: sin deforms it and piety lights it.
 3. The state of the soul at death fixes the form it takes in the next world.
-4. On the Last Day people will appear as their true natures, some below animals and some above angels.
+4. On the Last Day people will be grouped by their true natures.
 5. The light of the faithful is their own: a reward can be the deed itself made visible.
 6. Therefore the form we meet after death is our own deeds, and it is being made today.
 :::
 
 If every soul passes into the middle world in any case, it can seem that what we do here changes little. Habit shows otherwise, because repeated acts shape the self. Shomali takes the example of lying. A child telling a first lie feels uneasy and later remorseful. With repetition "the soul becomes inured to the effects" [@self_knowledge, p. 20], until lying costs little effort.
 
-Some of that shaping shows on the face. A face can show faith or its absence to those with eyes to see it, and a pious person's face can carry light. In this world the change is slow and small, and it never deforms the body. The image body is far more sensitive. Sin deforms it and piety makes it shine, so that it takes the shape of what our habits have made of the soul.
+Some of that shaping shows on the face. A face can show faith or its absence to those with eyes to see it. A pious person's face can even carry light. In this world, though, the change is slow and small. It never deforms the body. The image body is far more sensitive. Sin deforms it and piety makes it shine, so that it takes the shape of what our habits have made of the soul.
 
-Imam Khomeini describes this second form in his *Forty Hadith*. Beside the body that everyone can see, each person has "another form and a different face of him, which is heavenly and invisible, which is determined by the qualities of his soul and his inner nature" [@forty_hadith, p. 41]. The soul's state when it leaves the body fixes that form: "in whichever state one's soul departs from the body, it assumes a form suited to it in the next world also" [@forty_hadith, p. 41]. Surah al-Nabaʾ describes people coming forth on the Last Day.
+Imam Khomeini describes this second form in his *Forty Hadith*. Beside the body that everyone can see, each person has "another form and a different face of him, which is heavenly and invisible, which is determined by the qualities of his soul and his inner nature" [@forty_hadith, p. 41]. The same page names the moment that settles it: "in whichever state one's soul departs from the body, it assumes a form suited to it in the next world also" [@forty_hadith, p. 41]. The face a soul wears in the next world is the face it has made by the time it dies. Surah al-Nabaʾ describes people coming forth on the Last Day.
 
 ::: {.ayah ref="78:18"}
 the day the Trumpet will be blown, and you will come in groups,
 :::
 
-The hadith say that the groups are formed "according to their true natures". On that day, "when the veil is finally lifted from before our eyes, we will see ourselves and others as they really are". Some "could have fallen lower than a bug, while others could have ascended higher than angels" [@self_knowledge, p. 21]. A soul with no fixed station can sink below every animal as well as rise above the angels. Surah al-Hadid describes those who rise.
+Shomali reports the hadith that the groups are formed "according to their true natures" [@self_knowledge, p. 21]. Surah al-Hadid describes how the faithful will appear.
 
 ::: {.ayah ref="57:12" words="1-9"}
 The day you will see the faithful, men and women, with their light moving swiftly in front of them and on their right
 :::
 
-The light the faithful carry goes ahead of them and lights their way, and it is their own. Reward and punishment work the same way. "Sometimes rewards or punishments are nothing other than the actions," Shomali writes. "They are just the realities of those actions made manifest in another universe" [@self_knowledge, p. 77].
+The light the faithful carry goes ahead of them to light their way. It is their own light. Shomali makes the same point about reward and punishment in general: "Sometimes rewards or punishments are nothing other than the actions. They are just the realities of those actions made manifest in another universe" [@self_knowledge, p. 77]. On this reading, the light of the faithful is their own good deeds, made visible.
 
 If a reward can be the deed itself made visible, the form a soul meets after death is largely its own deeds. In Shomali's words, "our future is now present" [@self_knowledge, p. 77]. The image body is being shaped now, by what we do.
 
@@ -137,17 +143,20 @@ If a reward can be the deed itself made visible, the form a soul meets after dea
 ::: {.point}
 The one self can rise from its lowest state to peace, so what it becomes is in our hands.
 
-1. The lowest state of the self is the one that commands to evil, when the body rules the spirit.
-2. Worry ties the soul to the body as much as pleasure does.
-3. The self that blames itself after giving in is a hopeful sign.
-4. Self-blame, kept up, brings the self to peace.
-5. These are one self under three names, so changing our attitude changes its state.
-6. The first act that moves the self is the remembrance of God.
-7. The rest that remembrance gives is the peace of the third state.
-8. Fasting and the night prayer loosen the soul's tie to the body.
-9. These acts work because the soul takes on habits quickly, so what we make of it is ours forever.
-10. Therefore what the soul finally becomes is in our hands.
+1. So far: the soul lives in more than one world, and its deeds give it a form there.
+2. The lowest state of the self is the one that commands to evil, when the body rules the spirit.
+3. Worry ties the soul to the body as much as pleasure does.
+4. The self that blames itself after giving in is a hopeful sign.
+5. Self-blame, kept up, brings the self to peace.
+6. These are one self under three names, so changing our attitude changes its state.
+7. The first act that moves the self is the remembrance of God.
+8. The rest that remembrance gives is the peace of the third state.
+9. Fasting and the night prayer loosen the soul's tie to the body.
+10. These acts work because the soul takes on habits quickly, so what we make of it is ours forever.
+11. Therefore what the soul finally becomes is in our hands.
 :::
+
+The picture so far is this. The soul lives in more than one world, and it passes into the world of images in sleep, at death, and in watchfulness. What it carries there is a form made by its own deeds.
 
 If deeds give the soul its form, the self that does the deeds is not fixed either. The Qur'an names the self (*nafs*) in three states. The lowest is the self that commands to evil (*al-nafs al-ammara*). In it the bodily side of a person overcomes the spiritual side, and the soul goes after the body's pleasures. Surah Yusuf names this self together with the mercy that can lift it.
 

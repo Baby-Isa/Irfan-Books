@@ -1,0 +1,123 @@
+# Chain packet 05y
+
+## Section 1: Opening
+
+**Point:** Hook the reader and say, in the words of the chapter title, what the chapter will establish; recall earlier ground in one or two sentences at most.
+
+[quotation]
+
+¶1. These words come from the Munajat Shaʿbaniyyah, the prayer of the month of Shaʿban. The one who prays admits that neglect has put them to sleep, unready to meet God. Knowing His generosity has woken them. The prayer sets sleep beside the meeting with God.
+
+¶2. The tradition does the same. Lantern of the Path, attributed to Imam al-Sadiq (as), calls sleep "the brother of death". Death is what we stand before at a graveside. There we say that the dead are now in barzakh (the world between this life and the resurrection) and many of us picture a waiting room somewhere far away.
+
+¶3. Sheikh Bahmanpour teaches otherwise: at death "we don't go anywhere". The dead are not far away and the reason lies in what the soul is. The way to God runs through the soul, the one thing we know from the inside. How deep the soul goes therefore matters. This chapter sets out the soul and its worlds: which worlds the soul lives in, how it moves between them and how its deeds give it a form there. These three steps show that what the soul finally becomes is in our hands.
+
+## Section 2: One world at three depths
+
+**Point:** The world has three depths, so the dead have gone deeper into it, not away.
+
+¶4. Let's start with a claim of the mystics: the human soul is the whole of creation in small, a compact copy of everything that exists. We know things in three ways: through the senses, the imagination and the intellect. If the soul is a copy of creation, each of these three should give us a sample of one world. Each world can then be approached through something we already know.
+
+¶5. The senses meet the first world, the material world (ʿalam al-mulk). It is made of matter: things with weight that take up space, such as a table, a hand or the rain. Because our senses witness it, it is also called the witnessed world. The other two worlds are called unseen. They are unseen not because they are far away but because the ordinary eye does not perceive them without training.
+
+¶6. The imagination gives us a sample of the second world. When we picture a friend's face, the picture has a shape and a colour, yet it weighs nothing and is made of nothing material. A dream does the same more vividly. People move and speak in it. They have faces, sizes and coloured clothes and none of it is matter.
+
+¶7. If the soul is a copy of creation, our imagination is a small sample of a larger world of this kind, the world of images (ʿalam al-mithal). Like the picture in our mind, it has shape, size and colour and no matter at all. The difference is that the picture in our mind belongs to us, whereas the world of images depends on no one's mind and exists in its own right.
+
+¶8. The intellect gives us a sample of the third world. Every person we have met has a particular height, voice and face. Yet the mind can grasp "a human being" with none of these features. No such person exists anywhere outside the mind. This kind of understanding deals in meanings, with no image and no matter. Its world is the world of intellects (ʿalam al-ʿuqul). The angels who live there are pure intellect, attached to nothing material.
+
+¶9. The world of images stands between the other two. That is why it is also called barzakh, a barrier. Pure intellect and matter have nothing in common, so they cannot meet directly. Whatever is in the world of intellects is reflected first in the world of images, which has the shape and colour of matter without its weight. Only then does it reach the world of matter.
+
+¶10. None of these worlds is a place we travel to. In Sheikh Bahmanpour's words, the world of images "is another dimension of the same world in which we are living" and so is the world of intellects. The unseen worlds surround this one, but in depth and not in distance: each is a deeper dimension of the world we are in now.
+
+¶11. There are three worlds, then and they make one reality. The senses meet matter, the imagination samples a world of images and the intellect grasps pure meaning. Each lies deeper than the one before and none of them is far away.
+
+¶12. This changes the picture at the graveside. The dead are in barzakh, which is the world of images and that world is not a distant room. It is a deeper dimension of the world we are living in. Even the resurrection is not a journey elsewhere but a move deeper still, closer to the majesty and beauty of God.
+
+[box] A barzakh is a barrier, something that stands between two things and keeps each in its place. The Qur'an uses the word for the barrier God set between two seas that He merged, one sweet and one briny. It also uses it of death. When death comes, a person asks to be taken back so that he may act righteously in what he left behind. He is told that a barzakh stands before him until the day he is raised. The ʿurafaʾ use the same word for the world of images, which stands between matter and pure intellect. Mohammad Ali Shomali notes that philosophers compare the body of that world with the bodies we see in dreams, and "call them 'Barzakh' or 'mithali'". The two uses meet: the barrier between this life and the resurrection is the middle world the dead now live in.
+
+## Section 3: A soul that crosses them
+
+**Point:** The soul moves between the worlds, as far as the life it lives takes it.
+
+¶13. The soul has a share in each of these worlds, because it was made to stand between them. The Qur'an says that God breathed of His spirit into the first human being. Pure spirit and a body of clay have nothing in common, so something that reaches both stands between them. That something is the soul, set between spirit and clay as the world of images is set between intellect and matter. Each of us therefore has an existence here and a counterpart in the world of images.
+
+¶14. For now, the body holds almost all of the soul's attention, so the soul lives in the material world. That hold loosens at three times: in sleep, at death and in contemplation.
+
+¶15. The first is sleep. When we sleep, the soul attends less to the body. With the senses at rest, it can touch the world of images. It does not leave the body completely; if it did, we would be dead. This explains a dream that is more than memory. A person may dream of someone doing something that later happens and a memory cannot show the future. Time works differently in the middle world. The soul has seen there the counterpart of an event that has not yet happened here.
+
+¶16. The Qur'an also sets sleep beside death. Surah al-Zumar names the two together.
+
+[verse]
+
+¶17. In both, the verse says, God takes the soul. The difference between the two is one of degree. Mohammad Ali Shomali explains that in sleep the spirit is still connected with the body, "but to a lesser degree than waking". At death it is disconnected from the body and "belongs to another body which has the qualities of a material body like shape and size without the mass". This second body is the image body (badan mithali). It has our shape, but it is not made of any material elements.
+
+¶18. At death the soul is not slipping out of a body that held it. "The body is not carrying the soul but the soul is carrying the body," Sheikh Bahmanpour says. When the appointed time comes, the soul sets the body down and goes. It does not go without a body, because a soul cannot be without one. The image body was with us all along, unseen in another dimension and the soul goes on in it.
+
+¶19. The third loosening can happen while we are awake. A person who turns their attention to God until they forget the body does what sleep does. They can then see in the middle world as one sees in a dream. This is the work of watchfulness (muraqaba): keeping the heart's attention on God. Nothing leaves the body; what turns is the attention. ʿAllama Tabatabaʾi said that the more he kept up his muraqaba, the more distinctly he saw into that world. Such moments come to the mystics as an opportunity from God and not as a power to use, whereas the Imams (as) can pass between the worlds at will.
+
+[box] Kernel of the Kernels, the record of ʿAllama Tabatabaʾi's lectures on the path, describes what may come to a traveller who keeps up muraqaba. Lights appear, at first like flashes of lightning, and "these lights belong to the class of entities of the realm of Barzakh". In the early stages the traveller may see his own soul in bodily form: "he might see himself standing before himself." The lectures then tell of their teacher, Mirza ʿAli Aqa Qadi, who used to say: "One day emerging from the room into the veranda, I saw myself standing silent by my side. I looked very carefully at my face, and observed a mole on it. On returning to my room when I looked into the mirror, I saw that there was a mole on my face that I had not noticed until then".
+
+¶20. Sleep, death and contemplation are three ways of loosening one hold. In sleep the hold slackens for a night, at death it lets go entirely and in watchfulness a person loosens it on purpose. Each time, the soul reaches the world of images.
+
+¶21. The angels have no such movement between worlds. Each has a fixed station that it cannot rise above. An angel does not change or grow, because it is made as it will always be. Surah al-Saffat gives their own words.
+
+[verse]
+
+¶22. The human soul has no known place of this kind. It can move and change and no one knows how far it can go. The mystics say that this capacity is why the angels bowed down to Adam. How far a soul travels is not settled at its creation, as an angel's station is, but by the life the soul lives.
+
+## Section 4: Our deeds give the soul a form
+
+**Point:** What we do now shapes the image body we will meet after death.
+
+¶23. If every soul passes into the middle world in any case, it can seem that what we do here changes little. Habit shows otherwise, because repeated acts shape the self. Shomali takes the example of lying. A child telling a first lie feels uneasy and later remorseful. With repetition "the soul becomes inured to the effects", until lying costs little effort.
+
+¶24. Some of that shaping shows on the face. A face can show faith or its absence to those with eyes to see it. A pious person's face can even carry light. In this world, though, the change is slow and small. It never deforms the body. The image body is far more sensitive. Sin deforms it and piety makes it shine, so that it takes the shape of what our habits have made of the soul.
+
+¶25. Imam Khomeini describes this second form in his Forty Hadith. Beside the body that everyone can see, each person has "another form and a different face of him, which is heavenly and invisible, which is determined by the qualities of his soul and his inner nature". The same page names the moment that settles it: "in whichever state one's soul departs from the body, it assumes a form suited to it in the next world also". The face a soul wears in the next world is the face it has made by the time it dies. Surah al-Nabaʾ describes people coming forth on the Last Day.
+
+[verse]
+
+¶26. Shomali reports the hadith that the groups are formed "according to their true natures". Surah al-Hadid describes how the faithful will appear.
+
+[verse]
+
+¶27. The light the faithful carry goes ahead of them to light their way. It is their own light. Shomali makes the same point about reward and punishment in general: "Sometimes rewards or punishments are nothing other than the actions. They are just the realities of those actions made manifest in another universe". On this reading, the light of the faithful is their own good deeds, made visible.
+
+¶28. If a reward can be the deed itself made visible, the form a soul meets after death is largely its own deeds. In Shomali's words, "our future is now present". The image body is being shaped now, by what we do.
+
+## Section 5: The self can change its state
+
+**Point:** The one self can rise from its lowest state to peace, so what it becomes is in our hands.
+
+¶29. The picture so far is this. The soul lives in more than one world and it passes into the world of images in sleep, at death and in watchfulness. What it carries there is a form made by its own deeds.
+
+¶30. If deeds give the soul its form, the self that does the deeds is not fixed either. The Qur'an names the self (nafs) in three states. The lowest is the self that commands to evil (al-nafs al-ammara). In it the bodily side of a person overcomes the spiritual side and the soul goes after the body's pleasures. Surah Yusuf names this self together with the mercy that can lift it.
+
+[verse]
+
+¶31. The verse admits what this self does and names the one thing that checks it, the mercy of God. Its pull is not only towards pleasure. Worry binds the soul to the body as well: worry over whether our children will be poor or whether we will have a job next year. It keeps the soul occupied with the body and stops it rising towards God.
+
+¶32. After giving in, the self may remember what it did and ask why. This is the second state, the self that blames itself (al-nafs al-lawwama). Its self-blame is a hopeful sign. It shows that we hold values that matter more to us than the pleasure we gave in to. Surah al-Qiyama swears by it.
+
+[verse]
+
+¶33. That God swears by this self shows its worth. A self that keeps up its self-blame comes in time to the third state, the self at peace (al-nafs al-mutmaʾinna). Surah al-Fajr calls this self back to its Lord. It relies on what belongs to the other world and not on this one. It is free of sin, of greed and of a mind turned wholly towards the body.
+
+¶34. These are not three selves. "We don't have different types of nufus," Sheikh Bahmanpour says, using the plural of nafs. The one self takes a different name according to its attitude. Because we can change the attitude, we can change the state and with it the name.
+
+[box] The ʿurafaʾ give the one soul several names, one for each depth it reaches. Murtada Mutahhari sets out four. When the soul is "dominated and ruled by desires and passions they call it nafs". When it bears divine knowledge it is the heart (qalb). When "the light of Divine love dawns within it", it is the spirit (ruh), and when it reaches witnessing it is the mystery (sirr). Beyond these lie the hidden (khafi) and the most hidden (akhfa). The lectures order them differently, describing the sirr as known only to God and the khafi as hidden even from the angels. Sayyid Haydar Amuli, a Shia master of an earlier age, counts the states of the self differently too, with four where the lectures have three. In his Inner Secrets of the Path the self ascends through "commanding to evil", "reproachful", "inspired", and "at rest". Imam Khomeini notes that the soul's levels are divided "sometimes into seven sections and sometimes into four", and sometimes into three or two. However they are counted, the names describe one soul at different depths. Chapter Eight takes nafs, qalb, and ruh as stages of the road.
+
+¶35. What moves the self from one state to the next are acts already familiar to us. The first is the remembrance of God (dhikr) and Surah al-Raʿd names what it gives.
+
+[verse]
+
+¶36. The rest that this verse promises is the peace of the third state and remembrance alone gives it. Remembrance refreshes and revives the soul until it reaches that peace.
+
+¶37. Fasting and the night prayer work on the same tie to the body that sleep and watchfulness loosen. The soul manages the body, down to digesting a meal, so a fasting body asks less of it. In Ramadan God pours down His light everywhere. The soul of the one who fasts is less taken up with the body and it takes in that light without knowing it. The night prayer (salat al-layl) likewise helps the soul free itself from the body and see the light.
+
+¶38. These acts work because the soul takes on habits quickly. Trained to worry about the body, it worries about the body. Trained to care for higher things, it comes to care for them and to see the light. In the lectures' image, the soul is like a fine elastic thing. It can be held in the palm of a hand or stretched to the size of the universe and which it becomes depends on what we do with it. It has been entrusted to us for a short time. Whatever we do with it, Sheikh Bahmanpour says, "would remain with us forever".
+
+¶39. The soul is therefore deeper than it looks. It lives in the material world and in the world of images and it reaches towards the world of intellects. It passes into the middle world a little each night in sleep and fully at death. Its deeds give it a form that it will meet there. The self that does those deeds can move from commanding to blaming to peace. What the soul finally becomes has been entrusted to us and it is in our hands.
+
+¶40. If the work on the soul is this inward, what keeps it from going astray?
