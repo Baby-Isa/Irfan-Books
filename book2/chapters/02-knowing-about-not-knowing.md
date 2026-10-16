@@ -15,7 +15,7 @@ Most of what we know of God is of the kind gained by study. We learn the rulings
 ## Knowing about, and knowing
 
 ::: {.point}
-Acquired knowledge comes from outside and works by defining, which is limiting. Knowledge by presence is already with the soul; it is arrived at, not worked out, and it is known without error. The ʿarif's knowledge of God is knowledge by presence.
+Acquired knowledge comes from outside and works by defining, which is limiting. Knowledge by presence is already with the soul; it is arrived at, not worked out, and what is felt is not missed. The ʿarif's knowledge of God is knowledge by presence.
 :::
 
 Let's start with the two kinds of knowing. The first is acquired knowledge, *ʿilm al-husuli*. It reaches us from outside, through the senses or by reasoning. We form concepts of the things around us and then analyse those concepts. Almost everything we learn from teachers and books is of this kind.
@@ -54,7 +54,7 @@ What reason can do, it does. It can show that God exists, and it can say what He
 
 ʿIrfan asks for the positive side, to know God as the Merciful, the Compassionate, and the Forgiving. The names can be learned from a book. To know God as Merciful from within, as a hungry person knows their hunger, is knowledge by presence, and we have knowledge by presence only of what is within us: our own self and some of its states. Mulla Sadra held that knowledge by presence is the only way to know the reality of anything, God above all. If God is to be known, and not only known about, the knowing must happen within the soul.
 
-A sense of God already lives in the soul, however faint. Sheikh Bahmanpour calls it a vague idea of God that we carry inside us, mostly unnoticed. The answer to how God can be known therefore lies in the soul, which most of us have hardly begun to know.
+A sense of God already lives in the soul, however faint. Sheikh Bahmanpour calls it a vague idea of God that we carry inside us. Mostly we do not notice it. The answer to how God can be known therefore lies in the soul, which most of us have hardly begun to know.
 
 ::: {.box-who title="Who's Who: Mulla Sadra and the schools of philosophy"}
 Mulla Sadra died in 1050/1640 [@light, p. 40]. Before him, in Sheikh Bahmanpour's account, Islamic philosophy had two main schools, the Peripatetic, *al-hikma al-mashshaʾiyya*, and the Illuminationist. The Peripatetic school is the way of reasoned proof that Murtada Mutahhari describes: the philosopher works with "reason, deductions and proofs" [@light, p. 42]. It is the school of Ibn Sina. Mulla Sadra called his own philosophy neither of these but the transcendent philosophy, *al-hikma al-mutaʿaliya*. He took what the mystics know only by experience and gave it rational argument, a rationalised mysticism, and held that the reality of things is known only through knowledge by presence. Put simply, the Peripatetics reason their way to the truth, whereas Mulla Sadra held that reasoning must end in the soul's own presence to what it knows. He studied the ʿirfan of Ibn ʿArabi deeply without belonging to any Sufi order, and rated Ibn ʿArabi above Ibn Sina [@light, pp. 35, 40]. *Kernel of the Kernels* records that after a lifetime in philosophy he became absorbed in worship and the purification of his inner being, until "it became clear to me that their syllogisms were barren and their path devoid of straightness" [@kernel, p. 7].
@@ -82,15 +82,15 @@ Allah is the Light of the heavens and the earth.
 
 Allah's light is everywhere, in the heavens and in the earth, and He is with us wherever we are. The hadith and the verse can seem to pull in different directions: the hadith says that God casts the light into the heart of whomever He wills, as if He chose some hearts over others, whereas the verse says that His light is everywhere already.
 
-Both are true. Every act is God's, including the lighting of any heart, and nothing happens except by His will. His will, however, is not to withhold: His light is given without stint. What keeps a heart dark is that it is closed, and the work of the ʿurafaʾ is to open it to a light that was always there.
+Both are true. The lighting of any heart is God's act, as the hadith says. Yet God does not choose some people for the light and pass over others. His light is everywhere and nothing is held back on His side. What keeps a heart dark is that it is closed, and the work of the ʿurafaʾ is to open it to a light that was always there.
 
-Imam Khomeini explains why purification matters so much. When the soul is purified, he writes, divine teaching follows, "for there is no niggardliness in the higher realms, which are bounteous by necessity" [@forty_hadith, p. 331]. He grounds this in a promise of Surah al-Baqarah.
+Imam Khomeini explains why purifying the heart matters so much. When the soul is purified, he writes, divine teaching follows, "for there is no niggardliness in the higher realms, which are bounteous by necessity" [@forty_hadith, p. 331]. He grounds this in a promise of Surah al-Baqarah.
 
 ::: {.ayah ref="2:282" words="121-124"}
 Be wary of Allah and Allah will teach you.
 :::
 
-In the verse, God's teaching follows on from wariness of Him: the light comes to the hearts of the pure, and darkness covers the impure. Chapter One reached the same conclusion by a different road. Surah al-Rum says that God's signs are for those who reflect, know, listen, and reason, and yet most people pass them by. Nothing in the signs is hidden and nothing is wrong with our eyes; the fault lies with an inner faculty that has rusted and does not receive.
+In the verse, God's teaching follows on from wariness of Him. Sheikh Bahmanpour puts the same order in terms of light and darkness: the light comes to the hearts of the pure, and darkness covers the impure. Chapter One reached the same conclusion by a different road. Surah al-Rum says that God's signs are for those who reflect, know, listen, and reason, and yet most people pass them by. Nothing in the signs is hidden and nothing is wrong with our eyes; the fault lies with an inner faculty that has rusted and does not receive.
 
 A light received in one heart can reach another. The knowledge of books passes from mind to mouth, through speech and writing, whereas the knowledge of the ʿurafaʾ passes, in the Sheikh's words, "from heart to heart". Receiving it directly from God is possible but difficult, and most travellers begin through someone who has already received it. Chapter Seven returns to that companion.
 

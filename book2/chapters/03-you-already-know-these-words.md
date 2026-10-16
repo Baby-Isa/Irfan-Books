@@ -52,7 +52,7 @@ A heart cleared of everything but God is free for Him. The prayers go on to ask 
 
 The first is sight. The Munajat asks God to light the eyes of the heart so that they look at Him, and pass even through the veils of light. The Sheikh raises the difficulty himself: the Qur'an says that sight cannot perceive God (Q 6:103), and some who meet these words take them for a mistake.
 
-His answer, given in a later lecture, is that the prayer is not speaking of the eyes in our heads. Our physical eyes work perfectly well, and still we miss God's signs, because the inner faculty behind them is blind. The prayer asks God to give that inner faculty, the eye of the heart, light to see by.
+Later in the course he answers that the eyes cannot catch Him, and the heart can, which agrees with the verse. Our physical eyes work perfectly well, and still we miss God's signs, because the inner faculty behind them is blind. The prayer asks God to give that inner faculty, the eye of the heart, light to see by.
 
 Duʿa ʿArafah, as given in the Mafatih, speaks of that light as something God has already lit in the hearts of His friends.
 
@@ -84,7 +84,7 @@ The Whispered Prayer of the Lovers, one of the fifteen whispered prayers printed
 My God, place us with him whom Thou hast chosen for Thy nearness and Thy friendship, … granted gazing upon Thy face [@sahifa, p. 656]
 :::
 
-For some of us, calling on God can feel like calling into the sky to someone far away. For others, God is present when they call, and they feel His response. The prayer asks for a place among these.
+For some of us, calling on God can feel like calling into the sky to someone far away. For others, God is present when they call, and they feel His response. The prayer asks for a place among the second.
 
 ## A pupil reading above his level
 
@@ -100,7 +100,7 @@ The prayers themselves speak from need, as a pupil would. Duʿa ʿArafah, as giv
 Here I am begging You by my need for You. [@duas_dua_arafah_imam_husain, §689]
 :::
 
-Duʿa Abu Hamza al-Thumali makes the same plea, and places the one who prays at a door. "O my Master, I, Your servant, am standing at Your door owing to neediness," it says ([سَيِّدِي عَبْدُكَ بِبَابِكَ أَقَامَتْهُ ٱلْخَصَاصَةُ بَيْنَ يَدَيْكَ]{lang=ar}) [@duas_ramadan_dua_abu_hamza_thumali, §510]. Need is the only reason the prayer gives for coming.
+Duʿa Abu Hamza al-Thumali makes the same plea, and places the one who prays at a door. "O my Master, I, Your servant, am standing at Your door owing to neediness," it says ([سَيِّدِي عَبْدُكَ بِبَابِكَ أَقَامَتْهُ ٱلْخَصَاصَةُ بَيْنَ يَدَيْكَ]{lang=ar}) [@duas_ramadan_dua_abu_hamza_thumali, §510]. Need is the only reason this line gives for coming.
 
 The line at the head of Part One takes this humility further. In it the Munajat admits that the one reciting had no strength to move away from disobedience "except when You awakened me to Your love" [@light, p. 164]. Even the turning towards God is His doing.
 
@@ -113,7 +113,7 @@ The answer to the difficulty rests on the same humility. We do not understand ma
 ## Prayers for ordinary nights
 
 ::: {.point}
-These are the prayers of the Mafatih al-Jinan, set on nights and days that ordinary believers already keep. Some scholars note that few reach their depth, while the Sheikh recommends them to everyone; the chapter claims access to the words, not attainment of what they ask.
+These are the prayers of the Mafatih al-Jinan, set on nights and days that ordinary believers already keep. Maliki Tabrizi notes that few reach their depth, while the Sheikh recommends the Munajat Shaʿbaniyyah to every listener; the chapter claims access to the words, not attainment of what they ask.
 :::
 
 God's invitation to recite these words comes through books that ordinary believers already use. Four of the prayers quoted in this chapter are in the Mafatih al-Jinan, the standard manual of Shia devotion [@journey, p. 112]. The Mafatih sets each of them on a night or a day in the believer's year.
