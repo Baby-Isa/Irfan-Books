@@ -50,7 +50,9 @@ A heart cut off from all else is free for God, and the prayers go on to ask to s
 
 A heart cleared of everything but God is free for Him. The prayers go on to ask for three things: to see God with the heart, to love Him, and to come near Him.
 
-The first is sight. The Munajat asks God to light the eyes of the heart so that they look at Him, and pass even through the veils of light. The Sheikh raises the difficulty himself: the Qur'an says that sight cannot perceive God (Q 6:103), and some who meet these words take them for a mistake. His answer, given in a later lecture, is that the prayer is not speaking of the eyes in our heads. Our physical eyes work perfectly well, and still we miss God's signs, because the inner faculty behind them is blind. The prayer asks God to give that inner faculty, the eye of the heart, light to see by.
+The first is sight. The Munajat asks God to light the eyes of the heart so that they look at Him, and pass even through the veils of light. The Sheikh raises the difficulty himself: the Qur'an says that sight cannot perceive God (Q 6:103), and some who meet these words take them for a mistake.
+
+His answer, given in a later lecture, is that the prayer is not speaking of the eyes in our heads. Our physical eyes work perfectly well, and still we miss God's signs, because the inner faculty behind them is blind. The prayer asks God to give that inner faculty, the eye of the heart, light to see by.
 
 Duʿa ʿArafah, as given in the Mafatih, speaks of that light as something God has already lit in the hearts of His friends.
 
@@ -136,7 +138,9 @@ Sheikh Bahmanpour still recommends the Munajat to every listener, to be recited 
 The goal of ʿirfan is already on the believer's lips. The prayers we keep on ordinary nights ask, in the voice of need, for severance from all else, and for sight, love, and nearness.
 :::
 
-Access to these words is where an ordinary believer already stands on the path. Part One began with the Qur'an's invitation to more than the minimum, and Chapter Two showed that the more is knowing God, not only knowing about Him, reached by purifying the heart. The Munajat Shaʿbaniyyah, Duʿa Kumayl, Duʿa Abu Hamza al-Thumali, and Duʿa ʿArafah ask for that same knowing and the love that goes with it: they ask God to cut the heart off from all else, to light it, to fill it with His love, and to bring it near. They ask in the voice of someone in need, on nights the ordinary believer keeps. The goal of ʿirfan is therefore not foreign to the believer: it is already on our lips. The full text of the Munajat Shaʿbaniyyah, in Arabic and English, is given in the Appendix.
+Access to these words is where an ordinary believer already stands on the path. Part One began with the Qur'an's invitation to more than the minimum, and Chapter Two showed that the more is knowing God, not only knowing about Him, reached by purifying the heart. The Munajat Shaʿbaniyyah, Duʿa Kumayl, Duʿa Abu Hamza al-Thumali, and Duʿa ʿArafah ask for that same knowing and the love that goes with it: they ask God to cut the heart off from all else, to light it, to fill it with His love, and to bring it near.
+
+They ask in the voice of someone in need, on nights the ordinary believer keeps. The goal of ʿirfan is therefore not foreign to the believer: it is already on our lips. The full text of the Munajat Shaʿbaniyyah, in Arabic and English, is given in the Appendix.
 
 These prayers keep asking God to work on the heart and the self. What is this self?
 

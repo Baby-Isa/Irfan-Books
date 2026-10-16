@@ -11,6 +11,8 @@ _Update at the end of every task. Keep it short. History lives in git and DECISI
 
 **Now (2026-10-13):** Ch 2 rewritten (v2) and Ch 3 revised after the user's first review (D42), with a Fable edit and a fidelity check; voice gate re-run with house-style normalisation. PDFs: `samples/part-one.pdf`, `samples/part-one-review.pdf`. Awaiting the user's read of Ch 2–3.
 
+**2026-10-16:** Ch 2 and Ch 3 tightened after the user said they still meander next to the prologue and Ch 1 (Ch 2 body 2,024 → 1,826 words; Ch 3 1,739 → 1,576). Cuts: the light/hadith contradiction resolved once instead of twice (Ch 2), the Mutahhari contrast and Khomeini order sentence in "The path is purification" (Ch 2), the Mutahhari "sublime ideas" paragraph (Ch 3), restated conclusions and quote paraphrases. Voice profile PASS on both.
+
 **Next:** user feedback; the user's decision on cutting the Sheikh's name in the prologue and Ch 1; then the Part Two briefs.
 
 
