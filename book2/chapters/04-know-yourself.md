@@ -16,7 +16,7 @@ The soul deserves that care because everything we know, we know with it. Our eye
 
 The soul is also the one thing we know from the inside. Everything else reaches us through an idea of it, and the idea can be wrong. Our own hunger we know with no idea in between, and the soul knows itself in the same direct way. This is knowledge by presence (*ʿilm al-huduri*). The soul's knowledge of itself is the clearest case, since here the one who perceives and the thing perceived are the same.
 
-Because the soul is both the instrument of all knowing and the one thing we know directly, the theory of ʿirfan begins with it. Nothing else can be studied until that instrument is understood. Knowing God, rather than knowing about Him, needs this same direct knowing, and the soul is the one place where we have it. This chapter sets out why we must know ourselves to know our Lord, and how.
+The theory of ʿirfan therefore begins with the soul, since every other study is carried out with it. Knowing God, rather than knowing about Him, would need this same direct knowing, and so it too must happen in the soul. This chapter sets out why we must know ourselves to know our Lord, and how.
 
 ::: {.words}
 *nafs*: the soul or self · *ruh*: the spirit; the higher soul · *liqaʾ Allah*: the meeting, or encounter, with God · *qurb*: nearness to God · *hijab* (plural *hujub*): a veil between the heart and God
@@ -53,13 +53,12 @@ Knowing God begins with knowing the soul, because the two are forgotten together
 
 1. Forgetting God makes us forget our own souls.
 2. Most of us have forgotten our souls in this sense: their potential lies undeveloped.
-3. A forgotten soul also hides its faults, and a fault not seen cannot be cured.
-4. Remembering God turns our attention back to the soul.
-5. Losing the soul also costs us our faith.
-6. That is because a soul that is seen points to its Maker.
-7. Knowing is tied the same way as forgetting: whoever knows his soul knows his Lord.
-8. The saying holds because the soul reflects God, without being part of Him.
-9. Therefore knowing God begins with knowing the soul.
+3. Remembering God turns our attention back to the soul.
+4. Losing the soul costs us our faith.
+5. That is because a soul that is seen points to its Maker.
+6. Knowing is tied the same way as forgetting: whoever knows his soul knows his Lord.
+7. The saying holds because the soul reflects God, without being part of Him.
+8. Therefore knowing God begins with knowing the soul.
 :::
 
 If the human story is the soul's story, losing sight of the soul is the deepest loss. Surah al-Hashr names its cause: forgetting God.
@@ -70,11 +69,9 @@ Do not be like those who forget Allah, so He makes them forget their own souls. 
 
 The verse calls such people transgressors. Sheikh Bahmanpour counts most of us, practising Muslims included, among those who have forgotten their souls. He does not mean that we will be punished for it. He means that we do not realise the potential our souls hold, and so we do not develop them as we could.
 
-A forgotten soul also hides its own faults. The worst sins are the ones we do not recognise as sins, because what is not recognised cannot be cured. This is one reason believers are told to seek God's forgiveness (*istighfar*) at all times: it covers the sins we commit without seeing them.
-
 The cure follows from the verse. If forgetting God makes us forget the soul, remembering God (*dhikr*) turns our attention back to it. This is how the mystics read the verse. The return comes in stages. A person first turns back to the self and sees that it must have a Creator. Full knowledge of the soul comes later, as the remembrance of God deepens.
 
-The link also runs from the soul to faith. Surah al-Anʿam says what is lost along with the soul.
+Where remembering God brings the soul back, losing the soul takes faith with it. Surah al-Anʿam says so.
 
 ::: {.ayah ref="6:20" words="8-"}
 Those who have ruined their souls will not have faith.
@@ -106,11 +103,10 @@ God is already near, so reaching Him means lifting, in this life, the veils over
 3. The veils come off for every soul at the meeting with God that the Qur'an promises.
 4. At that meeting each soul sees itself as it is.
 5. The soul reflects God, so the unveiled soul shows Him in reflection, not in His Essence.
-6. The soul cannot be known to its depths, so neither can God.
-7. The meeting therefore brings nearness to God, never a grasp of Him.
-8. What a soul perceives of God at that meeting depends on what it perceives of Him in this life.
-9. Hence the seeker lifts the veils in this life, and finds behind them the soul as it is.
-10. Therefore the way to God runs through knowing the self.
+6. The soul cannot be known to its depths, so the meeting brings nearness to God, never a grasp of Him.
+7. What a soul perceives of God at that meeting depends on what it perceives of Him in this life.
+8. Hence the seeker lifts the veils in this life, and finds behind them the soul as it is.
+9. Therefore the way to God runs through knowing the self.
 :::
 
 Looking within does not mean going anywhere, because God is already near. In Sheikh Bahmanpour's words, "We are actually in [H]is presence at the moment. However, [H]e is not in our presence." The soul stands before God now. What it lacks is the perception of the One before whom it stands.
@@ -127,19 +123,17 @@ The verse speaks of the meeting with God (*liqaʾ Allah*). Every soul will take 
 
 What is seen at that meeting is the soul, and the soul is a reflection of God. Seeing it is therefore seeing a reflection of God, and not God Himself. The verse still calls it a meeting with Him, because on that day God becomes present to the soul. The believer perceives His mercy and reward, whereas the unbeliever perceives His justice.
 
-Even unveiled, the soul does not give a complete knowledge of God. The soul knows itself by presence, yet even so it cannot see to its own depths. If our own soul cannot be known completely, still less can its Lord, who is without limit.
+Unveiled, the soul still gives no complete knowledge of God. It knows itself by presence but cannot see to its own depths. If our own soul cannot be known completely, its Lord, who is without limit, cannot be either. Imam Khomeini draws the same line. Some scholars take every mention of liqaʾ Allah to mean the Last Day, whereas he holds that the meeting is open to the seeker as well. Holding it open, he writes, does not mean "that it is permissible to fathom the mystery of the Divine Essence" [@forty_hadith, p. 398]. What the meeting brings is nearness (*qurb*): the soul witnesses God's glory and beauty, while His Essence stays beyond its reach [@forty_hadith, p. 398].
 
-Imam Khomeini draws the same line. Some scholars take every mention of liqaʾ Allah to mean the Last Day, with its reward and punishment. Imam Khomeini holds that the meeting is open to the seeker as well. Yet even those who hold the meeting open do not mean, he writes, "that it is permissible to fathom the mystery of the Divine Essence" [@forty_hadith, p. 398]. The meeting brings nearness to God (*qurb*), never a grasp of Him.
-
-What a soul perceives of God at that meeting depends on what it perceives of Him now. The lectures draw this from Surah al-Isra.
+What a soul perceives of God at that meeting depends on what it perceives of Him now. Sheikh Bahmanpour draws this from Surah al-Isra.
 
 ::: {.ayah ref="17:72"}
 But whoever has been blind in this [world], will be blind in the Hereafter, and [even] more astray from the [right] way.
 :::
 
-If blindness in this world carries into the next, the veils cannot be left for that day. The whole effort of the path is to remove them now, so that the heart can see the glory of God and feel His presence. Mirza Jawad Maliki Tabrizi says what the seeker finds behind them. The one given God's grace can "remove the material curtain from his spirit and self" and see the self's reality. Such knowledge of the self, he writes, is the meaning of Imam ʿAli's (as) saying that whoever knows himself knows his Lord [@journey, p. 125].
+If blindness in this world carries into the next, the veils cannot be left for that day. Every method the masters of the path have devised has this one aim: to remove the veil that covers the heart and keeps it from feeling God's presence. Mirza Jawad Maliki Tabrizi describes what lies behind that veil. The one given God's grace can "remove the material curtain from his spirit and self" and see the self's reality. For him, this knowledge of the self is the meaning of Imam ʿAli's (as) saying that whoever knows himself knows his Lord [@journey, p. 125].
 
-The way to God therefore runs through the self. God is already near, and the soul reflects Him. What keeps us from Him is a veil over our own soul. Lifting it means coming to know the soul as it is, which is how we come to know our Lord.
+The way to God therefore runs through the self. God is already near and reflected in the soul, and the veil that keeps us from Him lies over the soul itself.
 
 If the way to God runs through the self, how deep does the self go?
 
