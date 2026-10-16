@@ -48,7 +48,7 @@ A saying attributed to the Prophet ﷺ puts the three in one line. "The shariʿa
 
 If the path and the truth lie inside the law, the three are not separate roads. Mulla ʿAbd al-Samad Hamadani, a Shia ʿarif, taught that they are different names for one reality seen from different sides. They differ only in depth: the law is the shell, the path the core, and the truth the kernel.[Murtada Mutahhari gives the same order: "One is outward shell, another is inward kernel, and the third is the kernel of the kernel." @light, p. 15]
 
-Hamadani found all three depths in a single salah. As service to God (*khidma*), the prayer belongs to the law. As a drawing near (*qurb*), it belongs to the path, and as an arrival (*wusul*), it belongs to the truth.[Sayyid Haydar Amuli records the saying: "Surely prayer is service, a coming closer and an arrival." @inner_secrets, p. 32] Sheikh Bahmanpour adds that a prayer like the Prophet's does all three at once: it serves God, it draws near to Him, and it arrives in His presence.
+Hamadani found all three depths in a single salah. As service to God (*khidma*), the prayer belongs to the law. As a drawing near (*qurb*), it belongs to the path, and as an arrival (*wusul*), it belongs to the truth.[Sayyid Haydar Amuli records the saying: "Surely prayer is service, a coming closer and an arrival." @inner_secrets, p. 32] Sheikh Bahmanpour adds that a prayer like the Prophet's does all three at once: it serves God, it draws near to Him, and it arrives (*wusul*).
 
 The order between the depths runs one way only. The law can be kept without the path. The prayer with the wandering mind was valid in law, yet it did not draw near. The path cannot be walked without the law, because the path is the inside of the law's own acts and has nothing else to work on.[Sayyid Haydar Amuli puts the order as a rule: "shariʿah is possible without tariqah although tariqah is not possible without shariʿah." @inner_secrets, p. 48]
 
@@ -123,10 +123,10 @@ The law holds to the last breath; only the reason for keeping it changes.
 2. The Prophet ﷺ kept every precept to the last moments of his life, so no station is beyond the law.
 3. Anyone who claims the path while departing from the law is to be counted a hypocrite.
 4. Once the truth is unveiled, the law is kept more carefully, not less.
-5. What can change at the end is the reason for worship: it is no longer for growth.
+5. What can change on arrival is the reason for worship: it is no longer for growth.
 6. The Prophet ﷺ himself gave the new reason: to be a grateful servant.
-7. For a soul that has arrived, worship is thanks, as the opening prayer asks.
-8. Arrival is not the end of the road: the traveller returns to creation.
+7. For a soul that has arrived, worship is thanks, as the Munajat at the head of this chapter asks.
+8. The completed journey runs past arrival, back among people, and the law binds there too.
 9. Therefore: there is no path outside the law, from the first step to the last.
 10. If the law marks out the road, the next question is who walks it beside the traveller.
 :::
@@ -139,7 +139,7 @@ The *Kernel*'s test is close to Kubra's. Anyone who claims to be a wayfarer whil
 
 Imam Khomeini goes further. A person to whom the truth has been unveiled, he writes, acts "with greater observance of the manifest forms of religion" [@forty_hadith, p. 35]. He rejects the claim of release, the view that once inner excellences are gained the outward forms are no longer obligatory, as "a mistaken conception born of ignorance about the stages of worship" [@forty_hadith, p. 35].
 
-Worship does have stages, and the *Kernel* finds one true sense in the talk of release, though not the sense its proponents intend. Acts of worship develop the soul, bringing its capacities "from potentiality to actuality" [@kernel, p. 30], that is, making real what was only possible. For a soul still growing towards its perfection, worship is the means of growth. For a soul that has reached perfection, worship is no longer for growth [@kernel, p. 30]. What changes at the end of the road is not the law but the reason for keeping it.
+Worship does have stages, and the *Kernel* finds one true sense in the talk of release, though not the sense its proponents intend. Acts of worship develop the soul, bringing its capacities "from potentiality to actuality" [@kernel, p. 30], that is, making real what was only possible. For a soul still growing towards its perfection, worship is the means of growth. For a soul that has reached perfection, worship is no longer for growth [@kernel, p. 30]. What changes on arrival is not the law but the reason for keeping it.
 
 The Prophet ﷺ gave that reason himself. He was once asked why he took such pains in worship when God had promised him forgiveness (Q 48:2), and he answered with a question.
 
@@ -149,9 +149,9 @@ Don't you want me to be God's grateful servant? [@kernel, p. 30]
 
 For such a soul, the *Kernel* concludes, worship is "purely for the sake of expression of thankfulness and gratitude to God Almighty" [@kernel, p. 30]. The Munajat Shaʿbaniyyah at the head of this chapter asks for the same gratitude: to be among those who do not fail to show God their gratitude and do not take His orders lightly.
 
-Arrival is not the end of the road. The ʿurafaʾ describe the completed journey as four journeys: to God, in God, back from God to creation, and among creation. The last three are made by God. The traveller who reaches God returns to creation in the third journey and travels the fourth among people, as Chapter Sixteen describes.
+The completed journey also runs past arrival. The ʿurafaʾ describe it as four journeys: to God, in God, back from God to creation, and among creation. In the Sheikh's phrase, the last three are made "by the haqq", that is, through God, the Real, and not by the traveller's own strength. The traveller returns to creation in the third journey and travels the fourth among people, as Chapter Sixteen describes. On the *Kernel*'s rule that the law binds the wayfarer "to its final stage" [@kernel, p. 30], it binds in these journeys too.
 
-There is therefore no path outside the law. The law, the path, and the truth belong to one religion, seen at three depths, and each depth is reached only through the one before. Nothing inward stands in for the law, and the inner work begins inside it, with attention in prayer. At the end of the road the law is still kept, now as thanks to God.
+There is therefore no path outside the law. The law, the path, and the truth belong to one religion, seen at three depths, and each depth is reached only through the one before. Nothing inward stands in for the law, and the inner work begins inside it, with attention in prayer. After arrival the law is still kept, now as thanks to God.
 
 If the law marks out the road, who walks it beside the traveller?
 
