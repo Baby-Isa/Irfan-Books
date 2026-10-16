@@ -101,7 +101,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | kuffar | kuffar, kaafir | | Unbelievers | L02 |
 | Kubrawiyya | kubrawiyyah | | The order founded by Najm al-Din Kubra | L08 |
 | kursi | kursi | | The Footstool, one of the higher encompassing realms | L04 |
-| liqaʾ Allah | liqa Allah | | The meeting with God; in ʿirfan, nearness with the veils lifted, never a grasp of His essence | B2 Ch4 |
+| liqaʾ Allah | liqa Allah | | The meeting with God; in the lectures, the soul seeing itself with its veils removed (L04 ¶42) | B2 Ch4 |
 | Lut | Lut | | The prophet Lot (Q 21:75) | L02 |
 | maʿad | maad | | Return, resurrection | L16 |
 | mahiyya | mahiyyat | | Quiddity or essence | L13 |
