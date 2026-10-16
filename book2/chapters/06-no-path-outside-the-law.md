@@ -10,7 +10,7 @@ who do not fail to show You their gratitude and do not take Your orders lightly 
 
 These words come near the end of the Munajat Shaʿbaniyyah. They describe the people among whom the one who prays asks to be counted: those who remember God always, never fail to thank Him, and never take His commands lightly. Remembering God and keeping His law are asked for in one line.
 
-Most of us know how easily the two come apart. We stand for salah, raise our hands, and say *Allahu akbar*, and within moments the mind has turned to whether the car was locked. The prayer is still valid, since every rule has been kept, yet the remembering has slipped away.
+Most of us know how easily the two come apart. We stand for salah, raise our hands, and say *Allahu akbar*, and within moments the mind has turned to whether the car was locked. The prayer still counts as valid by the law, which judges its outward form [@forty_hadith, p. 293], yet the remembering has slipped away.
 
 Chapter Five found the self deeper than it appears, shaped by its own deeds and with its final form in our hands, and asked what keeps so inward a work from going astray. This chapter's answer is the law, in which the rules we keep and the remembering we lose are one thing at different depths.
 
@@ -30,7 +30,7 @@ The path is the inward side of the law. Suppose we prayed beside the Prophet ﷺ
 
 A saying attributed to the Prophet puts the three in one line. "The shariʿah is my words, tariqah my actions, haqiqah my states" [@inner_secrets, p. 32]. His words tell us what to do. His actions show how it is done from within, inside the outward frame of the law, and his states are what he saw by doing it.
 
-Because each depth lies inside the one before, none of them can be skipped. Sheikh Bahmanpour gives an image for this that he credits to Najm al-Din Kubra, the master of one of the Sufi orders [VERIFY: Kubra's ship, sea and pearl, Fawaʾih al-jamal]. The law is a ship, the path is a sea, and the truth is a pearl within it. The pearl "cannot be found except by sailing through the sea, and you cannot sail without a ship". This order is why the prologue counted the shariʿa as the beginning of ʿirfan, and the boundary of every step after it.
+Because each depth lies inside the one before, none of them can be skipped. Sheikh Bahmanpour gives an image for this that he credits to Najm al-Din Kubra, the master of one of the Sufi orders. The law is a ship, the path is a sea, and the truth is a pearl within it. The pearl "cannot be found except by sailing through the sea, and you cannot sail without a ship". This order is why the prologue counted the shariʿa as the beginning of ʿirfan, and the boundary of every step after it.
 
 Mulla ʿAbd al-Samad Hamadani, a Shia ʿarif who had a hadith of the Ahl al-Bayt (as) ready for every point of the path, puts the same order without the image. The law, the path, and the truth, he taught, are different names for one reality seen from different sides, and they differ only in depth: the shariʿa is the shell, the tariqa the core, and the haqiqa the kernel.[Murtada Mutahhari gives the same order: "One is outward shell, another is inward kernel, and the third is the kernel of the kernel." @light, p. 15]
 
@@ -58,7 +58,7 @@ If the truth is reached only through the law, someone who claims the truth while
 Chapter One set *karamat* and *muʿjizat*, the wonders of the saints and the miracles of the prophets, side by side, and this chapter adds a third word. A *muʿjiza*, a miracle, is worked only by a prophet, by God's permission. A *karama* (plural *karamat*) is a wonder that appears at the hands of someone close to God, worked, in Sheikh Bahmanpour's description, through the strength of the human soul. *Sihr*, magic, produces effects that can look the same by other means, usually the help of the jinn. To an onlooker a flight through the air looks alike whoever performs it, so Kubra's test looks past the feat to the person's keeping of the law, and one abandoned command of God is enough to mark the feat as magic.
 :::
 
-The law cannot be skipped because of what it does to the one who keeps it. Shaykh Muhammad Bahari, one of the Shia teachers whose chain Chapter Seven follows [@light, p. 106], set out the order. Jurisprudence, he taught, is "an introductory means" to purifying one's character, and good character is the way into knowledge of God's oneness, *tawhid*.
+The law cannot be skipped because of what it does to the one who keeps it. Ayatullah Muhammad Bahari, an Iranian ʿarif, set out the order. Jurisprudence, he taught, is "an introductory means" to purifying one's character, and good character is the way into knowledge of God's oneness, *tawhid*.
 
 The chain runs in one direction only. Without the law lived in oneself there is no good character, and without good character there is no knowledge of God, since that knowledge comes through purifying the self and not through study. A traveller who claims to have become an ʿarif and to need the law no longer, as if it were meant for ordinary people, has broken the first link.
 
