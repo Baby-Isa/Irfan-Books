@@ -1,0 +1,32 @@
+{
+ "validity_auc": 0.47916666666666663,
+ "a_over_chapter_auc": 0.3263888888888889,
+ "ci90": [
+  0.14583333333333334,
+  0.5277777777777778
+ ],
+ "chapter_over_control_auc": 0.7430555555555556,
+ "verdict": "INVALID (the panel could not tell Author A from the rejected drafts)",
+ "judges": [
+  {
+   "stem": "06v-j1",
+   "model": "opus",
+   "fold": "A",
+   "auc": {
+    "a_over_control": 0.4583333333333333,
+    "a_over_chapter": 0.2361111111111111,
+    "chapter_over_control": 0.7361111111111112
+   }
+  },
+  {
+   "stem": "06v-j2",
+   "model": "fable",
+   "fold": "A",
+   "auc": {
+    "a_over_control": 0.5,
+    "a_over_chapter": 0.4166666666666667,
+    "chapter_over_control": 0.75
+   }
+  }
+ ]
+}
