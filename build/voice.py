@@ -26,7 +26,7 @@ Usage:
   python3 build/voice.py score NN
   python3 build/voice.py openings book2/chapters/02-*.md
 """
-import json, random, re, statistics as st, subprocess, sys
+import collections, json, random, re, statistics as st, subprocess, sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -534,6 +534,58 @@ def score(nn, quiet=False):
     return verdict
 
 
+# ---------------------------------------------------------------- chain audit (D44)
+# The blind authorship judge cannot separate the user's approved prose from the
+# drafts he rejected (calibration 2026-10-16), because what he rejected is
+# section-level: paragraphs that do not move the section towards its point.
+# The chain audit asks a fresh judge to label each paragraph against the
+# section's point note and counts the paragraphs that do not advance it.
+def chain(stem, spec):
+    md = re.sub(r"\A---\n.*?\n---\n", "", read_spec(spec), flags=re.S)
+    out, n, sec = [f"# Chain packet {stem}\n"], 0, 0
+    for block in re.split(r"\n(?=## )", md):
+        head = block.split("\n", 1)[0]
+        if not head.startswith("## "):
+            continue
+        sec += 1
+        pt = re.search(r":::+\s*\{\.point\}\s*\n(.*?)\n:::+", block, re.S)
+        out += [f"## Section {sec}: {head[3:].strip()}\n",
+                f"**Point:** {clean(pt.group(1)) if pt else '(none given)'}\n"]
+        for kind, text in paragraphs(block, keep_boxes=True, placeholders=True):
+            if kind == "quote":
+                out.append(text + "\n")
+            elif kind == "box":
+                out.append(f"[box] {text}\n")
+            else:
+                n += 1
+                out.append(f"¶{n}. {house_style(text)}\n")
+    (VOICE_DIR / f"{stem}-chain-packet.md").write_text("\n".join(out))
+    (VOICE_DIR / f"{stem}-chain-key.json").write_text(json.dumps({"source": spec}))
+    print(f"reviews/voice/{stem}-chain-packet.md: {sec} sections, {n} paragraphs")
+
+
+CHAIN_BAD = ("restate", "aside")
+
+
+def chain_score(stems):
+    print(f"  {'packet':14} {'source':52} paras  restate aside  idle%  idle words%")
+    rows = []
+    for stem in stems:
+        src = json.loads((VOICE_DIR / f"{stem}-chain-key.json").read_text())["source"]
+        ans = json.loads((VOICE_DIR / f"{stem}-chain-answers.json").read_text())
+        labs = ans["paragraphs"]
+        pk = (VOICE_DIR / f"{stem}-chain-packet.md").read_text()
+        wc = {m.group(1): len(words(m.group(2))) for m in re.finditer(r"¶(\d+)\. (.*)", pk)}
+        bad = [k for k, v in labs.items() if v["label"] in CHAIN_BAD]
+        idle = len(bad) / max(len(labs), 1)
+        idle_w = sum(wc.get(k.lstrip("¶"), 0) for k in bad) / max(sum(wc.values()), 1)
+        c = collections.Counter(v["label"] for v in labs.values())
+        rows.append((stem, src, idle, idle_w))
+        print(f"  {stem:14} {src[-52:]:52} {len(labs):5} {c['restate']:8} {c['aside']:5} "
+              f"{100 * idle:5.0f} {100 * idle_w:11.0f}")
+    return rows
+
+
 def openings(spec):
     """First sentence of every body paragraph, for the TONE rule 1 read-through."""
     for i, (_, p) in enumerate(p for p in paragraphs(read_source(spec)) if p[0] == "body"):
@@ -555,6 +607,10 @@ if __name__ == "__main__":
     elif a[0] == "score":
         v = score(a[1])
         sys.exit(0 if v == "PASS" else 1)
+    elif a[0] == "chain":
+        chain(a[1], a[2])
+    elif a[0] == "chainscore":
+        chain_score(a[1:])
     elif a[0] == "openings":
         openings(a[1])
     else:

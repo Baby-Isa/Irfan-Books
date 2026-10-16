@@ -1,0 +1,84 @@
+Blind voice test calneg4: ['reviews/voice/corpus/X-ch02-v1-2d8143e.md']
+  judge      model  fold  mean p: A-held  chapter control   AUC A>control  A>chapter  chapter>control
+  calneg4-j1 opus   A               45       44      50            0.40       0.48             0.46
+  calneg4-j2 fable  A               56       55      48            0.62       0.54             0.64
+  calneg4-j3 opus   A               55       56      55            0.28       0.38             0.52
+  calneg4-j4 fable  A               47       59      47            0.48       0.32             0.72
+  panel: validity AUC 0.45 (need 0.75); A-over-chapter AUC 0.43 (90% 0.26-0.59; pass <= 0.6, rewrite > 0.7); chapter-over-control 0.58
+  verdict: INVALID (the panel could not tell Author A from the rejected drafts)
+  calneg4-j1 F (chapter, p=20; Author A median 40): act on these
+     - 'Allah's light, the Sheikh says ... It is not the case, he says ... The light, the Sheikh says ... he says nonetheless' — 'he says' used as filler four times; Author A attributes once and speaks in its own voice
+     - 'There is no hindrance on His side to pouring His knowledge and bounty upon us. His knowledge and bounty are all there' — the same point said twice in a row
+     - 'Chapter One reached the same conclusion by another road, when it placed the fault in the receiver.' — a recap of an earlier conclusion as a closing line rather than a step forward
+     - 'Whatever stands between the heart and the light stands on our side.' restated by 'comes to the hearts of the pure and darkness covers the impure' — conclusion repeated within one paragraph
+  calneg4-j1 C (chapter, p=22; Author A median 40): act on these
+     - 'A learning that does not bring faith with it, he writes ... He adds ... The sciences, he goes on ... In another place he gives' — a chain of reporting verbs with quotations stacked and none explained; Author A quotes once and then reads the quotation
+     - 'Three of the great teachers of the tradition speak to how fikr and suluk relate. For Imam Khomeini and ʿAllama Tabatabaʾi' — a set-up that promises three and names two; loose link
+     - 'A path that is not thought alone leaves open what study is for.' — abstract, awkward opener that does not clearly pick up the previous paragraph
+     - 'That life comes, he says, when ...' — 'he says' as filler after the Sheikh has already been named
+  calneg4-j1 B (Author A false alarm, p=40): discount chapter tells like these
+     - 'This is the case for pursuing ʿirfan.' — opens by announcing and restating the conclusion; Author A moves straight to the next step
+     - 'Then: "These are shirk."' — dramatic staging of a quotation with a bare colon; Author A introduces a quotation with a full sentence
+     - 'Shirk, setting up a partner beside God, is the gravest charge in Islam.' — closing flourish that adds weight rather than a step
+  calneg4-j1 H (Author A false alarm, p=38): discount chapter tells like these
+     - 'The great teachers of the Shia tradition make closely related points, each in his own words.' — generic opener that announces a catalogue rather than picking up a specific point
+     - Three paragraphs each open by naming a scholar and end on his quotation ('his efforts are rendered invalid'; 'found Him worthy of worship') with no reading afterwards; Author A explains what each quotation shows
+     - 'Murtada Mutahhari uses the same word as Sheikh Bahmanpour.' — a link by coincidence of wording rather than by argument
+  calneg4-j1 I (Author A false alarm, p=25): discount chapter tells like these
+     - 'It is this good life that the mystics seek.' — tidy closing line restating the paragraph
+     - 'For the muqarrabun, the terms are entirely different from those of ordinary believers.' — an unexplained one-sentence paragraph after the verse; Author A reads the verse in plain words
+     - 'It is difficult, but it is open, because we are made for it ... He means this as a statement of what we were made for ... God created us with that capacity and wants us to reach it.' — the same conclusion stated three times in one paragraph
+     - 'He means this as a statement of what we were made for.' — interpreting the teacher's intent as filler
+  calneg4-j2 C (chapter, p=35; Author A median 52): act on these
+     - 'the Sheikh says... he says... the Sheikh says... for Sheikh Bahmanpour... he says' — five attributions in three paragraphs; Author A names a source once per paragraph and then lets the sentences stand.
+     - 'There is no hindrance on His side to pouring His knowledge and bounty upon us. His knowledge and bounty are all there;' — the second sentence restates the first; Author A would cut it and go straight to 'the work of the ʿurafaʾ is to open the heart'.
+     - 'The light, the Sheikh says, comes to the hearts of the pure and darkness covers the impure.' — a true remark dropped in after the Khomeini point without moving the argument on; Author A would either build on it or leave it out.
+  calneg4-j2 E (chapter, p=45; Author A median 52): act on these
+     - '"For knowledge gives birth to action and action in turn brings knowledge".' — a quotation standing as its own sentence with no introducing clause; Author A writes 'he says that...' or 'in his words' and folds it in.
+     - 'Those brought near to God, the ʿurafaʾ, know Him in the second way, through a veil removed and not a definition learned.' — the paragraph does not pick up Mutahhari's list but restates earlier conclusions in a balanced antithesis; Author A opens on the last paragraph's point.
+     - 'Murtada Mutahhari, the third, separates...' — a catalogue count ('the third') where Author A would link by sense ('Mutahhari draws the line by the means each uses').
+  calneg4-j2 G (Author A false alarm, p=35): discount chapter tells like these
+     - 'That doorway is open to people like us: ordinary people can also enter the realm of the muqarrabun.' — colon followed by a restatement of the clause before it; Author A uses a colon to add content.
+     - 'because we are made for it... He means this as a statement of what we were made for... God created us with that capacity and wants us to reach it.' — the closing paragraph says the same thing three ways and ends on a flourish; Author A would keep one sentence and stop.
+     - 'For the muqarrabun, the terms are entirely different from those of ordinary believers.' — a one-line gloss that does not read the verse; Author A says what the verse shows ('Cattle see and hear perfectly well, so...').
+  calneg4-j2 L (Author A false alarm, p=45): discount chapter tells like these
+     - 'The great teachers of the Shia tradition make closely related points, each in his own words.' — a catalogue opener announcing a list of sources rather than picking up the last point; Author A opens on the argument and brings a source in to serve it.
+     - 'If a traveller's "spiritual exercises are meant for acquiring powers for worldly ends, his efforts are rendered invalid".' — the paragraph ends on the quotation with no reading of it; Author A glosses every quotation.
+     - 'and he recalls Imam ʿAli (as) saying that he worshipped God not from fear of His Fire or desire for His Paradise but because he found Him worthy of worship.' — a second source appended with 'and' as an extra true remark that does not move the point on; Author A would stop at the shirk point or make the hadith do work.
+  calneg4-j3 H (chapter, p=28; Author A median 55): act on these
+     - 'the Sheikh adds', 'the Sheikh says', 'In his words', 'the Sheikh says', 'in his account' — the teacher named again and again as filler; Author A names him once per point
+     - 'The sentence divides the work. Purification is the traveller's part; the light is Allah's to give.' — tidy aphoristic close; Author A stops on the explanation itself
+     - 'If the light is everywhere and the heart is closed, the path to knowing God is the opening of the heart.' — second paragraph restarts the argument rather than picking up the first paragraph's point about the Imam
+     - 'It is the repair of the rusted faculty that Chapter One described.' — restates an earlier conclusion where Author A would simply cross-refer
+  calneg4-j3 E (chapter, p=40; Author A median 55): act on these
+     - 'Murtada Mutahhari, the third, separates...' — a catalogue of teachers counted off one by one; Author A brings in one source per point and moves the argument on
+     - 'once the traveller has set out, the first essential, he says' / 'he writes' — 'he says' as filler inside paraphrase; Author A uses 'in X's words' once
+     - 'Their knowing is present to the soul, as hunger is present to the one who fasts and it comes as a light that God places in a purified heart.' — a summary line gathering the chapter's images; Author A ends on the point rather than recapping
+  calneg4-j3 J (Author A false alarm, p=40): discount chapter tells like these
+     - 'It is this good life that the mystics seek.' — cleft closing line; Author A ends on the point without a summary flourish
+     - 'For the muqarrabun, the terms are entirely different from those of ordinary believers.' — a one-line paragraph after the verse that does not explain it; Author A glosses each verse
+     - 'It is difficult, but it is open, because we are made for it... He means this as a statement of what we were made for... God created us with that capacity and wants us to reach it.' — the same conclusion restated three times; Author A says it once
+  calneg4-j4 K (chapter, p=35; Author A median 45): act on these
+     - 'That life comes, he says, when a person follows the Prophet completely and then waits for the help of Allah.' — repeats the paragraph's opening sentence ('waits for Allah's help and looks to nothing else') with 'he says' as filler.
+     - 'he writes… He adds that… he goes on… In another place he gives the view' — four attribution tags chaining four quotations from one teacher in one paragraph; Author A quotes once and explains.
+     - 'Three of the great teachers of the tradition speak to how fikr and suluk relate.' — 'speak to' is management idiom and the sentence announces rather than argues; Author A would name the teacher and give the point.
+     - 'Imam Khomeini puts little store by mere knowledge.' — spoken idiom; Author A would write plainly ('Imam Khomeini does not rate learning on its own').
+  calneg4-j4 B (chapter, p=44; Author A median 45): act on these
+     - 'the path to purity, a striving towards purification' — a doubled gloss; Author A gives one plain gloss ('suluk, wayfaring').
+     - 'The first step of purification is to polish the soul … Purification, in his account, is polishing the soul so that it starts working.' — the same statement made twice in one paragraph; Author A says it once and goes to the link ('It is the repair of the rusted faculty…').
+     - 'the Sheikh adds … the Sheikh says … the Sheikh says … in his account' — attribution in every paragraph as filler; Author A names the speaker once and then speaks to the quotation.
+     - 'The knowledge of ʿirfan, the Sheikh says, is not something one can read anywhere or work out and that is why it comes through suluk.' — restates the previous paragraph's fikr/suluk contrast without moving on.
+  calneg4-j4 F (Author A false alarm, p=45): discount chapter tells like these
+     - 'The great teachers of the Shia tradition make closely related points, each in his own words.' — a framing sentence that opens on a new subject and adds nothing; Author A would start from the last paragraph's point (shirk) and name the first teacher directly.
+     - 'he "has no right…"… Whoever does so "does not move…"… "though he may not admit it by word of mouth"' — three quotations from one teacher chained in one paragraph; Author A quotes one short phrase and explains it.
+     - 'and he recalls Imam ʿAli (as) saying that he worshipped God not from fear of His Fire…' — the paragraph ends on a second, paraphrased authority tacked on with 'and'; Author A stops on the point.
+  calneg4-j4 H (Author A false alarm, p=28): discount chapter tells like these
+     - 'It is this good life that the mystics seek.' — a closing line restating the paragraph; Author A stops on the description.
+     - 'For the muqarrabun, the terms are entirely different from those of ordinary believers.' — a one-line comment after a verse that does not say what the verse promises; Author A explains the verse in concrete terms.
+     - 'That doorway is open to people like us: ordinary people can also enter the realm of the muqarrabun.' — the colon restates the clause before it; Author A would write the sentence once.
+     - 'because we are made for it… He means this as a statement of what we were made for… God created us with that capacity and wants us to reach it.' — the same conclusion three times in one paragraph; Author A says it once.
+  calneg4-j4 M (Author A false alarm, p=38): discount chapter tells like these
+     - 'This is the case for pursuing ʿirfan.' followed by a paragraph restating the chapter's conclusions — a summary paragraph; Author A does not restate.
+     - 'Then: "These are shirk."' — a dramatic fragment for effect; Author A would write 'He calls these shirk' and explain.
+     - 'Shirk, setting up a partner beside God, is the gravest charge in Islam.' — a weighty closing line; Author A ends on the point, not on a verdict.
+     - 'This kind of mysticism must be held apart from the real thing.' — 'the real thing' is spoken phrasing; Author A would write 'from ʿirfan'.

@@ -1,0 +1,52 @@
+{
+ "validity_auc": 0.445,
+ "a_over_chapter_auc": 0.43,
+ "ci90": [
+  0.26,
+  0.5900000000000001
+ ],
+ "chapter_over_control_auc": 0.585,
+ "verdict": "INVALID (the panel could not tell Author A from the rejected drafts)",
+ "judges": [
+  {
+   "stem": "calneg4-j1",
+   "model": "opus",
+   "fold": "A",
+   "auc": {
+    "a_over_control": 0.4,
+    "a_over_chapter": 0.48,
+    "chapter_over_control": 0.46
+   }
+  },
+  {
+   "stem": "calneg4-j2",
+   "model": "fable",
+   "fold": "A",
+   "auc": {
+    "a_over_control": 0.62,
+    "a_over_chapter": 0.54,
+    "chapter_over_control": 0.64
+   }
+  },
+  {
+   "stem": "calneg4-j3",
+   "model": "opus",
+   "fold": "A",
+   "auc": {
+    "a_over_control": 0.28,
+    "a_over_chapter": 0.38,
+    "chapter_over_control": 0.52
+   }
+  },
+  {
+   "stem": "calneg4-j4",
+   "model": "fable",
+   "fold": "A",
+   "auc": {
+    "a_over_control": 0.48,
+    "a_over_chapter": 0.32,
+    "chapter_over_control": 0.72
+   }
+  }
+ ]
+}
