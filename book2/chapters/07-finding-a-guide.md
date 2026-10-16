@@ -28,6 +28,8 @@ A traveller needs a companion who has walked the road, wherever scholars place t
 5. ʿAllama Tabatabaʾi places the need for a general teacher at the beginning of the road.
 6. Murtada Mutahhari describes guidance at every stage, by a guide the ʿurafaʾ call Khidr.
 7. Therefore: the scholars place the need at different points, but in every account the guide is someone who has walked the road.
+
+New story (D47): ʿUnwan al-Basri at the door of Imam al-Sadiq, L07 ¶18–19; L08 ¶77–79.
 :::
 
 A guide helps because the road has turns that a traveller cannot read alone, and those turns are in the soul. On the journey the soul can pass into strange states. There may come a time when a traveller hates worship, or cannot bear to live among people. Such states arrive without explanation. A traveller who does not know what they mean, or what to do next, can lose the way.
@@ -37,6 +39,10 @@ Someone who has already passed through these states can explain them. The travel
 How early in the journey this need begins is where scholars differ. Many who want to set out look first for a teacher and, finding none, conclude that they cannot begin. Sheikh Bahmanpour does not tell a beginner to find a guide first. In his account the first steps are the law: "First you have to comply completely with whatever Sharia tells." The guide who can read the soul's states is found after those steps, not before. The Sufi orders tell a beginner that anything done without their instruction will leave him lost, which he calls "something of an exaggeration".
 
 What a beginner does need is narrower: a teacher who says which of the practices handed down in the hadith matter most. The Musabbihat are the five surahs that open with God's glorification, which the Prophet ﷺ recited every night before sleeping. Mirza ʿAli Aqa Qadi, the teacher of ʿAllama Tabatabaʾi, had beginners recite them every night before sleep for a whole year, and only then gave them a second instruction. <!-- src: L07 ¶14-16 -->
+
+::: {.box-story title="Story: ʿUnwan al-Basri at the door of Imam al-Sadiq"}
+In two of his lectures, Sheikh Bahmanpour told the hadith of ʿUnwan al-Basri. ʿUnwan was an old man, near the end of his life, when he asked Imam al-Sadiq (as) to teach him. The sixth Imam at first turned him away, saying that he was busy with words of remembrance he recited at every hour of the day. He told ʿUnwan to go and learn from Malik ibn Anas and the other scholars of Medina, because ʿUnwan was not yet at a level where he could be taught. ʿUnwan persisted. He prayed that God would soften the heart of Imam al-Sadiq (as) towards him, so that he could learn something. When he went back, the Imam received him warmly and began to advise him. Among the first counsels were rules for eating: do not eat unless you are hungry, and when you do eat, eat only what is lawful and begin in the name of God. The teacher ʿUnwan had to wait and pray for began by telling him which practices to start with. <!-- src: L07 ¶18-19; L08 ¶77-79 -->
+:::
 
 ʿAllama Tabatabaʾi places the need for a teacher at the beginning of the road. In the lectures recorded in *Kernel of the Kernels*, he distinguishes a general teacher, consulted as one consults anyone learned, from the teachers God has appointed. Of the general teacher he says: "The necessity of referring to the general teacher is only at the beginning of wayfaring" [@kernel, p. 80; @light, p. 100]. Once the traveller reaches the higher stations, that teacher's company is no longer needed.
 
