@@ -50,6 +50,7 @@ WORDY = ["in order to", "due to the fact", "prior to", "subsequent to",
 TONE_FLAGS = ["as we should", "rarely", "lip service", "intelligent", "busy",
               "you will find", "of course", "it is worth noting", "we shall",
               "let's ask ourselves", "in his class", "fair enough"]
+READ_TWICE_MAX = 9  # TONE 38, calibrated on the user's Ch 4 review
 LONGEST = 115  # TONE 22 says 110; the exemplar's own longest is 114
 BAD_OPENERS = ("So ", "Well ", "Look ", "Now ", "So, ", "Well, ", "Now, ")
 
@@ -174,7 +175,19 @@ def features(paras):
         "commas per sentence": own.count(",") / max(len(sents), 1),
         "And/But openers per 1k": sum(bool(re.match(r"[\"“]?(And|But)\b", s)) for s in sents) * k,
         "colon-then-quote per 1k": len(re.findall(r":\s*[\"“]", text)) * k,
+        "read-twice sentences %": 100 * sum(dense(s) for s in sents) / max(len(sents), 1),
     }
+
+
+SUBORD = re.compile(r"\b(which|that|who|whom|whose|where|whereby)\b", re.I)
+
+
+def dense(s):
+    """A sentence a reader may have to read twice (TONE 38): 20+ words carrying
+    four or more commas and relative/subordinate words. Tuned on the two
+    sentences the user quoted from Ch 4 (both caught); flags 6-8% of the exemplar."""
+    own = strip_quoted(s)
+    return len(words(own)) >= 20 and own.count(",") + len(SUBORD.findall(own)) >= 4
 
 
 READ_TWICE = []   # long, comma-heavy sentences: reread each and split it unless it is a plain list
@@ -193,9 +206,8 @@ def lingo_hits(paras):
         for s in sentences(p):
             if s.startswith(BAD_OPENERS):
                 hits.append(f"opener: \"{s[:60]}…\"")
-            own = strip_quoted(s)
-            if len(words(own)) >= 30 and own.count(",") >= 3:   # TONE 38: advisory (lists trip it)
-                READ_TWICE.append(f"{len(words(own))} words, {own.count(',')} commas: \"{s[:90]}…\"")
+            if dense(s):   # TONE 38: advisory (plain lists can trip it)
+                READ_TWICE.append(f"\"{s[:100]}…\"")
     return hits
 
 
@@ -291,6 +303,10 @@ def profile(specs):
             print(f"   READ TWICE? {r}")
         # Delta is reported, not gated: calibration showed it does not separate
         # drafts from the exemplar with a ~3,300-word reference (VOICE-TEST.md).
+        rt = f["read-twice sentences %"]
+        if rt > READ_TWICE_MAX:
+            hits.append(f"read-twice sentences {rt:.0f}% (cap {READ_TWICE_MAX}%; exemplar ~7%, the Ch 4 the user stopped reading 11%)")
+            print(f"   LINGO {hits[-1]}")
         verdict = "PASS" if (not off and lp <= LONGEST and not hits) else "REWRITE"
         print(f"   Profile verdict: {verdict}\n")
         report[spec] = {"verdict": verdict, "off": off, "delta_median": st.median(ds),
@@ -547,12 +563,15 @@ def chain(stem, spec):
     out, n, sec = [f"# Chain packet {stem}\n"], 0, 0
     for block in re.split(r"\n(?=## )", md):
         head = block.split("\n", 1)[0]
-        if not head.startswith("## "):
-            continue
-        sec += 1
         pt = re.search(r":::+\s*\{\.point\}\s*\n(.*?)\n:::+", block, re.S)
         # the section point only: the paragraph ladder would tell the auditor the answer
         point = clean(re.split(r"\n\s*\n|\n\s*(?:\d+\.|\*\*Paragraphs)", pt.group(1))[0]) if pt else "(none given)"
+        if not head.startswith("## "):     # the chapter opening is audited too
+            if not any(k == "body" for k, _ in paragraphs(block)):
+                continue
+            head, point = "## Opening", ("Hook the reader and say, in the words of the chapter title, "
+                                          "what the chapter will establish; recall earlier ground in one or two sentences at most.")
+        sec += 1
         out += [f"## Section {sec}: {head[3:].strip()}\n", f"**Point:** {point}\n"]
         for kind, text in paragraphs(block, keep_boxes=True, placeholders=True):
             if kind == "quote":

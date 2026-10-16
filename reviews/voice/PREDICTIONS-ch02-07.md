@@ -67,3 +67,11 @@ _Each line is a paragraph a fresh Fable editor judged not to advance its section
 - [ ] ¶28 (How to test a guide) **aside**: "Checking these three marks needs no inner sight. Any believer can ask…" — Glosses the quotation and adds that any believer can apply it; the point does not need accessibility and ¶29 does not use it.
 - [ ] ¶29 (How to test a guide) **restate**: "A guide therefore helps and must be tested. Part Two has described…" — Summarises the section and all of Part Two; no new step.
 - [ ] ¶30 (How to test a guide) **aside**: "Once a guide is found, what does the road itself look like?…" — A bridging question the chapter does not answer; adds nothing to the point.
+
+## Scored against the user's feedback (2026-10-16)
+The user stopped reading in Chapter Four, so only Ch 4 (to about ¶19) can be scored.
+- **Hit:** Ch 4 ¶19 ("The saying has been read both ways…", aside). He quoted its sentence "The lectures allow that reading but prefer the other…" as hard to read.
+- **Unpredicted (coverage gap):** the chapter opening up to Q 91:9–10, his main complaint. The chain audit skipped text before the first `##`. **Fixed:** the opening is now audited as its own section, against the point "hook the reader and say, in the title's words, what the chapter establishes".
+- **Unpredicted (sentence level):** "The encounter in this verse is *liqaʾ Allah*…" and "The lectures allow that reading…". Neither was over 30 words. **Fixed:** the profile's read-twice measure (20+ words with 4+ commas and relative words) catches both and the "Chapter Two argued…" opener; it gates at 9% (exemplar 6–7%, the Ch 4 he stopped reading 11%, which now fails).
+- **Unpredicted (structure):** points not short, sharp or clear. No test measured point quality. Now covered by the point ladder (TONE 40) and the Fable review against it.
+- Ch 2, 3, 5, 6, 7: not read; their predictions stand for the next review.
