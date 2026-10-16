@@ -4,13 +4,13 @@ title-ar: ""
 chapter: 7
 ---
 
-Many of us read Surah al-Kahf on Fridays, a practice the Mafatih recommends [@mafatih, pp. 84–85]. Halfway through it, the Prophet Musa (as) sets out to find a servant of God whom God had taught "a knowledge from Our own" (Q 18:65). This servant is known as Khidr [@forty_hadith, p. 508]. Musa is ready to keep travelling until he reaches the meeting place of the two seas, or has spent a long time (Q 18:60). When he finds the servant, he makes one request.
+The Mafatih recommends reading Surah al-Kahf on Fridays [@mafatih, pp. 84–85]. Halfway through it, the Prophet Musa (as) sets out to find a servant of God whom, God says, He had taught "a knowledge from Our own" (Q 18:65). This servant is known as Khidr [@forty_hadith, p. 508]. Musa is ready to keep travelling until he reaches the meeting place of the two seas, or has spent a long time (Q 18:60). When he finds the servant, he makes one request.
 
 ::: {.ayah ref="18:66"}
 Moses said to him, ‘May I follow you for the purpose that you teach me some of the probity you have been taught?’
 :::
 
-In this verse a prophet to whom God spoke directly (Q 4:164) asks to be taught. His long search shows how much time and effort a seeker must be ready to give. Travellers on the road to God look for the same kind of help. The law marks the boundary of that road, and the next question is who walks beside the traveller on it. This chapter sets out why finding a guide helps the traveller, and how to know a true guide once found.
+In this verse a prophet to whom God spoke directly (Q 4:164) asks to be taught. His long search shows how much time and effort a seeker must be ready to give. Travellers on the road to God can look for the same kind of help. The law marks the boundary of that road, and the next question is who walks beside the traveller on it. This chapter sets out why finding a guide helps the traveller, and how to know a true guide once found.
 
 ::: {.words}
 *shaykh*: a spiritual master · *murid*: a disciple · *silsila*: a chain of masters traced back to the Prophet ﷺ · *wali* (plural *awliyaʾ*): a friend of God · *wusul*: arrival at the goal of the road
@@ -27,7 +27,7 @@ A traveller needs a companion who has walked the road, wherever scholars place t
 4. Before then, a beginner needs a teacher only to say which practices to begin with.
 5. ʿAllama Tabatabaʾi places the need for a general teacher at the beginning of the road.
 6. Murtada Mutahhari describes guidance at every stage, by a guide the ʿurafaʾ call Khidr.
-7. Therefore: the scholars differ on when, but in every account the guide is someone who has walked the road.
+7. Therefore: the scholars place the need at different points, but in every account the guide is someone who has walked the road.
 :::
 
 A guide helps because the road has turns that a traveller cannot read alone, and those turns are in the soul. On the journey the soul can pass into strange states. There may come a time when a traveller hates worship, or cannot bear to live among people. Such states arrive without explanation. A traveller who does not know what they mean, or what to do next, can lose the way.
@@ -38,11 +38,11 @@ How early in the journey this need begins is where scholars differ. Many who wan
 
 What a beginner does need is narrower: a teacher who says which of the practices handed down in the hadith matter most. The Musabbihat are the five surahs that open with God's glorification, which the Prophet ﷺ recited every night before sleeping. Mirza ʿAli Aqa Qadi, the teacher of ʿAllama Tabatabaʾi, had beginners recite them every night before sleep for a whole year, and only then gave them a second instruction. <!-- src: L07 ¶14-16 -->
 
-ʿAllama Tabatabaʾi places the need for a teacher at the other end of the road. In the lectures recorded in *Kernel of the Kernels*, he distinguishes a general teacher, consulted as one consults anyone learned, from the teachers God has appointed. Of the general teacher he says: "The necessity of referring to the general teacher is only at the beginning of wayfaring" [@kernel, p. 80; @light, p. 100]. Once the traveller reaches the higher stations, that teacher's company is no longer needed.
+ʿAllama Tabatabaʾi places the need for a teacher at the beginning of the road. In the lectures recorded in *Kernel of the Kernels*, he distinguishes a general teacher, consulted as one consults anyone learned, from the teachers God has appointed. Of the general teacher he says: "The necessity of referring to the general teacher is only at the beginning of wayfaring" [@kernel, p. 80; @light, p. 100]. Once the traveller reaches the higher stations, that teacher's company is no longer needed.
 
-Murtada Mutahhari describes the practice of ʿirfan as guided at every stage. Each stage is passed under the guidance of "a mature and perfect example of humanity who, having traveled this path, is aware of the manners and ways of each station". Without such a guide, the traveller "is in danger of going astray". The ʿurafaʾ, he reports, call this guide Khidr, and he quotes a verse of their poetry: "Leave not this stage without the company of Khidr, / There is darkness ahead; be afraid of losing the way" [@light, p. 10].
+Murtada Mutahhari describes the practice of ʿirfan as guided at every stage. Each stage is passed under the guidance of "a mature and perfect example of humanity who, having traveled this path, is aware of the manners and ways of each station". Without such a guide, the traveller "is in danger of going astray". The ʿurafaʾ, he reports, call this guide Khidr, and he quotes a couplet: "Leave not this stage without the company of Khidr, / There is darkness ahead; be afraid of losing the way" [@light, p. 10].
 
-The three accounts differ on when the need falls. The Sheikh places the guide after the first steps of the law, Tabatabaʾi places the general teacher at the beginning, and Mutahhari describes guidance at every stage. In each, the guide is someone who has travelled the road, like the Khidr of the ʿurafaʾ's verse, whose company keeps the traveller from losing the way.
+The three accounts place the need at different points. The Sheikh places the guide after the first steps of the law, Tabatabaʾi places the general teacher at the beginning, and Mutahhari describes guidance at every stage. In each, the guide is someone who has travelled the road, like the Khidr of the couplet, whose company keeps the traveller from losing the way.
 
 ## Under the Imams, not in their place
 
@@ -52,7 +52,7 @@ A guide stands under the Imams, never in their place, and a traveller submits to
 1. The Sufi orders place authority in a chain of masters who pass on the Prophet's inner knowledge.
 2. For Shia that knowledge passed by inheritance to the Imams, which leaves no room for such a chain of authority.
 3. The orders ask for total submission to the master, whereas a Shia traveller looks for an instructor he can trust.
-4. Such an instructor is what ʿAllama Tabatabaʾi calls a general teacher, consulted as one consults the knowledgeable.
+4. Such an instructor fits what ʿAllama Tabatabaʾi calls a general teacher, consulted as one consults the knowledgeable.
 5. Tabatabaʾi sets a high bar before a traveller may submit to any such teacher.
 6. The special teachers, the Prophet and the Imams, are the company the traveller never leaves.
 7. Therefore: a guide stands under the Imams, never in their place, and is followed only if he meets that bar.
@@ -60,17 +60,17 @@ A guide stands under the Imams, never in their place, and a traveller submits to
 
 If a guide is needed, the next question is what authority he holds. The Sufi orders give one answer. Each order calls itself a path (*tariqa*) and is built round an elder with his own method of instruction, and each has a chain of masters (*silsila*) that it traces back to the Prophet ﷺ. Through that chain, the orders hold, the Prophet's inner knowledge passed from heart to heart, from each master to the next.
 
-Shia agree that the Prophet's inner knowledge passed on, but hold that it passed by inheritance to the Imams (as). Imam ʿAli (as) received it as the Prophet's heir, not as one learned companion among others. The orders keep the idea of someone who receives that knowledge, Sheikh Bahmanpour observes, but do not share the Shia belief in the Imams. Most of their chains still go back to Imam ʿAli (as), and some pass through Imam al-Rida (as) [@kernel, pp. 87–88]. For Shia the Imams hold that place, and so, in his words, "We don't have such a thing as tariqa in Shia."
+Shia agree that the Prophet's inner knowledge passed on, but hold that it passed by inheritance to the Imams (as). Imam ʿAli (as) received it as the Prophet's heir, not as one learned companion among others. The orders keep the idea of someone who receives that knowledge, Sheikh Bahmanpour observes. Their chains go back to Imam ʿAli (as), some of them through Imam al-Rida (as) [@kernel, pp. 87–88], yet they do not hold, as Shia do, that the knowledge passed by inheritance to the Imams. For Shia the Imams hold that place, and so, in his words, "We don't have such a thing as tariqa in Shia."
 
 The orders also ask for total submission. In an order, a disciple (*murid*) submits to the master (*shaykh*) completely, whatever he says and whatever he does. As a rule, Shia travellers do not join an order. They find an instructor for themselves, one who comes from no order and holds no special licence to instruct. What they look for is a person they can trust, someone to whom "you could entrust your soul".
 
-In this book's reading, the instructor the Sheikh describes is what ʿAllama Tabatabaʾi calls a general teacher. Such a teacher has not been specially appointed to guide anyone. Consulting him is like consulting anyone knowledgeable, as a verse of Surah al-Nahl tells believers to do [@kernel, p. 80; @light, p. 100].
+The instructor the Sheikh describes fits what ʿAllama Tabatabaʾi calls a general teacher. Such a teacher has not been specially appointed to guide anyone. Consulting him is like consulting anyone knowledgeable, as a verse of Surah al-Nahl tells believers to do [@kernel, p. 80; @light, p. 100].
 
 ::: {.ayah ref="16:43" words="9-"}
 Ask the People of the Reminder if you do not know.
 :::
 
-The verse is general, but Tabatabaʾi sets a high bar for anyone a traveller submits to. A man is not a teacher "so long as the revelations of Divine Essence … are not manifested in him", and the revelations of God's Attributes and Names are not enough [@kernel, p. 82; @light, p. 101]. Short of that rank, "one may not surrender oneself to everyone and anyone and submit and obey him" [@kernel, p. 83; @light, p. 102].
+The verse is general, but Tabatabaʾi sets a high bar for anyone a traveller submits to. A man is not a teacher "so long as the revelations of Divine Essence … are not manifested in him", and the revelations of God's Attributes and Names are not enough [@kernel, p. 82; @light, p. 101]. Short of that rank, "one may not surrender oneself to everyone and anyone and submit and obey him" [@kernel, p. 83; @light, p. 102]. Anyone knowledgeable may be consulted, but only a teacher who has reached that rank may be submitted to.
 
 The special teacher is different. He is one of those "specially designated to guide, and they are the Apostle of Allah and his true successors": the Prophet ﷺ and the Imams (as) [@kernel, p. 80]. "The wayfarer cannot dispense with the company of the special teacher in any circumstance whatsoever, even if he has reached his sought homeland" [@kernel, p. 80]. The company meant is inner, and not "merely their outward company and comradeship". It lasts through every stage of the road and after its end [@kernel, pp. 80–81; @light, p. 100].
 
@@ -83,26 +83,29 @@ Shia can name teachers of this road in recent generations, and Tabatabaʾi's own
 
 1. ʿAllama Tabatabaʾi named his own teacher, Mirza ʿAli Aqa Qadi.
 2. Qadi's line runs back to Akhund Mulla Husayn-Quli Hamadani, one of whose pupils first taught Imam Khomeini gnosis and ethics.
-3. Tabatabaʾi's line belonged to no Sufi order; it is a line of teachers, not a chain of authority.
-4. Therefore: these named teachers of recent generations taught the road this book describes, to God through the self.
+3. Tabatabaʾi's line belonged to no Sufi order.
+4. He calls it a chain and a tariqah, but beside the Sheikh's point the words name a line of teachers, not a chain of authority.
+5. Therefore: these named teachers of recent generations taught the road this book describes, to God through the self.
 :::
 
 If Shia travellers find an instructor for themselves, there must be instructors to find. The tradition can name teachers who walked this road in recent generations. ʿAllama Tabatabaʾi named his own teacher: "My preceptor was the late Haji Mirza Ali Agha Qazi" [@light, p. 106]. This is the same Mirza ʿAli Aqa Qadi who set beginners a year of the Musabbihat. Under him Tabatabaʾi travelled the path [@kernel, p. 8].
 
 Qadi's line runs back two generations, to Akhund Mulla Husayn-Quli Hamadani, a different scholar from Mulla ʿAbd al-Samad Hamadani, who saw the law, the path, and the truth in one prayer. Akhund Hamadani had been one of the outstanding pupils of the jurist Shaykh Murtada Ansari before he became a guide [@light, p. 106; @kernel, p. 89]. He trained several pupils who became guides in turn, among them Qadi's teacher and Imam Khomeini's first formal teacher in gnosis and ethics [@light, p. 106; @forty_hadith, p. 8]. The box below tells how Akhund Hamadani was himself trained.
 
-Akhund Hamadani and the teachers of Tabatabaʾi's line were scholars, several of them jurists. Of the many Sufi orders, Tabatabaʾi grants that two or three are Shia [@kernel, pp. 87–88]. His own line belonged to none of them: "we belong to none of these orders and follow the directions of the late Akhund, who had nothing to do with these orders" [@light, p. 105]. He calls it "the chain of my preceptors" [@light, p. 106], but it is a line of teachers, one that "does not end in any of these silsilahs" [@kernel, p. 88], and not a chain of authority beside the Imams.
+Akhund Hamadani and the teachers of Tabatabaʾi's line were scholars, several of them jurists. Of the many Sufi orders, Tabatabaʾi grants that two or three are Shia [@kernel, pp. 87–88]. His own line belonged to none of them: "we belong to none of these orders and follow the directions of the late Akhund, who had nothing to do with these orders" [@light, p. 105].
+
+Tabatabaʾi still gives his line the names the orders use. He calls it "the chain of my preceptors" [@light, p. 106]. In *Kernel of the Kernels* he uses the word the Sheikh says Shia lack: "our tariqah is that of the marhum Akhund which does not end in any of these silsilahs" [@kernel, p. 88]. Set beside the Sheikh's point, the words name a line of teachers here, not a chain of authority beside the Imams.
 
 These teachers taught the road this book describes, which runs to God through the self. Akhund Hamadani taught concentration on the self, and all his disciples followed "the method of gnosis (ma’rifah) of the soul, which is essential to the gnosis of the Lord" [@kernel, p. 87]. Qadi taught the same way. He asked a traveller to set a time each day or night to attend to the self, "for half an hour or a little more" [@light, p. 107].
 
 ::: {.box-story title="Story: The weaver at the judge's door"}
-More than a hundred years before ʿAllama Tabatabaʾi told this story, Sayyid ʿAli Shushtari was a leading scholar and judge in the city of Shushtar. One day a weaver knocked at his door and told him that a ruling he had given on a property was wrong. The property belonged to an orphan, the weaver said, and its deed was buried in a certain place. Shushtari found the deed where the weaver had said, and found that the witnesses had lied. The weaver returned the next night and the night after with the same warning. On that third night he told Shushtari to sell his belongings, go to Najaf, and wait for him in the Wadi al-Salam after six months. Shushtari went, followed the weaver's instructions, and "reached a position too high to be described". In Najaf he attended Shaykh Murtada Ansari's lectures on jurisprudence and took over Ansari's teaching when Ansari died. Shushtari had long guided Mulla Husayn-Quli Hamadani, one of Ansari's pupils, and in the six months he had left to live he persuaded him to follow his way [@light, pp. 105–106; @kernel, pp. 88–89]. Tabatabaʾi traces his own line of teachers back to the weaver through Shushtari, and adds that "it is not known who that weaver was" [@light, p. 106].
+More than a hundred years before ʿAllama Tabatabaʾi told this story, Sayyid ʿAli Shushtari was a leading scholar and judge in the city of Shushtar. One day a weaver knocked at his door and told him that a ruling he had given on a property was wrong. The property belonged to an orphan, the weaver said, and its deed was buried in a certain place. Shushtari found the deed where the weaver had said, and found that the witnesses had lied. The weaver returned the next night and the night after with the same warning. On that third night he told Shushtari to sell his belongings, go to Najaf, and wait for him in the Wadi al-Salam after six months. Shushtari went, followed the weaver's instructions, and "reached a position too high to be described". In Najaf he attended Shaykh Murtada Ansari's lectures on jurisprudence and took over Ansari's teaching when Ansari died. Mulla Husayn-Quli Hamadani, one of Ansari's pupils, had long attended Shushtari's lessons in ethics and gnosis. In the last six months of his own life, Shushtari persuaded Hamadani to take up his way [@light, pp. 105–106; @kernel, pp. 88–89]. Tabatabaʾi traces his own line of teachers back to the weaver through Shushtari, and adds that "it is not known who that weaver was" [@light, p. 106].
 :::
 
 ## How to test a guide
 
 ::: {.point}
-A true guide is ruled out by breaking the law, shown by long company, and recognised by where he turns people, never by wonders.
+A guide who breaks the law is ruled out; a true one is shown by long company and recognised by where he turns people, never by wonders.
 
 1. A guide's learning cannot show that he has walked the road.
 2. Nor can wonders, which come early on the road, far from its goal.
@@ -111,7 +114,7 @@ A true guide is ruled out by breaking the law, shown by long company, and recogn
 5. Where long company is impossible, his teaching is weighed against the Qur'an, the Sunna, and the practice of the Imams.
 6. Care is needed either way, because pretenders turn people towards themselves, whereas a true guide turns them towards God.
 7. The Prophet ʿIsa (as) gives this test in its simplest form: sit with one whose sight reminds you of God.
-8. Therefore: a true guide is ruled out by breaking the law, shown by long company, and recognised by where he turns people.
+8. Therefore: a guide who breaks the law is ruled out; a true one is shown by long company and recognised by where he turns people.
 :::
 
 A line of true teachers does not make every teacher who claims a place in it true, so a guide must be tested. The question is whether he has walked the road himself. His learning cannot answer it. A teacher's writing or study does not show whether he has made the journey.
@@ -138,7 +141,7 @@ With one the sight of whom reminds you of Allah, … and whose speech increases 
 
 ʿIsa's three marks all ask where a person's company turns us: towards Allah, towards knowledge, and towards the next world. They are marks a traveller can watch for over time, in the company he keeps.
 
-Finding a guide therefore helps the traveller, as long as the guide is tested. A true guide has walked the road himself and walks beside the traveller under the Imams (as), never in their place. Breaking the law rules him out, long company shows him, and where he turns people tells him apart; wonders prove nothing.
+Finding a guide therefore helps the traveller, as long as the guide is tested. A true guide has walked the road himself and walks beside the traveller under the Imams (as), never in their place. A guide who breaks the law is ruled out. Long company shows how far he has travelled, and the direction he turns people shows whether he is true.
 
 Once a guide is found, what does the road itself look like?
 
