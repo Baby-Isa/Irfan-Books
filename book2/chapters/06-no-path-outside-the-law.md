@@ -65,7 +65,7 @@ No wonder or experience stands in for the law.
 4. Knowing God is not learned in a classroom, so without the law the chain never starts.
 5. The light of knowing God does not descend on a heart that sets the law aside.
 6. What comes without the law is easily mistaken for that light.
-7. A real light that comes through the law can be mistaken for God too.
+7. Even the light of an ablution can be taken for the light of God.
 8. Even the experiences that come on the path are only a preliminary to a lasting change in the self.
 9. Therefore: lasting change comes through continuous practice of the law, not through an exercise that ends.
 
@@ -88,7 +88,7 @@ Imam Khomeini reaches the same conclusion through the image of light: "Without a
 
 What does come without the law is easily mistaken for that light. Sheikh Bahmanpour, recalling a remark of ʿAllama Tabatabaʾi's, warns that anyone of any belief will find something if they go forty days on less and less food. The knowledge of God is so unfamiliar to us that whatever is found is taken for God.
 
-The same mistake can be made over a light that is real and comes through the law. The Sheikh tells of a great mystic whose chain of teachers went back to Imam al-Rida (as). One day, as he was making his ritual ablution (*wudu*), his disciples suddenly fell into prostration, glorifying God. He asked them what had happened, and they said they had seen the light of God. He told them it was the light of his wudu. That light was real, and it came from an act the law asks for. The light of God was unknown to the disciples, so they took this one for His.
+Even the light of an ablution can be taken for the light of God. The Sheikh tells of a great mystic whose chain of teachers went back to Imam al-Rida (as). One day, as he was making his ritual ablution (*wudu*), his disciples suddenly fell into prostration, glorifying God. When he asked what had happened, one of them said he had seen the light of God. The master told them it was the light of his wudu. The light of God is unknown to most of us, and so they took this one for His.
 
 Even the experiences that come on the true path are not the goal. Tabatabaʾi's lectures on the path were recorded by his student Sayyid Muhammad Husayn Tihrani in *Kernel of the Kernels*. There the states a traveller passes through, and the lights that appear from time to time, are called "a preliminary to an enduring condition" [@kernel, p. 30]. An experience comes and goes. What counts is a lasting change in the self. Until the change is lasting, "the smallest lapse in wayfaring and spiritual jihad would bring him down again to the lower world" [@kernel, p. 31].
 

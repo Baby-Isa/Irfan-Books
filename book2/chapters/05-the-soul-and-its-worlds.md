@@ -30,7 +30,7 @@ The world has three depths, so the dead have gone deeper into it, not away.
 5. The intellect grasps meanings with no image or matter, and these belong to a third world, the world of intellects.
 6. The world of images links the other two, so it is called barzakh, a barrier.
 7. None of these worlds is a place; each is a deeper dimension of this one, the world of intellects with some difference.
-8. Imam ʿAli (as) taught that this world lies inside the hereafter, which surrounds it.
+8. Imam ʿAli (as) taught that this world lies inside the hereafter, which encompasses it.
 9. So far: three worlds make one reality, and none of them is far away.
 10. Therefore the dead have gone deeper into our world, not away from it.
 
@@ -51,7 +51,7 @@ The world of images stands between the other two. That is why it is also called 
 
 None of these worlds is a place we travel to. In Sheikh Bahmanpour's words, the world of images "is another dimension of the same world in which we are living", and so, with some difference, is the world of intellects. The unseen worlds surround this one, but in depth and not in distance: each is a deeper dimension of the world we are in now.
 
-Imam ʿAli (as) also spoke of this world as surrounded, in a story Sheikh Bahmanpour tells. A Christian churchman once came to him with questions. One was whether the hereafter lies inside this world, or this world inside the hereafter. Imam ʿAli (as) answered that this world lies inside the hereafter. This world is the smaller one, and the hereafter surrounds it. The lectures set the answer beside the verse that says hell surrounds the faithless (Q 9:49).
+Imam ʿAli (as) described this world as lying inside a larger one, in a story Sheikh Bahmanpour tells. A Christian churchman once came to him with questions. One was whether the hereafter lies inside this world, or this world inside the hereafter. Imam ʿAli (as) answered that this world lies inside the hereafter: this world is limited, and the hereafter encompasses it. The lectures set the answer beside a verse that says hell, which belongs to the hereafter, surrounds the faithless (Q 9:49).
 
 There are three worlds, then, and they make one reality. The senses meet matter, the imagination samples a world of images, and the intellect grasps pure meaning. Each lies deeper than the one before, and none of them is far away.
 
@@ -146,7 +146,7 @@ The lectures read this light as the shining of the pious themselves. The body of
 If some rewards are the deeds themselves, the form a soul meets after death may be, in part, the work of its own deeds. Shomali himself draws a related conclusion from the fact that heaven and hell already exist: "our future is now present" [@self_knowledge, p. 77]. The image body is being shaped now, by what we do.
 
 ::: {.box-story title="Story: Ibn ʿArabi and Surah Yasin"}
-Sheikh Bahmanpour tells a story that the great mystic Ibn ʿArabi told of his own childhood. At the age of twelve he fell seriously ill and went into a coma. It was so serious that everyone thought he had died. In that state he saw horrible-looking people who were trying to hurt him. Then a figure breathing out a wonderful perfume defended him and drove them away. Ibn ʿArabi asked who he was. The figure answered that he was Surah Yasin, his protector. When the boy came round, he found his father at his bedside in tears. His father had just finished reciting Surah Yasin for his recovery, and the boy had not known. The lecture draws a general point from it. Even a lie or a word of comfort, which we take for mere words, has an image in the world of images, and that image is as real as the figure the boy saw.
+Sheikh Bahmanpour tells a story that the great mystic Ibn ʿArabi told of his own childhood. At the age of twelve he fell seriously ill and went into a coma. It was so serious that everyone thought he had died. In that state he saw horrible-looking people who were trying to hurt him. Then a figure breathing out a wonderful perfume defended him and drove them away. The boy asked who he was. The figure answered that he was Surah Yasin, his protector. When the boy came round, he found his father at his bedside in tears. His father had just finished reciting Surah Yasin for his recovery, and the boy had not known. In the Sheikh's reading, the figure was the image the recitation had formed in barzakh, for anything we do here has an image there. A lie or a word of comfort seems to be only words, yet each takes a shape in barzakh, as real as the figure the boy saw.
 :::
 
 ## The self can change its state
