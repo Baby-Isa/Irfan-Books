@@ -34,7 +34,7 @@
 
 ¶7. A heart cleared of everything but God is free for Him. The prayers go on to ask for three things: to see God with the heart, to love Him and to come near Him.
 
-¶8. The first is sight. The Munajat asks God to light the eyes of the heart so that they look at Him and pass even through the veils of light. Yet the Qur'an says that sight cannot perceive God. Sheikh Bahmanpour raises this difficulty himself and notes that people unfamiliar with the mystics' wording sometimes call such lines a mistake.
+¶8. The first is sight. The Munajat asks God to light the eyes of the heart so that they look at Him and pass even through the veils of light. Yet the Qur'an says that sight cannot perceive God. The difficulty is a real one and people unfamiliar with the mystics' wording sometimes call such lines a mistake.
 
 ¶9. The prayer does not ask for the eyes in our heads. It asks for the eyes of the heart. Our physical eyes work perfectly well and still we miss God's signs, because the inner faculty behind them is blind. The prayer asks God to light that faculty and treats the light as His to give. Duʿa ʿArafah says He has already lit that light in the hearts of His intimate servants, the friends of God (awliyaʾ).
 
