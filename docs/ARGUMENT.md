@@ -87,9 +87,10 @@ _Divider (Munajat §5–7): "I have come running to You and am standing before Y
 
 **Ch 4. Know yourself, know your Lord.** (old 4)
 - **Conclusion:** the way to God runs through the self.
-- 4.1 The soul is the instrument of all knowing, so it is the first thing to understand. [B2] L04 ¶3–9, ¶12 (Q 91:7–10)
-- 4.2 The Quran ties forgetting God to forgetting oneself (Q 59:19), and the tradition ties knowing oneself to knowing one's Lord. [B2] L04 ¶12–23 (attribution per `lantern` p. 9; side by side: Imam ʿAli, `journey` p. 125; D15; added: `self_knowledge` p. 8)
-- 4.3 "Meeting" God through the self means presence and nearness, never comprehension of His essence; since He is already near, the journey removes veils rather than covering distance (seeded here, developed in 8.1; D26). [B2] L04 ¶24–60; L07 ¶4; L08 ¶3–9 (added: `forty_hadith` p. 398)
+- _Opener, not a point (old 4.1):_ the soul is the instrument of all knowing, so it is the first thing to understand. L04 ¶3–9
+- 4.1 The Qur'an places the human story in the soul: whoever purifies it succeeds, and whoever betrays it fails. [B2] L04 ¶12 (Q 91:1–10)
+- 4.2 Knowing God begins with knowing the soul, because the two are forgotten together and known together: the Quran ties forgetting God to forgetting oneself (Q 59:19), and the tradition ties knowing oneself to knowing one's Lord. [B2] L04 ¶12–23 (attribution per `lantern` p. 9; side by side: Imam ʿAli, `journey` p. 125; D15; added: `self_knowledge` p. 8)
+- 4.3 God is already near, so reaching Him means lifting, in this life, the veils over our own soul: "meeting" God means presence and nearness, never comprehension of His essence (seeded here, developed in 8.1; D26). [B2] L04 ¶24–60; L07 ¶4; L08 ¶3–9 (added: `forty_hadith` p. 398)
 - → If the self is the door, how deep does it go?
 
 **Ch 5. The soul and its worlds.** (old 5)
@@ -109,11 +110,11 @@ _Divider (Munajat §5–7): "I have come running to You and am standing before Y
 - → The law is the boundary. Who walks beside the traveller?
 
 **Ch 7. Finding a guide.** (old 10, plus a short form of old 9.3)
-- **Conclusion:** a guide helps, and must be tested.
-- 7.1 The road has turns a traveller cannot read alone, but scholars weigh the need for a guide differently, from "none at the start" to "never without one". [B2] L14 ¶23–25; L07 ¶14–15 (old 10.2; side by side: `light` pp. 10, 100–102; `inner_secrets` p. 192)
-- 7.2 For Shia, authority belongs to the Imam, so there is no chain of authority beside him and no blind obedience; a trusted teacher, yes. [B2] L14 ¶6–8, ¶22 (short form of old 9.3; added: `kernel` p. 80; the full comparison with the orders is Ch 15)
-- 7.3 There are guides to be found: a Shia chain of teachers who have walked the path runs within living memory. [B2] L14 ¶22–25; L06 ¶21–25; L10 ¶44 (old 10.1; added: the chain as given in `kernel` pp. 87–89 and `light` pp. 105–106; `forty_hadith` p. 8; `journey` p. 8). The v2.1 `[QUERY: which Hamadani]` is resolved: Akhund Mulla Husayn-Quli Hamadani (this chapter) and Mulla ʿAbd al-Samad Hamadani (Ch 6) are kept apart.
-- 7.4 A true guide is known by his adherence to the shariʿa and his indifference to power and followers; feats prove nothing. [B2] L06 ¶17–22; L14 ¶22–25 (old 10.3; added: `kernel` pp. 81, 83; `light` pp. 100–102; `forty_hadith` pp. 102–103, 465; `journey` pp. 131–133; `lantern` p. 13). The chapter ends here, on the test, not on the scholars' disagreement.
+- **Conclusion:** a guide stands under the Imams and is tested by the law, long company and where he turns people, never by wonders.
+- 7.1 A traveller needs a companion who has walked the road, wherever scholars place the need: they weigh it differently, from after the law's first steps to every stage. [B2] L14 ¶23–25; L07 ¶14–15 (old 10.2; side by side: `kernel` p. 80; `light` pp. 10, 100–102; `inner_secrets` p. 192)
+- 7.2 A guide stands under the Imams, never in their place, and a traveller submits to him only if he meets a high bar. [B2] L14 ¶6–8, ¶22 (short form of old 9.3; added: `kernel` pp. 80–83, 87–88; `light` pp. 100–102; the full comparison with the orders is Ch 15)
+- 7.3 Shia can name teachers of this road in recent generations, and Tabatabaʾi's own line belonged to no Sufi order. [B2] L14 ¶22–25; L06 ¶21–25; L10 ¶44 (old 10.1; added: the chain as given in `kernel` pp. 87–89 and `light` pp. 105–107; `forty_hadith` p. 8; `journey` p. 8). The v2.1 `[QUERY: which Hamadani]` is resolved: Akhund Mulla Husayn-Quli Hamadani (this chapter) and Mulla ʿAbd al-Samad Hamadani (Ch 6) are kept apart.
+- 7.4 A true guide is ruled out by breaking the law, shown by long company, and recognised by where he turns people, never by wonders. [B2] L06 ¶17–22; L14 ¶22–25 (old 10.3; added: `kernel` pp. 81, 83; `light` pp. 101–102; `forty_hadith` p. 102; `lantern` p. 13). The chapter ends here, on the test, not on the scholars' disagreement.
 - → Once a guide is found, what does the road itself look like?
 
 ### Part Three: The Road (B3). How is it walked?
@@ -234,7 +235,7 @@ _Tone: the emotion comes back and is brought home._
 12. **Munajat allocation** rewritten (one use each); the Part epigraphs of v2.1 become Part dividers, with the new lines above.
 13. **`[QUERY]` marks** (v2.1 6.2, 10.1, 16.3) resolved by going around (D39).
 14. **Hand-offs** rewritten for the new sequence (FRAMEWORK §3).
-15. **Count:** still 54 points (Ch 7 gains one, Ch 8 loses one to a box).
+15. **Count:** 54 points at v3 (Ch 7 gains one, Ch 8 loses one to a box); 56 on 2026-10-16 (Chs 3 and 6 each gained a section when rebuilt; Chs 4 and 7 unchanged at three and four; Ch 4's old 4.1 is now the chapter opener, not a point).
 16. **Tone arc** recorded: Part Three builds to the crescendo; Part Four steps back; Part Five brings it home.
 
 ---

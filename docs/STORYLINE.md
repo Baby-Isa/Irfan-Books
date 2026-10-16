@@ -41,10 +41,10 @@ _One "slide" per chapter. The heading is the chapter title. The subheading is th
 **The road to God runs through your own self, which is deeper than it looks. The shariʿa is its boundary from the first step to the last, and a tested guide walks beside you, under the Imam and never in his place.**
 
 ### 4. Know yourself, know your Lord
-**That knowing happens in the soul, so the road to God runs through the self. Because God is already near, the journey removes veils rather than covering distance.**
-- The soul is what we know everything with, so it is the first thing to understand.
-- The Qur'an links forgetting God with forgetting ourselves; the tradition links knowing ourselves with knowing our Lord.
-- "Meeting" God means nearness, never grasping His essence, and the journey removes veils.
+**The way to God runs through the self.**
+- The Qur'an places the human story in the soul: whoever purifies it succeeds, and whoever betrays it fails.
+- Knowing God begins with knowing the soul, because the two are forgotten together and known together.
+- God is already near, so reaching Him means lifting, in this life, the veils over our own soul.
 
 ### 5. The soul and its worlds
 **The self is deeper than it appears, and its final shape is in our hands.**
@@ -61,11 +61,11 @@ _One "slide" per chapter. The heading is the chapter title. The subheading is th
 - The law holds to the last breath; only the reason for keeping it changes.
 
 ### 7. Finding a guide
-**A guide helps, and Shia teachers who walked the road exist within living memory. But authority stays with the Imam, so a guide is trusted and never blindly obeyed, and is tested by the shariʿa, not by wonders.**
-- The road has turns a traveller cannot read alone; scholars differ on how essential a guide is.
-- For Shia, authority belongs to the Imam: there is no chain of authority beside him and no blind obedience, though a trusted teacher is welcome.
-- A chain of Shia teachers who walked the path runs to our own time.
-- A true guide keeps the shariʿa and does not care for power or followers; wonders prove nothing.
+**A guide stands under the Imams and is tested by the law, long company and where he turns people, never by wonders.**
+- A traveller needs a companion who has walked the road, wherever scholars place the need.
+- A guide stands under the Imams, never in their place, and a traveller submits to him only if he meets a high bar.
+- Shia can name teachers of this road in recent generations, and Tabatabaʾi's own line belonged to no Sufi order.
+- A true guide is ruled out by breaking the law, shown by long company, and recognised by where he turns people, never by wonders.
 
 ---
 
