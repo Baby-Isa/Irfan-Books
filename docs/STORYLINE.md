@@ -22,17 +22,18 @@ _One "slide" per chapter. The heading is the chapter title. The subheading is th
 - The aim is God Himself. Seeking powers is not ʿirfan.
 
 ### 2. Knowing about God is not knowing Him
-**We already know a great deal about God. The prayers ask to know Him, which is a different kind of knowing: it comes as light in a purified heart, so the path is purification, and study prepares for it.**
-- Knowing *about* something comes from outside, through ideas and definitions. Knowing it directly is like knowing your own hunger.
-- Reason can describe God's attributes but can never grasp what He is.
-- Direct knowledge of God is a light He places in a heart that has been cleaned.
-- So the path is purifying the soul. Study prepares the ground (Khomeini, Tabatabaʾi) but cannot do the work.
+**Knowing God is a different kind of knowing from knowing about Him. It is reached by purification, which study serves but cannot replace.**
+- The ʿarif knows God by presence, not by definition.
+- Reason cannot reach God Himself, so He must be known within the soul.
+- Knowledge of God is a light God gives to a purified heart, not something gathered by study.
+- The path to knowing God is purification, which study serves but cannot replace.
 
 ### 3. You already know these words
-**The prayers we recite in Shaʿban, in Ramadan, at ʿArafah and on Thursday nights already ask for this knowing, and for love and nearness. So the goal of ʿirfan is not foreign or reserved for an elite: it is already on our lips.**
-- Our prayers ask to be cut off from everything but God, to see Him with the heart, to love Him and to come near Him.
-- They ask humbly, like a pupil reading above his level, and we are honoured to be allowed to say them.
-- They are the familiar prayers of the Mafatih, said by ordinary believers on familiar nights.
+**The goal of ʿirfan is already on the believer's lips.**
+- The prayers' first request is a severance from everything but God, made in the heart.
+- The prayers then ask for what ʿirfan seeks: to see God with the heart, to love Him, and to come near Him.
+- Words above our level are still ours to say, as an honour and as a plea from need.
+- These prayers are set on nights we already keep, so anyone may begin them.
 
 ---
 
@@ -46,17 +47,18 @@ _One "slide" per chapter. The heading is the chapter title. The subheading is th
 - "Meeting" God means nearness, never grasping His essence, and the journey removes veils.
 
 ### 5. The soul and its worlds
-**The self is deeper than it looks. It lives in more than one world and is shaped by what we do, so what it finally becomes is in our hands.**
-- Reality has depths: the physical, the imaginal and the intellectual are one reality at three levels.
-- The soul moves among them in sleep, in death and in contemplation.
-- Our deeds shape an inner form, ugly or radiant, that we will meet.
-- The self has states (commanding, blaming, at peace), and it can move between them.
+**The self is deeper than it appears, and its final shape is in our hands.**
+- The world has three depths, so the dead have gone deeper into it, not away.
+- The soul moves between the worlds, as far as the life it lives takes it.
+- What we do now shapes the image body we will meet after death.
+- The one self can rise from its lowest state to peace, so what it becomes is, by God's grace, in our hands.
 
 ### 6. No path outside the law
-**An inward journey like this is kept safe by the shariʿa. Law, path and truth are one thing at three depths, so there is no inner path outside the law.**
-- Law, path and truth are the shell, the core and the kernel of one reality.
-- The inner never cancels the outer. Wonders without the shariʿa are magic, and attention in prayer is the first inner work.
-- Even the end of the road is lived under the law, among people.
+**There is no inner path outside the shariʿa.**
+- The path and the truth are the inside of the law, so they are reached only through it.
+- No wonder or experience stands in for the law.
+- The inner work begins inside the law, with attention in prayer.
+- The law holds to the last breath; only the reason for keeping it changes.
 
 ### 7. Finding a guide
 **A guide helps, and Shia teachers who walked the road exist within living memory. But authority stays with the Imam, so a guide is trusted and never blindly obeyed, and is tested by the shariʿa, not by wonders.**

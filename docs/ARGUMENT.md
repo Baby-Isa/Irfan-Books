@@ -65,18 +65,21 @@ _Divider (Munajat §73–74): "My Lord, I was not strong enough to move away fro
 - → If the aim is to know and love God, what kind of knowing is that?
 
 **Ch 2. Knowing about God is not knowing Him.** (old 3, "Two kinds of knowing"; moved up by the Ch 2/3 swap, D41)
-- **Conclusion:** knowing God differs in kind from knowing about God, and it is reached by purification, which study serves but cannot replace.
-- 2.1 Acquired knowledge (ʿilm) defines and limits; knowledge by presence (maʿrifah) arrives. [B1] L02 ¶29–32, ¶36–37 (old 3.1)
-- 2.2 Reason analyses attributes and stops short of any essence, above all God's. [B1] L03 ¶25–28, ¶33, ¶35, ¶38 (old 3.2)
-- 2.3 Knowledge of God is light that God places in a purified heart, passed heart to heart, not mind to mind. [B1] L03 ¶10–11, ¶18–21 (added: `forty_hadith` p. 331; `lantern` p. 10) (old 3.3)
-- 2.4 Therefore the path is purification (suluk), not thought alone; study prepares the ground but cannot replace it. [B1] L03 ¶19–20, ¶47–49 (added, side by side: `forty_hadith` p. 403; `kernel` p. 56; `light` p. 42) (old 3.4)
+- **Conclusion:** knowing God is a different kind of knowing from knowing about Him, reached by purification, which study serves but cannot replace.
+- 2.1 The ʿarif knows God by presence, not by definition: acquired knowledge (ʿilm) defines and limits; knowledge by presence (maʿrifah) arrives. [B1] L02 ¶29–32, ¶36–37 (old 3.1)
+- 2.2 Reason cannot reach God Himself, so He must be known within the soul. [B1] L03 ¶25–28, ¶33, ¶35, ¶38 (old 3.2)
+- 2.3 Knowledge of God is a light God gives to a purified heart, not something gathered by study. [B1] L03 ¶10–11, ¶18–21 (added: `forty_hadith` p. 331; `lantern` p. 10) (old 3.3)
+- 2.4 The path to knowing God is purification (suluk), which study serves but cannot replace. [B1] L03 ¶19–20, ¶47–49 (added, side by side: `forty_hadith` p. 403; `kernel` p. 56; `light` p. 42) (old 3.4)
+- _Closing section [conclusion], no new point:_ knowing God is a different kind of knowing, reached by purification.
 - → Where, then, does an ordinary believer already stand on this path?
 
 **Ch 3. You already know these words.** (old 2; moved down to close Part One on hope, D41)
 - **Conclusion:** the goal of ʿirfan is already on the believer's lips.
-- 3.1 The Imams' supplications ask for exactly what the mystic seeks: severance from all else, illumined hearts, love, and nearness to God. [B1] L01 ¶18–23, ¶27–30 (Munajat Shaʿbaniyyah, Abu Hamza, ʿArafah, the Lovers) (old 2.1)
-- 3.2 They ask from the seeker's posture: need and humility, a pupil reaching above his level. [B1] L01 ¶17, ¶22 (old 2.2)
-- 3.3 These are the prayers of the Mafatih, recited on nights ordinary believers keep, so the goal is neither foreign nor reserved for an elite. [B1] L01 ¶17, ¶22 (added: Mafatih pp. 129, 243, 245, 282, 374; `light` p. 156; side by side: `journey` p. 43, `light` p. 157 on who is fit) (old 2.3; no L06 or L10 anchors, D38)
+- 3.1 The prayers' first request is a severance from everything but God, made in the heart. [B1] L01 ¶18, ¶20, ¶25–26 (Munajat Shaʿbaniyyah, Abu Hamza, ʿArafah) (old 2.1, first half)
+- 3.2 The prayers then ask for what ʿirfan seeks: to see God with the heart, to love Him, and to come near Him. [B1] L01 ¶19, ¶23, ¶27–29 (the Lovers) (old 2.1, second half)
+- 3.3 Words above our level are still ours to say, as an honour and as a plea from need. [B1] L01 ¶17, ¶22 (old 2.2)
+- 3.4 These prayers are set on nights we already keep, so anyone may begin them. [B1] L01 ¶17, ¶22 (added: Mafatih pp. 129, 243, 245, 282, 374; `light` p. 156; side by side: `journey` p. 43, `light` p. 157 on who is fit; the chapter claims access, not attainment) (old 2.3; no L06 or L10 anchors, D38)
+- _Closing section [conclusion], no new point:_ the goal of ʿirfan is already on the believer's lips.
 - → These prayers keep asking God to work on the heart and the self. What is this self?
 
 ### Part Two: Getting ready (B2). What do I need before I set out?
@@ -91,17 +94,18 @@ _Divider (Munajat §5–7): "I have come running to You and am standing before Y
 
 **Ch 5. The soul and its worlds.** (old 5)
 - **Conclusion:** the self is deeper than it appears, and its final shape is in our hands.
-- 5.1 Reality has depths, not distances: the material, the imaginal and the intellectual worlds are one reality at three levels. [B2] L04 ¶61–96; L05 ¶3–8 (kept to about a page)
-- 5.2 The soul mirrors them and moves among them, in sleep, in death and in contemplation. [B2] L04 ¶61–96; L05 ¶16–31 (added: `lantern` p. 24; `self_knowledge` p. 76)
-- 5.3 Deeds shape an inner form, deformed or luminous, that we will meet. [B2] L05 ¶10–15 (added: `forty_hadith` p. 41; `self_knowledge` pp. 21, 77)
-- 5.4 The self has states (commanding, reproaching, at peace), and it can move between them. [B2] L05 ¶47–57 (side by side: `inner_secrets` p. 192 counts four)
+- 5.1 The world has three depths, so the dead have gone deeper into it, not away: the material, the imaginal and the intellectual worlds are one reality at three levels. [B2] L04 ¶61–96; L05 ¶3–8 (kept to about a page)
+- 5.2 The soul moves between the worlds, as far as the life it lives takes it: in sleep, in death and in contemplation. [B2] L04 ¶61–96; L05 ¶16–31 (added: `lantern` p. 24; `self_knowledge` p. 76)
+- 5.3 What we do now shapes the image body we will meet after death, deformed or luminous. [B2] L05 ¶10–15 (added: `forty_hadith` p. 41; `self_knowledge` pp. 21, 77)
+- 5.4 The one self can rise from its lowest state to peace, so what it becomes is, by God's grace, in our hands: it has states (commanding, reproaching, at peace). [B2] L05 ¶47–57 (side by side: `inner_secrets` p. 192 counts four)
 - → What keeps so inward a work from going astray?
 
 **Ch 6. No path outside the law.** (old 6, "The ship, the sea and the pearl")
 - **Conclusion:** there is no inner path outside the shariʿa.
-- 6.1 Law, path and truth are one reality at three depths: shell, core and kernel. [B2] L06 ¶7–15, ¶23–25, ¶43–48 (added: `inner_secrets` pp. 32, 48; `light` p. 15)
-- 6.2 The inner never cancels the outer: wonders without the shariʿa are magic, not karamat, and attention in prayer is the first inner work. [B2] L06 ¶17–22, ¶27–33, ¶65–70 (added: `forty_hadith` p. 35; `light` p. 135; `inner_secrets` p. 42). L06 ¶20 ("probably") is left out; the rule is given as Kubra's, with Khomeini beside it (D39).
-- 6.3 Even the end of the road is lived under the law: it finishes among people, not above them. [B2] L09 ¶70–72 (a sentence or two of preview; the four journeys are walked in Ch 16, FRAMEWORK §8.1) (added: `kernel` p. 30)
+- 6.1 The path and the truth are the inside of the law, so they are reached only through it: law, path and truth are one reality at three depths, shell, core and kernel. [B2] L06 ¶7–15, ¶23–25, ¶43–48 (added: `inner_secrets` pp. 32, 48; `light` p. 15)
+- 6.2 No wonder or experience stands in for the law: wonders without the shariʿa are magic, not karamat. [B2] L06 ¶17–22, ¶27–33 (added: `forty_hadith` p. 35; `light` p. 135; `inner_secrets` p. 42). L06 ¶20 ("probably") is left out; the rule is given as Kubra's, with Khomeini beside it (D39).
+- 6.3 The inner work begins inside the law, with attention in prayer. [B2] L06 ¶65–70 (new section; split from old 6.2)
+- 6.4 The law holds to the last breath; only the reason for keeping it changes: even the end of the road is lived under the law, and it finishes among people, not above them. [B2] L09 ¶70–72 (a sentence or two of preview; the four journeys are walked in Ch 16, FRAMEWORK §8.1) (added: `kernel` p. 30) (old 6.3)
 - → The law is the boundary. Who walks beside the traveller?
 
 **Ch 7. Finding a guide.** (old 10, plus a short form of old 9.3)
@@ -210,7 +214,7 @@ _Tone: the emotion comes back and is brought home._
 | **Portrait-style history** | gap analysis 5 | Chs 7 and 13–15: at most five figures in the prose, the rest in Who's Who boxes. |
 | **"The inside of what you already do"** | gap analysis; D10 voice | Ch 2 (a fast, the prostration), Ch 3 (the duʿas you recite), Ch 6 (attention in your prayer), Ch 9 (istighfar), Ch 10 (Ramadan's disciplines, dhikr), Ch 12 (sujud), Ch 16 (ʿArafah), Ch 17 (Surah Yasin and the Quran you read). Each names the familiar practice in its opener and its "Try this". |
 | **Karbala as a reflection** | D16 | Ch 16.3 only (the last section), grounded in Duʿa ʿArafah and `light` p. 138; never stated as the lecturer's teaching. |
-| **Differing views side by side** | D20 | Marked (side by side) above: 1.4, 2.4, 3.3, 4.2, 5.4, 7.1, 9.2, 10.2, 14.3, 15.4, 16.2, 17.3. |
+| **Differing views side by side** | D20 | Marked (side by side) above: 1.4, 2.4, 3.4, 4.2, 5.4, 7.1, 9.2, 10.2, 14.3, 15.4, 16.2, 17.3. |
 | **Callbacks** | D41 | Part Four calls back to Part Three (13.2 to Ch 11; 14.1 to Ch 12's baqa; 15.3 to Ch 7); Ch 16 to Chs 6, 8, 12, 14 and 15; Ch 17 to Chs 2, 5, 11 and 12. Quotes are recalled in words, not re-quoted (FRAMEWORK §5). |
 
 ---
