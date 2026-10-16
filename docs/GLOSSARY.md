@@ -67,6 +67,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | ʿilm al-huduri | ilmul khuzu, ilmul khuzuli, ilumul huzuri, knowledge with presence, khusu | | Knowledge by presence, where the soul encompasses the object | L02 |
 | ʿilm al-husuli | ilmul husul, ilmul husuli | | Acquired knowledge | L02 |
 | ʿilm al-yaqin | Ilmul Yaqeen | | The first of three degrees of certainty | L06 |
+| iman | | | Faith that has entered the heart; the second level of faith after islam (Q 49:14) | B2 Ch6 |
 | inqitaʿ | alinqita`i | | Severance; cutting the heart off from everything but God (Munajat Shaʿbaniyyah) | L01 |
 | iqan | Iqaan | | Certitude, the term mystics use for the highest faith | L06 |
 | irada | Iradah | | Willingness; the will of the seeker | L15 |
@@ -74,6 +75,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | ʿirfan ʿamali | practical mysticism | | Practical mysticism: the practice that yields unveiling | L04 |
 | ʿirfan nazari | considerative mysticism, Irfane nazari, theoretical Irfan | | Theoretical mysticism: reasoned theory built on unveiling | L04 |
 | ishara | isharah | | Allusive language | L13 |
+| islam (level of faith) | | | Outward submission, doing what the law asks; the first level of faith (Q 49:14) | B2 Ch6 |
 | ism aʿzam | Isme aazam | | The greatest name | L12 |
 | istighfar | isteghfar, istigfaar | | Seeking forgiveness | L04 |
 | iʿtikaf | etekaaf | | Retreat in a mosque | L10 |
@@ -81,7 +83,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | jalal | Jalal | | Divine majesty | L12 |
 | jahala | jahala | | Those who do not know; contrasted with the ʿurafaʾ | L02 |
 | jannah | janna | | Paradise | L01 |
-| karamat | karamaat | | Wonders performed by saints, as against the prophetic miracle | L01 |
+| karamat (sing. karama) | karamaat | | Wonders performed by saints, as against the prophetic miracle | L01 |
 | kashf | unveiling | | Mystical disclosure, the source of theory | L04 |
 | khafi | al-mukhtafi | | The hidden layer of the soul | L05 |
 | khaliq | Khaliq | | Divine name: the creator who composes | L03 |
@@ -92,6 +94,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | khatm | Khatm al Awliya, Khatm al Ambiya, Awsiya | | The seal of saints, of prophets and of legatees | L13 |
 | khawass | hawas, khaas | | The elite | L11 |
 | khayal | khayal | | Imagination | L05 |
+| khidma | | | Service to God; in salah, the depth of the law (L06 ¶24) | B2 Ch6 |
 | kibriyaʾ | kibriya, Kibriya | | Grandeur of God | L01 |
 | kuffar | kuffar, kaafir | | Unbelievers | L02 |
 | Kubrawiyya | kubrawiyyah | | The order founded by Najm al-Din Kubra | L08 |
@@ -111,7 +114,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | munajat | munajat | | An intimate, whispered prayer addressed to God | L01 |
 | muhasaba | Muhasabha, Mahasabha | | Self-accounting of one's actions, feelings and attitudes | L12 |
 | muhayyamin | mohayyemeen | | Angels lost in love of God | L01 |
-| muhsin | mohsin, mohsineen, mohsenoon, muhsinun | | One who has ihsan | L06 |
+| muhsin (pl. muhsinin) | mohsin, mohsineen, mohsenoon, muhsinun, muhsinin | | One who has ihsan | L06 |
 | mujahada | mujahida | | Struggle against the self | L08 |
 | muʿjiza | mojezat, mojizat, muʿjizat | | Miracle; the term karamat is set against it | L01 |
 | Munajat al-Khamsa ʿAshar | Munajat-Khamsa Ashar | | The Fifteen Whispered Prayers of Imam Zayn al-ʿAbidin, in the Sahifa Sajjadiyya | L01 |
@@ -140,6 +143,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | qahri / ikhtiyari | qahri, ikhtiyari | | Involuntary / voluntary | L08 |
 | qalb | Al-Qalb | | The heart | L05 |
 | quddus | Quddus | | Divine name: utterly pure | L03 |
+| sihr | | | Magic: effects that look like karamat, worked by other means (L06 ¶18, ¶20) | B2 Ch6 |
 | ʿulamaʾ | ulama, ulema | | The religious scholars (sing. ʿalim) | prologue |
 | qurb | qurbat | | Coming close to God | L06 |
 | qutb | quds | | Pole or pivot of each age | L13 |

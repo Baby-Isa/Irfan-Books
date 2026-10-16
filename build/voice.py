@@ -186,7 +186,7 @@ def features(paras):
 def lingo_hits(paras):
     hits = []
     for _, p in paras:
-        low = strip_quoted(p).lower()
+        low = re.sub(r'"[^"]*"|“[^”]*”', " ", p).lower()   # sources' words are exempt
         for lst, label in ((BANNED, "banned"), (INTENSIFIERS, "intensifier"),
                            (WORDY, "wordy"), (TONE_FLAGS, "TONE check")):
             for term in lst:
