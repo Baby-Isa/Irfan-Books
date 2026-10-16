@@ -108,6 +108,8 @@ God is already near, so reaching Him means lifting, in this life, the veils over
 8. Hence the seeker lifts the veils in this life rather than waiting, since the journey through death is longer and harder.
 9. Whoever uncovers the self sees its reality, and that is knowing its Lord.
 10. Therefore the way to God runs through knowing the self.
+
+New story (D47): Musa asks to see God, L04 ¶56–57.
 :::
 
 Looking within does not mean going anywhere, because God is already near. In Sheikh Bahmanpour's words, "We are actually in [H]is presence at the moment. However, [H]e is not in our presence." The soul stands before God now. What it lacks is the perception of the One before whom it stands.
@@ -125,6 +127,10 @@ The verse speaks of the meeting with God (*liqaʾ Allah*). Every soul will take 
 What is seen at that meeting is the soul, and the soul is a reflection of God. Seeing it is therefore seeing a reflection of God, and not God Himself. The verse still calls it a meeting with Him. On that day the soul perceives the presence it has always stood in. The believer perceives God's mercy and reward, whereas the unbeliever perceives His justice.
 
 Even then, the soul cannot encompass God. The depth of our own soul cannot be known, so a complete knowledge of its Lord is out of reach. As the lectures put it, "You can get some understanding but knowing [H]im completely … is impossible." Imam Khomeini sets a similar limit for the seeker. Those who hold that the meeting with God is open to the seeker, he writes, do not mean that it is permissible "to fathom the mystery of the Divine Essence", or that the Essence can be encompassed in knowledge by presence [@forty_hadith, p. 398].
+
+::: {.box-story title="Story: Musa asks to see God"}
+In one of his lectures, Sheikh Bahmanpour turned to the Prophet Musa (as) to show a limit on perceiving God in this life. The Qur'an tells the scene in Surah al-Aʿraf. Musa comes to the meeting God appointed for him, and his Lord speaks to him. Musa then asks for more: "My Lord, show [Yourself] to me, that I may look at You!" God answers, "You shall not see Me" ([لَن تَرَىٰنِي]{lang=ar}). He tells Musa to look at the mountain instead: if it stays in its place, Musa will see Him. God discloses Himself to the mountain and levels it, and the prophet falls down in a swoon. When he comes round, he says, "Immaculate are You! I turn to You in penitence" (Q 7:143). Musa's request, as the lecture explains, was for a degree of perceiving God that cannot be reached in this body. Even Musa, to whom God spoke, was refused that sight, so while the soul is in the body some perception of God is open to it and a further degree is not.
+:::
 
 What a soul perceives of God at that meeting depends on what it perceives of Him now. In the lectures' words, "whoever is completely blind in this world is completely blind in the other world." The Qur'an uses the same image.
 
