@@ -1,6 +1,6 @@
-# Lessons from the user's reviews of Chapters 1–3
+# Lessons from the user's reviews (Chapters 1–7)
 
-_Read this before drafting or reviewing any chapter. Each line is something the user corrected, so a draft that repeats it will come back. The full rules, each with a before/after, are in `docs/TONE.md` (1–37)._
+_Read this before drafting or reviewing any chapter. Each line is something the user corrected, so a draft that repeats it will come back. The full rules, each with a before/after, are in `docs/TONE.md` (1–44)._
 
 ## The argument
 1. **Each section is a chain.** Every paragraph adds one link between the section's opening and its point note, and the strongest point lands as a conclusion the reader has been led to. A paragraph that only adds another true, sourced remark goes. (TONE 25)
@@ -24,9 +24,17 @@ _Read this before drafting or reviewing any chapter. Each line is something the 
 ## House style
 16. Oxford comma in lists of three or more. Chapter numbers in words ("Chapter Four"). (as) for the Imams, ﷺ for the Prophet. "Qur'an". "Abu Hamza" in our own prose.
 17. One callout box per section, plus Try this at the end. A box must make a point or tell a story with a point; it must not be a side history lesson. (Ch 2's Ibn Sina box was "boring… doesn't make a point" until it carried the chapter's point.)
-18. Inline Arabic is used sparingly; displayed quotations carry their Arabic.
+18. Inline Arabic is used sparingly; displayed quotations carry their Arabic. An Arabic term is glossed in brackets after the English: "the remembrance of God (*dhikr*)". (TONE 42)
+18a. Always say which Imam, by name or number. (TONE 41)
 
 ## Sourcing (unchanged, but repeated because drafts slip)
 19. Every quotation is copied exactly from a held extract. Arabic comes only from `sources/quran/` or `sources/extracts/duas-*.md`; anything else is `[VERIFY]`.
 20. Keep the Sheikh's words apart from the book's own explanation. Where the book draws out his point, it says so ("The point is worth drawing out…") and does not put the inference in his mouth.
 21. No questions for the Sheikh (D39). Go around an unclear passage: leave it out, use a clear one, or word it so it is true on either reading.
+
+## From the review of Parts One and Two (2026-10-16)
+22. **Points are short and sharp, and every paragraph has its own step.** Write the point ladder before drafting: a one-line section point and a one-line point per paragraph that builds to it. If a reader has to read the point twice, rewrite it. (TONE 40)
+23. **Plain, enjoyable sentences.** One idea per sentence; split stacked clauses. The user stopped reading Ch 4 because he had to read sentences twice. (TONE 38)
+24. **Hook each chapter fast.** Callbacks are one or two sentences and rarely name a chapter; never tour earlier chapters at the start. Say early what the chapter establishes, in the words of its title. (TONE 26, 39)
+25. **Several scholars for a nuanced point, not for a plain one.** (TONE 43)
+26. **Idle paragraphs between 15% and 28%** by the chain audit; an end-of-chapter recap and a closing page-turner question are fine within it. (TONE 44)

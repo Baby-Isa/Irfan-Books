@@ -88,7 +88,7 @@ The v1 caveat is resolved. Read `docs/VOICE-TEST.md`: profile = gate; chain audi
 |---|---|
 | Lessons from the user's reviews | `docs/briefs/LESSONS.md` |
 | Model to imitate | `docs/EXEMPLAR.md`; `book2/chapters/00-prologue.md`; `01-seeking-not-powers.md` |
-| Voice rules | `docs/TONE.md` (1–37); `docs/LINGO.md`; `docs/STYLE_GUIDE.md` |
+| Voice rules | `docs/TONE.md` (1–44); `docs/LINGO.md`; `docs/STYLE_GUIDE.md` |
 | Structure | `docs/ARGUMENT.md` v3; `docs/STORYLINE.md` v3; `docs/outline/` (FRAMEWORK §1–9, part-1 to part-5) |
 | Part dividers | `book2/parts/N-*.md` (front matter `before: N`); `build/part.typst-template` |
 | Munajat lines used (each once) | `docs/outline/FRAMEWORK.md` §4; Arabic in `sources/extracts/duas-munajat-shabaniyah.md` by § |

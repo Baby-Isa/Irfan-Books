@@ -177,8 +177,12 @@ def features(paras):
     }
 
 
+READ_TWICE = []   # long, comma-heavy sentences: reread each and split it unless it is a plain list
+
+
 def lingo_hits(paras):
     hits = []
+    READ_TWICE.clear()
     for _, p in paras:
         low = re.sub(r'"[^"]*"|“[^”]*”', " ", p).lower()   # sources' words are exempt
         for lst, label in ((BANNED, "banned"), (INTENSIFIERS, "intensifier"),
@@ -189,6 +193,9 @@ def lingo_hits(paras):
         for s in sentences(p):
             if s.startswith(BAD_OPENERS):
                 hits.append(f"opener: \"{s[:60]}…\"")
+            own = strip_quoted(s)
+            if len(words(own)) >= 30 and own.count(",") >= 3:   # TONE 38: advisory (lists trip it)
+                READ_TWICE.append(f"{len(words(own))} words, {own.count(',')} commas: \"{s[:90]}…\"")
     return hits
 
 
@@ -280,6 +287,8 @@ def profile(specs):
             hits.append(f"attribution: Sheikh named {rate:.1f} times per 1,000 words (cap 5, TONE 23)")
         for h in hits:
             print(f"   LINGO {h}")
+        for r in READ_TWICE:
+            print(f"   READ TWICE? {r}")
         # Delta is reported, not gated: calibration showed it does not separate
         # drafts from the exemplar with a ~3,300-word reference (VOICE-TEST.md).
         verdict = "PASS" if (not off and lp <= LONGEST and not hits) else "REWRITE"
@@ -542,8 +551,9 @@ def chain(stem, spec):
             continue
         sec += 1
         pt = re.search(r":::+\s*\{\.point\}\s*\n(.*?)\n:::+", block, re.S)
-        out += [f"## Section {sec}: {head[3:].strip()}\n",
-                f"**Point:** {clean(pt.group(1)) if pt else '(none given)'}\n"]
+        # the section point only: the paragraph ladder would tell the auditor the answer
+        point = clean(re.split(r"\n\s*\n|\n\s*(?:\d+\.|\*\*Paragraphs)", pt.group(1))[0]) if pt else "(none given)"
+        out += [f"## Section {sec}: {head[3:].strip()}\n", f"**Point:** {point}\n"]
         for kind, text in paragraphs(block, keep_boxes=True, placeholders=True):
             if kind == "quote":
                 out.append(text + "\n")
@@ -558,6 +568,7 @@ def chain(stem, spec):
 
 
 CHAIN_BAD = ("restate", "aside")
+CHAIN_MIN, CHAIN_MAX = 0.15, 0.28   # TONE 44: Ch 1 runs 22-28%; below 15% reads clipped
 
 
 def chain_score(stems):
@@ -574,8 +585,9 @@ def chain_score(stems):
         idle_w = sum(wc.get(k.lstrip("¶"), 0) for k in bad) / max(sum(wc.values()), 1)
         c = collections.Counter(v["label"] for v in labs.values())
         rows.append((stem, src, idle, idle_w))
+        band = "  OVER 28%" if idle > CHAIN_MAX else ("  UNDER 15%" if idle < CHAIN_MIN else "")
         print(f"  {stem:14} {src[-52:]:52} {len(labs):5} {c['restate']:8} {c['aside']:5} "
-              f"{100 * idle:5.0f} {100 * idle_w:11.0f}")
+              f"{100 * idle:5.0f} {100 * idle_w:11.0f}{band}")
     return rows
 
 

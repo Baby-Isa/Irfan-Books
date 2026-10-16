@@ -11,7 +11,8 @@
 
 ## Sections (each heading tagged with the chapter point(s) it serves, e.g. [N.1])
 1. **Heading** [N.1]
-   - premise (source)
+   - **Point:** one short plain sentence (TONE 40)
+   - **Paragraph points:** 1. short claim (source) → 2. … → n. therefore the point
 
 ## Argument, in order (optional detail)
 _Each step depends only on earlier steps. Each step is sourced as `LNN ¶a–b`, `Q S:A` or `[@key, loc]`. Together the steps are MECE: nothing is missing and nothing overlaps._

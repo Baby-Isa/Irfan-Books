@@ -119,8 +119,10 @@
   v(2mm)
   align(center, text(size: 12pt, style: "italic", fill: ink, question))
   v(8mm)
-  align(center, block(width: 78%, { set text(size: 10.5pt); set par(leading: 0.62em, spacing: 0.9em); body }))
-  v(8mm)
+  // Equal white space above and below the chapter list (user, 2026-10-16):
+  // the summary paragraph, the list and the star band sit 7mm apart.
+  align(center, block(width: 78%, { set text(size: 10.5pt); set par(leading: 0.62em, spacing: 7mm); body }))
+  v(7mm)
   star-band(width: 50%)
   v(8mm)
   if epigraph-ar != "" { align(center, text(font: "Amiri", lang: "ar", dir: rtl, size: 14pt, epigraph-ar)); v(3mm) }

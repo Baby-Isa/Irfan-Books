@@ -138,10 +138,11 @@ Once he is named, the rest of that line of thought belongs to him, so don't name
 **Do:** before keeping a paragraph, name the link it adds between the section's opening and its point note. If a section's point is simple, it needs few paragraphs. Build up to the strongest point so it lands as a conclusion the reader has been led to.
 **Don't:** keep paragraphs because they are true and sourced. The user's test: does the reader feel the section is bloated?
 
-### 26. Callbacks re-explain enough to be understood a week later
-**Do:** when recalling an earlier chapter, give the reader the gist of what was argued there in a sentence or two.
-- Before: "Chapter 1 reached the same conclusion by another road, when it placed the fault in the receiver."
-- After: "This book's first chapter reached the same conclusion by a different road. Surah al-Rum says that God's signs are for those who reflect, know, listen, and reason, and yet most people pass them by. Nothing in the signs is hidden and nothing is wrong with our eyes; the fault lies with an inner faculty that has rusted and does not receive."
+### 26. Callbacks: one or two sentences, and no chapter tour (user, 2026-10-16)
+**Do:** when an earlier idea is needed, state it plainly in one or two sentences, as a fact the reader can use now. Usually no chapter reference is needed at all.
+- Before: "Chapter Two argued that if God is to be known, and not only known about, the knowing must be found within our own soul, because the soul is the one place where we know anything from the inside. Chapter Three ended on the prayers' repeated requests that God work on the heart and the self."
+- After: "The soul is the one thing we know from the inside, so if God is to be known and not only known about, the knowing has to happen there."
+**Don't:** open a chapter by touring earlier chapters, or mention the same earlier chapter twice. The reader should be hooked by the new chapter's question within the first few paragraphs.
 
 ### 27. "Therefore" only after the argument is made
 **Do:** build the premises before a "therefore" or "so". If the conclusion has not been argued for in the text above it, argue it first.
@@ -197,6 +198,42 @@ Once he is named, the rest of that line of thought belongs to him, so don't name
 **Do:** when two sources seem to disagree, say so plainly in one sentence, then resolve the disagreement step by step in the next few.
 - Example (Ch 2): the hadith says God casts the light into the heart of whomever He wills, while the verse says His light is everywhere. Both are true. Every act is God's, and nothing happens except by His will, but His will is not to withhold. What keeps a heart dark is that it is closed.
 **Don't:** pack several separate points about the tension into one paragraph without first naming it (rule 30 extended).
+
+### 38. Plain sentences: if it must be read twice, rewrite it (user, 2026-10-16)
+**Do:** one idea per sentence, subject first, the main verb early. Split a sentence that carries an appositive, a relative clause and a list at once. Prefer "and" to a run of commas.
+- Before: "The encounter in this verse is *liqaʾ Allah*, the meeting with God, which every soul will come to, the believer and the unbeliever alike."
+- After: "The verse speaks of the meeting with God (*liqaʾ Allah*). Every soul will come to this meeting, the believer and the unbeliever alike."
+- Before: "The lectures allow that reading but prefer the other, and set beside the saying narrations which show that it speaks of a knowledge that is possible."
+- After: "The lectures accept that reading but prefer the other. Other narrations show that the saying speaks of a knowledge we can reach."
+- Before: "a tested guide walks beside the traveller, under the Imam, never in his place"
+- After: "a tested guide walks beside the traveller, under Imam al-Mahdi (atfs) and never in his place"
+**Don't:** compress. The reader should enjoy the read, not decode it. `build/voice.py profile` flags sentences of 30+ words with three or more commas.
+
+### 39. Open the chapter on its own title
+**Do:** within the first few paragraphs, say what the chapter will establish in the words of its title.
+- Before: "This chapter sets out what the self is to someone who seeks God, and why the road to God runs through it."
+- After (Ch 4, "Know yourself, know your Lord"): "This chapter sets out why we must know ourselves in order to know our Lord, and how."
+
+### 40. The point ladder: short, sharp points, one step per paragraph (user, 2026-10-16)
+**Do:** before drafting, write each section's point as one short plain sentence a reader could repeat, then the paragraph points: one short claim per paragraph, each following from the ones before, ending in the section's point. Put both in the section's `::: {.point}` note (the point, then a numbered list of paragraph points). The prose then delivers exactly those steps, in that order.
+- Example (Ch 4): **Point:** Getting close to God means understanding our own soul. **Paragraphs:** 1. God is always near. 2. He is reflected in our souls. 3. So we do not need to travel far to reach Him. 4. What stands between us is a veil. 5. Since He is reflected in the soul, lifting the veil means understanding the soul. 6. So knowing God comes through knowing the soul.
+**Don't:** write a point that needs a second reading, or a point with two claims joined by "and". A paragraph with no step of its own is cut (rule 25).
+
+### 41. Always say which Imam
+**Do:** name the Imam every time: by name ("Imam ʿAli (as)", "Imam al-Sadiq (as)") or by number ("the Twelfth Imam"). Vary the form.
+**Don't:** write "the Imam" and leave the reader to guess.
+
+### 42. Gloss an Arabic term in brackets
+**Do:** "the remembrance of God (*dhikr*)", "the meeting with God (*liqaʾ Allah*)": the English first, the term in brackets.
+**Don't:** set the term off with commas ("the remembrance of God, *dhikr*,").
+
+### 43. Several scholars for a fine point, one for a plain one
+**Do:** bring in a second or third scholar where the point is nuanced or likely to be doubted; hearing it from several sources adds weight.
+**Don't:** use three scholars to crack a walnut. A point no reader would dispute needs one source at most.
+
+### 44. Keep the idle share between 15% and 28%
+**Do:** run the chain audit (`docs/VOICE-TEST.md`). Between 15% and 28% of paragraphs may restate or support without advancing, which is Ch 1's own rate: roughly one paragraph in four can recap or rephrase, and that reads comfortably. A short recap at the end of a long chapter is fine within the band. Keep the closing question that leads into the next chapter; word it plainly.
+**Don't:** go above 28% (it meanders) or below 15% (it reads clipped and breathless).
 
 ## Check before handing over
 Read only the first sentence of every paragraph in order. If the argument does not follow, fix the openings (rule 1). Then read every sentence against its section's point note (rules 2 and 11). Then count the Sheikh's name (rule 23) and the attribution verbs ("he says", "he adds", "he notes"). Then search for "as we should", "rarely", "never", "lip service", "intelligent", "busy", "you will find", "of course", and for any quotation that is not spoken to in the sentence after it.

@@ -13,7 +13,7 @@ The approved prologue (`book2/chapters/00-prologue.md`) and Chapter 1 (`book2/ch
 | Body words | ~1,250 | ~2,700 | 2,600–3,200 per chapter |
 
 ## What changed between the first drafts and the final version
-Each pair below is real. "Before" comes from the drafts the user rejected; "after" is the approved text. The full rule set, with more pairs, is in TONE.md rules 1–37.
+Each pair below is real. "Before" comes from the drafts the user rejected; "after" is the approved text. The full rule set, with more pairs, is in TONE.md rules 1–44.
 
 1. **Name things; no suspense.**
    - Before: "Many of us first heard the verse at a wedding."
