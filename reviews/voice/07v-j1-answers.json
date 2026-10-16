@@ -1,0 +1,51 @@
+{"profile": [
+  "Opens a paragraph on the last one's point, often as a condition or consequence: 'If the signs are present and plain and yet we still pass them by, the fault is on our side.' / 'Placing the fault in the receiver has two consequences.' / 'Repair is only the start.'",
+  "Ends a paragraph on the point in a short, plain sentence, not an aphorism: 'In most of us, it is not working.' / 'Most of us see only the lamp.'",
+  "Explains a quotation or verse straight after it, often with a concrete inference: 'Cattle see and hear perfectly well, so the comparison cannot be about the senses. It is about what lies behind the senses.'",
+  "Leads into a verse with a one-line set-up that says what it will show: 'The Qur'an describes the gap in one verse.' / 'The Qur'an says where it lies, speaking of people who have every faculty and use none of them.'",
+  "Medium-short sentences; 'and' joins clauses without a comma; semicolons for balanced contrasts: 'God is not withholding signs; we are failing to receive them.' Occasional 'whereas': 'Eyes and ears take in the surface of things, whereas inside a human being...'",
+  "Brings in sources by full name with a specific verb, once per point: 'Sheikh Bahmanpour compares this faculty to a machine.' / 'Imam Khomeini insists...' / 'ʿAllama Tabatabaʾi explains...'; 'in the Sheikh's words' used sparingly, never 'he says' as filler",
+  "Speaks as 'we' / 'most of us' with the reader, inclusive and unscolding: 'We have heard these verses many times and we accept that there are signs in them'; 'Let's start with two claims'; almost no 'you'",
+  "Plain, concrete diction with everyday images: 'a person who sees a red light thinks of the danger it warns of, not of the colour and shape of the lamp'; 'There is a machine inside which is [rusted]'",
+  "Numbers and orders steps explicitly: 'The first is that the problem is not a shortage of evidence.' / 'The second is that the problem can be solved.'",
+  "Signposts to other chapters briefly and factually: 'Chapter Fourteen sets out their wider concerns, with the answers given to them.'",
+  "Never asks rhetorical questions, never jokes, never piles quotations without comment, never closes on a restated conclusion with 'then' or 'therefore' after the point is already made"
+],
+ "passages": {
+  "A": {"p": 40, "verdict": "different", "tells": [
+    "'The scholars differ in emphasis but agree that powers are not the aim. Mutahhari also explains why seeking them would be shirk: the goal has become something other than God.' — restates the quotation just given; Author A would go straight on to what remains once powers are set aside",
+    "'...other than God Himself\" and he recalls Imam ʿAli (as) saying that he worshipped God not from fear...' — a second source stacked on the first with 'and' and left unexplained; Author A brings in one source per point and comments on it"]},
+  "B": {"p": 60, "verdict": "same", "tells": ["Chapter opening built like the reference's: prayer identified, 'when many of us hear it', what the line asks, then a plain link back to Chapter Two and a one-line statement of the chapter's task."]},
+  "C": {"p": 62, "verdict": "same", "tells": ["Opens on the previous point ('Pursuing ʿirfan means training the soul'), concrete examples of powers, and glosses 'shirk' straight after the quotation in a plain sentence."]},
+  "D": {"p": 60, "verdict": "same", "tells": ["Short concrete sentences, a cause given and then an example ('Allahu akbar or la ilaha illa Allah'); stops on the point about the guide."]},
+  "E": {"p": 30, "verdict": "different", "tells": [
+    "One long paragraph stacking Mutahhari's quotation, a second quotation, the Khidr name and a verse of poetry — Author A gives one source per paragraph and explains it before moving on",
+    "'On either account, then, a traveller needs a companion who has walked the road.' — closing summary restating what was just said; Author A stops on the point",
+    "'The darkness ahead stands for the states of the soul that a traveller cannot read alone' — repeats the earlier wording ('cannot read alone') rather than moving the argument on"]},
+  "F": {"p": 55, "verdict": "same", "tells": ["Picks up 'The second kind', concrete examples (hunger, pain, anxiety), semicolon contrasts; slight loss for the hunger-may-be-false aside, which does not prove completeness."]},
+  "G": {"p": 35, "verdict": "different", "tells": [
+    "'Tabatabaʾi quotes a Persian couplet: \"A thousand trap lies concealed...\"' — claim, colon and quotation stacked, and the couplet is never explained; Author A comments after every quotation",
+    "'Tabatabaʾi gives a test' / 'Tabatabaʾi quotes' / 'he warns' — the source named in nearly every sentence; Author A names him once and then makes the point",
+    "'Both tests are needed because the road has many pretenders.' — the reason is asserted and then illustrated twice by quotation, more words than the point needs"]},
+  "H": {"p": 55, "verdict": "same", "tells": ["Picks up the verse from the previous section, quotations glossed ('the Prophet ﷺ and the Imams (as)'), ends on a factual pointer to Chapter Fifteen; slightly heavy on quotation."]},
+  "I": {"p": 40, "verdict": "different", "tells": [
+    "'There is nothing wrong with pursuing material wealth in this life; the trouble is being solely occupied with it.' — a true but moralising aside that does not move the argument; Author A does not lecture the reader on conduct",
+    "'The friends of God have families, friends and a place in society, as we do.' — adds a remark without advancing the point",
+    "'so that they understand far more' — vague closing gloss; Author A would say concretely what the removal of the veil gives"]},
+  "J": {"p": 35, "verdict": "different", "tells": [
+    "'the Sheikh sets it against' / 'The prophets, he says,' / 'the Sheikh says' / 'he grants' — the teacher named or 'he says' in almost every sentence as filler; Author A names him once and then speaks in its own voice",
+    "'The prophets knew God in this way, with a knowledge present in their hearts and not worked out by argument.' — closing line restates the paragraph's conclusion; Author A stops on the pointer to Chapter Four"]},
+  "K": {"p": 68, "verdict": "same", "tells": ["Opens on the previous point ('Without a chain of authority'), plain contrast of order and Shia practice, Tabatabaʾi named once with a specific verb, ends on the verse it introduces."]},
+  "L": {"p": 55, "verdict": "same", "tells": ["Plain factual sentences, each prayer placed in time; sources brought in with specific verbs ('tells the traveller'); no flourish, though the opening 'God's invitation' is slightly grand."]},
+  "M": {"p": 60, "verdict": "same", "tells": ["Short contrastive sentence after the verse ('Most of us fear Allah's punishment...') mirrors 'Most of us see only the lamp'; verse set-ups name what each verse shows."]},
+  "N": {"p": 38, "verdict": "different", "tells": [
+    "'The great teachers of the Shia tradition make closely related points, each in his own words.' — throat-clearing opener; Author A would open on the point itself ('ʿAllama Tabatabaʾi tells the traveller...')",
+    "Three quotations from Tabatabaʾi and one from Khomeini with no comment after any of them; Author A explains what each quotation shows"]},
+  "O": {"p": 35, "verdict": "different", "tells": [
+    "'Sheikh Bahmanpour calls Tabatabaʾi a symbol of Shia mysticism today.' — a true remark dropped in without moving the argument about the orders",
+    "'The teachers a Shia traveller can name therefore taught the road this book describes.' — tidy 'therefore' summary at the paragraph's end; Author A stops on the last concrete point (Qadi's half hour)",
+    "'Akhund Hamadani and those who learned from his line were scholars, several of them jurists and they stood outside the Sufi orders.' — loose 'and' chain joining separate claims"]},
+  "P": {"p": 52, "verdict": "same", "tells": ["Quotation glossed word by word and tied back to Chapters One and Two; ends on the point. The Sheikh's aside about 'mistakes' is a slightly loose addition."]},
+  "Q": {"p": 55, "verdict": "same", "tells": ["Opens with a condition picking up the last point; the quotation is followed by 'The sentence divides the work' and a semicolon contrast, as the reference explains its quotations."]},
+  "R": {"p": 75, "verdict": "same", "tells": ["'If the faculty can be repaired, there should be people in whom it already works' picks up the last point in Author A's conditional manner; the verse is explained by plain inference ('A heart trembles only at the mention of someone it has some experience of')."]}
+ }}
