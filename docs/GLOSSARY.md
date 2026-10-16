@@ -7,6 +7,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | abdal | Abdaal, abdaal | | A class of saints in the hierarchy; God provides for the earth through them | L12 |
 | ʿadhab | azaab | | Punishment | L04 |
 | ahwal | Ahwaal | | Mystical states that come and go on the path | L12 |
+| al-Kafi | Usul al-Kafi | | The hadith collection of al-Kulayni, the first of the four Shia books of hadith | B2 Ch3 |
 | akhfa | | | "The most hidden": the inmost level of the soul, beyond khafi (Mutahhari, `light` p. 58) | B2 Ch5 |
 | akhlaq | | | Ethics; the rules of character that go beyond the legal minimum (Shomali) | B2 Ch1 |
 | Akhund | | | A title for a religious scholar (as in Akhund Mulla Husayn-Quli Hamadani) | B2 Ch7 |
@@ -51,6 +52,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | fuʾad | Al-Faad | | Heart or inner faculty | L05 |
 | ghawth | ghaus | | A rank of the saintly hierarchy | L13 |
 | ghusl al-tawba | Ghusle Tauba | | Ritual bath of repentance | L08 |
+| Harithah ibn Malik al-Ansari | Zayd, Haritha | | The young companion who told the Prophet ﷺ he could see the people of paradise and hell (al-Kafi; `light` p. 19) | B2 Ch3 |
 | hadd (pl. hudud) | Hadd, hudood | | Definition; also limit or boundary: to define a thing is to limit it | L02 |
 | hijab (pl. hujub) | hujuba | | Veil; the veils of light and darkness between the heart and God | L01 |
 | hajj | hajj | | The pilgrimage to Mecca | L01 |
@@ -106,6 +108,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | maʿad | maad | | Return, resurrection | L16 |
 | mahiyya | mahiyyat | | Quiddity or essence | L13 |
 | mahw | mahv | | Obliteration; annihilation in action | L09 |
+| Malik ibn Anas | | | The early jurist of Madina, founder of the Maliki school, to whom Imam al-Sadiq (as) first sent ʿUnwan al-Basri | B2 Ch7 |
 | makruh | makrooh | | Disliked | L07 |
 | malakut | Malaqut, malakut | | The intermediate world of angels | L09 |
 | Malamatiyya | Malamatiyah | | The "people of blame", Sufis who sought blame | L12 |
@@ -177,6 +180,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | Sufi | sufiyah, suf | | Mystic of the Sufi tradition; Sufism, from wool | L02 |
 | sukr | sukr | | Intoxication in the love of God | L09 |
 | suluk | sulook, saluk, sulook | | Wayfaring; the path of purification | L03 |
+| Surah Yasin | Yaseen | | The thirty-sixth surah of the Qur'an, recited for the dying and the dead | B2 Ch5 |
 | tabattul | tabattil, batul | | Cutting oneself off towards God | L10 |
 | tahajjud | tahajjud | | Waking before dawn to worship | L10 |
 | tahliya | tahliyyah, tahliyah | | Adorning the soul with divine gifts | L07 |
@@ -191,6 +195,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | ulu al-albab | ulul albah | | Possessors of inner intellect, equated with the ʿarif | L02 |
 | ulu al-ʿilm | ulul ilm | | Possessors of knowledge | L02 |
 | ʿurafaʾ | urafah, urafaa, Urafaa | | Plural of ʿarif | L01 |
+| ʿUnwan al-Basri | Unwan Basri | | An old seeker who asked Imam al-Sadiq (as) to teach him and was taught after patience | B2 Ch7 |
 | ʿuzla | uzla | | Seclusion | L10 |
 | wahdat al-wujud | wahdatal wujood, Wahdat ul Wujud, wahdatul wujud | | Unity of being | L09 |
 | wajh Allah | wajhullah | | The face of God: God's manifestation through the names | L11 |
@@ -201,6 +206,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | wilaya | wilayat, wilayatik | | Friendship with God; closeness and authority | L01 |
 | wilaya takwiniyya / tashriʿiyya | Wilayatu-e-Takvini / Tashri | | Authority over creation and over religion | L13 |
 | wujud | wajood | | Existence | L03 |
+| wudu | wuzu | | The ritual washing before prayer (ablution) | B2 Ch6 |
 | wuquf | wuquf-i zamaani, adadi, qalbi | | Awareness of time, number and heart | L14 |
 | wusul | Wusool, muslah | | Arrival, annihilation | L06 |
 | yaqin | yaqeen | | Certitude | L08 |
