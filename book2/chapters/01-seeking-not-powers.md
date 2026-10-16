@@ -134,7 +134,7 @@ The second gift is a different kind of life, promised in Surah al-Nahl to whoeve
 Whoever acts righteously, [whether] male or female, should he be faithful, We shall revive him with a good life
 :::
 
-This good life, *hayat tayyiba*, is a clean life. Its people live in the world without being soiled by it, rising above the worries that occupy everyone else. It is this good life that the mystics seek.
+This good life (*hayat tayyiba*), the life the mystics seek, is a clean life. Its people live in the world without being soiled by it, rising above the worries that occupy everyone else.
 
 The third gift is peace, promised in the verse of Surah Yunus that names the friends of God.
 
@@ -152,7 +152,7 @@ Whoever obeys Allah and the Apostle—they are with those whom Allah has blessed
 
 Sheikh Bahmanpour reads this verse as naming four ranks of those God has blessed: the prophets; the truthful (*siddiqin*); the *shuhadaʾ*, which the translation used here renders "martyrs" and which he takes as "the witnesses"; and the righteous (*salihin*). The first three ranks are beyond us; the fourth is a doorway. The salihin are those able to receive this favour, and from among them God chooses the truthful and the prophets. The way in is righteous action, as the verse on the good life also says.
 
-That doorway is open to people like us: ordinary people can also enter the realm of the muqarrabun. It is difficult, but it is open, because we are made for it. We call ourselves human beings, yet, in the Sheikh's words, "we are not yet human beings". We begin with the potential to become human in the full sense that the prophets are. He means this as a statement of what we were made for. A human being has the capacity to become a friend of God; God created us with that capacity, and wants us to reach it.
+That doorway is open to people like us: ordinary people can also enter the realm of the muqarrabun. It is difficult, but it is open, because we are made for it. We call ourselves human beings, yet, in the Sheikh's words, "we are not yet human beings". We begin with the potential to become human in the full sense that the prophets are. A human being has the capacity to become a friend of God; God created us with that capacity, and wants us to reach it.
 
 This is the case for pursuing ʿirfan. The Qur'an invites more than the minimum, and what stands in the way is a faculty in us that can be repaired. On the other side of that repair lie nearness to God, a good life, and freedom from fear and grief. That rank is open to any believer who obeys God and the Prophet and acts righteously.
 
@@ -162,9 +162,9 @@ This is the case for pursuing ʿirfan. The Qur'an invites more than the minimum,
 Training the soul can aim at powers or at God. Sheikh Bahmanpour calls powers sought this way shirk. Tabatabaʾi, Khomeini, and Mutahhari each agree in their own way: the aim of ʿirfan is God alone.
 :::
 
-Pursuing ʿirfan means training the soul, and soul-training is not unique to Islam. People take up the inner life for different reasons. Some train the soul in an attempt to gain power: to be in two places at once, to see the future or the past, or to master the hidden world of the soul. This kind of mysticism must be held apart from the real thing. Islamic mysticism is about catching the signs of Allah: becoming sensitive to them, and learning to hear and see.
+Pursuing ʿirfan means training the soul, and soul-training is not unique to Islam. People take up the inner life for different reasons. Some train the soul in an attempt to gain power: to be in two places at once, to see the future or the past, or to master the hidden world of the soul. This kind of mysticism must be held apart from ʿirfan. Islamic mysticism is about catching the signs of Allah: becoming sensitive to them, and learning to hear and see.
 
-Sheikh Bahmanpour ended his first lecture more strongly. ʿIrfan "is not about any type of power or empowering the soul" to work *karamat* and *muʿjizat*, the wonders of the saints and the miracles of the prophets. Then: "These are shirk." *Shirk*, setting up a partner beside God, is the gravest charge in Islam.
+Sheikh Bahmanpour ended his first lecture more strongly. ʿIrfan "is not about any type of power or empowering the soul" to work *karamat* and *muʿjizat*, the wonders of the saints and the miracles of the prophets. He then called such powers *shirk* ("These are shirk"), the sin of setting up a partner beside God.
 
 The great teachers of the Shia tradition make closely related points, each in his own words. ʿAllama Tabatabaʾi tells the traveller that he "has no right to seek occult experiences and miraculous qualities", nor to perform austerities or recite invocations to gain powers such as crossing great distances in a moment or reading the thoughts of others. Whoever does so "does not move on the path of the Beloved's pleasure and his worship is not for the sake of God". It is his own self that he worships, "though he may not admit it by word of mouth" [@kernel, pp. 28–29].
 
