@@ -12,7 +12,7 @@ I have been unjust to my soul for I have not looked after it. [@light, p. 163; @
 
 The prayer offers these words as a "confession of my sins", and most of us say them in that spirit [@light, p. 163]. They also say something about the soul: it was given to us to look after, and it can be neglected.
 
-That neglected soul is where the theory of ʿirfan begins. Chapter Two argued that God, if He is to be known and not only known about, must be found within our own soul, because the soul is the one place where we know anything from the inside. Chapter Three ended on the prayers' repeated requests that God work on the heart and the self. This chapter sets out what the self is to someone who seeks God, and why the road to God runs through it.
+That neglected soul is where the theory of ʿirfan begins. Chapter Two argued that if God is to be known, and not only known about, the knowing must be found within our own soul, because the soul is the one place where we know anything from the inside. Chapter Three ended on the prayers' repeated requests that God work on the heart and the self. This chapter sets out what the self is to someone who seeks God, and why the road to God runs through it.
 
 ::: {.words}
 *nafs*: the soul or self · *ruh*: the spirit; the higher soul · *liqaʾ Allah*: the meeting, or encounter, with God · *qurb*: nearness to God · *hijab* (plural *hujub*): a veil between the heart and God
@@ -70,8 +70,8 @@ A ruined soul loses faith because a soul that is seen points to its Maker. The b
 
 Forgetting runs in both directions, and so does knowing. A saying handed down from the Prophet ﷺ, and from Imam ʿAli (as), puts it in a single line.
 
-::: {.quote ar="[VERIFY: Arabic of man ʿarafa nafsahu faqad ʿarafa rabbahu; the Arabic in self_knowledge p. 9 is garbled]" source="Hadith"}
-Whoever knows his own self knows his Lord. [@lantern, p. 9]
+::: {.quote ar="من عرف نفسه فقد عرف ربه" source="Hadith"}
+Whoever knows his own self knows his Lord. [@lantern, p. 9; @bahmanpour_slides]
 :::
 
 One meaning the lectures give the saying is that the soul reflects its Maker, so that to look into it is to learn of Him. The qualities in God are infinite and differ greatly from those in the soul, yet there is a likeness, and through that likeness God can be known by looking within. The soul carries something of the spirit, *ruh*, that God breathed into the first human being (Q 15:29), and that spirit is not God but a spirit He created.
@@ -79,7 +79,7 @@ One meaning the lectures give the saying is that the soul reflects its Maker, so
 ʿAllama Tabatabaʾi draws the practical conclusion from a verse that tells believers to take care of their own souls (Q 5:105). The seeker, he writes, learns from it that the only path of perfect guidance is knowing himself, and that he "must see Allah through the window of his own soul" [@light, p. 7].
 
 ::: {.box-word title="Word Study: Whoever knows himself"}
-The saying is short in Arabic: *man ʿarafa nafsahu faqad ʿarafa rabbahu*. Its verb, *ʿarafa*, to know, shares its root with maʿrifah and ʿirfan, and its *nafs* is the word for the soul that Surah al-Shams swears by. Muhammad Ali Shomali writes that "it is difficult to find a book on ethics (Akhlaq), which has not quoted it" [@self_knowledge, pp. 8–9]. The tradition hands it down by two routes. *Lantern of the Path*, attributed to Imam al-Sadiq (as), gives it as the words of the Prophet ﷺ [@lantern, p. 9], and ʿAllama Tabatabaʾi also cites it from the Prophet [@light, p. 7]. Mirza Jawad Maliki Tabrizi quotes it as a narration from Imam ʿAli (as), as the lectures do: "Whoever has identified his self in reality has recognised his Creator" [@journey, p. 125]. His wording adds "in reality". The self meant is the soul as it is, which those given God's grace come to see by removing "the material curtain from his spirit and self" [@journey, p. 125].
+The saying is short in Arabic: *man ʿarafa nafsahu faqad ʿarafa rabbahu*. Its verb, *ʿarafa*, to know, shares its root with maʿrifah and ʿirfan, and its *nafs* is the word for the soul that Surah al-Shams swears by. Mohammad Ali Shomali writes that "it is difficult to find a book on ethics (Akhlaq), which has not quoted it" [@self_knowledge, pp. 8–9]. The tradition hands it down by two routes. *Lantern of the Path*, attributed to Imam al-Sadiq (as), gives it as the words of the Prophet ﷺ [@lantern, p. 9], and ʿAllama Tabatabaʾi also cites it from the Prophet [@light, p. 7]. Mirza Jawad Maliki Tabrizi quotes it as a narration from Imam ʿAli (as), as the lectures do: "Whoever has identified his self in reality has recognised his Creator" [@journey, p. 125]. His wording adds "in reality". The self meant is the soul as it is, which those given God's grace come to see by removing "the material curtain from his spirit and self" [@journey, p. 125].
 :::
 
 ## Near already: meeting, not grasping
@@ -100,9 +100,9 @@ What is seen at that meeting is the soul, and the soul is a reflection of God. S
 
 A difficulty follows. If whoever knows his own self knows his Lord, and the soul knows itself by presence, it could seem that God might be known completely from within. The soul cannot hold God as it holds the images in the mind, because He is without limit, and the soul's own depth shows the same thing from the other side. Even our own soul cannot be known to its depths, because it is too deep and too vast. If the soul cannot be known completely, still less can its Lord. Some understanding of God is possible through the soul, whereas a complete knowledge of Him is not.
 
-The saying has been read both ways for this reason. Some read it as a denial: no one can know their own soul completely, so no one can know their Lord. The lectures allow that reading, and set beside it other narrations which show that the saying speaks of a knowledge that is possible. The two readings meet at the same point, that through the soul God is known in part and never completely.
+The saying has been read both ways for this reason. Some read it as a denial: no one can know their own soul completely, so no one can know their Lord. The lectures allow that reading but prefer the other, and set beside the saying narrations which show that it speaks of a knowledge that is possible.
 
-Imam Khomeini sets the same limit on the meeting. Those who hold that liqaʾ Allah is open to the seeker do not mean, he writes, "that it is permissible to fathom the mystery of the Divine Essence" [@forty_hadith, p. 398]. God cannot be fathomed, so the meeting the mystics speak of is a nearness, *qurb*, and never a grasp of Him.
+Imam Khomeini sets the same limit on the meeting. Those who hold that liqaʾ Allah is open to the seeker do not mean, he writes, "that it is permissible to fathom the mystery of the Divine Essence" [@forty_hadith, p. 398]. If the Essence cannot be fathomed, what the meeting brings is a nearness, *qurb*, and never a grasp of Him.
 
 Nearness to God is not a distance to be travelled. In Sheikh Bahmanpour's words, "We are actually in his presence at the moment. However, he is not in our presence." The soul stands before God now. What it lacks is the perception of the One before whom it stands. One day, the lectures say, He will become present to it.
 
