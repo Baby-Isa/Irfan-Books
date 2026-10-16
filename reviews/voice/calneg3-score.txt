@@ -1,0 +1,85 @@
+Blind voice test calneg3: ['reviews/voice/corpus/X-ch02-v1-2d8143e.md']
+  judge      model  fold  mean p: A-held  chapter control   AUC A>control  A>chapter  chapter>control
+  calneg3-j1 opus   A               51       48      57            0.34       0.52             0.26
+  calneg3-j2 fable  A               54       52      50            0.68       0.54             0.52
+  calneg3-j3 opus   A               52       55      57            0.36       0.40             0.60
+  calneg3-j4 fable  A               49       61      49            0.48       0.30             0.72
+  panel: validity AUC 0.47 (need 0.75); A-over-chapter AUC 0.44 (90% 0.29-0.60; pass <= 0.6, rewrite > 0.7); chapter-over-control 0.53
+  verdict: INVALID (the panel could not tell Author A from the rejected drafts)
+  calneg3-j1 K (chapter, p=34; Author A median 55): act on these
+     - 'Having done this, the traveller waits for Allah's help and looks to nothing else... That life comes, he says, when a person follows the Prophet completely and then waits for the help of Allah.' — the same point said twice in one paragraph; Author A says it once
+     - 'Three of the great teachers of the tradition speak to how fikr and suluk relate. For Imam Khomeini and ʿAllama Tabatabaʾi...' — announces three and names two, a looser setup than Author A's exact enumerations
+     - 'He adds that... The sciences, he goes on, are... In another place he gives the view...' — attribution stacked as filler, with quotations ('tear it into shreds') left unexplained; Author A explains each quotation
+  calneg3-j1 C (chapter, p=40; Author A median 55): act on these
+     - 'Purification, in his account, is polishing the soul so that it starts working' — restates the paragraph's own first sentence ('polish the soul by doing whatever the Prophet has asked'); Author A would move straight on to the Chapter One link
+     - 'the Sheikh adds... the Sheikh says... the Sheikh says' — attribution used as filler in every paragraph; Author A names the source once and then explains
+     - 'The sentence divides the work. Purification is the traveller's part; the light is Allah's to give.' — tidy closing antithesis that adds nothing to the quotation it follows; Author A's paragraph endings land on a concrete point
+  calneg3-j1 D (chapter, p=47; Author A median 55): act on these
+     - 'The two words are kept apart here only as a working distinction... He separates the words to make the difference between the two kinds of knowing easier to see.' — a whole paragraph making a true side remark and then saying it again; it does not move the argument on, which Author A's paragraphs always do
+     - 'A person does not try to understand their hunger; they arrive at it and feel it.' — a neat aphoristic gloss; Author A explains with an example rather than with a maxim
+  calneg3-j1 I (Author A false alarm, p=38): discount chapter tells like these
+     - 'Then: "These are shirk."' — a dramatic spoken fragment; Author A would write a full sentence such as 'He then called them shirk'
+     - 'The great teachers of the Shia tradition make closely related points, each in his own words.' — opens a catalogue of three teachers making the same point, each paragraph adding a true remark without moving the argument; Author A cites one confirming source and moves on
+     - 'Shirk, setting up a partner beside God, is the gravest charge in Islam.' — an emphatic closing line for effect; Author A ends on the argument's point
+  calneg3-j1 M (Author A false alarm, p=30): discount chapter tells like these
+     - 'ordinary people, he says,... It is difficult, he says,... yet he says... A human being, he says' — 'he says' four times in one paragraph as filler; Author A uses it once and then speaks in its own voice
+     - 'This is the case for pursuing ʿirfan. The Qur'an invites more than the minimum...' — a paragraph that restates the chapter's conclusion; Author A does not summarise what it has just argued
+     - 'Pursuing ʿirfan means training the soul and soul-training is not unique to Islam.' — opens a new subject rather than picking up the previous paragraph, joined by a loose 'and'
+  calneg3-j2 D (chapter, p=30; Author A median 65): act on these
+     - 'the Sheikh says... he says... he says... the Sheikh says... for Sheikh Bahmanpour... he says' — six attributions in three short paragraphs, used as filler; Author A names him once per paragraph and lets the point stand
+     - 'There is no hindrance on His side to pouring His knowledge and bounty upon us. His knowledge and bounty are all there' — the same claim restated in the next sentence; Author A says it once
+     - 'Whatever stands between the heart and the light stands on our side.' — a tidy aphorism; Author A would write 'The obstacle is in us' and move on
+     - 'Chapter One reached the same conclusion by another road' — a flourish on a cross-reference; Author A writes 'as Chapter One showed'
+  calneg3-j2 J (chapter, p=42; Author A median 65): act on these
+     - 'through a veil removed and not a definition learned' — a balanced antithesis as a closing flourish; Author A would write 'by the removal of a veil, not by learning a definition' inside the argument, not as a cadence
+     - 'Those brought near to God, the ʿurafaʾ, know Him in the second way... and it comes as a light that God places in a purified heart.' — a final paragraph that restates the chapter's conclusion and adds nothing the two preceding paragraphs did not establish
+     - 'Murtada Mutahhari, the third, separates...' — a third teacher brought in to agree in a catalogue; Author A uses one scholar per step
+  calneg3-j2 C (chapter, p=55; Author A median 65): act on these
+     - Picks up the last point ('This second kind of knowing is what the mystics are after'), antithesis by semicolon ('ʿIlm... aims at understanding; maʿrifah aims at arriving') and the hunger illustration; slight restatement in paragraph three ('He separates the words to make the difference... easier to see') keeps it below certainty
+  calneg3-j2 N (chapter, p=60; Author A median 65): act on these
+     - Quotation glossed in the author's own words ('Soaring and depth are the two strengths of reason, its range and its penetration'), a false inference raised and closed in two sentences ('It might seem to follow... Sheikh Bahmanpour does not draw that conclusion'); 'makes the same point' twice in one paragraph is slight looseness
+  calneg3-j2 B (Author A false alarm, p=30): discount chapter tells like these
+     - 'Then: "These are shirk."' — Author A never uses a one-word fragment and colon for drama; would write 'He then calls these shirk' and gloss it in the same sentence
+     - 'The great teachers of the Shia tradition make closely related points, each in his own words.' — a survey sentence followed by three paragraphs (Tabatabaʾi, Khomeini, Mutahhari) that each add agreement without moving the argument on; Author A brings in one scholar for one step
+     - 'Shirk, setting up a partner beside God, is the gravest charge in Islam.' — a tidy summary line closing the paragraph; Author A ends on the point in hand
+     - 'and he recalls Imam ʿAli (as) saying that he worshipped God not from fear of His Fire or desire for His Paradise...' — a true remark appended with 'and' that the step does not need
+  calneg3-j2 F (Author A false alarm, p=30): discount chapter tells like these
+     - 'he says... he says... he says... he says' — four in one paragraph as filler; Author A would attribute once and continue in his own voice
+     - 'because we are made for it' then 'He means this as a statement of what we were made for' — the point restated two sentences later; Author A says it once
+     - 'This is the case for pursuing ʿirfan.' followed by a paragraph that summarises the chapter so far — a conclusion restated rather than a step forward
+     - 'That doorway is open to people like us: ordinary people, he says, can also enter' — colon used to restate rather than to open a list
+  calneg3-j3 I (chapter, p=30; Author A median 58): act on these
+     - 'Murtada Mutahhari, the third, separates...' — scholars brought in as items in a list ('the third'), each in his own paragraph; Author A brings in a source to settle a step, not to fill out a roll-call.
+     - '"For knowledge gives birth to action and action in turn brings knowledge". In his scheme, what is learned from the jurist begins the circle...' — the quotation is followed by a restatement of the sentence before it, not by an explanation that moves things on.
+     - 'through a veil removed and not a definition learned' — a balanced, aphoristic flourish; Author A states the distinction plainly.
+     - 'Those brought near to God, the ʿurafaʾ, know Him in the second way' — a paragraph that recaps what came before with no new step, and does not pick up Mutahhari's point.
+  calneg3-j3 E (chapter, p=33; Author A median 58): act on these
+     - 'Allah's light, the Sheikh says, is everywhere... It is not the case, he says... The light, the Sheikh says... The knowledge of the ʿurafaʾ, he says' — 'he says' used as filler four or five times; Author A attributes once and then speaks in its own voice.
+     - 'There is no hindrance on His side to pouring His knowledge and bounty upon us. His knowledge and bounty are all there' — says the same thing twice; Author A would make the point once.
+     - 'Chapter One reached the same conclusion by another road, when it placed the fault in the receiver.' — a closing look back that adds nothing; Author A ends on the point or leads into the next step.
+  calneg3-j3 K (Author A false alarm, p=40): discount chapter tells like these
+     - 'The great teachers of the Shia tradition make closely related points, each in his own words.' — a grand framing line that introduces a roll-call; Author A would bring in one source to support the step.
+     - 'his efforts are rendered invalid".' — the paragraph ends on the quotation with nothing after it; Author A explains a quotation in its own words.
+     - '"...something other than God Himself" and he recalls Imam ʿAli (as) saying that he worshipped God not from fear...' — a long sentence that stacks a quotation and a second anecdote with 'and'; Author A would split it and say what it shows.
+  calneg3-j3 O (Author A false alarm, p=34): discount chapter tells like these
+     - 'ordinary people, he says... It is difficult, he says... yet he says... A human being, he says' — 'he says' used as filler four times in one paragraph; Author A attributes once and paraphrases.
+     - 'He means this as a statement of what we were made for.' — restates the point without moving it on; Author A would cut it.
+     - 'This is the case for pursuing ʿirfan. The Qur'an invites more than the minimum and what stands in the way...' — a summary paragraph that restates the chapter's conclusion; Author A stops on the point rather than recapping it.
+  calneg3-j4 B (chapter, p=35; Author A median 42): act on these
+     - 'Three of the great teachers of the tradition speak to how fikr and suluk relate.' — an announcement sentence before the content (and only two are then named); Author A starts with the first teacher's point
+     - 'he writes… He adds that… The sciences, he goes on… In another place he gives the view…' — four Khomeini quotations chained by filler attributions; Author A takes one short quotation and explains it in his own words
+     - 'one has to approach a veil in order to tear it into shreds' — left unexplained, though it seems to cut against 'the greatest of veils' just before; Author A would say what it means
+     - 'the traveller waits for Allah's help… and then waits for the help of Allah' — the paragraph ends by restating its first sentence; Author A stops when the point is made
+  calneg3-j4 A (Author A false alarm, p=42): discount chapter tells like these
+     - 'For the muqarrabun, Sheikh Bahmanpour says, the terms are entirely different from those of ordinary believers.' — a verse followed by a one-line vague gloss; Author A explains what the verse says in concrete terms (cf. the lamp, the rusted machine) before moving on
+     - 'This good life, hayat tayyiba, is… a clean life… This good life, he says, is what the mystics seek.' — the paragraph has made its point and then adds a 'he says' remark that restates it; Author A would fold it into one sentence or drop it
+     - 'the verse of Surah Yunus that names the friends of God' — reintroduces a verse and a name the chapter has already set up; Author A refers back ('the friends of God of Surah Yunus') rather than re-presenting
+  calneg3-j4 C (Author A false alarm, p=25): discount chapter tells like these
+     - 'ordinary people, he says, can also enter… It is difficult, he says, but… yet he says "we are not yet…" … A human being, he says, has the capacity' — 'he says' four times in one paragraph as filler; Author A names the Sheikh once and then writes the point
+     - 'because we are made for it… He means this as a statement of what we were made for… God created us with that capacity and wants us to reach it' — one point said three ways; Author A says it once
+     - 'This is the case for pursuing ʿirfan. The Qur'an invites more than the minimum and what stands in the way is a faculty… On the other side of that repair lie…' — a paragraph that restates conclusions already reached; Author A links back with a clause ('the rusted faculty that Chapter One described'), not a recap paragraph
+  calneg3-j4 I (Author A false alarm, p=30): discount chapter tells like these
+     - 'Then: "These are shirk."' — a dramatic one-word lead-in with a colon and bare quotation; Author A would write 'He calls these shirk' and go on to explain
+     - 'The great teachers of the Shia tradition make closely related points, each in his own words.' — an announcement sentence that promises a catalogue; Author A starts with the point itself
+     - Tabatabaʾi, then Khomeini via Shahabadi, then Mutahhari, then Imam ʿAli, each paragraph making the same point ('uses the same word as Sheikh Bahmanpour') — corroboration piled up without moving the argument; Author A brings in one source per step
+     - '"has no right to seek occult experiences…", nor to… Whoever does so "does not move on the path…". It is his own self that he worships, "though he may not admit it by word of mouth"' — four quotation fragments from one source in one paragraph; Author A quotes once, briefly, and paraphrases

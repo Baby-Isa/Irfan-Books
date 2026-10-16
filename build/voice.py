@@ -31,7 +31,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 EXEMPLAR = ["book2/chapters/00-prologue.md", "book2/chapters/01-seeking-not-powers.md"]
-EXEMPLAR_REV = "32e44c9"  # frozen exemplar (D36), snapshotted in reviews/voice/corpus/A-*.md
+EXEMPLAR_REV = "74fea4c"  # the exemplar as the user last approved it (D36, D43), snapshotted in reviews/voice/corpus/A-*.md;
+                          # the 32e44c9 freeze (Z-*.md) predates the attribution rules and fails today's profile
 # Control drafts the user rejected (pre-D29), same topics as the exemplar.
 CONTROLS = ["7225b76:book2/chapters/01-seeking-not-powers.md",
             "9d02329:book2/chapters/00-prologue.md"]
@@ -296,8 +297,8 @@ def profile(specs):
 
 
 # ---------------------------------------------------------------- blind test (v2, D44)
-# Author A is the frozen exemplar (D36, commit 32e44c9), snapshotted in the corpus
-# folder so the test needs no git history. The controls are drafts the user
+# Author A is the exemplar as the user last approved it (D43, commit 74fea4c), snapshotted
+# in the corpus folder so the test needs no git history. The controls are drafts the user
 # rejected, on topics outside the exemplar, so no control passage has a near-twin
 # among Author A's passages: in v1, judges caught 28/30 controls that had a twin
 # but only 32/46 without one, so the control check was passing on content.
