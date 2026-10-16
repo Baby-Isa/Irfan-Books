@@ -1,76 +1,105 @@
-# Handover to a new session (2026-10-12)
+# Handover to a new session (2026-10-16)
 
-_Read this first, then `CLAUDE.md`, `docs/STATUS.md` and `docs/EXEMPLAR.md`. Work up to D36 is on branch `claude/stoic-euler-p7myev`; D37 onwards (voice gate, structure v3, Part One drafts) is on `claude/zealous-edison-mh1dpk`, which contains all of it. Plan the book from `docs/outline/` (FRAMEWORK and part files) and ARGUMENT v3._
+_Read this first, then `CLAUDE.md`, `docs/STATUS.md`, `docs/briefs/LESSONS.md` and `docs/EXEMPLAR.md`. All work is on branch `claude/zealous-edison-mh1dpk` (it contains everything from the older `claude/stoic-euler-p7myev`). If the new session is given a different branch, base it on `claude/zealous-edison-mh1dpk`._
 
 ## 1. Where we are
-The prologue and Chapter 1 of Book 2 are finished and approved. The user's uncle, who knows Sheikh Bahmanpour well, read them and was happy for the work to continue as it is. Together they are the written model for the rest of the book (`docs/EXEMPLAR.md`, commit `32e44c9` on this branch). The argument pyramid is approved (`docs/ARGUMENT.md` v2.1, D25–D28). The next task is **Part One: the Chapter 2 and 3 briefs.**
+- **Book 2, Parts One and Two are drafted:** prologue and Ch 1–7. Structure v3 (D40–D41):
+  - Part One, The Call: 1 More than the minimum; 2 Knowing about God is not knowing Him; 3 You already know these words.
+  - Part Two, Getting Ready: 4 Know yourself, know your Lord; 5 The soul and its worlds; 6 No path outside the law; 7 Finding a guide.
+  - Part Three, The Road: 8–12, with the crescendo at Ch 12.
+  - Part Four, Fellow Travellers: 13–15, an analytical step back.
+  - Part Five, The Destination: 16–17, the emotional homecoming. Then the epilogue, and an appendix with the full Munajat Shaʿbaniyyah.
+- **Approval state:**
+  - The prologue and Ch 1 are the frozen exemplar (commit `32e44c9`). The user said "keep the prologue the same"; Ch 1 has since been trimmed (the Sheikh named less often).
+  - Ch 2–3 have had two rounds of user review and were then tightened by about 10% with Fable.
+  - Ch 4–7 are first versions, made Opus draft → Fable edit → own read → voice gate → fact-check.
+- **Sent to the user and awaiting feedback:** `samples/parts-one-two-review.pdf`, raw link https://github.com/Baby-Isa/Irfan-Books/raw/claude/zealous-edison-mh1dpk/samples/parts-one-two-review.pdf. The draft copy with point notes is `samples/parts-one-two.pdf`.
+- **Next:**
+  1. Apply the user's feedback on Ch 2–7. Add every repeatable lesson to `docs/briefs/LESSONS.md` and `docs/TONE.md`.
+  2. Then the Part Three briefs (Ch 8–12) from `docs/outline/part-3.md`. Gate A: present them as bullets and wait for approval before any prose.
 
-## 2. Agreed since the last handover
-- **Credits (D34):** the title page reads "Based on a lecture series by Sheikh M. S. Bahmanpour" and "Edited by Zafar Abbas Juma". "Edited" signals that the book adds no personal opinions. "Adapted from…" and "Curated by…" are still possible alternatives, so ask once.
-- **Provenance (D32):** it was a lecture series, which the uncle attended. Never describe it as part of a BA.
-- **Spelling (D32):** "Qur'an", "Qur'anic" and "jannah".
-- **Voice:** `docs/LINGO.md` (D29), `docs/TONE.md` rules 1–37 (D30, D31, D33, D35), and the exemplar (D36).
-- **Point notes (D30):** under every `##` heading in a draft, a `::: {.point}` note states what that section argues. The user reviews the prose against it. Review builds drop the notes.
-- **Arabic with every quote:** every Qur'an, hadith or duʿa quotation carries its Arabic in a small font.
-  - Qur'an: `::: {.ayah ref="S:A" words="N-M"}` slices the verified text.
-  - Hadith and duʿa: `::: {.quote ar="…"}`, with the Arabic copied from a held extract only.
-- **Layout:**
-  - The verse reference sits at the bottom right.
-  - The gap above and below a quote is balanced.
-  - Paragraphs have a half-line gap as well as the indent. This is a trial (D35), so confirm it with the user.
-- **Readability:** the user found some paragraphs too long. Keep them to 50–65 words, with 110 at most (TONE 22).
+## 2. How the user works (beyond CLAUDE.md)
+- **Read `docs/briefs/LESSONS.md` before drafting or reviewing anything.** It holds the 21 lessons from the user's reviews; TONE rules 23–37 hold the before/afters. The biggest are:
+  - Name the Sheikh sparingly: at most 5 per 1,000 words, never twice in a paragraph, no "he says" filler. The prologue is exempt.
+  - Straight prose, not "he said, she said".
+  - Every paragraph earns its place in the section's chain.
+  - Build the premises before "therefore".
+  - No mic-drop endings.
+  - Name the referent ("our physical eyes", not "those eyes").
+  - Explain a puzzle or cut it.
+  - State an apparent contradiction, then resolve it.
+  - Theological care: nothing acts upon, diminishes or limits God.
+  - Plain English, with bracketed glosses and a box for bigger ideas.
+  - "whereas" for contrasts.
+- **House style (D42):**
+  - Oxford comma.
+  - Chapter numbers in words ("Chapter Four").
+  - (as) for the Imams and ﷺ for the Prophet.
+  - "Qur'an"; "Abu Hamza" in our own prose.
+  - One callout box per section, plus "Try this" at the end. A box must make a point.
+- **No questions for the Sheikh (D39):** go around an unclear passage. Don't add `[QUERY]`.
+- **Metaphysics (Ch 5 onward):** the user wants it explained step by step, logically, so that it is interesting and accessible.
+- **Prose pipeline the user asked for:** Opus draft → Fable review, with Fable told each section's point → edit → give to the user. "Fable" is the Agent tool with `model: "fable"`; use it for structural and tightening reviews. When tightening, cut at most 25%.
+- **The user's opinion:** the prologue and Ch 1 are still the best. Ch 2–3 felt as if they meandered. Aim new chapters at the exemplar's density.
+- **Reporting:**
+  - Lead with the conclusion, in short bullets.
+  - Quote changed lines in full.
+  - Always give the GitHub raw link for PDFs (the user reads on mobile).
+  - With each PDF, give a one-line note per section on what it is meant to land.
 
-## 3. Plan: how to write the rest of the book to the same standard
-Work one Part at a time, in this order: Part One (Ch 2–3), Part Two (Ch 4–6), Part Three (7–9), Part Four (10–15), Part Five (16–17), then the epilogue.
+## 3. Per-chapter pipeline (as run for Part Two)
+1. **Brief:** `docs/briefs/NN-case.md` from `_TEMPLATE.md` and `docs/outline/part-N.md`. User approval (Gate A).
+2. **Draft:** `chapter-writer` (Opus). It reads the exemplar, LESSONS, TONE and LINGO, and writes the point notes before the prose.
+3. **Fable edit:** structure, missing steps and tightening, against the point notes.
+4. **Own read-through:** against LESSONS. Recurring tics to catch:
+   - "Let's start with…" openers;
+   - inverted openings ("Where X stands is set out by…");
+   - short closing reveal sentences;
+   - impersonal "as the lecture puts it".
+5. **Voice gate (`docs/VOICE-TEST.md`):**
+   - Run `python3 build/voice.py profile <chapter>`; it must PASS.
+   - Build the blind packet with `python3 build/voice.py blind NN <chapter> [--round R]`. It writes `reviews/voice/NN-packet.md`; rename it to `NNrR-…` for later rounds, as was done for 02r7 and 02r8.
+   - Run a fresh `voice-judge` agent on the packet, then score it with `python3 build/voice.py score NN`.
+   - Act on fair tells.
+6. **Fact-check:** `fidelity-checker` writes `reviews/book2-NN.md`. Fix every High and Medium item.
+7. **Build:** `python3 build/build.py pdf book2 "0[0-7]*" [--review]`, copy the output to `samples/`, commit, push, and send the raw link.
 
-For each chapter:
-1. **Gate A, the brief.** Write `docs/briefs/NN-case.md` from the template and ARGUMENT.md. Present it to the user as short bullets: conclusion, points, headings, quotes planned, "Try this", hand-off. Wait for approval. The two briefs in a Part can be presented together.
-2. **Draft.** Use the `chapter-writer` (Opus or Fable). It reads the exemplar in full first, writes the point notes before the prose, keeps quotes short, puts Arabic with every quote, and paraphrases the Sheikh's informal speech.
-3. **Tone pass.** The `tone-editor` agent line-edits the draft against the exemplar and TONE.md. Apply its edits.
-3b. **Voice gate (D37, `docs/VOICE-TEST.md`).** Run `build/voice.py profile`, then a blind `voice-judge` run against a rejected-draft control. The chapter goes on only when both pass; failed tells go back to the tone-editor, up to three rounds. Keep the report in `reviews/voice/NN-report.md` and quote the result to the user when sending the PDF.
-4. **Fidelity pass.** The `fidelity-checker` (Sonnet) checks quotes, verses, citations and Arabic against the sources. Fix anything high or medium.
-5. **The orchestrator reads the draft itself.**
-   - Measure paragraph and sentence length against the targets in EXEMPLAR.md.
-   - Read each paragraph's first sentence for the links between paragraphs.
-   - Build the draft PDF with point notes.
-6. **User review.** Send the PDF plus a GitHub raw link (section 6). Apply the feedback. Add any new, repeatable lesson to TONE.md with its before/after. The user often sends voice notes (section 6).
-7. **After each Part,** make a review copy for the uncle (`--review`).
+## 4. Voice-test caveat (fix before relying on it for Part Three)
+For Ch 2, four of the last five blind judges missed the control (rounds r4, r6, r7 and r8 are invalid; r5 is a PASS). The likely cause is that the control (rejected Ch 1 draft `7225b76`) shares its material with the held-out exemplar passages (final Ch 1), so judges pair passages by content. The suggested fix is to use only `9d02329:book2/chapters/00-prologue.md` as the control, or another control that doesn't overlap with Ch 1 §4–8. `CONTROLS` is in `build/voice.py`. Re-calibrate (cal runs) after any change. Ch 4–7 all had valid PASS runs.
 
-Chapter-specific decisions to honour:
-- **Ch 4:** seed "travel means removing veils" in a few sentences, pointing forward to Ch 11 (D26).
-- **Ch 9:** keeps four points, including 9.4 (D27).
-- **Ch 13:** uses Imam ʿAli on remembrance (Nahj 1.219.1) as its "Try this" (D28).
-- **Ch 16:** its conclusion follows the lecturer. Tabatabaʾi's view that wilaya is not exclusive sits gently beside it in 16.3 (D25).
+## 5. Open items
+- **Unconfirmed Arabic (`[VERIFY]`; needs printed editions):**
+  - Ch 6, the Prophet's reply "Don't you want me to be God's grateful servant?" (Kernel p. 30);
+  - Ch 7, ʿIsa's saying (Misbah al-Shariʿa / Lantern p. 13);
+  - Part One: Nahj 1.1.1, the light hadith, the Whispered Prayer of the Lovers, and Nahj 3.403 (Qutbuddin p. 810).
+  - Run `python3 build/build.py check` for the full list.
+- **Ch 7** names six teachers in prose, against a guideline of five. The user was told and can decide.
+- **The Ch 2 hunger lines** ("They may be wrong… They cannot be wrong…") were kept, although a judge flagged them as staccato, because they follow the user's own instruction. The user was asked about this.
+- **Bahari (Ch 6):** the lecture calls "Ayatullah Muhammad Bahari" a contemporary who "recently passed away", so he is not tied to the Shaykh Muhammad Bahari in Akhund Hamadani's line (Ch 7).
+- **Carried over from the earlier handover:**
+  - permissions for quoted translations;
+  - the Sheikh's preferred title;
+  - the paragraph-spacing trial (D35);
+  - whether Book 1 (Faithful) is still wanted;
+  - checking the Munajat lines against Mafatih p. 244.
 
-## 4. Open items
-- **Arabic of Nahj 3.403** (Ch 1, Imam ʿAli on God's special devotees): copy it from the printed Qutbuddin edition, p. 810. The extract's Arabic is garbled. The review build shows the quote in English only.
-- ~~QUERY for the Sheikh on "These are shirk"~~: closed by D39 (no questions for the Sheikh). The Ch 1 text quotes his words as said, which is true on either reading, and the marker is removed.
-- **Munajat Shaʿbaniyyah epigraph lines:** check each against Mafatih p. 244 before print.
-- **Permissions:** permission is needed for every quoted translation before publishing (SOURCES.md).
-- **The Sheikh's preferred title and name form:** "Sheikh M. S. Bahmanpour" is used for now.
-- **Paragraph spacing:** the trial (D35) is not yet confirmed.
-- **Book 1 (Faithful):** parked at the pilot stage. Ask the user whether it is still wanted.
-
-## 5. Key files
+## 6. Key files
 | Purpose | File |
 |---|---|
-| The model to imitate | `docs/EXEMPLAR.md`; `book2/chapters/00-prologue.md`; `book2/chapters/01-seeking-not-powers.md` |
-| Voice rules | `docs/TONE.md` (37 rules with before/after); `docs/LINGO.md` |
-| Argument | `docs/ARGUMENT.md` v2.1; `docs/STORYLINE.md` (plain-English deck); `docs/briefs/` |
-| Decisions | `docs/DECISIONS.md` (D1–D36) |
-| Agents | `.claude/agents/`: `chapter-writer`, `tone-editor`, `fidelity-checker`, `transcript-analyst` |
-| Advice to the user on steering tone | `docs/TONE-GUIDANCE.md` |
+| Lessons from the user's reviews | `docs/briefs/LESSONS.md` |
+| Model to imitate | `docs/EXEMPLAR.md`; `book2/chapters/00-prologue.md`; `01-seeking-not-powers.md` |
+| Voice rules | `docs/TONE.md` (1–37); `docs/LINGO.md`; `docs/STYLE_GUIDE.md` |
+| Structure | `docs/ARGUMENT.md` v3; `docs/STORYLINE.md` v3; `docs/outline/` (FRAMEWORK §1–9, part-1 to part-5) |
+| Part dividers | `book2/parts/N-*.md` (front matter `before: N`); `build/part.typst-template` |
+| Munajat lines used (each once) | `docs/outline/FRAMEWORK.md` §4; Arabic in `sources/extracts/duas-munajat-shabaniyah.md` by § |
+| Decisions | `docs/DECISIONS.md` (D1–D43) |
+| Voice gate | `build/voice.py`; `docs/VOICE-TEST.md`; `reviews/voice/` |
+| Fact-check reports | `reviews/book2-NN.md`, `reviews/book2-02-03-tighten.md` |
 
-## 6. Working notes
-- **Builds:**
-  - Draft with point notes: `python3 build/build.py pdf book2 "0[01]*"` → `samples/prologue-and-ch01.pdf`
-  - Clean reader copy: `… --review` → `samples/prologue-and-ch01-review.pdf`
-  - Requires `pip install typst`.
-- **Mobile downloads:** the user can't download files sent in chat on mobile. Commit the PDF and give the raw link: `https://github.com/Baby-Isa/Irfan-Books/raw/<current branch>/samples/<file>.pdf`.
-- **Voice notes (.m4a):** Hugging Face is blocked by the network policy. To transcribe:
-  1. `pip install sherpa-onnx soundfile`.
-  2. Download `https://github.com/k2-fsa/sherpa-onnx/releases/download/asr-models/sherpa-onnx-whisper-small.en.tar.bz2` and `…/asr-models/silero_vad.onnx` from GitHub.
-  3. Convert the audio with `ffmpeg -ar 16000 -ac 1`.
-  4. Run Whisper with VAD segmentation. Expect some garbling, and confirm unclear points with the user.
-- **Reporting:** lead with the conclusion, use short bullets, and quote changed lines in full so the user can check them without opening the file.
-- **Commits:** commit and push after each unit of work. Don't open a PR unless asked.
+## 7. Working notes
+- **Setup:** run `pip install typst pymupdf`; pandoc is preinstalled.
+- **Voice notes (.m4a):** Hugging Face is blocked. Install `sherpa-onnx` and `soundfile`, then download the Whisper small.en model and `silero_vad.onnx` from the k2-fsa GitHub releases. Convert the audio with `ffmpeg -ar 16000 -ac 1` and use VAD segmentation.
+- **Commits:**
+  - Commit and push after each unit.
+  - End each message with `Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>` and the session's own `Claude-Session:` line.
+  - No PR unless asked.
