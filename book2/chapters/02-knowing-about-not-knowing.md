@@ -90,7 +90,7 @@ Imam Khomeini explains why purifying the heart matters so much. When the soul is
 Be wary of Allah and Allah will teach you.
 :::
 
-In the verse, God's teaching follows on from wariness of Him. Sheikh Bahmanpour puts the same order in terms of light and darkness: the light comes to the hearts of the pure, and darkness covers the impure. Chapter One reached the same conclusion by a different road. Surah al-Rum says that God's signs are for those who reflect, know, listen, and reason, and yet most people pass them by. Nothing in the signs is hidden and nothing is wrong with our eyes; the fault lies with an inner faculty that has rusted and does not receive.
+In the verse, God's teaching follows on from wariness of Him. Sheikh Bahmanpour puts the same order as light and darkness: the light comes to the hearts of the pure, and darkness covers the impure. Chapter One reached the same conclusion by a different road. Surah al-Rum says that God's signs are for those who reflect, know, listen, and reason, and yet most people pass them by. Nothing in the signs is hidden and nothing is wrong with our eyes; the fault lies with an inner faculty that has rusted and does not receive.
 
 A light received in one heart can reach another. The knowledge of books passes from mind to mouth, through speech and writing, whereas the knowledge of the ʿurafaʾ passes, in the Sheikh's words, "from heart to heart". Receiving it directly from God is possible but difficult, and most travellers begin through someone who has already received it. Chapter Seven returns to that companion.
 
