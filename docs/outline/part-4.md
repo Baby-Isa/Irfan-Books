@@ -1,7 +1,7 @@
 # Part Four outline: Fellow travellers (Chs 13–15)
 
 _Per `FRAMEWORK.md` §6, 2026-10-12. Notes, not prose; old numbers 7–9. Every quote checked against its extract._
-_D47 (2026-10-16): each chapter's **Told stories** line names the Sheikh's own story or stories it tells in full, as his account (box or short prose; no printed source needed), from `reviews/stories-audit.md` (#). At most two per chapter, so Ch 13 keeps two and recalls the rest._
+_D47 (2026-10-16): each chapter's **Told stories** line names the Sheikh's own story or stories it tells in full, as his account (box or short prose; no printed source needed), from `reviews/stories-audit.md` (#). Usually one or two per chapter (so Ch 13 keeps two and recalls the rest); a third only where it clearly earns its place (user, 16 Oct; `reviews/stories-screen.md`)._
 
 ## Part Four divider
 - **Part Four: Fellow travellers.** *Who else is on this road, and where did they arrive?*
@@ -81,6 +81,7 @@ _D47 (2026-10-16): each chapter's **Told stories** line names the Sheikh's own s
      - [14i] Q 57:3 "He is the First and the Last, the Manifest and the Hidden". Arabic: held.
      - [14j] Nahj 1.1.1 "He is with all things but not by association. He is other than all things but not by detachment." (`nahj` p. 122; not Ch 2's sentence). Arabic: VERIFY.
      - [14k] Khomeini: "the sea is not the waves, although the waves are the sea" (`light` p. 144). Arabic: n.a.
+   - The Sheikh finds Tabatabaʾi in Ibn ʿArabi (told story, D47, below), which leads into [14l].
      - [14l] (lecture) "it's not for us to judge because it needs someone who has the experience" (L13 ¶43).
 3. ## The critics' concerns, and the answers [14.3]. The prologue promised this section. It is scoped as how the defenders answer, because no critical Tier B source is held.
    - *Not bound to Islam:* some jurists held that the Qur'an citations were "a ruse" (`light` p. 13; recall L01 ¶6 from Ch 1). Answer: Mutahhari allows mistakes, but not bad faith; recalls Ch 6.
@@ -90,7 +91,7 @@ _D47 (2026-10-16): each chapter's **Told stories** line names the Sheikh's own s
    - *Ecstatic sayings and licence:* the tradition answered them itself (§1).
    - *Ibn ʿArabi's Sunni loyalties and passages hostile to Shiʿa* (L13 ¶47–55): reason, not experience, settles Shia–Sunni questions; visions take the shape of one's theology; "you cannot 100% accept someone or reject". Side by side: his chain runs to Gilani (`light` p. 34), while Amuli reads his Seal of the Saints as ʿAli (`inner_secrets` p. 99). The Sheikh rates the Sunni-side case "much much more powerful" (¶55).
 **Boxes:** Who's Who: Hakim al-Tirmidhi and the Seal of the Saints, a hierarchy taken "to very extreme" levels (L13 ¶4–12; side by side `inner_secrets` pp. 98–99; no numbers). · Word study: four views of existence (L13 ¶56–62). · Optional: Attar and Rumi (`light` pp. 33, 36).
-**Told stories (D47):** (1) Bayazid's four days (#46, L13 ¶17–18; `kernel` p. 73), in **14.1**, **prose**: asked about renunciation, he gave up this world, then the next, then all but God; on the fourth day nothing was left but God. (2) "Praise be to me" and its two readings (#47, L13 ¶19–22), in **14.1**, **prose**, as planned above ("loses himself" for the transcript's "loves himself", ¶21). Both already planned; no change.
+**Told stories (D47):** (1) Bayazid's four days (#46, L13 ¶17–18; `kernel` p. 73), in **14.1**, **prose**: asked about renunciation, he gave up this world, then the next, then all but God; on the fourth day nothing was left but God. (2) "Praise be to me" and its two readings (#47, L13 ¶19–22), in **14.1**, **prose**, as planned above ("loses himself" for the transcript's "loves himself", ¶21). Both already planned; no change. (3) The Sheikh finds Tabatabaʾi in Ibn ʿArabi (#53, L13 ¶42–43), in **14.2**, **prose** (14.2 holds the Word Study): the Sheikh read a book of ʿAllama Tabatabaʾi's on the names of God and was amazed at the analysis; then, reading Ibn ʿArabi's *al-Futuhat al-Makkiyya*, he found it all there. Tabatabaʾi never claimed it: he loved Ibn ʿArabi and said this knowledge came from him (Hasanzadeh records it); his experiences "matched very much" with Ibn ʿArabi's. Point: the theory is grasped by those who have the experience, which hands to [14l]. Leave out the *Fusus* dream (¶43, #52) and the garbled "no one had experienced"; do not name Tabatabaʾi's book (the Sheikh does not).
 **Try this:** Say *lā ḥawla wa lā quwwata illā biʾllāh* meaning what the lecture says it means: every strength one has is held from Him (L13 ¶63–64). Arabic: VERIFY (not in the duʿa extracts).
 **Hand-off:** How did the road become orders, and where do Shia stand?
 **Callbacks:** Chs 1, 2, 6 and 12. **Forward:** Ch 15 (orders), Ch 16 (baqa completed as return).
