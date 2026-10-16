@@ -82,9 +82,7 @@ The Whispered Prayer of the Lovers, one of the fifteen whispered prayers printed
 My God, place us with him whom Thou hast chosen for Thy nearness and Thy friendship, … granted gazing upon Thy face [@sahifa, p. 656]
 :::
 
-For some of us, calling on God can feel like calling into the sky to someone far away. For others, God is present when they call, and they feel His response. The prayer asks to be placed with these: among those chosen for His nearness, and granted the sight of His face.
-
-Murtada Mutahhari names these prayers together in his introduction to ʿirfan: Duʿa Kumayl, Duʿa Abu Hamza, the supplications of the Sahifa, and the Shaʿbaniyyah. They "all contain the most sublime spiritual ideas", he writes [@light, p. 20]. He cites them to show that ʿirfan has its sources inside Islam, with no need to look for its origin elsewhere.
+For some of us, calling on God can feel like calling into the sky to someone far away. For others, God is present when they call, and they feel His response. The prayer asks for a place among these.
 
 ## A pupil reading above his level
 
@@ -100,11 +98,11 @@ The prayers themselves speak from need, as a pupil would. Duʿa ʿArafah, as giv
 Here I am begging You by my need for You. [@duas_dua_arafah_imam_husain, §689]
 :::
 
-Duʿa Abu Hamza al-Thumali makes the same plea, and places the one who prays at a door. "O my Master, I, Your servant, am standing at Your door owing to neediness," it says ([سَيِّدِي عَبْدُكَ بِبَابِكَ أَقَامَتْهُ ٱلْخَصَاصَةُ بَيْنَ يَدَيْكَ]{lang=ar}) [@duas_ramadan_dua_abu_hamza_thumali, §510]. The servant stands there because of need, and the prayer gives no other reason for coming.
+Duʿa Abu Hamza al-Thumali makes the same plea, and places the one who prays at a door. "O my Master, I, Your servant, am standing at Your door owing to neediness," it says ([سَيِّدِي عَبْدُكَ بِبَابِكَ أَقَامَتْهُ ٱلْخَصَاصَةُ بَيْنَ يَدَيْكَ]{lang=ar}) [@duas_ramadan_dua_abu_hamza_thumali, §510]. Need is the only reason the prayer gives for coming.
 
 The line at the head of Part One takes this humility further. In it the Munajat admits that the one reciting had no strength to move away from disobedience "except when You awakened me to Your love" [@light, p. 164]. Even the turning towards God is His doing.
 
-The answer to the difficulty rests on the same humility. We do not understand many of the meanings of these words, which are above our level and beyond our capacity, yet not understanding them does not make them meaningless. We have been honoured, because we are allowed to recite them. God invites the reciter to come and say them, and if the reciter is sincere, He may grant the request, as He granted the Imams what they asked.
+The answer to the difficulty rests on the same humility. We do not understand many of the meanings of these words, which are above our level, yet not understanding them does not make them meaningless. We are honoured by the invitation to recite them, and if the reciter is sincere, God may grant the request, as He granted the Imams what they asked.
 
 ::: {.box-word title="Word Study: duʿa and munajat"}
 *Duʿa* is the general word for supplication: any request addressed to God, in any words. A *munajat* is one kind of duʿa. The Mafatih's English calls the Munajat Shaʿbaniyyah a "confidential prayer" [@mafatih, p. 243], and William Chittick translates the fifteen munajat printed with the Sahifa as "whispered prayers" [@sahifa, p. 9]. Both translations describe speech meant for God alone. Mirza Jawad Maliki Tabrizi explains why the Imams' supplications reach further than their other words. In their narrations they spoke with people, whereas in their supplications they spoke with God, and the level of speech depends on the understanding of the one addressed. The Qur'an, he writes, is a "Descending-Qur'an", God's words to His servants. The supplications are an "Ascending-Qur'an", the words of His most distinguished servants rising towards Him [@journey, p. 43].
@@ -130,7 +128,7 @@ The *Mafatih al-Jinan*, "Keys to the Heavens", gathers the supplications of the 
 
 Familiarity with the words is not the same as reaching what they describe. Maliki Tabrizi, having called the supplications an Ascending-Qur'an, writes that this "is not accepted and comprehended by any one, except a small number of believers who are thoroughly familiar and enlightened" [@journey, p. 43].
 
-Sheikh Bahmanpour still recommends the Munajat to every listener, to be recited in Shaʿban as often as they can, while granting that we do not understand many of its meanings. The two positions answer different questions. Maliki Tabrizi speaks of how far a reciter reaches; the Sheikh speaks of who may begin. What this chapter claims is access to these words, rather than attainment of what they ask for.
+Sheikh Bahmanpour still recommends the Munajat to every listener, to be recited in Shaʿban as often as they can. The two positions answer different questions. Maliki Tabrizi speaks of how far a reciter reaches; the Sheikh speaks of who may begin. What this chapter claims is access to these words, rather than attainment of what they ask for.
 
 ## Words already on our lips
 

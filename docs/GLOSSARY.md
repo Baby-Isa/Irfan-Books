@@ -5,11 +5,9 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | Term (book spelling) | Variants seen in transcripts | Arabic | Short definition | First seen |
 |---|---|---|---|---|
 | abdal | Abdaal, abdaal | | A class of saints in the hierarchy; God provides for the earth through them | L12 |
-| akhfa | | | "The most hidden": the inmost level of the soul, beyond khafi (Mutahhari, `light` p. 58) | B2 Ch5 |
-| liqaʾ Allah | liqa Allah | | The meeting with God; in ʿirfan, nearness with the veils lifted, never a grasp of His essence | B2 Ch4 |
-| murshid | | | Spiritual guide; the partner term to murid | B2 Ch4 |
 | ʿadhab | azaab | | Punishment | L04 |
 | ahwal | Ahwaal | | Mystical states that come and go on the path | L12 |
+| akhfa | | | "The most hidden": the inmost level of the soul, beyond khafi (Mutahhari, `light` p. 58) | B2 Ch5 |
 | akhlaq | | | Ethics; the rules of character that go beyond the legal minimum (Shomali) | B2 Ch1 |
 | al-hikma al-mashshaʾiyya | hikmatul mashaal | | Peripatetic philosophy | L03 |
 | al-hikma al-mutaʿaliya | hikmatul mutaaal | | Transcendent philosophy | L03 |
@@ -98,6 +96,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | kuffar | kuffar, kaafir | | Unbelievers | L02 |
 | Kubrawiyya | kubrawiyyah | | The order founded by Najm al-Din Kubra | L08 |
 | kursi | kursi | | The Footstool, one of the higher encompassing realms | L04 |
+| liqaʾ Allah | liqa Allah | | The meeting with God; in ʿirfan, nearness with the veils lifted, never a grasp of His essence | B2 Ch4 |
 | Lut | Lut | | The prophet Lot (Q 21:75) | L02 |
 | maʿad | maad | | Return, resurrection | L16 |
 | mahiyya | mahiyyat | | Quiddity or essence | L13 |
@@ -123,12 +122,13 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | muqarrab | muqarrab | | Singular of muqarrabun | L02 |
 | muraqaba | muraqabah, muraaqabah | | Watchfulness of God's presence | L04 |
 | murid | Mureed, Murad | | Disciple; the one who wills | L09 |
+| murshid | | | Spiritual guide; the partner term to murid | B2 Ch4 |
 | musawwir | Musawwir | | Divine name: the fashioner | L03 |
 | mushahada huduriyya | mushahadah huduriyyah (Forty Hadith) | | Direct witnessing; knowing God by presence (Khomeini, Forty Hadith p. 542) | B2 Ch2 |
 | mustahabb | mustahab, mustahabaat, mustahabbat | | Recommended | L01 |
 | nabiyyin | nabiyeen, nabiyyen | | Prophets; first of the four categories (Q 4:69) | L01 |
 | Nahj al-Balagha | Nahjul Balagah | | The collection of Imam ʿAli's sermons, letters and sayings | L01 |
-| nafs | nafs, nafs/ruhh | | The lower soul | L07 |
+| nafs | nafs, nafs/ruhh | | The soul or self; in ethical contexts, the lower self (B2 Ch 4 uses the general sense) | L07 |
 | nafs al-ammara | nafsul ammara, nafsul ammarah | | The commanding soul | L05 |
 | nafs al-lawwama | nafsul lavvama, lawamah, lawwamah | | The self-reproaching soul | L05 |
 | nafs al-mudtaribah | muztariddah | | The agitated soul | L15 |
