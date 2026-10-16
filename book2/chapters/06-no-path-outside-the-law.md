@@ -65,8 +65,11 @@ No wonder or experience stands in for the law.
 4. Knowing God is not learned in a classroom, so without the law the chain never starts.
 5. The light of knowing God does not descend on a heart that sets the law aside.
 6. What comes without the law is easily mistaken for that light.
-7. Even the experiences that come on the path are only a preliminary to a lasting change in the self.
-8. Therefore: lasting change comes through continuous practice of the law, not through an exercise that ends.
+7. A real light that comes through the law can be mistaken for God too.
+8. Even the experiences that come on the path are only a preliminary to a lasting change in the self.
+9. Therefore: lasting change comes through continuous practice of the law, not through an exercise that ends.
+
+New story (D47): The master and the light of his wudu, L06 ¶67.
 :::
 
 If the truth is reached only through the law, someone who claims the truth while setting the law aside has left the ship. Kubra draws this conclusion from his own image. Suppose a person is seen flying through the air, walking on the sea, or eating fire. In the Sheikh's rendering of his words, if they have abandoned "even one injunction of God", then "you should know that they are liars".
@@ -84,6 +87,8 @@ Each link in that order needs the one before it. Theology can be learned in a cl
 Imam Khomeini reaches the same conclusion through the image of light: "Without adhering to the apparent teachings of Islam it is not possible that the light of the Divine Knowledge could descend upon his heart" [@forty_hadith, p. 35]. Knowledge of God comes to the heart as a light, and a heart that has set the law aside is not made ready to receive it.
 
 What does come without the law is easily mistaken for that light. Sheikh Bahmanpour, recalling a remark of ʿAllama Tabatabaʾi's, warns that anyone of any belief will find something if they go forty days on less and less food. The knowledge of God is so unfamiliar to us that whatever is found is taken for God.
+
+The same mistake can be made over a light that is real and comes through the law. The Sheikh tells of a great mystic whose chain of teachers went back to Imam al-Rida (as). One day, as he was making his ritual ablution (*wudu*), his disciples suddenly fell into prostration, glorifying God. He asked them what had happened, and they said they had seen the light of God. He told them it was the light of his wudu. That light was real, and it came from an act the law asks for. The light of God was unknown to the disciples, so they took this one for His.
 
 Even the experiences that come on the true path are not the goal. Tabatabaʾi's lectures on the path were recorded by his student Sayyid Muhammad Husayn Tihrani in *Kernel of the Kernels*. There the states a traveller passes through, and the lights that appear from time to time, are called "a preliminary to an enduring condition" [@kernel, p. 30]. An experience comes and goes. What counts is a lasting change in the self. Until the change is lasting, "the smallest lapse in wayfaring and spiritual jihad would bring him down again to the lower world" [@kernel, p. 31].
 
