@@ -283,3 +283,9 @@ _Append only. Each entry: date, decision, why. To reverse a decision, add a new 
 ## 2026-10-16: D46. The Sheikh's correction: name the Prophet with the Qur'an and the Imams
 - **The Sheikh (via the user):** the book "repeats talking about the teachings of the Qur'an and the Imams. There is no mention of the Prophet (s)." His wording: "teachings of the Qur'an, the Prophet, and the Imams from his Ahl al-Bayt".
 - **Applied:** all three prologue sentences, and the thesis and B4 lines in ARGUMENT, STORYLINE, FRAMEWORK and part-4. Wherever the book names the sources of ʿirfan, it names the Prophet ﷺ with them.
+
+## 2026-10-16: D47. The Sheikh's stories go in (the user's uncle: "they are the best bit")
+- **Audit** (`reviews/stories-audit.md`): the Sheikh tells 61 stories; Ch 0–7 told only 2 (neither in his telling), 3 as allusions; most were cut early for want of a printed source.
+- **Rule (user):** every chapter carries at least one of the Sheikh's own stories, told in full, where it carries a section's point and meets the quality mark (clear in the transcript, not a joke, not garbled). A story from the lectures needs no printed source: it is told as the Sheikh's account ("Sheikh Bahmanpour tells…"), in a `::: {.box-story}` box or a short prose paragraph. Stories whose point is a joke, and those too garbled to retell, stay out (D39).
+- **Now:** stories added to Ch 1–7 where they hit the mark (Ch 3 and 4 included, user); each addition marked in the draft's point notes. Ch 1 additions are shown to the user before they are kept.
+- **Next:** the Part Three briefs plan a told story per chapter; the Part Four and Five outlines are revised to match.

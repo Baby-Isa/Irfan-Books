@@ -33,5 +33,6 @@ _Each step depends only on earlier steps. Each step is sourced as `LNN ¶a–b`,
 -
 
 **Boxes:** at most three, each tied to a step.
+**The Sheikh's story (D47):** at least one, told in full (`reviews/stories-audit.md`): which story, lecture ¶, the section whose point it carries.
 **Target:** about 3,000–3,600 words of body.
 **Hand-off to the next chapter:**

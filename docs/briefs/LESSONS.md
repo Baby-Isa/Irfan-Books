@@ -38,3 +38,4 @@ _Read this before drafting or reviewing any chapter. Each line is something the 
 24. **Hook each chapter fast.** Callbacks are one or two sentences and rarely name a chapter; never tour earlier chapters at the start. Say early what the chapter establishes, in the words of its title. (TONE 26, 39)
 25. **Several scholars for a nuanced point, not for a plain one.** (TONE 43)
 26. **Idle paragraphs between 15% and 28%** by the chain audit; an end-of-chapter recap and a closing page-turner question are fine within it. (TONE 44)
+27. **Tell the Sheikh's stories.** Every chapter carries at least one, told in full as his account, where it carries a section's point; they are "the best bit" (the user's uncle). No joke stories; nothing garbled. (D47; `reviews/stories-audit.md`)
