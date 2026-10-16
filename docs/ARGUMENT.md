@@ -21,7 +21,7 @@ Every level answers the one above. Nothing at a lower level is without a parent.
 ---
 
 ## Book thesis
-ʿIrfan, the disciplined journey to know and love God, is worth every believer's pursuit: it travels through the self and never leaves the shariʿa; it is walked by a tested and ordered method; it is rooted in the Quran and the Imams; and it ends not in withdrawal but in return, to people with God, and to God Himself.
+ʿIrfan, the disciplined journey to know and love God, is worth every believer's pursuit: it travels through the self and never leaves the shariʿa; it is walked by a tested and ordered method; it is rooted in the teachings of the Qur'an, the Prophet ﷺ, and the Imams from his Ahl al-Bayt; and it ends not in withdrawal but in return, to people with God, and to God Himself.
 
 ## Book points (each answered by one Part)
 The Parts follow the reader's journey: why travel → getting ready → travelling → who else you meet on the road → the destination.
@@ -31,7 +31,7 @@ The Parts follow the reader's journey: why travel → getting ready → travelli
 | **B1** | ʿIrfan is worth pursuing. The Quran invites more than the minimum, which is knowing God and not only knowing about Him; that knowing is reached by purifying the heart; and our own prayers already ask for it. | Why travel? | One: The Call (Ch 1–3) |
 | **B2** | The journey runs through the self, which is deeper than it looks; the shariʿa is its boundary; and a tested guide is its companion. | What do I need before I set out? | Two: Getting ready (Ch 4–7) |
 | **B3** | It is walked in a known order: veils removed in stages, beginning with repentance and character, trained by measured disciplines, carried by love, and reaching the loss of the false self. | How is it walked? | Three: The Road (Ch 8–12) |
-| **B4** | Others have walked it. It is rooted in the Quran and the Imams; some travellers lost their footing in ecstasy while the sober reached the end; and Shia masters keep the path without a Sufi institution of authority, because authority belongs to the Imam. | Who else is on this road, and where did they arrive? | Four: Fellow travellers (Ch 13–15) |
+| **B4** | Others have walked it. It is rooted in the teachings of the Qur'an, the Prophet ﷺ, and the Imams from his Ahl al-Bayt; some travellers lost their footing in ecstasy while the sober reached the end; and Shia masters keep the path without a Sufi institution of authority, because authority belongs to the Imam. | Who else is on this road, and where did they arrive? | Four: Fellow travellers (Ch 13–15) |
 | **B5** | Not the road but God: the friends of God return to people, with God; every soul returns to God; ʿirfan is making that return willingly, now. | What is the road for? | Five: The Destination (Ch 16–17) |
 
 **MECE check:**

@@ -4,7 +4,7 @@ _Per `FRAMEWORK.md` §6, 2026-10-12. Notes, not prose; old numbers 7–9. Every 
 
 ## Part Four divider
 - **Part Four: Fellow travellers.** *Who else is on this road, and where did they arrive?*
-- **Answer:** The road you have walked was not imported: it runs from the Qur'an and the Imams. Some who walked it lost their footing in ecstasy; the sober came back and went further. Shia masters keep it without a Sufi chain of authority, because authority belongs to the Imam.
+- **Answer:** The road you have walked was not imported: it runs from the teachings of the Qur'an, the Prophet ﷺ, and the Imams from his Ahl al-Bayt. Some who walked it lost their footing in ecstasy; the sober came back and went further. Shia masters keep it without a Sufi chain of authority, because authority belongs to the Imam.
 - **Chapters:** 13 Where it comes from · 14 Drunk and sober · 15 Sufis and Shia
 - **Munajat §109–110:** [P4] "My Lord, (please) appoint me of those who responded to You when You called them, and at whom You glanced so he swoons before Your Majesty" (`duas-munajat-shabaniyah` §109–110, English as in the extract; cite `[@duas_munajat_shabaniyah, §109–110]`). Arabic: held (same §). *Light*'s English here is ungrammatical, so this one slot uses the duas.org wording (FRAMEWORK §8.3).
 

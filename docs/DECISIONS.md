@@ -279,3 +279,7 @@ _Append only. Each entry: date, decision, why. To reverse a decision, add a new 
 - **Part pages:** equal space above and below the chapter list. Part Two's line names "the Imams (as)" (L14 ¶8–10 means the line of Imams, confirmed by the fact-check).
 - **Pipeline run (2026-10-16):** Opus rebuild on a point ladder (Ch 4–7) or light revision (Ch 2–3) → Fable logic/structure review → edits → profile, chain audit, blind judges → fact-check → fixes.
 - **Structural changes from the approved briefs:** Ch 6 drops the islam/iman/ihsan detour and the forty-day-fasting detour as standalone paragraphs (chain audit, 44% idle; the user's "no detours"), and §2 is split in two (Fable: two points in one section). Ch 7 trims the named teachers to five and states the scholars' real difference on when a guide is needed. Ch 4 is short (~1,400 words); both reviewers advised against padding.
+
+## 2026-10-16: D46. The Sheikh's correction: name the Prophet with the Qur'an and the Imams
+- **The Sheikh (via the user):** the book "repeats talking about the teachings of the Qur'an and the Imams. There is no mention of the Prophet (s)." His wording: "teachings of the Qur'an, the Prophet, and the Imams from his Ahl al-Bayt".
+- **Applied:** all three prologue sentences, and the thesis and B4 lines in ARGUMENT, STORYLINE, FRAMEWORK and part-4. Wherever the book names the sources of ʿirfan, it names the Prophet ﷺ with them.

@@ -19,9 +19,9 @@ Despite saying these words in our munajats and on auspicious occasions, we find 
 
 ʿIrfan is the Arabic name for what English books call Islamic mysticism, and the two words do not say the same thing. "Mysticism" suggests mystery, something hidden and hard to pin down. The Arabic word names a kind of knowing. It shares its root with *maʿrifah*, knowledge, and an *ʿarif* is, in Sheikh Bahmanpour's words, "someone who knows".
 
-The knowing meant here is not information about God. It is knowing Him from close, with the heart, which is what the Munajat asks for. In Murtada Mutahhari's words, the ʿarif "wishes to reach the very kernel and reality of existence, God, to become connected to it and witness it" [@light, p. 12]. ʿIrfan is that knowing, and the training of the soul that makes it possible. It is part of the Islam we already know: its sources are the Qur'an and the words of the Imams, and the prayer at the head of this page is one of them.
+The knowing meant here is not information about God. It is knowing Him from close, with the heart, which is what the Munajat asks for. In Murtada Mutahhari's words, the ʿarif "wishes to reach the very kernel and reality of existence, God, to become connected to it and witness it" [@light, p. 12]. ʿIrfan is that knowing, and the training of the soul that makes it possible. It is part of the Islam we already know: its sources are the teachings of the Qur'an, the Prophet ﷺ, and the Imams (as) from his Ahl al-Bayt, and the prayer at the head of this page is one of them.
 
-This book argues that this side of the religion is worth every believer's pursuit. ʿIrfan travels through the self and never leaves the shariʿa. It is walked by a tested and ordered method. It is rooted in the Qur'an and the Imams. And it ends not in withdrawal from the world but in return: to people, with God, and to God Himself.
+This book argues that this side of the religion is worth every believer's pursuit. ʿIrfan travels through the self and never leaves the shariʿa. It is walked by a tested and ordered method. It is rooted in the teachings of the Qur'an, the Prophet ﷺ, and the Imams from his Ahl al-Bayt. And it ends not in withdrawal from the world but in return: to people, with God, and to God Himself.
 
 ## Who this book is for
 
@@ -45,7 +45,7 @@ Part Two, *Getting Ready* (Chapters Four to Seven), describes the landscape a tr
 
 Part Three, *The Road* (Chapters Eight to Twelve), asks how the path is walked: through ordered stages, by repentance, discipline, and love, to the loss of the false self.
 
-Part Four, *Fellow Travellers* (Chapters Thirteen to Fifteen), meets those who walked the road before us. It shows the road's roots in the Qur'an and the Imams, where its travellers arrived, and how Shia ʿirfan relates to Sufism.
+Part Four, *Fellow Travellers* (Chapters Thirteen to Fifteen), meets those who walked the road before us. It shows the road's roots in the teachings of the Qur'an, the Prophet ﷺ, and the Imams from his Ahl al-Bayt, where its travellers arrived, and how Shia ʿirfan relates to Sufism.
 
 Part Five, *The Destination* (Chapters Sixteen and Seventeen), asks what the road is for. The friends of God return to people, with God; every soul returns to God.
 

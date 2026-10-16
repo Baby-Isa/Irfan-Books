@@ -223,6 +223,10 @@ Once he is named, the rest of that line of thought belongs to him, so don't name
 **Do:** name the Imam every time: by name ("Imam ʿAli (as)", "Imam al-Sadiq (as)") or by number ("the Twelfth Imam"). Vary the form.
 **Don't:** write "the Imam" and leave the reader to guess.
 
+### 41a. Name the Prophet with the sources (the Sheikh, D46)
+**Do:** wherever the sources of ʿirfan or of the religion are named, name the Prophet ﷺ with them: "the teachings of the Qur'an, the Prophet ﷺ, and the Imams from his Ahl al-Bayt".
+**Don't:** write "the Qur'an and the Imams".
+
 ### 42. Gloss an Arabic term in brackets
 **Do:** "the remembrance of God (*dhikr*)", "the meeting with God (*liqaʾ Allah*)": the English first, the term in brackets.
 **Don't:** set the term off with commas ("the remembrance of God, *dhikr*,").

@@ -2,7 +2,7 @@
 
 _One "slide" per chapter. The heading is the chapter title. The subheading is the point of the chapter in one plain sentence. Reading the subheadings alone, from top to bottom, should tell the whole argument. The bullets are the steps that prove each subheading, in order. Source of truth for the logic: `docs/ARGUMENT.md` (v3, D40–D41); this file is its plain-English reading (D39). The book follows the reader's journey: why travel, getting ready, travelling, who else is on the road, the destination._
 
-**The whole book:** ʿIrfan, the journey to know and love God, is worth every believer's pursuit. It runs through the self and stays inside the shariʿa; it is walked in a tested, ordered way; it comes from the Qur'an and the Imams; and it ends in a return to people and to God.
+**The whole book:** ʿIrfan, the journey to know and love God, is worth every believer's pursuit. It runs through the self and stays inside the shariʿa; it is walked in a tested, ordered way; it comes from the teachings of the Qur'an, the Prophet ﷺ, and the Imams from his Ahl al-Bayt; and it ends in a return to people and to God.
 
 ---
 
@@ -104,7 +104,7 @@ _One "slide" per chapter. The heading is the chapter title. The subheading is th
 ---
 
 ## Part Four: Fellow travellers. Who else is on this road, and where did they arrive?
-**Others have walked it. The road runs from the Qur'an and the Imams; some travellers lost their footing in ecstasy while the sober went furthest; and Shia masters keep the road without a Sufi chain of authority, because authority belongs to the Imam.**
+**Others have walked it. The road runs from the teachings of the Qur'an, the Prophet ﷺ, and the Imams from his Ahl al-Bayt; some travellers lost their footing in ecstasy while the sober went furthest; and Shia masters keep the road without a Sufi chain of authority, because authority belongs to the Imam.**
 
 _Tone: the analytical step back after the crescendo. Calm, clear and curious._
 
