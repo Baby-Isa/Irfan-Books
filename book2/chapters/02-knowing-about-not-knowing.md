@@ -86,6 +86,8 @@ Knowledge of God is a light God gives to a purified heart, not something gathere
 5. Once the soul is purified, God's teaching follows as His gift, and a verse of Surah al-Baqarah links that teaching to wariness of Him.
 6. The verse gives the same order: wariness of God first, then His teaching; purity first, then the light.
 7. Therefore: unlike learning, which passes from mind to mouth, this light passes from heart to heart.
+
+New story (D47): A thousand doors of knowledge, L03 ¶5–10.
 :::
 
 A knowledge that analysis cannot produce must be given. A hadith that Imam Khomeini quotes in his *Forty Hadith* says who gives it.
@@ -113,6 +115,10 @@ Be wary of Allah and Allah will teach you.
 In the verse, God's teaching follows on from wariness of Him. In the same way, the light comes to the hearts of the pure, and darkness covers the impure.
 
 A knowledge given to the heart also travels differently. The knowledge of books passes from mind to mouth, through language, whereas the knowledge of the ʿurafaʾ passes "from heart to heart", in the Sheikh's words. Receiving it directly from God is possible but difficult, and one usually has to start through someone else. Chapter Seven describes the guide.
+
+::: {.box-story title="Story: A thousand doors of knowledge"}
+In one of his lectures, Sheikh Bahmanpour asked whether knowledge can pass from one heart to another. We know how it passes between minds: a speaker turns an image into words, and the words raise the image again in the listener's mind. Of knowledge passing between hearts we have no experience. In answer, he recalled a report from Imam ʿAli (as). When the Prophet ﷺ lay on his deathbed, a thousand doors of knowledge were opened in Imam ʿAli's heart, and from each door a thousand more opened. None of it came through language; it passed from heart to heart. In the lecture, this is the kind of knowledge the ʿurafaʾ have: given to the heart, not built up from words.
+:::
 
 ## The path is purification
 
