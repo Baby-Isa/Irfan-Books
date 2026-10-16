@@ -103,7 +103,7 @@ The angels have no such movement between worlds. Each has a fixed station that i
 There is none among us but has a known place.
 :::
 
-The human soul has no known place of this kind. It can move and change, and no one knows how far it can go. The mystics say that this capacity is why the angels bowed down to Adam. A soul's reach is not fixed in advance, as an angel's station is. It expands, the lectures say, as the soul learns the names of God, so how far it goes depends on the life it lives.
+The human soul has no known place of this kind. It can move and change, and no one knows how far it can go. The mystics say that this capacity is why the angels bowed down to Adam. A soul's reach is not fixed in advance, as an angel's station is. It expands, the lectures say, as the soul learns the names of God. How far it goes therefore depends on the life it lives.
 
 ## Our deeds give the soul a form
 
@@ -115,7 +115,7 @@ What we do now shapes the image body we will meet after death.
 3. The state of the soul at death fixes the form it takes in the next world.
 4. On the Last Day people will be grouped by their true natures.
 5. Piety shines as light on the Last Day; Shomali holds that some rewards are the deeds themselves made visible.
-6. Therefore the form we meet after death is largely the work of our own deeds, and it is being made now.
+6. Therefore the image body is being shaped now, and part of what we meet after death may be our own deeds.
 :::
 
 If every soul passes into the middle world in any case, it can seem that what we do here changes little. Habit shows otherwise, because repeated acts shape the self. Shomali takes the example of lying. A child telling a first lie feels uneasy and later remorseful. With repetition "the soul becomes inured to the effects" [@self_knowledge, p. 20], until lying costs little effort.
@@ -134,9 +134,9 @@ Shomali reports the hadith that the groups are formed "according to their true n
 The day you will see the faithful, men and women, with their light moving swiftly in front of them and on their right
 :::
 
-The lectures read this light as the shining of the pious themselves. The body of the Last Day is not the image body, but piety makes it shine as it makes the image body shine. Its light goes ahead to light the way. Shomali states a general principle about reward and punishment: "Sometimes rewards or punishments are nothing other than the actions. They are just the realities of those actions made manifest in another universe" [@self_knowledge, p. 77]. Some rewards, on this view, are the deeds themselves, seen for what they are.
+The lectures read this light as the shining of the pious themselves. The body of the Last Day, they note, is not the image body. Piety makes both shine. On the Last Day that light goes ahead to light the way. Shomali states a general principle about reward and punishment: "Sometimes rewards or punishments are nothing other than the actions. They are just the realities of those actions made manifest in another universe" [@self_knowledge, p. 77]. Some rewards, on this view, are the deeds themselves, seen for what they are.
 
-The form a soul meets after death is therefore, in large part, the work of its own deeds. Shomali draws a related conclusion from the fact that heaven and hell already exist: "our future is now present" [@self_knowledge, p. 77]. The image body is being shaped now, by what we do.
+If some rewards are the deeds themselves, the form a soul meets after death may be, in part, the work of its own deeds. Shomali himself draws a related conclusion from the fact that heaven and hell already exist: "our future is now present" [@self_knowledge, p. 77]. The image body is being shaped now, by what we do.
 
 ## The self can change its state
 
@@ -150,7 +150,7 @@ The one self can rise from its lowest state to peace, so what it becomes is, by 
 5. Self-blame, kept up, brings the self to peace.
 6. These are one self under three names, so changing our attitude changes its state.
 7. The remembrance of God refreshes and revives the soul.
-8. The rest the Qur'an promises to remembrance shares its name with the third state, the self at peace.
+8. The Qur'an says hearts find rest in remembrance, and its word for rest shares a root with the name of the self at peace.
 9. Fasting and the night prayer loosen the soul's tie to the body.
 10. These acts work because the soul takes on habits quickly, so what we make of it is ours forever.
 11. Therefore, by God's grace, what the soul finally becomes is in our hands.
@@ -177,7 +177,7 @@ That God swears by this self suggests its worth. A self that keeps up its self-b
 These are not three selves. "We don't have different types of nufus," Sheikh Bahmanpour says, using the plural of nafs. The one self takes a different name according to its attitude. Because we can change the attitude, we can change the state, and with it the name.
 
 ::: {.box-word title="Word Study: the layers of the soul, counted differently"}
-The ʿurafaʾ, in Murtada Mutahhari's words, "have different words for the human soul". He sets out four. When the soul is "dominated and ruled by desires and passions they call it nafs". When it bears divine knowledge it is the heart (*qalb*). When "the light of Divine love dawns within it", it is the spirit (*ruh*), and when it reaches witnessing it is the secret (*sirr*). Beyond these lie the hidden (*khafi*) and the most hidden (*akhfa*) [@light, p. 58]. The lectures order them differently, describing the sirr as known only to God and the khafi as hidden even from the angels. Sayyid Haydar Amuli, a Shia master, counts the states of the self differently too, with four where the lectures have three. In his *Inner Secrets of the Path* the self ascends through "commanding to evil", "reproachful", "inspired", and "at rest" [@inner_secrets, p. 192]. Imam Khomeini notes that the soul's levels are divided "sometimes into seven sections and sometimes into four", and sometimes into three or two [@forty_hadith, p. 32]. The lists divide different things (names, states, and levels), but each divides the one soul. Chapter Eight takes nafs, qalb, and ruh as stages of the road.
+Murtada Mutahhari writes that the ʿurafaʾ "have different words for the human soul", and he sets out four. When the soul is "dominated and ruled by desires and passions they call it nafs". When it bears divine knowledge it is the heart (*qalb*). When "the light of Divine love dawns within it", it is the spirit (*ruh*), and when it reaches witnessing it is the secret (*sirr*). Beyond these lie the hidden (*khafi*) and the most hidden (*akhfa*) [@light, p. 58]. The lectures order them differently, describing the sirr as known only to God and the khafi as hidden even from the angels. Sayyid Haydar Amuli, a Shia master, counts the states of the self differently too, with four where the lectures have three. In his *Inner Secrets of the Path* the self ascends through "commanding to evil", "reproachful", "inspired", and "at rest" [@inner_secrets, p. 192]. Imam Khomeini notes that the soul's levels are divided "sometimes into seven sections and sometimes into four", and sometimes into three or two [@forty_hadith, p. 32]. The lists count different things (names, states, and levels). Read together, they describe one soul seen in different ways. Chapter Eight takes nafs, qalb, and ruh as stages of the road.
 :::
 
 What moves the self from one state to the next are acts already familiar to us. One is the remembrance of God (*dhikr*), which the lectures describe as refreshing and reviving the soul. Surah al-Raʿd names what it gives.
@@ -186,13 +186,13 @@ What moves the self from one state to the next are acts already familiar to us. 
 Behold! The hearts find rest in Allah's remembrance!
 :::
 
-In Arabic, the verse's word for finding rest comes from the same root as *mutmaʾinna*, the name of the self at peace. The rest that remembrance brings is the rest of the third state.
+In Arabic, the verse's word for finding rest comes from the same root as *mutmaʾinna*, the name of the self at peace (Q 13:28; 89:27). The rest that remembrance brings is the rest of the third state.
 
 Fasting and the night prayer work on the same tie to the body that sleep and watchfulness loosen. The soul manages the body, down to digesting a meal, so a fasting body asks less of it. In Ramadan God pours down His light everywhere. The soul of the one who fasts is less taken up with the body, and it takes in that light without knowing it. The night prayer (*salat al-layl*) likewise helps the soul free itself from the body and see the light.
 
 These acts work because the soul takes on habits quickly. Trained to worry about the body, it worries about the body. Trained to care for higher things, it comes to care for them and to see the light. In the lectures' image, the soul is like a fine elastic thing. It can be held in the palm of a hand or stretched to the size of the universe, and which it becomes depends on what we do with it. It has been entrusted to us for a short time. Whatever we do with it, Sheikh Bahmanpour says, "would remain with us forever".
 
-The soul is therefore deeper than it looks. It lives in the material world and in the world of images, and it reaches towards the world of intellects. It can touch the middle world in sleep, and it passes there fully at death. Its deeds give it a form that it will meet there. The self that does those deeds can move from commanding to blaming to peace. What the soul finally becomes has been entrusted to us. The drive to begin is itself God's grace, and the rest of the work is in our hands.
+The soul is therefore deeper than it looks. It lives in the material world and in the world of images, and it reaches towards the world of intellects. It can touch the middle world in sleep, and it passes there fully at death. Its deeds give it a form that it will meet there. The self that does those deeds can move from commanding to blaming to peace. What the soul finally becomes has been entrusted to us. The drive to begin is itself God's grace, given, the lectures say, once we have shown that we deserve it. The rest of the work is in our hands.
 
 If the work on the soul is this inward, what keeps it from going astray?
 
