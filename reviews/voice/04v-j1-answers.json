@@ -1,0 +1,62 @@
+{"profile": [
+  "Opens a paragraph on the last one's point, often with a conditional or summary of it: 'If the signs are present and plain and yet we still pass them by, the fault is on our side.' / 'Placing the fault in the receiver has two consequences.' / 'Repair is only the start.'",
+  "Ends a paragraph on the point in a short plain sentence, not a flourish: 'In most of us, it is not working.' / 'God is not withholding signs; we are failing to receive them.'",
+  "Mixes short declaratives with one longer sentence; short sentences carry the turns: 'This claim is not contested.' / 'It is about what lies behind the senses.'",
+  "Uses semicolons and 'whereas' for balanced contrast, colons to introduce a list or gloss: 'Eyes and ears take in the surface of things, whereas inside a human being there should be something more: a faculty...'",
+  "Joins clauses with 'and' sparingly and without comma, rarely chaining more than two: 'The second claim goes further and it is the one this book disputes.'",
+  "Brings in a source once per point, with varied verbs ('explains', 'insists', 'compares', 'in X's words', 'as the Sheikh puts it'); never 'he says' as filler: 'Sheikh Bahmanpour compares this faculty to a machine.'",
+  "Explains every quotation afterwards in its own words, often with a concrete image: 'That machine is the soul.' / 'Most of us see only the lamp.'",
+  "Introduces a verse with a lead-in sentence naming what it shows: 'The Qur'an describes the gap in one verse.' then [verse]",
+  "Inclusive 'we/us', occasional 'Let's'; no scolding, no lecturing 'you': 'Let's start with two claims.' / 'We have heard these verses many times...'",
+  "Plain written register, concrete everyday images (red light, cattle, rusted machine, wedding verse); Arabic terms glossed in apposition: 'maʿrifah, knowledge'",
+  "Signposts other chapters briefly and factually: 'Chapter Fourteen sets out their wider concerns, with the answers given to them.'",
+  "Never: rhetorical questions, jokes, intensifiers like 'entirely', a second source repeating a made point, a summary paragraph restating the paragraph before."
+ ],
+ "passages": {
+  "A": {"p": 38, "verdict": "different", "tells": [
+    "'The scholars differ in emphasis but agree that powers are not the aim. Mutahhari also explains why seeking them would be shirk: the goal has become something other than God.' — restates the quotation just given; Author A would explain it once and move on",
+    "'Murtada Mutahhari uses the same word ... he writes ... Mutahhari also explains' — the scholar named again and again in three short paragraphs; Author A names a source once per point",
+    "'...other than God Himself\" and he recalls Imam ʿAli (as) saying that he worshipped God not from fear...' — a quotation and a second report stacked by 'and'; Author A would split and explain"]},
+  "B": {"p": 58, "verdict": "same", "tells": ["Opens by picking up the repaired faculty and explains the verse afterwards with a plain inference ('A heart trembles only at the mention of someone it has some experience of'), as Author A does."]},
+  "C": {"p": 55, "verdict": "same", "tells": ["Picks up the last point, explains the Sheikh's quotation in its own words ('What it lacks is the perception...') and ends on a factual chapter signpost; slight restatement in 'Reaching God therefore covers no distance'."]},
+  "D": {"p": 55, "verdict": "same", "tells": ["Opens on the previous point ('the same line between the two kinds of knowing') and closes each paragraph by explaining the quotation ('A result in the laboratory is known because it has been observed')."]},
+  "E": {"p": 66, "verdict": "same", "tells": ["Causal opener picking up the last chapter, short follow-on sentences, chapter-purpose line like 'is the subject of this chapter', and a verse introduced by saying what follows from it."]},
+  "F": {"p": 68, "verdict": "same", "tells": ["Concrete everyday opening (the fasting afternoon) like the reference's wedding verse, brief factual back-reference to Chapter One, ends on the point."]},
+  "G": {"p": 40, "verdict": "different", "tells": [
+    "'Those who seek God, he says, want to know Him' — 'he says' as filler; Author A would write 'Sheikh Bahmanpour reads ... as a sequence: those who seek God...'",
+    "'Sheikh Bahmanpour reads ... he says ... Sheikh Bahmanpour asks ... he answers ... He places' — teacher named again and again in two short paragraphs",
+    "'Sheikh Bahmanpour asks whether it is good to be cut off completely from everything else. In the heart, he answers, it is.' — reports a question-and-answer instead of stating the point; Author A would state 'In the heart, that severance is good.'"]},
+  "H": {"p": 55, "verdict": "same", "tells": ["Semicolon contrasts ('Other people look at the surface...; the friends of God look at what lies inside it'), verse introduced and then glossed and explained ('God is not far from anyone; being brought near means...')."]},
+  "I": {"p": 62, "verdict": "same", "tells": ["Each paragraph picks up the last; the quotation is explained step by step; balanced 'whereas' close ('The believer perceives His mercy and reward, whereas the unbeliever perceives His justice')."]},
+  "J": {"p": 28, "verdict": "different", "tells": [
+    "'Sheikh Bahmanpour states it himself. These words, he says, ... He asks why ... Telling ordinary believers to say them, he says,' — 'he says' used twice as filler and the teacher named four times; Author A would name him once",
+    "'Duʿa Abu Hamza al-Thumali makes the same plea from need' — a second prayer making the same point, a true remark that does not move the argument on",
+    "'The servant stands there because of need and the prayer gives no other reason for coming.' — restates the quotation's words rather than explaining what follows from them",
+    "'Requests this high raise a difficulty' — states a difficulty the passage never resolves; Author A answers what she raises"]},
+  "K": {"p": 58, "verdict": "same", "tells": ["Plain reasoning steps, the Sheikh's words quoted once and glossed ('Shirk, setting up a partner beside God, is the gravest charge in Islam'); echoes the reference's 'catch the signals' image."]},
+  "L": {"p": 35, "verdict": "different", "tells": [
+    "'Sheikh Bahmanpour read several of its lines to his listeners' — lecture-hall detail that adds words but not argument; Author A would go straight to the lines",
+    "'For some of us, the Sheikh says, calling on God can feel like...' — 'the Sheikh says' as filler; Author A would state the contrast directly",
+    "'Murtada Mutahhari names these prayers together ... he writes' — a third source paragraph on a side point (the prayers' Islamic origin) that does not advance the passage's claim about nearness"]},
+  "M": {"p": 70, "verdict": "same", "tells": ["Same opening move as the reference (the Munajat as a prayer 'many of us recite'), tight chain of paragraphs each picking up the last ('The soul deserves that care because...', 'The soul is also...'), glossed term ('ʿilm al-huduri')."]},
+  "N": {"p": 35, "verdict": "different", "tells": [
+    "'The way to God therefore runs through the self. God is already near and the soul reflects Him. What keeps us from Him is a veil over our own soul.' — a whole paragraph restating earlier conclusions; Author A stops on the point instead of summing up",
+    "'Mirza Jawad Maliki Tabrizi says ... he writes' — reporting verbs doubled for one source; Author A uses one",
+    "'so that the heart can see the glory of God and feel His presence' — grander, more devotional diction than Author A's plain register"]},
+  "O": {"p": 45, "verdict": "different", "tells": [
+    "'The knowledge of ʿirfan, the Sheikh says, ... In his words' — teacher named three times across two paragraphs, 'the Sheikh says' as filler",
+    "'which he describes as the path to purity, a striving towards purification' — says the same thing twice; Author A uses fewer words",
+    "'we think, put things together, analyse and find out' — a spoken-style list; Author A would give one plain gloss of fikr"]},
+  "P": {"p": 38, "verdict": "different", "tells": [
+    "'For the muqarrabun, the terms are entirely different from those of ordinary believers.' — leaves the verse on peace unexplained and uses an intensifier; Author A would say what the verse means",
+    "'It is this good life that the mystics seek.' — tidy closing line; Author A ends on the point already made",
+    "'Its people live in the world without being soiled by it, rising above the worries that occupy everyone else.' — elevated, abstract diction compared with Author A's concrete images"]},
+  "Q": {"p": 42, "verdict": "different", "tells": [
+    "'The worst sins are the ones we do not recognise as sins, because what is not recognised cannot be cured.' — an aphoristic generalisation; Author A ties claims to the verse or source",
+    "'This is one reason believers are told to seek God's forgiveness (istighfar) at all times' — a true side remark that does not move the argument on",
+    "'A forgotten soul also hides...' / 'The link also runs...' — paragraphs opening on 'also' add points rather than building on the last; Author A's openers pick up the last point"]},
+  "R": {"p": 45, "verdict": "different", "tells": [
+    "'The great teachers of the Shia tradition make closely related points, each in his own words.' — throat-clearing opener; Author A would go straight to the first teacher's point",
+    "'his efforts are rendered invalid\".' — the passage ends on an unexplained quotation; Author A explains each quotation afterwards",
+    "'Whoever does so ... It is his own self that he worships' — three stacked quotations from one source where Author A uses one and glosses it"]}
+ }}
