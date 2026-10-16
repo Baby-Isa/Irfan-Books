@@ -44,15 +44,15 @@ The path is not a second set of acts beside the law. Suppose we prayed beside th
 
 What a jurist cannot judge is what passed in the heart. Imam Khomeini draws the same line: "there is no necessary relation between the (legal) validity of ʿibadah and its acceptability" [@forty_hadith, p. 293]. An act of worship (*ʿibadah*) can be valid in law and still not be accepted, because acceptance turns on what the jurist cannot see. The Prophet's prayer and ours would differ in the inward way each was performed, and that inward way is the path. The outward frame of the act is still the law. What the Prophet saw through such a prayer is the truth.
 
-A saying attributed to the Prophet ﷺ puts the three in one line: "The shariʿah is my words, tariqah my actions, haqiqah my states" [@inner_secrets, p. 32]. His words tell us what to do. His actions show how it is done from within, and his states are what he saw by doing it.
+A saying attributed to the Prophet ﷺ puts the three in one line. "The shariʿah is my words, tariqah my actions, haqiqah my states" [@inner_secrets, p. 32]. His words tell us what to do. His actions show how it is done from within, and his states are what he saw by doing it.
 
-If the path and the truth lie inside the law, the three are not separate roads. Mulla ʿAbd al-Samad Hamadani made this his teaching. He was a Shia ʿarif with a hadith of the Ahl al-Bayt (as) ready for every point of the path. He held that the law, the path, and the truth are different names for one reality seen from different sides. They differ only in depth: the law is the shell, the path the core, and the truth the kernel.[Murtada Mutahhari gives the same order: "One is outward shell, another is inward kernel, and the third is the kernel of the kernel." @light, p. 15]
+If the path and the truth lie inside the law, the three are not separate roads. Mulla ʿAbd al-Samad Hamadani, a Shia ʿarif, taught that they are different names for one reality seen from different sides. They differ only in depth: the law is the shell, the path the core, and the truth the kernel.[Murtada Mutahhari gives the same order: "One is outward shell, another is inward kernel, and the third is the kernel of the kernel." @light, p. 15]
 
 Hamadani found all three depths in a single salah. As service to God (*khidma*), the prayer belongs to the law. As a drawing near (*qurb*), it belongs to the path, and as an arrival (*wusul*), it belongs to the truth.[Sayyid Haydar Amuli records the saying: "Surely prayer is service, a coming closer and an arrival." @inner_secrets, p. 32] A prayer like the Prophet's does all three at once: it serves God, it draws near to Him, and it reaches Him.
 
 The order between the depths runs one way only. The law can be kept without the path. The prayer with the wandering mind was valid and it served, yet it did not draw near. The path cannot be walked without the law, because the path is the inside of the law's own acts and has nothing else to work on.[Sayyid Haydar Amuli puts the order as a rule: "shariʿah is possible without tariqah although tariqah is not possible without shariʿah." @inner_secrets, p. 48]
 
-Each depth is therefore reached only through the one before it, and none can be skipped. Sheikh Bahmanpour gives an image for this, which he credits to Najm al-Din Kubra, the head of one of the Sufi orders. The law is a ship, the path is a sea, and the truth is a pearl in that sea. The pearl "cannot be found except by sailing through the sea, and you cannot sail without a ship". Whoever abandons that order will not find the pearl. This is why the ʿurafaʾ say that the beginning of ʿirfan is the shariʿa.
+Each depth is therefore reached only through the one before it, and none can be skipped. Sheikh Bahmanpour gives an image for this, which he credits to Najm al-Din Kubra, the head of one of the Sufi orders. The law is a ship, the path is a sea, and the truth is a pearl in that sea. The pearl "cannot be found except by sailing through the sea, and you cannot sail without a ship".
 
 ## The inner never cancels the outer
 
@@ -69,7 +69,7 @@ No wonder or experience stands in for the law.
 8. Therefore: only the law, kept for a whole life, makes that lasting change.
 :::
 
-If the truth is reached only through the law, someone who claims the truth while setting the law aside has left the ship. Kubra draws this conclusion from his own image. Suppose a person is seen flying through the air, walking on the sea, or eating fire. If they have abandoned "even one injunction of God", Kubra says, "you should know that they are liars".
+If the truth is reached only through the law, someone who claims the truth while setting the law aside has left the ship. Kubra draws this conclusion from his own image. Suppose a person is seen flying through the air, walking on the sea, or eating fire. If they have abandoned "even one injunction of God", then "you should know that they are liars".
 
 "Liars" does not mean that the feats are faked, because such things can be done. The lie is in the claim to be a true ʿarif, one who knows God. The person works these wonders for their own desires, and what they do is not a wonder of the friends of God (*karama*) but magic (*sihr*).
 
@@ -104,11 +104,11 @@ The inner work begins inside the law, with attention in prayer.
 
 That lifelong keeping is also where the first inner work is done, inside the prayers we already pray. The path purifies the way we practise the law, giving each act more depth each time it is done. It begins with the first words of the prayer: at *Allahu akbar*, we have to know what we are saying. Once we do, the words begin to work inside us as we say them.
 
-Knowing what we are saying needs attention, and attention cannot be held by force. We can close our eyes and keep our tongue still. Attention still moves elsewhere the moment we try to turn it towards God, and the thought about the car arrives.
+Knowing what we are saying needs attention, and attention cannot be held by force. We can close our eyes and keep our tongue still, yet the moment we turn towards God, the thought about the car arrives.
 
-Reason says this should not happen. Someone standing at the edge of a cliff would not wonder whether the car was locked, because the danger is in front of them. Standing before God ought to hold the mind in the same way. The logic is sound, but no one can bring that sense of presence to prayer simply by deciding to.
+This should not happen, because standing before God ought to hold the mind as standing at the edge of a cliff does. Someone at a cliff's edge would not wonder whether the car was locked, because the danger is in front of them. Yet no one can bring that sense of presence to prayer simply by deciding to.
 
-The difficulty is a circle. To say the words from the heart, we need a knowledge that comes only after the words have been practised and taken in. That practice needs the same attention that keeps slipping. This circle is the whole difficulty of the path, and it is why anyone can keep the law while not everyone can walk it.
+The difficulty is a circle. To say the words from the heart, we need a knowledge that comes only after the words have been practised and taken in. That practice needs the same attention that keeps slipping. This circle is the whole difficulty of the path. Anyone can perform the acts the law asks for, but the path asks for this attention as well, so not everyone can walk it.
 
 The circle does not mean that the faculty of attention is missing. Imam Khomeini asks, "How is it that the study of a book often absorbs man's entire attention, but prayer does not?" [@light, p. 135]. A book can hold the whole mind, so the mind can be held. What is missing is the habit of bringing that attention to prayer.
 
