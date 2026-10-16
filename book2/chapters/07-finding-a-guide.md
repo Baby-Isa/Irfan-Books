@@ -28,7 +28,7 @@ On the journey the soul can pass into states that the traveller does not underst
 
 How early in the journey that need begins is where the scholars differ. Sheikh Bahmanpour places it after the start. Many who want to set out look first for a teacher, and when they cannot find one they conclude that they cannot begin. In his account the teacher is found only once a traveller has moved past the first steps towards the deeper side of ʿirfan, and the first steps are the law: "First you have to comply completely with whatever Sharia tells."
 
-The Sufi orders, by contrast, tell the beginner to come to them and to act on nothing without their instruction, or be lost on the path, a claim he calls "something of an exaggeration". Chapter Two found the same order of steps in ʿAllama Tabatabaʾi, for whom the traveller's first essential is knowledge of the rules of the shariʿa, learned from a jurist [@kernel, p. 56].
+The Sufi orders, by contrast, tell the beginner to come to them and to act on nothing without their instruction, or be lost on the path, a claim he calls "something of an exaggeration".
 
 Murtada Mutahhari weighs the need for a guide more heavily, and places it at every stage. Each stage of the path, in his account, must be passed under the guidance of "a mature and perfect example of humanity who, having traveled this path, is aware of the manners and ways of each station". Without such a guide, the traveller "is in danger of going astray" [@light, p. 10].
 
