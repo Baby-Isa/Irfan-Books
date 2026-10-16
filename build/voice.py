@@ -414,7 +414,7 @@ def blind(nn, cand, judges=("opus", "fable", "opus"), n=6, rnd="1", ctrl=None,
           ref=None, pos=None, folds=None, min_words=120, max_words=260):
     """One packet per judge, each with its own fold, sample and order."""
     VOICE_DIR.mkdir(parents=True, exist_ok=True)
-    folds = folds or ["A", "B"]
+    folds = folds or ["A"]   # fold B (prologue held out) reads as a different genre: CALIBRATION.md
     for k, model in enumerate(judges, 1):
         rng = random.Random(f"{nn}-{rnd}-{k}")
         fold = folds[(k - 1) % len(folds)]

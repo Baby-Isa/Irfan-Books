@@ -1,0 +1,39 @@
+{
+ "A": "chapter",
+ "B": "exemplar",
+ "C": "chapter",
+ "D": "exemplar",
+ "E": "control",
+ "F": "exemplar",
+ "G": "control",
+ "H": "chapter",
+ "I": "control",
+ "J": "exemplar",
+ "K": "control",
+ "L": "control",
+ "M": "chapter",
+ "N": "control",
+ "O": "chapter",
+ "P": "chapter",
+ "Q": "exemplar",
+ "R": "exemplar",
+ "_meta": {
+  "candidate": [
+   "book2/chapters/02-knowing-about-not-knowing.md"
+  ],
+  "reference": [
+   "reviews/voice/corpus/A-prologue.md",
+   "reviews/voice/corpus/A-ch01.md@0-3"
+  ],
+  "exemplar": [
+   "reviews/voice/corpus/A-ch01.md@4-9"
+  ],
+  "control": [
+   "reviews/voice/corpus/X-ch02-v1-2d8143e.md",
+   "reviews/voice/corpus/X-ch03-v1-2d8143e.md"
+  ],
+  "fold": "A",
+  "judge_model": "opus",
+  "round": "v2"
+ }
+}
