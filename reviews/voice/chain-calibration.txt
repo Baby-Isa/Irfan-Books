@@ -1,0 +1,14 @@
+  packet         source                                               paras  restate aside  idle%  idle words%
+  c518           reviews/voice/corpus/A-ch01.md                          40        6     5    28          22
+  c488           reviews/voice/corpus/A-ch01.md                          40        5     4    22          19
+  c818           book2/chapters/02-knowing-about-not-knowing.md          29        4     3    24          20
+  c654           reviews/voice/corpus/X-ch02-v2-19a7da7.md               30        4     4    27          21
+  c632           reviews/voice/corpus/X-ch02-v1-2d8143e.md               36        5     3    22          19
+  c330           reviews/voice/corpus/X-ch02-v1-2d8143e.md               36        5     4    25          24
+  c280           book2/chapters/03-you-already-know-these-words.md       31        1     9    32          27
+  c219           reviews/voice/corpus/X-ch03-v2-19a7da7.md               31        3     8    35          32
+  c982           reviews/voice/corpus/X-ch03-v1-2d8143e.md               32        1     8    28          25
+  p04            book2/chapters/04-know-yourself.md                      24        2     3    21          20
+  p05            book2/chapters/05-the-soul-and-its-worlds.md            39        2     5    18          16
+  p06            book2/chapters/06-no-path-outside-the-law.md            27        4     8    44          41
+  p07            book2/chapters/07-finding-a-guide.md                    30        1     5    20          12

@@ -64,8 +64,8 @@ _Read this first, then `CLAUDE.md`, `docs/STATUS.md`, `docs/briefs/LESSONS.md` a
 6. **Fact-check:** `fidelity-checker` writes `reviews/book2-NN.md`. Fix every High and Medium item.
 7. **Build:** `python3 build/build.py pdf book2 "0[0-7]*" [--review]`, copy the output to `samples/`, commit, push, and send the raw link.
 
-## 4. Voice-test caveat (fix before relying on it for Part Three)
-For Ch 2, four of the last five blind judges missed the control (rounds r4, r6, r7 and r8 are invalid; r5 is a PASS). The likely cause is that the control (rejected Ch 1 draft `7225b76`) shares its material with the held-out exemplar passages (final Ch 1), so judges pair passages by content. The suggested fix is to use only `9d02329:book2/chapters/00-prologue.md` as the control, or another control that doesn't overlap with Ch 1 §4–8. `CONTROLS` is in `build/voice.py`. Re-calibrate (cal runs) after any change. Ch 4–7 all had valid PASS runs.
+## 4. Voice test (rebuilt 2026-10-16, D44)
+The v1 caveat is resolved. Read `docs/VOICE-TEST.md`: profile = gate; chain audit (`chain-auditor`, Fable) = edit list with a 28% ceiling; blind judge = advisory only. Score `reviews/voice/PREDICTIONS-ch02-07.md` against the user's feedback when it arrives. Step 5 of the pipeline above now reads: profile PASS, then the chain audit, then (optional) the blind judge.
 
 ## 5. Open items
 - **Unconfirmed Arabic (`[VERIFY]`; needs printed editions):**

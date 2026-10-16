@@ -18,6 +18,10 @@ _Update at the end of every task. Keep it short. History lives in git and DECISI
 **Next:** the user's read of Part Two (and of the tightened Ch 2–3); then the Part Three briefs (Ch 8–12). Open: Ch 7 names 7 teachers in prose (guideline 5); [VERIFY] Arabic in Ch 6 (Kubra image; the Prophet's grateful-servant reply) and Ch 7 (ʿIsa's saying) need printed editions.
 
 
+**2026-10-16, voice test rebuilt (D44).** The user asked for a good, improvable voice test. Calibrated against his approved text and the drafts he rejected (`reviews/voice/CALIBRATION.md`, 41 judge runs): the profile stays the gate; the blind judge cannot separate approved from rejected and is now advisory; a new chain audit (Fable labels each paragraph against its section's point) is the edit list, ceiling 28% idle paragraphs (Ch 1's level). Author A is now the D43 text. Predictions for Ch 2–7 recorded before the user's feedback (`reviews/voice/PREDICTIONS-ch02-07.md`): Ch 6 (44% idle) and Ch 3 (32%) most at risk. Branch `claude/irfan-books-part-three-kh8nd2` (based on `claude/zealous-edison-mh1dpk`).
+
+**Next:** the user's feedback on Parts One and Two; score the predictions against it; then the Part Three briefs (Ch 8–12).
+
 ## Open questions for the user or lecturer
 1. The lecturer is M. S. Bahmanpour (from the slides). Confirm his preferred title and name format.
 2. **The class slides and hand-outs.** The lectures refer to slides, a "chart" of the branches, an Ibn Sina hand-out, a Miʿraj hand-out and a Chodkiewicz hand-out. Do these still exist?

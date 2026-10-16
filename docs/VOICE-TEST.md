@@ -1,74 +1,39 @@
-# The voice test: does a new chapter read as the same author? (D37)
+# The voice and chain tests (D37, revised D44)
 
-_Every Book 2 chapter must pass this test before the user sees it. It runs after the tone-editor pass and before the fidelity check. The tool is `build/voice.py`; the blind judge is the `voice-judge` agent._
+_Every Book 2 chapter runs these after the tone-editor pass and before the fidelity check. Tools: `build/voice.py`; agents: `voice-judge` (blind authorship) and `chain-auditor` (chain audit). Calibration evidence: `reviews/voice/CALIBRATION.md`._
 
-## Why two tests
-The tone-editor applies the rules in TONE.md and LINGO.md. A chapter can obey every rule and still read as a different writer, so the test asks a separate question: could a careful reader tell that this chapter was not written by the author of the prologue and Chapter 1? That question has two parts, and each test answers one.
+## What each test is for, and what calibration showed it can do
+A test is only worth running if it tells the user's approved prose apart from the drafts he rejected. Calibration (2026-10-16, 41 judge runs) measured this for each test against a fixed corpus (`reviews/voice/corpus/`): Author A is the prologue and Ch 1 as last approved (D43, commit `74fea4c`); the known negatives are the drafts he rejected (Ch 1 `7225b76` and `3d038c5`, prologue `9d02329`, Ch 2 and 3 v1 `2d8143e`, Ch 2 and 3 v2 `19a7da7`).
 
-1. **The profile (measured).** `python3 build/voice.py profile <chapter>` measures the chapter against the exemplar (commit `32e44c9`):
-   - words per paragraph and per sentence, the longest paragraph, and the share of sentences over 30 words
-   - the rate of "and", "but/yet", semicolons, colons, dashes, brackets, questions, "you", "we/us/our", "let's", "this/these", and commas per sentence
-   - banned lingo, intensifiers, wordy constructions, bad sentence openers and the TONE.md check words, ignoring words inside quotations
-   - Burrows' Delta on function words, the standard measure in authorship attribution.
-
-   Each figure is compared with its spread across the exemplar's own ~180-word chunks. **OFF** means at least 2 standard deviations away from what the exemplar's author does; **drift** means 1–2. The profile fails on any OFF figure, any lingo hit, or any paragraph over 115 words. (TONE 22 sets 110 as the target; the exemplar's own longest paragraph is 114.)
-
-2. **The blind judge (read).** `python3 build/voice.py blind NN <chapter>` builds an anonymised packet:
-   - **Reference, "Author A":** the prologue and Ch 1 sections 1–3.
-   - **12 test passages, shuffled:** 4 held-out passages from Ch 1 sections 4–8 (the real author), 4 from the new chapter, and 4 from a **control**, a Ch 1 draft the user rejected (commit `7225b76`, before D29).
-   - Quotations show as `[verse]` or `[quotation]`; point notes, citations and markers are removed.
-
-   A fresh `voice-judge` agent, which has seen neither the chapter nor the key, marks each passage "same hand" or "different hand" and quotes the tells. `python3 build/voice.py score NN` scores the answers against the key.
-   - **Valid** only if the judge catches at least 3 of the 4 control passages. A judge who cannot spot the rejected drafts proves nothing, so the run is repeated with a fresh judge.
-   - **Pass** if the chapter's passages are flagged no more often than the exemplar's own passages in the same run (the judge's false alarms). There is no free allowance.
-   - Whatever the verdict, every tell quoted against a chapter passage goes to the tone-editor, unless the same kind of tell was also raised against the real author in that run (the score prints those false alarms so they can be discounted).
-
-The control is what makes the test rigorous. The control drafts are on the same subject as the exemplar, so a judge who catches them is reading voice, not topic.
-
-## Calibration (2026-10-12)
-The test was run on the exemplar and on the drafts the user rejected, to check that it can tell them apart. Raw files: `reviews/voice/cal1-*`, `reviews/voice/cal2-*`.
-
-**Profile:**
-
-| Text | Verdict | Why |
+| Test | Role | Separates approved from rejected? |
 |---|---|---|
-| Prologue (exemplar) | PASS | |
-| Ch 1 (exemplar) | PASS | |
-| Ch 1, `7225b76` (v3, pre-D29) | REWRITE | longest paragraph 143; "you" OFF; And/But openers OFF; 8 lingo hits |
-| Ch 1, `5856b3c` (D29) | REWRITE | paragraph 118; "you" OFF; "fair enough" |
-| Ch 1, `3d038c5` (D30) | REWRITE | paragraph 144; "you" OFF; "fair enough", "of course", "we shall" |
-| Ch 1, `9ed0c2b` (D31, round 3) | REWRITE | paragraph 145; "fair enough", "of course" |
-| Prologue, `9d02329` (first draft) | REWRITE | paragraph 159; "you" and questions OFF; "rarely", "intelligent", "busy" |
-| Prologue, `3d038c5` (D30) | REWRITE | "you" OFF (7.5 sd); "as we should", "rarely" |
+| 1. Profile (measured) | **Gate** | Yes, for the hard negatives: it fails every v1 and early draft (attribution rate, paragraph length, "you", openers, lingo) and passes the approved text. It cannot see meandering: the v2 drafts pass. |
+| 2. Chain audit (editor) | **Edit list, with a ceiling** | Not on its own: Ch 1 scores 22–28% idle paragraphs, Ch 2 v1 22–25%. Repeat runs agree (±3 paragraphs) and its cuts are specific, so it drives the edit. |
+| 3. Blind judge (authorship) | **Advisory, optional** | No. Across three designs and 24 judges, held-out Author A and rejected drafts scored alike (AUC 0.43–0.47; 0.5 is chance). The judges' tells are sound but fire as often on Author A. |
 
-**Blind judge (two fresh Opus judges; 4 passages per source):**
+The old blind test (v1) passed every chapter, including Ch 2 v1, which the user rejected. Its control check was passing on content: judges caught 28 of 30 control passages that had a near-twin among Author A's passages, but only 32 of 46 without one.
 
-| Run | Candidate | Control caught | Exemplar false alarms | Candidate flagged | Verdict |
-|---|---|---|---|---|---|
-| cal1 | `9ed0c2b` (round 3, close to final) | 4/4 | 2/4 | 0/4 | PASS |
-| cal2 | `3d038c5` (D30) | 4/4 | 0/4 | 1/4 | REWRITE |
+## 1. Profile (gate)
+`python3 build/voice.py profile <chapter>` measures the chapter against Author A's ~180-word chunks: words per paragraph and sentence, the longest paragraph, long sentences, the rate of "and", "but/yet", semicolons, colons, dashes, brackets, questions, "you", "we", "let's", "this/these", commas per sentence, And/But openers, colon-then-quote; banned lingo, intensifiers, wordy phrases, bad openers and TONE check words outside quotations; the Sheikh named more than 5 times per 1,000 words (TONE 23). **OFF** = 2+ standard deviations from Author A. The chapter fails on any OFF figure, any hit, or a paragraph over 115 words. Function-word Delta is reported, not gated.
 
-**What this shows:**
-- The judge catches a clearly different hand every time: 8 of 8 control passages.
-- It sometimes flags the real author (2 of 8), so a single judge is noisy. That is why the pass mark is set against the same run's false alarms, not against zero.
-- Drafts that are close to the final text get past the judge but not the profile. A chapter must pass **both**.
-- Function-word Delta does not separate the drafts from the exemplar out of sample (median 0.88–0.91 against the exemplar's own 0.89), because the reference is only about 3,300 words. It is reported but is not a gate.
-- In the first run, the spelling "Quran" for "Qur'an" gave the control away; the packet now normalises spelling.
-- **House style is normalised in every passage (2026-10-13).** In round 2 for Ch 2 and Ch 3, the judges' strongest tells were conventions the user adopted after the exemplar was frozen: chapter numbers in words, the Oxford comma and "(as)" (D42). They were reading style, not voice. Every passage, the reference included, now passes through `house_style()`, which applies the current conventions, before the judge sees it. The round-2 runs are recorded but not counted. In round 3 the comma rule added commas heuristically and created a false "comma before a pair" habit, so from round 4 every comma before "and"/"or" is stripped from every passage alike.
+## 2. Chain audit (edit list)
+`python3 build/voice.py chain NN-x <chapter>` writes `reviews/voice/NN-x-chain-packet.md`: each section's point note, then its paragraphs numbered ¶1… A fresh `chain-auditor` (Fable) labels every paragraph `advance`, `support`, `restate` or `aside` against its section's point. `python3 build/voice.py chainscore NN-x` prints the counts.
+- **Ceiling:** idle paragraphs (restate + aside) no higher than Ch 1's own share under the same judge, 28% (two runs: 22% and 28%). Above that, cut or rework until under it.
+- **Below the ceiling,** read every flagged paragraph and either cut it or keep it with a one-line reason in the chapter report. The audit is stricter than the user: he approved Ch 1 with about a quarter of its paragraphs flagged.
+- Patterns it flags in every draft so far: a second or third scholar saying what the first said; a chapter-end summary paragraph that restates the section points; a closing question the chapter does not answer.
 
-**The tells the judges used most** (for writers and the tone-editor):
-- a claim, a colon and a quotation stacked in one sentence (TONE 15)
-- a tidy or balanced closing line ("It describes them as believers.")
-- sentences opening with "And", "But" or "Hence"; inverted openings ("Higher still is…")
-- commenting on the manner of a quotation ("He puts it bluntly:")
+## 3. Blind judge (advisory)
+`python3 build/voice.py blind NN <chapter> [--judges opus,fable,opus] [--round R]` writes one packet per judge (`NN-jK-packet.md`): Author A's reference (prologue and Ch 1 §1–3), then shuffled passages from Ch 1 §4–8 (held out), the chapter, and the control drafts, with no passage a near-twin of any other (4-gram overlap ≤ 10%). Judges rate each passage 0–100 and quote tells; `score NN` reports AUC per judge and a bootstrap interval. Run it only for a new kind of chapter or when re-calibrating; act on its tells only where the same kind of tell was not also raised against Author A in that run.
 
-The profile now also measures "And/But" openers and colon-then-quote.
+## The loop that makes the tests better
+The tests are only as good as their labels, and the user's reviews are the labels.
+1. **Before** the user reads a chapter, record the chain audit's flagged paragraphs (as in `reviews/voice/PREDICTIONS-ch02-07.md`).
+2. When his feedback arrives, mark each prediction **hit** or **miss**, and list what he criticised that was not predicted. Report precision and recall.
+3. Add what he rejected to the corpus as negatives (and what he approves as Author A), re-run `CALIBRATION.md`'s runs, and keep a test only if it separates the two.
+4. A tell that keeps predicting his comments becomes a profile check (measurable) or a TONE rule.
 
-## The rewrite loop
-1. Run the profile. Fix every OFF figure and lingo hit.
-2. Build the packet and run a fresh `voice-judge`.
-3. If the verdict is REWRITE, the judge's quoted tells go to the tone-editor as line edits. Apply them, then rebuild with `--round 2`, which samples different passages, and run a new judge.
-4. If round 3 still fails, stop. Send the user the draft with the remaining tells listed, and ask which they agree with. A tell they reject is noted in TONE.md as acceptable.
-5. Record each run in `reviews/voice/NN-report.md`: the profile table, the score, and the tells acted on.
-
-Repeated tells across chapters become TONE.md rules, with the before/after taken from the judge's quotes.
+## Rules learned in calibration (keep)
+- Author A is the exemplar **as last approved**, not the first freeze: the `32e44c9` text names the Sheikh 8.1 times per 1,000 words and fails today's profile.
+- The prologue cannot stand in for chapter prose: judges flag its book-about-the-book passages as a different hand.
+- Normalise house style (spelling, honorifics, quote marks, commas before "and"/"or") in every passage, or judges read conventions instead of voice.
+- Agent definitions load at session start; a changed judge prompt must be passed in the task prompt until the next session.

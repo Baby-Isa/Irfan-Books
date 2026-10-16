@@ -1,30 +1,23 @@
 #!/usr/bin/env python3
-"""Voice test: does a new chapter read as if the exemplar's author wrote it?
+"""Voice and chain tests (docs/VOICE-TEST.md, D37, D44).
 
-Two tests, both measured against the approved exemplar (D36):
-
-  profile  Stylometric profile. Measures paragraph and sentence length, the
-           habits TONE.md names ("and" chains, "you", semicolons, colons,
-           questions, dashes), banned lingo, and Burrows' Delta on function
-           words, which is the standard authorship-attribution measure.
-           Each figure is set against its spread across the exemplar's own
-           ~200-word chunks, so "off" means "outside what the exemplar's
-           author does".
-
-  blind    Builds an anonymised packet for the voice-judge agent: a reference
-           sample of the exemplar, then shuffled test passages drawn from
-           (a) held-out exemplar text, (b) the new chapter and (c) a control:
-           a draft the user rejected. The judge marks each passage "same
-           hand" or "different hand" and quotes its tells. `score` reads
-           the judge's answers against the key. The test is valid only if
-           the judge catches the control; the chapter passes only if its
-           passages are flagged no more often than the exemplar's own.
+  profile     Stylometric profile against Author A (the exemplar as last
+              approved). The gate.
+  chain       Chain-audit packet: each section's point, then numbered
+              paragraphs, for a fresh chain-auditor. chainscore counts the
+              paragraphs labelled restate or aside. The edit list.
+  blind       Blind authorship packets, one per judge, with held-out Author A
+              passages, the chapter and rejected drafts, no near-twins; score
+              reports AUC per judge. Advisory: calibration showed it cannot
+              separate approved from rejected prose (reviews/voice/CALIBRATION.md).
 
 Usage:
   python3 build/voice.py profile FILE|REV:PATH ...   (no args: the exemplar itself)
-  python3 build/voice.py blind NN book2/chapters/02-*.md [--control REV:PATH] [--round R]
+  python3 build/voice.py chain STEM book2/chapters/08-*.md
+  python3 build/voice.py chainscore STEM ...
+  python3 build/voice.py blind NN book2/chapters/08-*.md [--judges opus,fable,opus] [--round R]
   python3 build/voice.py score NN
-  python3 build/voice.py openings book2/chapters/02-*.md
+  python3 build/voice.py openings book2/chapters/08-*.md
 """
 import collections, json, random, re, statistics as st, subprocess, sys
 from pathlib import Path

@@ -262,3 +262,12 @@ _Append only. Each entry: date, decision, why. To reverse a decision, add a new 
   - "whereas" for contrasts (35)
   - fine points in short clean sentences (36)
   - state an apparent contradiction, then resolve it (37)
+
+## 2026-10-16: D44. Voice test rebuilt and calibrated; chain audit added
+- **Why:** the user asked for a good voice test that can be iterated. The v1 blind test passed every chapter, including Ch 2 v1, which he rejected; its control check passed on content (near-twin passages), not voice.
+- **Calibration** (41 judge runs; `reviews/voice/CALIBRATION.md`), against a fixed corpus of his approved text and the drafts he rejected:
+  - the **profile** separates the hard negatives and stays the gate;
+  - the **blind judge** cannot separate approved from rejected (AUC 0.43–0.47 over three designs), so it is now advisory and optional;
+  - the new **chain audit** (each paragraph labelled against its section's point by a fresh Fable `chain-auditor`) is repeatable and gives specific cuts, but rates Ch 1 and Ch 2 v1 alike; it is used as an edit list with a ceiling at Ch 1's level (28% idle paragraphs).
+- **Author A** is the prologue and Ch 1 as last approved (D43, `74fea4c`), snapshotted in `reviews/voice/corpus/`; the `32e44c9` freeze fails today's profile.
+- **The user's reviews are the labels:** predictions are recorded before he reads (`reviews/voice/PREDICTIONS-ch02-07.md`) and scored against his feedback; a test stays only if it predicts it (`docs/VOICE-TEST.md`).
