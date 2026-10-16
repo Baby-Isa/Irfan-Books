@@ -24,7 +24,7 @@ That neglected soul is where the theory of ʿirfan begins. Chapter Two argued th
 Everything we know, we know with the soul, and the soul knows itself by presence, so the theory of ʿirfan begins with it. The Qur'an places the whole human story in the soul: whoever purifies it succeeds, and whoever betrays it fails.
 :::
 
-Let's start with why the soul comes first. ʿIrfan has a practical side and a theoretical side. The practical side is the training by which the mystics come to see, whereas the theoretical side sets out what they have seen as an account of existence, the soul, and the world, argued much as philosophy is argued. When Sheikh Bahmanpour turns to the theory, he begins with the soul, "because this is the means to understand and to learn".
+ʿIrfan has a practical side and a theoretical side. The practical side is the training by which the mystics come to see, whereas the theoretical side sets out what they have seen as an account of existence, the soul, and the world, argued much as philosophy is argued. When Sheikh Bahmanpour turns to the theory, he begins with the soul, "because this is the means to understand and to learn".
 
 Whatever else we come to know, we know with the soul, the inner faculty that Chapter One found rusted and in need of repair. Before anything else can be studied, the instrument itself has to be understood: how it works and what it can do.
 
@@ -32,7 +32,7 @@ The soul is also the one thing we know from the inside. Chapter Two called this 
 
 The soul's knowledge of itself goes one step further. Here the one who perceives and the thing perceived are the same, since the soul perceives itself, and this is the clearest case of knowledge by presence there is.
 
-The Qur'an gives this instrument great weight. Surah al-Shams swears by the soul and by Him who fashioned it and "inspired it with [discernment between] its virtues and vices" (Q 91:7–8). The soul comes with the means to tell good from evil, a power not to be underestimated, and the next two verses say what follows from it.
+The Qur'an gives this instrument great weight. Surah al-Shams swears by the soul and by Him who fashioned it and "inspired it with [discernment between] its virtues and vices" (Q 91:7–8). The soul comes with the means to tell good from evil, and the next two verses say what follows from it.
 
 ::: {.ayah ref="91:9-10"}
 one who purifies it is felicitous, and one who betrays it fails.
@@ -104,7 +104,7 @@ The saying has been read both ways for this reason. Some read it as a denial: no
 
 Imam Khomeini sets the same limit on the meeting. Those who hold that liqaʾ Allah is open to the seeker do not mean, he writes, "that it is permissible to fathom the mystery of the Divine Essence" [@forty_hadith, p. 398]. God cannot be fathomed, so the meeting the mystics speak of is a nearness, *qurb*, and never a grasp of Him.
 
-Nearness to God is not a distance to be travelled. In Sheikh Bahmanpour's words, "We are actually in his presence at the moment. However, he is not in our presence." Both halves of that sentence describe us. The soul stands before God now, and what it lacks is its own perception of the One before whom it stands. One day, the lectures say, He will become present to it.
+Nearness to God is not a distance to be travelled. In Sheikh Bahmanpour's words, "We are actually in his presence at the moment. However, he is not in our presence." The soul stands before God now. What it lacks is the perception of the One before whom it stands. One day, the lectures say, He will become present to it.
 
 The journey to God, then, covers no distance. It removes what covers the heart: the veils, *hujub*, that keep it from perceiving the One who is already near. Chapter One met this idea in the word *muqarrabun*, those brought near to God, and found that being brought near means that a veil between the person and God has been removed, since God is not far from anyone. The prologue's line from the Munajat asks for the eyes of the heart to pass through even the veils of light. Chapter Eight sets out these veils and the stages in which they are lifted.
 

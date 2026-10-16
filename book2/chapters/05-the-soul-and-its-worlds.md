@@ -22,7 +22,7 @@ Chapter Four argued that the way to God runs through the self: God is near alrea
 The material world, the middle world of images, and the world of intellects are one reality at three depths, and each of us already knows a sample of all three from our senses, our imagination, and our understanding. The dead have not gone far: they have passed into a deeper side of the world we live in now.
 :::
 
-Let's start with the three worlds, one at a time, and with something each of us already knows about each of them. The mystics hold that the human soul is the whole of creation in small, a compact copy of everything that exists. If that is right, the three powers by which we know things, the senses, the imagination, and the intellect, should each give us a sample of one world.
+The mystics hold that the human soul is the whole of creation in small, a compact copy of everything that exists. If that is right, the three powers by which we know things, the senses, the imagination, and the intellect, should each give us a sample of one world, and each world can be approached through something we already know.
 
 The first world is the one our senses meet: *ʿalam al-mulk*, the material world. It is made of matter, things with weight that take up space, such as a table, a hand, or the rain. It is also called the witnessed world, because our senses witness it, and the other two worlds are called unseen. They are unseen not because they are far away but because the ordinary eye does not perceive them without training.
 
@@ -48,9 +48,9 @@ A *barzakh* is a barrier, something that stands between two things and keeps eac
 The soul has a share in all three worlds, and it passes into the middle world whenever its attention to the body loosens: in sleep, at death, and in contemplation. Unlike the angels it has no fixed station, so how far it goes is left open to the life it lives.
 :::
 
-The soul has a share in each of the three worlds. Chapter Four said that it carries something of the spirit God breathed into the first human being (Q 15:29). The lecture explains why a soul was needed for that: pure spirit and a body of clay have nothing in common, so something that reaches both had to stand between them, as the world of images stands between the world of intellects and ours. Each of us has an existence here and a counterpart in the world of images, and the counterpart is far larger than the self that walks about here.
+The soul has a share in each of the three worlds. Chapter Four said that it carries something of the spirit God breathed into the first human being (Q 15:29). A soul was needed, on this teaching, because pure spirit and a body of clay have nothing in common, so something that reaches both had to stand between them, as the world of images stands between the world of intellects and ours. Each of us has an existence here and a counterpart in the world of images, and the counterpart is far larger than the self that walks about here.
 
-When we enter that world, we will see that this life was like a film, something that restricted our actions, our pleasures, and our understanding. For now the soul's attention is held almost wholly by the body, so it lives in the witnessed world. There are three times when that hold loosens: in sleep, at death, and in contemplation.
+For now the soul's attention is held almost wholly by the body, so it lives in the witnessed world. There are three times when that hold loosens: in sleep, at death, and in contemplation.
 
 The first is sleep. When we sleep, the soul attends less to the body. With the senses no longer crowding out its other perceptions, it can touch the world of images, though it does not leave the body completely; if it did, we would be dead. This explains a dream that is more than memory. A person may see someone in a dream doing something that later happens, and a memory cannot show the future. Time works differently in the middle world, and the soul has seen there the counterpart of an event that has not yet happened here.
 
@@ -64,7 +64,7 @@ The verse speaks of the soul being taken in both, and Mohammad Ali Shomali expla
 
 Death, then, is not the soul slipping out of a body that held it. "The body is not carrying the soul but the soul is carrying the body," Sheikh Bahmanpour says, and when the appointed time comes, the soul sets the body down and goes. It does not go without a body, because a soul cannot be without one. The image body was with us all along, in another dimension and unseen, and the soul goes on in it. The image body is not the soul itself; it is the body the soul has in the middle world.
 
-The third loosening can happen while we are awake. Sleep showed that when the soul's attention leaves the body, it touches the middle world. A person who turns that attention to Allah until they become unaware of the body does the same thing awake, and sees there as one sees in sleep. This is the work of *muraqaba*, watchfulness: keeping the heart's attention on God. Nothing leaves the body in it. The soul does not leave the body, the Sheikh makes clear; what is turned is the attention.
+The third loosening can happen while we are awake. Sleep showed that when the soul's attention leaves the body, it touches the middle world. A person who turns that attention to Allah until they become unaware of the body does the same thing awake, and sees there as one sees in sleep. This is the work of *muraqaba*, watchfulness: keeping the heart's attention on God. Nothing leaves the body in it, the Sheikh makes clear; what is turned is the attention.
 
 ʿAllama Tabatabaʾi, Sheikh Bahmanpour recounts, was known for such moments, and he spoke of them as a gift. They came when God gave them, not when he chose; only the Imams (as) can pass between the worlds at will. The more he kept up his muraqaba, he said, the more distinctly he saw. None of this is the aim of the path. Chapter One placed that aim in God alone: powers of any kind, sought for themselves, make the goal something other than God.
 
@@ -116,7 +116,7 @@ If a reward can be the deed itself made visible, the form a soul meets after dea
 There is one nafs, called commanding, self-blaming, or at peace according to its state, and it can move from one state to the next. Remembrance, fasting, and the night prayer move it, and whatever we make of it stays with us forever, so what the self finally becomes is in our hands.
 :::
 
-If deeds give the soul its form, the self that does the deeds is not fixed either. The Qur'an names the *nafs*, the self, in three states. Let's take them in turn. The first is the self that commands to evil, *al-nafs al-ammara*, named in Surah Yusuf.
+If deeds give the soul its form, the self that does the deeds is not fixed either. The Qur'an names the *nafs*, the self, in three states. The first is the self that commands to evil, *al-nafs al-ammara*, named in Surah Yusuf.
 
 ::: {.ayah ref="12:53" words="4-11"}
 the [carnal] soul indeed prompts [men] to evil, except inasmuch as my Lord has mercy.
@@ -150,7 +150,7 @@ Behold! The hearts find rest in Allah's remembrance!
 
 The rest the verse promises is the peace of the soul at peace, and only remembrance gives it. On this teaching, meditation that consists of sitting still and thinking of nothing is shallow. Real meditation is reflection inside the soul, and it is carried by dhikr, which refreshes and revives the soul. Chapter Four's verse said that those who forget God are made to forget their own souls (Q 59:19); the reverse holds too, and without remembering God a person cannot come to know their own soul.
 
-Fasting and the night prayer work on the same tie to the body that sleep and muraqaba loosen. The soul manages the body, down to the digestion of a meal. In Ramadan Allah pours down His light everywhere, and the soul of the one who fasts, less taken up with the body, takes in that light without knowing it. *Salat al-layl*, the night prayer, likewise helps the soul free itself from the body and see the light.
+Fasting and the night prayer work on the same tie to the body that sleep and muraqaba loosen. The soul manages the body, down to the digestion of a meal, so a body that is not eating asks less of it. In Ramadan Allah pours down His light everywhere, and the soul of the one who fasts, less taken up with the body, takes in that light without knowing it. *Salat al-layl*, the night prayer, likewise helps the soul free itself from the body and see the light.
 
 These acts work because the soul takes on habits quickly. Trained to worry about the body, it worries about the body; trained to care for higher things, it comes to care for them and to see the light. In the lecture's image, the soul is like a fine elastic thing that can be held in the palm of a hand or stretched to the size of the universe, and it has been entrusted to us for a short time. Whatever we do with it, Sheikh Bahmanpour says, "would remain with us forever".
 

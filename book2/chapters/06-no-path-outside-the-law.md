@@ -24,7 +24,7 @@ Chapter Five found the self deeper than it appears, shaped by its own deeds and 
 The law, the path, and the truth are one religion at three depths: the law is what the Prophet ﷺ said to do, the path is doing it as he did it, and the truth is what he saw by doing it. Each depth is reached only through the one before it.
 :::
 
-Let's start with the three words the ʿurafaʾ use for the depths of the religion. The first is *shariʿa*, the law: how and when to pray and to fast, and what each act needs before it is valid. This is what most of us mean by practising the religion. Yet the law is not kept for its own sake. We pray and fast to draw near to God, and the way from the law to that nearness is called *tariqa*, a path.
+The ʿurafaʾ use three words for the depths of the religion. The first is *shariʿa*, the law: how and when to pray and to fast, and what each act needs before it is valid. This is what most of us mean by practising the religion. Yet the law is not kept for its own sake. We pray and fast to draw near to God, and the way from the law to that nearness is called *tariqa*, a path.
 
 The path is the inward side of the law. Suppose we prayed beside the Prophet ﷺ and copied every movement he made. A jurist watching would rule both prayers valid, because the form of an act is all a jurist can judge. What passed in the Prophet's heart, and in ours, lies beyond any ruling, and that inward way of doing the act is the tariqa. It leads to *haqiqa*, the truth: what the Prophet saw by praying as he prayed.
 
@@ -36,7 +36,7 @@ Mulla ʿAbd al-Samad Hamadani, a Shia ʿarif who had a hadith of the Ahl al-Bayt
 
 Hamadani found all three depths in a single salah. As service to God, *khidma*, the prayer is at the depth of the law. As a drawing near, *qurb*, it is at the depth of the path, and as an arrival, *wusul*, it is at the depth of the truth.[Sayyid Haydar Amuli records the saying: "Surely prayer is service, a coming closer and an arrival." @inner_secrets, p. 32] One prayer holds all three, and a prayer like the Prophet's serves God, draws near to Him, and arrives.
 
-The ʿurafaʾ give the three depths other names as well, and the levels of faith show what each depth brings: *islam*, *iman*, and *ihsan*. Islam is submission, doing what the law asks. Surah al-Hujurat marks the step from islam to iman, when some Bedouins claim more than they have.
+The levels of faith, *islam*, *iman*, and *ihsan*, follow the same order. Islam is submission, doing what the law asks. Surah al-Hujurat marks the step from islam to iman, when some Bedouins claim more than they have.
 
 ::: {.ayah ref="49:14" words="1-14"}
 The Bedouins say, 'We have faith.' Say, 'You do not have faith yet; rather, say, "We have embraced Islam," for faith has not yet entered into your hearts.'
@@ -76,7 +76,7 @@ The thought about the car arrives at exactly this point. Someone standing at the
 
 Imam Khomeini puts the difficulty as a question: "How is it that the study of a book often absorbs man's entire attention, but prayer does not?" [@light, p. 135]. A book can hold the mind entirely, so the faculty of attention is not missing. In *Forty Hadith* he names the two things that bring it to worship: "possessing unoccupied time and an unoccupied heart", and "making one's heart understand the importance of worship" [@forty_hadith, p. 375].
 
-The law also supplies the practice that the circle needs. Besides the obligatory and recommended prayers, the shariʿa gives many remembrances whose purpose is to turn more of our thought and time towards God, and Chapter Ten returns to these disciplines.
+The circle is broken by degrees. The tariqa gives the practice more depth each time it is done, and besides the obligatory and recommended prayers the shariʿa gives many remembrances whose purpose is to turn more of our thought and time towards God. Chapter Ten returns to these disciplines.
 
 ## To the last breath
 

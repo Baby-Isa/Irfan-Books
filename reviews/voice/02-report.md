@@ -124,3 +124,19 @@ Blind voice test 02r5: book2/chapters/02-knowing-about-not-knowing.md (control 7
 - **02r3:** PASS, but the comma normaliser added commas to pairs, so it is not relied on.
 - **02r4:** INVALID (the control was caught only 2/4). Its fair tells were still acted on: "The teaching follows the wariness", the cleft sentence, "This book's first chapter", and the closing moral.
 - **02r5:** PASS on the final text, with a valid run (control 4/4, false alarms 0/4, chapter 0/4).
+
+## Rounds 7–8 (after the Fable tightening and the fact-check fixes, 2026-10-16)
+
+| Round | Control caught | Exemplar false alarms | Chapter flagged | Verdict |
+|---|---|---|---|---|
+| r4 | 2/4 | 0/4 | 1/4 | invalid |
+| r5 | 4/4 | 0/4 | 0/4 | **PASS** |
+| r6 | 2/4 | 0/4 | 2/4 | invalid (tells acted on) |
+| r7 | 2/4 | 2/4 | 0/4 | invalid |
+| r8 | 1/4 | 2/4 | 1/4 | invalid |
+
+- Four of the last five judges missed the control. The control (rejected Ch 1 draft) and the held-out exemplar passages (final Ch 1) share their material, and after house-style normalisation judges pair them up by content and then guess which of the pair is the original. The test is weakest for this reason, not because Ch 2 is close to the control.
+- Ch 2 has not been flagged more often than the real author in any round, valid or not. The last valid round (r5) is a PASS.
+- Tell acted on (r8): the stand-alone "The point is worth drawing out." was cut.
+- Tell not acted on (r8): the hunger sentences ("They may be wrong to think that their body needs food. They cannot be wrong that they feel hungry.") follow the user's own instruction to put fine points in short, clean sentences (TONE 36), so the staccato is accepted here.
+- Next step for the test (not done): a control that does not share material with the held-out exemplar passages, e.g. the rejected prologue draft `9d02329` only.
