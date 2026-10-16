@@ -1,0 +1,41 @@
+{"profile": [
+  "Opens each paragraph on the last paragraph's point, often by repeating its key noun: 'Despite saying these words in our munajats…', 'The knowing meant here…', 'Repair is only the start.'",
+  "Paragraphs end on the point itself, usually a plain statement, not a flourish: 'That side of the religion is called ʿirfan.', 'In most of us, he says, it is not working.'",
+  "Mixed sentence length with short pivot sentences to turn the argument: 'This claim is not contested.', 'Most of us see only the lamp.'",
+  "Joins clauses with a bare 'and' but never chains three or more; uses colons for lists and semicolons for contrasts: 'The signs are all around us: in marriage, in the people we meet…'; 'A faculty that exists but has rusted can be repaired; one that is absent cannot…'; 'whereas' once.",
+  "Sheikh Bahmanpour named roughly once a paragraph with plain verbs ('says', 'reads it as', 'compares', 'insists', 'explains', 'adds'); 'he says' set as a parenthetical mid-sentence, not as a frame.",
+  "A quotation is a short fragment woven into the author's own sentence, then explained in the author's words straight after: '…\"There is a machine inside which is [rusted].\" That machine is the soul.'",
+  "Verses and quotations are led in by one short sentence saying what they do: 'The Qur'an describes the gap in one verse.', 'this is the whole subject in one sentence'.",
+  "Reader stance is inclusive 'we/us/most of us' and the occasional 'Let's start with…'/'let's turn to…'; never 'you' in argument, never scolding or presuming.",
+  "Plain concrete diction (machine, rusted, red light, lamp); no grand abstractions, no rhetorical questions; questions are reported indirectly ('asks why a believer should bother').",
+  "Numbers its steps in plain prose: 'Placing the fault in the receiver has two consequences. The first is… The second is…'; cross-refers to chapters by number ('as Chapter One shows').",
+  "Never uses sentence fragments, dramatic suspense, balanced antitheses or quotation stacks (three quoted fragments in one sentence); never ends on an unexplained quotation."
+ ],
+ "passages": {
+  "A": {"p": 58, "verdict": "same", "tells": ["Picks up the preceding image ('as a pupil would'), lead-in sentence before the quotation, 'he says' as mid-sentence parenthetical; slightly tidy close ('gives no other reason for coming') keeps it from higher"]},
+  "B": {"p": 70, "verdict": "same", "tells": ["Verse lead-ins of one plain sentence ('Surah Fatir describes the same people by what they feel'), 'Most of us' stance, short explanation after the verse"]},
+  "C": {"p": 28, "verdict": "different", "tells": [
+    "'Then: \"These are shirk.\"' — a dramatic fragment for suspense; Author A never uses fragments, would write 'He then calls them shirk.'",
+    "'each in his own words' — filler that adds nothing; Author A would go straight to the teacher and what he says",
+    "'tells the traveller that he \"has no right…\", nor to perform… \"does not move on the path…\" … \"though he may not admit it by word of mouth\"' — three quoted fragments stacked, the paragraph ending on an unexplained quotation; Author A quotes one fragment then explains it in his own words"
+  ]},
+  "D": {"p": 72, "verdict": "same", "tells": ["'The prayers go on to ask for three things… Let's take them in turn. The first is sight' — Author A's numbered-steps habit and inclusive 'Let's', with the Sheikh's explanation paraphrased plainly"]},
+  "E": {"p": 58, "verdict": "same", "tells": ["Opens on the last point ('Familiarity with the words is not the same as…'), 'makes a narrower point' mirrors 'makes the same point'; ends on a quotation without gloss, which lowers it"]},
+  "F": {"p": 55, "verdict": "same", "tells": ["Colon-led concrete list ('to be in two places at once, to see the future…') and second paragraph picking up 'Pursuing ʿirfan'; summary opening 'This is the case for…' and 'the real thing' are a little looser than the reference"]},
+  "G": {"p": 75, "verdict": "same", "tells": ["Quotation explained immediately in plain words ('The hadith sets the two kinds of knowing side by side… God places it in the heart') and a one-line lead-in to the next verse"]},
+  "H": {"p": 32, "verdict": "different", "tells": [
+    "'One addresses the heart of the seeker, the other the eye of the one choosing a guide. Neither makes powers the aim of the path.' — a balanced antithesis plus a summary line to close; Author A ends on the point without a flourish",
+    "'\"becomes possible at the beginning of spiritual vision\", but \"the stage of proximity to Allah is far away from this stage\" and such things \"are not a sign of anybody's being a favorite of Allah\"' — three quoted fragments stitched into one sentence; Author A quotes one fragment and glosses it",
+    "'Mutahhari's words show why seeking them would be: the goal has become something other than God' — compressed claim-colon-explanation; Author A would write it out as a plain sentence"
+  ]},
+  "I": {"p": 60, "verdict": "same", "tells": ["'shares its root with ʿilm al-huduri' echoes the reference's 'shares its root with maʿrifah'; quotations glossed afterwards ('A result in the laboratory is known because it has been observed'), though that last line is tidier than usual"]},
+  "J": {"p": 72, "verdict": "same", "tells": ["Cross-reference to 'the rusted faculty that Chapter One described' and the lead-in 'ties the light to the path in one line' match Author A's habits exactly"]},
+  "K": {"p": 72, "verdict": "same", "tells": ["Mirrors the reference's chapter opening ('These words come from…', 'The line asks God for…') and the 'many of us' stance; argument linked back to Chapter Two in plain prose"]},
+  "L": {"p": 75, "verdict": "same", "tells": ["'Let's start with…', the Sheikh's question reported indirectly and answered ('In the heart, he answers, it is'), the Arabic term glossed, link back to Chapter One"]},
+  "M": {"p": 65, "verdict": "same", "tells": ["Numbered gifts ('The second gift… The third gift…') with one-sentence verse lead-ins and the Sheikh's reading paraphrased; the brief comment after the second verse is thinner than Author A usually allows"]},
+  "N": {"p": 75, "verdict": "same", "tells": ["'Let's start with the two kinds of knowing', Arabic term glossed from its root ('hadd, also means a limit'), 'he adds' parenthetical, concrete example ('the rational animal')"]},
+  "O": {"p": 68, "verdict": "same", "tells": ["Opens on the last point ('If the faculty can be repaired…'), verse explained with a homely analogy ('a name means little to a person who does not know whom it names'); 'thus' is a touch more formal than the reference"]},
+  "P": {"p": 75, "verdict": "same", "tells": ["'Reason has a limit and Sheikh Bahmanpour says where it lies' mirrors 'The Qur'an says where it lies'; concrete attributes ('brown or square or useful'), 'In the Sheikh's account'"]},
+  "Q": {"p": 64, "verdict": "same", "tells": ["Each quotation glossed straight after ('In his scheme, what is learned from the jurist begins the circle…', 'His list starts with the heart…'), numbered sequence ('the third')"]},
+  "R": {"p": 70, "verdict": "same", "tells": ["Semicolon contrast ('There is nothing wrong with…; the trouble is…'), 'as we do', Arabic term glossed after the verse, 'Sheikh Bahmanpour points out' as parenthetical"]}
+ }}
