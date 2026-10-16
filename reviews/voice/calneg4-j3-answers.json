@@ -1,0 +1,48 @@
+{"profile": [
+  "Opens each paragraph on the last one's point: 'Despite saying these words in our munajats...', 'Placing the fault in the receiver has two consequences.'",
+  "Ends paragraphs on the point itself, at most a short plain consequence: 'In most of us, it is not working.'; no aphorism or flourish",
+  "Medium-short written sentences, plainly joined; 'and' links two items, not chains; semicolons and 'whereas' for contrast: 'Eyes and ears take in the surface of things, whereas inside a human being there should be something more'",
+  "Sources brought in with a plain verb or 'in X's words', once per point: 'Mohammad Ali Shomali makes the same point, describing...', 'in the Sheikh's words'",
+  "Quotations and verses are followed by an explanation that moves the argument: after Tabatabaʾi's red light, 'Most of us see only the lamp.'",
+  "Inclusive 'we/us' and an occasional 'Let's start with' / 'let's turn to'; almost never 'you'; never scolds or presumes",
+  "Concrete, everyday images over abstraction: 'a person who sees a red light thinks of the danger it warns of'",
+  "Builds the argument in numbered steps: 'Let's start with two claims. The first...', 'The second is that the problem can be solved.'",
+  "Signposts by chapter cross-reference without restating whole arguments: 'as Chapter One shows'",
+  "Calm, measured register; concessions stated plainly: 'This claim is not contested.'",
+  "Never: rhetorical questions, scene-setting drama, imperatives to the reader, tidy closing aphorisms, spoken phrasing"
+ ],
+ "passages": {
+  "A": {"p": 66, "verdict": "same", "tells": ["Restrained concrete opening image (hunger) then picks it up ('Most of what we know of God is of the kind gained by study') and uses A's 'Let's start with the two kinds of knowing' step structure"]},
+  "B": {"p": 55, "verdict": "same", "tells": ["Plain step-by-step linking ('Pursuing ʿirfan means training the soul...') and the quotation is glossed; mild drama in 'Then: \"These are shirk.\"' keeps it near the middle"]},
+  "C": {"p": 8, "verdict": "different", "tells": [
+    "'The families have gathered and the nikah is about to be read... Everyone in the room recognises it. It is beautiful and it is true.' — scene-setting and a flourish; Author A states it in one line: 'There is a verse often recited at weddings, one most of us know.'",
+    "'Start with what is not in dispute.' — bare imperative to the reader; Author A writes 'Let's start with two claims.'",
+    "'Nothing in this chapter asks you to doubt the first claim. The floor is real and it saves.' — 'you' plus a tidy aphoristic close; Author A stops on the point: 'This claim is not contested.'",
+    "'Sheikh Bahmanpour, whose lectures this book is drawn from, says so plainly' — re-introduces the teacher with filler; Author A writes 'Sheikh Bahmanpour accepts it as fair for ordinary believers.'"
+  ]},
+  "D": {"p": 74, "verdict": "same", "tells": ["Mirrors A's chapter opening ('These words come from...'), picks up Chapter Two's question explicitly, then 'Let's start with the order...' and glosses the Sheikh's quotation"]},
+  "E": {"p": 40, "verdict": "different", "tells": [
+    "'Murtada Mutahhari, the third, separates...' — a catalogue of teachers counted off one by one; Author A brings in one source per point and moves the argument on",
+    "'once the traveller has set out, the first essential, he says' / 'he writes' — 'he says' as filler inside paraphrase; Author A uses 'in X's words' once",
+    "'Their knowing is present to the soul, as hunger is present to the one who fasts and it comes as a light that God places in a purified heart.' — a summary line gathering the chapter's images; Author A ends on the point rather than recapping"
+  ]},
+  "F": {"p": 65, "verdict": "same", "tells": ["Short contrastive opening, quotation followed by explanation ('Other people look at the surface...'), semicolon contrast and plain gloss of muqarrabun as A does with Arabic terms"]},
+  "G": {"p": 52, "verdict": "same", "tells": ["Plain 'makes closely related points' framing and ending on a quotation, as A does with Shomali and Khomeini; the teacher-by-teacher catalogue keeps it near the line"]},
+  "H": {"p": 28, "verdict": "different", "tells": [
+    "'the Sheikh adds', 'the Sheikh says', 'In his words', 'the Sheikh says', 'in his account' — the teacher named again and again as filler; Author A names him once per point",
+    "'The sentence divides the work. Purification is the traveller's part; the light is Allah's to give.' — tidy aphoristic close; Author A stops on the explanation itself",
+    "'If the light is everywhere and the heart is closed, the path to knowing God is the opening of the heart.' — second paragraph restarts the argument rather than picking up the first paragraph's point about the Imam",
+    "'It is the repair of the rusted faculty that Chapter One described.' — restates an earlier conclusion where Author A would simply cross-refer"
+  ]},
+  "I": {"p": 70, "verdict": "same", "tells": ["Quotation explained at once ('A result in the laboratory is known because it has been observed'), concrete 'brown or square or useful' example, step from things to God as in A's reasoning"]},
+  "J": {"p": 40, "verdict": "different", "tells": [
+    "'It is this good life that the mystics seek.' — cleft closing line; Author A ends on the point without a summary flourish",
+    "'For the muqarrabun, the terms are entirely different from those of ordinary believers.' — a one-line paragraph after the verse that does not explain it; Author A glosses each verse",
+    "'It is difficult, but it is open, because we are made for it... He means this as a statement of what we were made for... God created us with that capacity and wants us to reach it.' — the same conclusion restated three times; Author A says it once"
+  ]},
+  "K": {"p": 68, "verdict": "same", "tells": ["Picks up 'cut off' from the prior point, glosses each prayer after quoting it ('What the prayer asks to lose is the heart's love for the world'), plain and measured"]},
+  "L": {"p": 74, "verdict": "same", "tells": ["Each paragraph opens on the last one's point ('Knowledge that analysis cannot produce has to come from somewhere else'), quotation explained, ends by setting up the next step without a flourish"]},
+  "M": {"p": 66, "verdict": "same", "tells": ["Numbered steps ('The second request...', 'The third request...'), each quotation followed by a plain gloss, concrete image of calling into the sky"]},
+  "N": {"p": 62, "verdict": "same", "tells": ["Opens on the reference's last point ('If the faculty can be repaired...'), concrete reasoning about the trembling heart; 'simple to say and hard to grasp' is slightly aphoristic"]},
+  "O": {"p": 57, "verdict": "same", "tells": ["Measured reconciliation of two positions ('The two positions answer different questions') in A's plain register; the list of prayer times and repeated naming of Khomeini and Maliki Tabrizi keep it near the middle"]}
+ }}

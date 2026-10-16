@@ -1,0 +1,59 @@
+{"profile": [
+  "Opens a paragraph on the last one's point, often by restating it as a premise: 'If the signs are present and plain and yet we still pass them by, the fault is on our side.' / 'Placing the fault in the receiver has two consequences.'",
+  "Ends a paragraph on the point itself, often a short plain sentence, not a flourish: 'In most of us, it is not working.' / 'That side of the religion is called ʿirfan.'",
+  "Medium-length written sentences; 'and' joins two clauses but rarely chains three or more; semicolons set two halves against each other: 'God is not withholding signs; we are failing to receive them.'",
+  "Uses 'whereas' and colon-led lists for contrast and enumeration: 'Eyes and ears take in the surface of things, whereas inside a human being there should be something more: a faculty...'",
+  "Brings a source in once per point, with a plain verb or 'in X's words', then moves on: 'In Murtada Mutahhari's words, the ʿarif \"wishes to reach...\"' / 'Imam Khomeini insists that...'",
+  "Explains a quotation or verse right after it, usually with a concrete gloss: 'Most of us see only the lamp. We witness the rain as rain and the marriage as a marriage...'",
+  "Introduces a verse with a sentence saying what it will show, ending on a full stop: 'The Qur'an describes the gap in one verse.'",
+  "Inclusive 'we/us' and occasional 'Let's': 'Let's start with two claims.' / 'let's turn to the Qur'an'; never scolds or presumes about the reader",
+  "Plain, concrete diction with homely images (red light, lamp, rusted machine), not grand abstraction",
+  "Each paragraph moves the argument one step; claims are numbered and followed through: 'The first is... The second is that the problem can be solved.'",
+  "Signposts sparingly and to the chapter's subject: 'That something and why it is worth developing, is the subject of this chapter.'",
+  "Never uses rhetorical questions, jokes, lecture-room anecdote, or repeated 'he says' filler"
+ ],
+ "passages": {
+  "A": {"p": 52, "verdict": "same", "tells": ["Explains each prayer right after quoting it ('What the prayer asks to lose is the heart's love for the world...'; 'The line names God as the one who cleared these hearts') and ends on the point; the second paragraph's 'therefore' restatement is a mild doubt."]},
+  "B": {"p": 42, "verdict": "different", "tells": [
+    "'Sheikh Bahmanpour read several of its lines to his listeners' — a remark about the lecture room that doesn't move the argument; Author A would just bring in the prayer and say what it asks",
+    "'Sheikh Bahmanpour reads...' / 'In his reading...' / 'the Sheikh finds both' / 'the Sheikh says' — the Sheikh named four times in a short passage; Author A names a source once per point",
+    "'For some of us, the Sheikh says, calling on God can feel like calling into the sky to someone far away' — a softer, chattier register than Author A's concrete but restrained images"
+  ]},
+  "C": {"p": 64, "verdict": "same", "tells": ["Paragraphs pick each other up ('Practice depends on knowing what to practise and this is where study comes in'), and the quotation is glossed concretely afterwards ('Learning starts the circle, practice purifies the heart...'), as in the reference."]},
+  "D": {"p": 28, "verdict": "different", "tells": [
+    "'For the muqarrabun, the terms are entirely different from those of ordinary believers.' — a stray one-line paragraph after a verse, leaving it unexplained; Author A always says what the verse shows",
+    "'It is this good life that the mystics seek.' — a tidy closing line; Author A stops on the point itself",
+    "'That doorway is open to people like us: ordinary people can also enter the realm of the muqarrabun. It is difficult, but it is open, because we are made for it.' — restates the previous paragraph's conclusion; Author A moves the argument on",
+    "'He means this as a statement of what we were made for... God created us with that capacity and wants us to reach it.' — the same point made three times; Author A says it once"
+  ]},
+  "E": {"p": 64, "verdict": "same", "tells": ["Opens on the last paragraph's point ('If this is true of the things around us...'), explains the Imam's images right after the quotation, and uses a semicolon contrast ('It is also negative; each statement removes something from Him') and a homely image (hunger)."]},
+  "F": {"p": 46, "verdict": "different", "tells": [
+    "'The point is worth drawing out.' — meta throat-clearing; Author A goes straight to the point ('A person who has eaten enough can still feel hungry')",
+    "'Hunger, the example this chapter opened with, is another and so are pain and anxiety. Anxiety has a cause outside us...' — a side remark on anxiety that adds a true point without moving the argument on"
+  ]},
+  "G": {"p": 62, "verdict": "same", "tells": ["Picks up the last point ('This second kind of knowing is what the mystics are after'), gives a crisp contrast ('ʿilm aims at understanding and maʿrifah aims at arriving'), and explains it with the hunger image, all in Author A's plain written register."]},
+  "H": {"p": 54, "verdict": "same", "tells": ["'Let's take them in turn' and the numbered follow-through ('The first is sight') match the reference, and the quotation is explained afterwards; the 'veils of light' aside is a slight digression."]},
+  "I": {"p": 62, "verdict": "same", "tells": ["Opens like the reference ('These words come near the end of Duʿa Kumayl...', 'when many of us hear it'), links back to the previous chapter, and uses 'Let's start with...' as the reference does."]},
+  "J": {"p": 44, "verdict": "different", "tells": [
+    "'The great teachers of the Shia tradition make closely related points, each in his own words.' — a generic opener that announces a list of sources rather than picking up the last point",
+    "'Imam Khomeini reports... Murtada Mutahhari uses the same word... he writes... he recalls' — a catalogue of scholars with no gloss after any of them; Author A explains each quotation before moving on",
+    "'the test his teacher Ayatullah Shahabadi used: the measure of true spiritual effort is how much selfishness is in it' — a claim, a colon and then a quotation stacked in one sentence"
+  ]},
+  "K": {"p": 30, "verdict": "different", "tells": [
+    "'The heart is what is closed and the work of the ʿurafaʾ is to open it and let the light in.' — an 'and' chain ending in a neat image; Author A separates the clauses",
+    "'Purification changes the heart and brings it within reach of a light that is never withheld.' — a summary line at the end of the paragraph restating what was just said",
+    "'The light comes to the hearts of the pure and darkness covers the impure. Chapter One reached the same conclusion by a different road.' — restates a conclusion and goes back over Chapter One without moving the argument on",
+    "'Imam Khomeini explains why purification matters so much.' — the intensifier 'so much'; Author A would write 'Imam Khomeini explains what purification makes possible'"
+  ]},
+  "L": {"p": 40, "verdict": "different", "tells": [
+    "'This is the case for pursuing ʿirfan.' — opens with a restated conclusion summarising the chapter; Author A moves on rather than recapping",
+    "'Sheikh Bahmanpour ended his first lecture more strongly.' — a lecture-room anecdote used to frame the quotation; Author A would just give the Sheikh's words and gloss them",
+    "'Shirk, setting up a partner beside God, is the gravest charge in Islam.' — a closing flourish rather than a gloss that carries the point forward"
+  ]},
+  "M": {"p": 44, "verdict": "different", "tells": [
+    "'These words, he says, belong to... He asks why... Telling ordinary believers to say them, he says, is...' — 'he says' used as filler twice in three sentences; Author A introduces the source once",
+    "'Murtada Mutahhari names these prayers together in his introduction to ʿirfan.' — opens on a new source instead of picking up the previous paragraph's point"
+  ]},
+  "N": {"p": 58, "verdict": "same", "tells": ["Short plain opening contrast, a semicolon antithesis ('Other people look at the surface of the world; the friends of God look at what lies inside it'), and a glossed Arabic term after the verse, as in the reference; 'There is nothing wrong with pursuing material wealth' is slightly looser."]},
+  "O": {"p": 58, "verdict": "same", "tells": ["Picks up exactly from the reference's last point ('If the faculty can be repaired, there should be people in whom it already works') and explains the verse with a concrete argument ('A heart trembles only at the mention of someone it has some experience of'); the 'two groups' sentence is slightly redundant."]}
+ }}
