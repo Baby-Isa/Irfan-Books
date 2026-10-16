@@ -108,7 +108,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | maʿad | maad | | Return, resurrection | L16 |
 | mahiyya | mahiyyat | | Quiddity or essence | L13 |
 | mahw | mahv | | Obliteration; annihilation in action | L09 |
-| Malik ibn Anas | | | The early jurist of Madina, founder of the Maliki school, to whom Imam al-Sadiq (as) first sent ʿUnwan al-Basri | B2 Ch7 |
+| Malik ibn Anas | | | The early jurist of Medina, founder of the Maliki school, to whom Imam al-Sadiq (as) first sent ʿUnwan al-Basri | B2 Ch7 |
 | makruh | makrooh | | Disliked | L07 |
 | malakut | Malaqut, malakut | | The intermediate world of angels | L09 |
 | Malamatiyya | Malamatiyah | | The "people of blame", Sufis who sought blame | L12 |
