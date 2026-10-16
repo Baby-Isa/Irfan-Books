@@ -136,9 +136,7 @@ Sheikh Bahmanpour still recommends the Munajat to every listener, to be recited 
 The goal of ʿirfan is already on the believer's lips. The prayers we keep on ordinary nights ask, in the voice of need, for severance from all else, and for sight, love, and nearness.
 :::
 
-Access to these words is where an ordinary believer already stands on the path. Part One began with the Qur'an's invitation to more than the minimum. Chapter Two showed that the more is knowing God, not only knowing about Him, and that it is reached by purifying the heart. The prayers that believers already say ask for that same knowing, and for the love that goes with it.
-
-The Munajat Shaʿbaniyyah, Duʿa Kumayl, Duʿa Abu Hamza al-Thumali, and Duʿa ʿArafah ask God to cut the heart off from all else, to light it, to fill it with His love, and to bring it near. They ask in the voice of someone in need, on nights the ordinary believer keeps. The goal of ʿirfan is therefore not foreign to the believer: it is already on our lips. The full text of the Munajat Shaʿbaniyyah, in Arabic and English, is given in the Appendix.
+Access to these words is where an ordinary believer already stands on the path. Part One began with the Qur'an's invitation to more than the minimum, and Chapter Two showed that the more is knowing God, not only knowing about Him, reached by purifying the heart. The Munajat Shaʿbaniyyah, Duʿa Kumayl, Duʿa Abu Hamza al-Thumali, and Duʿa ʿArafah ask for that same knowing and the love that goes with it: they ask God to cut the heart off from all else, to light it, to fill it with His love, and to bring it near. They ask in the voice of someone in need, on nights the ordinary believer keeps. The goal of ʿirfan is therefore not foreign to the believer: it is already on our lips. The full text of the Munajat Shaʿbaniyyah, in Arabic and English, is given in the Appendix.
 
 These prayers keep asking God to work on the heart and the self. What is this self?
 
