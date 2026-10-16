@@ -50,7 +50,7 @@ A heart cut off from all else is free for God, and the prayers go on to ask to s
 
 A heart cleared of everything but God is free for Him. The prayers go on to ask for three things: to see God with the heart, to love Him, and to come near Him. Let's take them in turn.
 
-The first is sight. The Munajat asks God to light the eyes of the heart so that they look at Him, and pass even through the veils of light. The Sheikh raises the difficulty himself: the Qur'an says that sight cannot perceive God (Q 6:103), and some who meet these words take them for a mistake. In a later lecture he gives the answer. The eyes cannot catch Him; the prayer is speaking of the heart. Those eyes work, and still we miss God's signs, because the faculty behind them is blind. The prayer asks God to give that inner eye light to see by.
+The first is sight. The Munajat asks God to light the eyes of the heart so that they look at Him, and pass even through the veils of light. The Sheikh raises the difficulty himself: the Qur'an says that sight cannot perceive God (Q 6:103), and some who meet these words take them for a mistake. In a later lecture he gives the answer. The eyes cannot catch Him; the prayer is speaking of the heart. Our physical eyes work perfectly well, and still we miss God's signs, because the inner faculty behind them is blind. The prayer asks God to give that inner faculty, the eye of the heart, light to see by.
 
 Duʿa ʿArafah, as given in the Mafatih, speaks of that light as something God has already lit in the hearts of His friends.
 
@@ -84,7 +84,7 @@ My God, place us with him whom Thou hast chosen for Thy nearness and Thy friends
 
 For some of us, calling on God can feel like calling into the sky to someone far away. For others, God is present when they call, and they feel His response. The prayer asks to be placed with these: among those chosen for His nearness, and granted the sight of His face.
 
-Murtada Mutahhari names these prayers together in his introduction to ʿirfan. "The Du'a' Kumayl, the Du'a' Abi Hamzah, the supplications of al-Sahifat al-Kamilah and the group of supplications called Sha'baniyyah," he writes, "all contain the most sublime spiritual ideas" [@light, p. 20]. He cites them to show that ʿirfan has its sources inside Islam, with no need to look for its origin elsewhere.
+Murtada Mutahhari names these prayers together in his introduction to ʿirfan: Duʿa Kumayl, Duʿa Abu Hamza, the supplications of the Sahifa, and the Shaʿbaniyyah. They "all contain the most sublime spiritual ideas", he writes [@light, p. 20]. He cites them to show that ʿirfan has its sources inside Islam, with no need to look for its origin elsewhere.
 
 ## A pupil reading above his level
 
@@ -107,7 +107,7 @@ The line at the head of Part One takes this humility further. In it the Munajat 
 The answer to the difficulty rests on the same humility. We do not understand many of the meanings of these words, which are above our level and beyond our capacity, yet not understanding them does not make them meaningless. We have been honoured, because we are allowed to recite them. God invites the reciter to come and say them, and if the reciter is sincere, He may grant the request, as He granted the Imams what they asked.
 
 ::: {.box-word title="Word Study: duʿa and munajat"}
-*Duʿa* is the general word for supplication: any request addressed to God, in any words. A *munajat* is one kind of duʿa. The Mafatih's English calls the Munajat Shaʿbaniyyah a "confidential prayer" [@mafatih, p. 243], and William Chittick translates the fifteen munajat printed with the Sahifa as "whispered prayers" [@sahifa, p. 9]. Both translations describe speech meant for God alone. Mirza Jawad Maliki Tabrizi explains why the Imams' supplications reach further than their other words. In their narrations they spoke with people; in their supplications they spoke with God, and the level of speech depends on the understanding of the one addressed. The Qur'an, he writes, is a "Descending-Qur'an", God's words to His servants. The supplications are an "Ascending-Qur'an", the words of His most distinguished servants rising towards Him [@journey, p. 43].
+*Duʿa* is the general word for supplication: any request addressed to God, in any words. A *munajat* is one kind of duʿa. The Mafatih's English calls the Munajat Shaʿbaniyyah a "confidential prayer" [@mafatih, p. 243], and William Chittick translates the fifteen munajat printed with the Sahifa as "whispered prayers" [@sahifa, p. 9]. Both translations describe speech meant for God alone. Mirza Jawad Maliki Tabrizi explains why the Imams' supplications reach further than their other words. In their narrations they spoke with people, whereas in their supplications they spoke with God, and the level of speech depends on the understanding of the one addressed. The Qur'an, he writes, is a "Descending-Qur'an", God's words to His servants. The supplications are an "Ascending-Qur'an", the words of His most distinguished servants rising towards Him [@journey, p. 43].
 :::
 
 ## Prayers for ordinary nights
@@ -138,7 +138,7 @@ Sheikh Bahmanpour still recommends the Munajat to every listener, to be recited 
 The goal of ʿirfan is already on the believer's lips. The prayers we keep on ordinary nights ask, in the voice of need, for severance from all else, and for sight, love, and nearness.
 :::
 
-Access to these words is where an ordinary believer already stands on the path. Part One began with the Qur'an's invitation to more than the minimum. Chapter Two showed that the more is knowing God, not only knowing about Him, and that it is reached by purifying the heart. This chapter has found that knowing, with the love that goes with it, in prayers believers already say.
+Access to these words is where an ordinary believer already stands on the path. Part One began with the Qur'an's invitation to more than the minimum. Chapter Two showed that the more is knowing God, not only knowing about Him, and that it is reached by purifying the heart. The prayers that believers already say ask for that same knowing, and for the love that goes with it.
 
 The Munajat Shaʿbaniyyah, Duʿa Kumayl, Duʿa Abu Hamza al-Thumali, and Duʿa ʿArafah ask God to cut the heart off from all else, to light it, to fill it with His love, and to bring it near. They ask in the voice of someone in need, on nights the ordinary believer keeps. The goal of ʿirfan is therefore not foreign to the believer: it is already on our lips. The full text of the Munajat Shaʿbaniyyah, in Arabic and English, is given in the Appendix.
 

@@ -167,5 +167,36 @@ Once he is named, the rest of that line of thought belongs to him, so don't name
 - Before: "It reaches us from outside, through the senses or by reasoning. We form concepts of the things around us, then analyse those concepts."
 - After: "…We form concepts of the things around us and then analyse those concepts."
 
+### 32. No mic-drop endings
+**Do:** fold a short concluding clause into the sentence before it, so a paragraph ends on its point stated plainly.
+**Don't:** end a paragraph on a short, punchy sentence that delivers the answer like a reveal.
+- Before: "…and left open what kind of knowledge that is. It is knowledge by presence."
+- After: "…and left open what type of knowledge it refers to; it assuredly refers to knowledge by presence."
+
+### 33. Theological care in every phrase
+**Do:** phrase every statement about God so that nothing is said to act upon Him, diminish Him, or limit Him.
+- Before: "It is also negative; each statement removes something from Him."
+- After: "It is also negative knowledge: each statement says what God is not, and none says what He is."
+
+### 34. Explain every technical idea in plain English
+**Do:** when a term or school would be unknown to an interested lay reader, explain it in plain words. A single unfamiliar word gets a brief gloss in brackets on first use ("a quatrain (a poem of four lines)"). An idea that needs more than a sentence gets a box (for example, the Peripatetic and transcendent schools of philosophy, Ch 2).
+**Don't:** name a technical term ("the Peripatetic school, *al-hikma al-mashshaʾiyya*") and move on.
+
+### 35. Make a contrast explicit
+**Do:** when two clauses contrast, join them with "whereas" (or "while"), not a bare semicolon.
+- Before: "*Husul* means acquiring or obtaining; *hudur* means presence."
+- After: "*Husul* means acquiring or obtaining, whereas *hudur* means presence."
+
+### 36. Make a fine point in short, clean sentences
+**Do:** when a point is subtle, give each half its own plain sentence.
+**Don't:** compress it into one sentence of commas and semicolons.
+- Before: "What can be wrong is the conclusion drawn from it, that the body needs food; the feeling itself is known without error."
+- After: "They may be wrong to think that their body needs food. They cannot be wrong that they feel hungry."
+
+### 37. State an apparent contradiction, then resolve it
+**Do:** when two sources seem to disagree, say so plainly in one sentence, then resolve the disagreement step by step in the next few.
+- Example (Ch 2): the hadith says God casts the light into the heart of whomever He wills, while the verse says His light is everywhere. Both are true. Every act is God's, and nothing happens except by His will, but His will is not to withhold. What keeps a heart dark is that it is closed.
+**Don't:** pack several separate points about the tension into one paragraph without first naming it (rule 30 extended).
+
 ## Check before handing over
 Read only the first sentence of every paragraph in order. If the argument does not follow, fix the openings (rule 1). Then read every sentence against its section's point note (rules 2 and 11). Then count the Sheikh's name (rule 23) and the attribution verbs ("he says", "he adds", "he notes"). Then search for "as we should", "rarely", "never", "lip service", "intelligent", "busy", "you will find", "of course", and for any quotation that is not spoken to in the sentence after it.

@@ -41,7 +41,9 @@
 })
 
 // ---------- inline helpers used by the Lua filter ----------
-#let ar(body) = text(font: "Amiri", lang: "ar", dir: rtl, size: 1.12em, body)
+// Inline Arabic: isolated in a box so right-to-left text cannot reorder the brackets or
+// footnote marks around it; body size, with edges that do not open up the line spacing.
+#let ar(body) = box(text(font: "Amiri", lang: "ar", dir: rtl, size: 1em, top-edge: "x-height", bottom-edge: "baseline", body))
 
 #let horizontalrule = align(center, block(above: 1.2em, below: 1.2em, star(size: 7pt, fill: teal)))
 

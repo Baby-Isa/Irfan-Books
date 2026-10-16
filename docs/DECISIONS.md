@@ -241,3 +241,24 @@ _Append only. Each entry: date, decision, why. To reverse a decision, add a new 
   - The light-in-the-heart tension is reconciled with `forty_hadith` p. 331 ("no niggardliness in the higher realms") and Q 2:282.
   - The Ibn Sina box is now the held story (`light` p. 29) with its point: an argument cannot take the place of deeds.
   - The unsourced line "knowledge comes from the Imam" (L03 ¶11) is dropped (D39).
+
+## 2026-10-16: D43. Round 2 of the user's Ch 2/3 review; Ch 1 attributions trimmed
+- **Ch 1:** the Sheikh is named 9 times instead of 18, and the "he says" lines are gone (8 to 0); only attributions changed. **The prologue stays as it is** (user).
+- **Ch 2 fixes:**
+  - the false-hunger point is made in two plain sentences;
+  - "whereas" replaces semicolons in contrasts;
+  - no mic-drop endings;
+  - Ibn Sina: the reality of things is beyond the reach of human *reason*;
+  - negative knowledge is phrased so that nothing is "removed" from God;
+  - the Mulla Sadra box now explains the Peripatetic and transcendent schools in plain English (L09 ¶70–71; L03 ¶28; `light` pp. 35, 40, 42; `kernel` p. 7);
+  - the hadith/verse tension on the light is stated and then resolved (rule 37);
+  - "quatrain" is glossed.
+- **Ch 3 fixes:** "physical eyes" vs "the eye of the heart"; "whereas"; the closing sentence of the conclusion made clearer; "Abu Hamza" used throughout. The only "Abi Hamzah" was inside Mutahhari's quotation, which is now paraphrased with just its key phrase quoted.
+- **Inline Arabic:** set in an isolated box at body size with fixed line edges, so it no longer opens up the line spacing or reorders the brackets and footnote marks around it.
+- **TONE rules 32–37:**
+  - no mic-drop endings (32)
+  - theological care (33)
+  - explain technical ideas in plain English, with brief bracketed glosses (34)
+  - "whereas" for contrasts (35)
+  - fine points in short clean sentences (36)
+  - state an apparent contradiction, then resolve it (37)

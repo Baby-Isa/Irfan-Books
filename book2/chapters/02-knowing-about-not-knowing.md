@@ -24,14 +24,14 @@ Acquired knowledge works by defining its object. To understand a thing, we sort 
 
 The second kind is knowledge by presence, *ʿilm al-huduri*. It does not come from outside and needs no concept to carry it; it is with the soul already. The plainest case is our knowledge of our own self. Hunger, the example this chapter opened with, is another, and so are pain and anxiety. Anxiety has a cause outside us, yet the feeling arises inside the soul, and the cause is not the feeling.
 
-Knowledge by presence is complete in a way that acquired knowledge is not. When the body is hungry, the soul knows it at once and without effort, and nothing of the hunger is missed. The Sheikh adds that the hunger may even be false, and yet what is felt is real. The point is worth drawing out. A person who has eaten enough can still feel hungry, and no one can argue them out of the feeling. What can be wrong is the conclusion drawn from it, that the body needs food; the feeling itself is known without error.
+Knowledge by presence is complete in a way that acquired knowledge is not. When the body is hungry, the soul knows it at once and without effort, and nothing of the hunger is missed. The Sheikh adds that the hunger may even be false, and yet what is felt is real. The point is worth drawing out. A person who has eaten enough can still feel hungry, and no one can argue them out of the feeling. They may be wrong to think that their body needs food. They cannot be wrong that they feel hungry.
 
 This second kind of knowing is what the mystics are after. Sheikh Bahmanpour defines mysticism as the urge to reach out to the infinite through knowledge by presence. The two kinds of knowing aim at different things: *ʿilm* aims at understanding, and *maʿrifah* aims at arriving. A person does not try to understand their hunger; they arrive at it and feel it. In the same way, the mystic's aim is to arrive at God and not to define Him, since a God who has been defined has been limited.
 
 Imam Khomeini records the same distinction, citing the view that a gnostic of God "knows God through direct witnessing", while a scholar of God "attains the knowledge of God through philosophical proofs" [@forty_hadith, p. 542].
 
 ::: {.box-word title="Word Study: ʿIlm al-husuli and ʿilm al-huduri"}
-*Husul* means acquiring or obtaining; *hudur* means presence. In *ʿilm al-husuli*, acquired knowledge, what reaches the mind is a concept or an image of the thing, while the thing itself stays outside. In *ʿilm al-huduri*, knowledge by presence, the thing known is itself present to the soul, as our own self, our hunger, and our pain are present. Imam Khomeini's word for the gnostic's witnessing, *huduriyya*, comes from the same root. The religious texts use *ʿilm* and *maʿrifah* for the same thing; this book keeps them apart only to make the two kinds of knowing easier to see. Chapter One's Word Study noted that there is no way to God except through knowledge, and left open what kind of knowledge that is. It is knowledge by presence.
+*Husul* means acquiring or obtaining, whereas *hudur* means presence. In *ʿilm al-husuli*, acquired knowledge, what reaches the mind is a concept or an image of the thing, while the thing itself stays outside. In *ʿilm al-huduri*, knowledge by presence, the thing known is itself present to the soul, as our own self, our hunger, and our pain are present. Imam Khomeini's word for the gnostic's witnessing, *huduriyya*, comes from the same root. The religious texts use *ʿilm* and *maʿrifah* for the same thing; this book keeps them apart only to make the two kinds of knowing easier to see. Chapter One's Word Study noted that there is no way to God except through knowledge, and left open what type of knowledge it refers to; it assuredly refers to knowledge by presence.
 :::
 
 ## Where reason stops
@@ -40,7 +40,7 @@ Imam Khomeini records the same distinction, citing the view that a gnostic of Go
 Reason knows things by their attributes and never reaches what they are. With God, who has no limits for a definition to draw, reason can prove that He exists and say what He is not. Knowing Him positively needs knowledge by presence, and the only place we have that knowledge is within our own soul, so that is where the answer must be found.
 :::
 
-Acquired knowledge is the work of reason, *ʿaql*, the faculty by which we understand and argue. Reason has a limit. When we know a thing, we know its attributes: its colour, its size, and what it does. Reason does not reach the thing that carries those attributes. Every description says that it is brown or square or useful, and none says what the "it" is. Ibn Sina, the greatest of the Muslim philosophers, granted this. The reality of things, he held, is beyond human capacity.
+Acquired knowledge is the work of reason, *ʿaql*, the faculty by which we understand and argue. Reason has a limit. When we know a thing, we know its attributes: its colour, its size, and what it does. Reason does not reach the thing that carries those attributes. Every description says that it is brown or square or useful, and none says what the "it" is. Ibn Sina, the greatest of the Muslim philosophers, granted this. The reality of things, he held, is beyond the reach of human reason.
 
 If this is true of the things around us, it is true far more of God. God has no colour or size for the mind to take hold of, and no boundary for a definition to draw. Imam ʿAli (as) says as much at the opening of the first oration in *Nahj al-Balagha*, where he praises God.
 
@@ -50,7 +50,7 @@ Soaring thoughts cannot reach him and deep minds cannot fathom him. [@nahj, 1.1.
 
 The Imam's two images, soaring and depth, name the two strengths of reason, its range and its penetration, and neither arrives at God. The next sentence of the oration gives the reason. God, it says, "cannot be described, for he is beyond the limits of demarcated boundaries" [@nahj, 1.1.1].
 
-What reason can do, it does. It can show that God exists, and it can say what He is not: He is not a body, He is not in one place and absent from another, and He has no partner. All of this is true, and all of it is knowledge about God. It is also negative; each statement removes something from Him.
+What reason can do, it does. It can show that God exists, and it can say what He is not: He is not a body, He is not in one place and absent from another, and He has no partner. All of this is true, and all of it is knowledge about God. It is also negative knowledge: each statement says what God is not, and none says what He is.
 
 ʿIrfan asks for the positive side, to know God as the Merciful, the Compassionate, and the Forgiving. The names can be learned from a book. To know God as Merciful from within, as a hungry person knows their hunger, is the other kind of knowing, the knowledge by presence of this chapter's first section.
 
@@ -58,8 +58,8 @@ Positive knowledge of this kind can only be knowledge by presence, and we have k
 
 The soul is not an empty place to look. A sense of God already lives there, however faint; Sheikh Bahmanpour calls it a vague idea of God that we carry inside us, present and mostly unnoticed. The answer to how God can be known lies in a soul we have hardly begun to know.
 
-::: {.box-who title="Who's Who: Mulla Sadra"}
-Sadr al-Din Shirazi, known as Mulla Sadra, changed the course of Islamic philosophy. He moved it from the Peripatetic school, *al-hikma al-mashshaʾiyya*, to what is called the transcendent philosophy, *al-hikma al-mutaʿaliya*. *Kernel of the Kernels* calls him "the pride of the philosophers of the East". It records that after a lifetime in philosophy he became absorbed in worship and in the purification of his inner being. He asked God's pardon for the part of his life wasted on the opinions of pseudo-philosophers and polemicists, until "it became clear to me that their syllogisms were barren and their path devoid of straightness" [@kernel, p. 7].
+::: {.box-who title="Who's Who: Mulla Sadra and the schools of philosophy"}
+Mulla Sadra died in 1050/1640 [@light, p. 40]. Before him, in Sheikh Bahmanpour's account, Islamic philosophy had two main schools, the Peripatetic, *al-hikma al-mashshaʾiyya*, and the Illuminationist. The Peripatetic school is the way of reasoned proof that Murtada Mutahhari describes: the philosopher works with "reason, deductions and proofs" [@light, p. 42]. It is the school of Ibn Sina. Mulla Sadra called his own philosophy neither of these but the transcendent philosophy, *al-hikma al-mutaʿaliya*. He took what the mystics know only by experience and gave it rational argument, a rationalised mysticism, and held that the reality of things is known only through knowledge by presence. Put simply, the Peripatetics reason their way to the truth, whereas Mulla Sadra held that reasoning must end in the soul's own presence to what it knows. He studied the ʿirfan of Ibn ʿArabi deeply without belonging to any Sufi order, and rated Ibn ʿArabi above Ibn Sina [@light, pp. 35, 40]. *Kernel of the Kernels* records that after a lifetime in philosophy he became absorbed in worship and the purification of his inner being, until "it became clear to me that their syllogisms were barren and their path devoid of straightness" [@kernel, p. 7].
 :::
 
 ## Light in the heart
@@ -76,7 +76,7 @@ Knowledge is not extensive learning. Rather, it is a light that God casts in the
 
 The hadith sets the two kinds of knowing side by side. Extensive learning is acquired knowledge, gathered from outside. The light is not gathered at all; God places it in the heart.
 
-The words "whomever He wills" might suggest that God keeps His light for a chosen few. Sheikh Bahmanpour speaks of the light differently, and he does so with a verse of Surah al-Nur.
+The words "whomever He wills" raise a question: does God keep His light for a chosen few? Sheikh Bahmanpour speaks of the light differently, and he does so with a verse of Surah al-Nur.
 
 ::: {.ayah ref="24:35" words="1-4"}
 Allah is the Light of the heavens and the earth.
@@ -90,7 +90,9 @@ Imam Khomeini explains why purification matters so much. When the soul is purifi
 Be wary of Allah and Allah will teach you.
 :::
 
-In the verse, God's teaching follows on from wariness of Him. The light does not have to be fetched, because it is always being given; a purified heart is one that is able to receive it. The will in the hadith remains God's, and the lighting of any heart is His act. Purification changes the heart and brings it within reach of a light that is never withheld.
+In the verse, God's teaching follows on from wariness of Him.
+
+The hadith and the verse of Surah al-Nur can seem to pull in different directions. The hadith says that God casts the light into the heart of whomever He wills, as if He chose some hearts over others. The verse says that His light is everywhere already. Both are true. Every act is God's, including the lighting of any heart, and nothing happens except by His will. His will, however, is not to withhold: His light is given without stint. What keeps a heart dark is that it is closed, and purification is what opens it to a light that was always there.
 
 The light comes to the hearts of the pure, and darkness covers the impure. Chapter One reached the same conclusion by a different road. Surah al-Rum says that God's signs are for those who reflect, know, listen, and reason, and yet most people pass them by. Nothing in the signs is hidden and nothing is wrong with our eyes; the fault lies with an inner faculty that has rusted and does not receive.
 
@@ -121,7 +123,7 @@ One who follows Your path is enlightened. [@light, p. 165; @duas_munajat_shabani
 The prologue opened on a line from this prayer that asks for the eyes of the heart to be lit until they reach the source of God's grandeur. This line names who receives that light: the one who follows God's path.
 
 ::: {.box-story title="Story: The philosopher and the ʿarif"}
-Murtada Mutahhari records a meeting between Ibn Sina and Abu Saʿid ibn Abi al-Khayr, one of the most famous of all the ʿurafaʾ. Abu Saʿid was preaching on the necessity of deeds, and on obedience and disobedience to God. Ibn Sina answered him with a quatrain. Wherever God's favour and grace are found, it ran, "Let the not-done be like the done, the done like the not-done." The verse leaned on God's forgiveness in place of deeds. Abu Saʿid replied at once with a quatrain of his own, which ends: "Do not rely on forgiveness, for never / Was the not-done like the done, the done like the not-done" [@light, p. 29]. The ʿarif would not let a verse, however well turned, take the place of deeds. Mutahhari adds that towards the end of his life Ibn Sina "developed mystic inclinations" [@light, p. 42].
+Murtada Mutahhari records a meeting between Ibn Sina and Abu Saʿid ibn Abi al-Khayr, one of the most famous of all the ʿurafaʾ. Abu Saʿid was preaching on the necessity of deeds, and on obedience and disobedience to God. Ibn Sina answered him with a quatrain (a poem of four lines). Wherever God's favour and grace are found, it ran, "Let the not-done be like the done, the done like the not-done." The verse leaned on God's forgiveness in place of deeds. Abu Saʿid replied at once with a quatrain of his own, which ends: "Do not rely on forgiveness, for never / Was the not-done like the done, the done like the not-done" [@light, p. 29]. The ʿarif would not let a verse, however well turned, take the place of deeds. Mutahhari adds that towards the end of his life Ibn Sina "developed mystic inclinations" [@light, p. 42].
 :::
 
 ## Knowing by drawing near
