@@ -18,7 +18,7 @@ Chapter Five found the self deeper than it appears, its final shape in our hands
 *shariʿa*: the sacred law; what the Prophet ﷺ taught us to do · *tariqa*: the path; the inward way of doing what the law asks · *haqiqa*: the truth that the path leads to · *ihsan*: the highest level of faith, worship aware of God's presence · *karamat*: wonders worked by those close to God
 :::
 
-## Shell, core and kernel
+## Shell, core, and kernel
 
 ::: {.point}
 The law, the path, and the truth are one religion at three depths: the law is what the Prophet ﷺ said to do, the path is doing it as he did it, and the truth is what he saw by doing it. Each depth is reached only through the one before it.
@@ -44,7 +44,7 @@ The second set comes from the levels of faith: *islam*, *iman*, and *ihsan*. Isl
 The Bedouins say, 'We have faith.' Say, 'You do not have faith yet; rather, say, "We have embraced Islam," for faith has not yet entered into your hearts.'
 :::
 
-The Bedouins had made the outward submission, whereas faith is the meaning of that submission entering the heart. Ihsan, the highest level, is worship aware of God's presence. Surah al-Dhariyat describes the people of ihsan, the *muhsinin*, by their nights: they slept little, and at dawn they pleaded for forgiveness (Q 51:16–18). The highest level of faith is still described through acts of worship.
+The Bedouins had made the outward submission, whereas faith is the meaning of that submission entering the heart. Ihsan, the highest level, is worship aware of God's presence. Surah al-Dhariyat describes the people of ihsan, the *muhsinin*, by nights spent in worship: they slept little, and at dawn they pleaded for forgiveness (Q 51:16–18).
 
 Each level is built on the one below it, and none stands without it.[Sayyid Haydar Amuli puts the order as a rule: "shariʿah is possible without tariqah although tariqah is not possible without shariʿah." @inner_secrets, p. 48] Whether the names are law, path, and truth, or the three degrees of certainty, or islam, iman, and ihsan, the inner depths of the religion are reached only through its outer one.
 
@@ -72,13 +72,13 @@ Nor does the light, once it has come, loosen the law. A person to whom the truth
 
 Experiences that bypass the law are far easier to come by than the law itself. Sheikh Bahmanpour warns that anyone, of any belief, who goes forty days on less and less food will find something. The knowledge of God is so unfamiliar to us that whatever is found is taken for God.
 
-Next to such feats, keeping the law is the harder discipline. It asks for worship every day and night and at every dawn, and for watchfulness at every moment over a tongue that might backbite and ears that might listen to what is vile. A feat can be sustained for forty days, whereas the law has to be kept for a whole life, and the true ʿarif is the one who keeps it without a break.
+Next to such forty-day exercises, keeping the law is the harder discipline. It asks for worship every day and night and at every dawn, and for watchfulness at every moment over a tongue that might backbite and ears that might listen to what is vile. An exercise of that kind can be sustained for forty days, whereas the law has to be kept for a whole life, and the true ʿarif is the one who keeps it without a break.
 
-That lifelong keeping of the law is also where the first inner work is done, inside the prayers we already pray. The tariqa is the purifying of how we practise the shariʿa, giving it more depth each time. When we say *Allahu akbar*, in the lectures' instruction, "you have to know what you are saying". What makes this hard is attention, which is "very elusive". The eyes can be closed and the tongue held still, yet attention moves elsewhere the moment it is turned towards God.
+That lifelong keeping of the law is also where the first inner work is done, inside the prayers we already pray. The tariqa is the purifying of how we practise the shariʿa, giving it more depth each time. The lectures' instruction for *Allahu akbar* is direct: "you have to know what you are saying". What makes this hard is attention, which is "very elusive". The eyes can be closed and the tongue held still, yet attention moves elsewhere the moment it is turned towards God.
 
-This is the thought about the car that arrives with *Allahu akbar*. A person standing at the edge of a cliff would not wonder about the car, because the danger is in front of them. The lectures grant the logic of this, and ask whether anyone can bring that sense of presence to prayer simply by deciding to. Saying the words from the heart needs a knowledge that comes only after the words have been practised and taken in, while that practice needs the very attention that keeps slipping. The lectures call this a vicious circle, and the whole difficulty of the tariqa.
+This is the thought about the car that arrives with *Allahu akbar*. A person standing at the edge of a cliff would not wonder about the car, because the danger is in front of them. The logic is sound, but no one can bring that sense of presence to prayer simply by deciding to. Saying the words from the heart needs a knowledge that comes only after the words have been practised and taken in, while that practice needs the same attention that keeps slipping. The lectures call this a vicious circle, and the whole difficulty of the tariqa.
 
-Imam Khomeini asks the question this circle raises: "How is it that the study of a book often absorbs man's entire attention, but prayer does not?" [@light, p. 135]. A book can hold the mind entirely, so the faculty of attention is not missing. In *Forty Hadith* he names the two things that bring it to worship: "possessing unoccupied time and an unoccupied heart", and "making one's heart understand the importance of worship" [@forty_hadith, p. 375].
+Imam Khomeini puts the difficulty as a question: "How is it that the study of a book often absorbs man's entire attention, but prayer does not?" [@light, p. 135]. A book can hold the mind entirely, so the faculty of attention is not missing. In *Forty Hadith* he names the two things that bring it to worship: "possessing unoccupied time and an unoccupied heart", and "making one's heart understand the importance of worship" [@forty_hadith, p. 375].
 
 The law also supplies the practice that the circle needs. Besides the obligatory and recommended prayers, the shariʿa gives many remembrances whose purpose is to make us think more about God and less about other things, and to spend more of our time with Him. Chapter Ten returns to these disciplines.
 
@@ -90,7 +90,7 @@ The law binds the traveller from the first step to the last. The Prophet ﷺ kep
 
 The inner never cancels the outer at the start of the road, and the same holds at its end. Some have claimed that a traveller who reaches the higher stations is spared the obligations of the law. ʿAllama Tabatabaʾi, in the lectures recorded in *Kernel of the Kernels*, rejects the claim: "from the beginning of wayfaring to its final stage the wayfarer must abide by all the precepts of the luminous Shari'ah" [@kernel, p. 30]. The claim of release he calls "a big lie and slander" [@kernel, p. 30].
 
-His reason is the Prophet ﷺ. The noblest of all creation kept every precept of the law until the last moments of his life [@kernel, p. 30], so no traveller reaches a station where the law no longer applies.
+His reason is the Prophet ﷺ. The noblest of all creation kept every precept of the law until the last moments of his life [@kernel, p. 30], so no traveller reaches a station where the law no longer applies. The test he gives matches Kubra's. Anyone who claims to be a wayfarer while departing from the law even slightly is to be considered a hypocrite, unless the lapse comes from error, an excuse, or forgetfulness [@kernel, p. 30].
 
 Worship does take on another meaning at the end of the road, and Tabatabaʾi explains how. For a soul still growing towards its perfection, the acts of worship are the means of that growth, whereas for one who has reached it, they are no longer for growth [@kernel, p. 30]. The Prophet was once asked why he took such pains in worship when God had promised him forgiveness (Q 48:2), and he replied with a question.
 
@@ -100,7 +100,7 @@ Don't you want me to be God's grateful servant? [@kernel, p. 30]
 
 For such a soul, Tabatabaʾi concludes, worship is "purely for the sake of expression of thankfulness and gratitude to God Almighty" [@kernel, p. 30]. The Munajat line at the head of this chapter asks to be among those who do not fail to show God their gratitude and do not take His orders lightly. In the Prophet's worship the two are one act, since keeping God's commands is itself the thanks.
 
-The road's last stage, too, is lived among people. The ʿurafaʾ describe the completed journey as four journeys: from creation to God; in God, by God; from God back to creation, by God; and in creation, by God. The traveller who has reached God returns to creation in the third journey and travels the fourth in its midst, and Chapter Sixteen walks all four.
+The road's last stage is also lived among people, not above them. The ʿurafaʾ describe the completed journey as four journeys: from creation to God; in God, by God; from God back to creation, by God; and in creation, by God. The traveller who has reached God returns to creation in the third journey and travels the fourth in its midst, and Chapter Sixteen walks all four.
 
 There is therefore no inner path outside the shariʿa. The law, the path, and the truth are one religion at three depths, and each depth is reached only through the one before it. Nothing inward stands in for the law: wonders worked without it are magic, and the light of knowing God does not descend on a heart that has set it aside. The law also holds to the end of the road, because the Prophet kept it to the last moments of his life, as an act of gratitude.
 

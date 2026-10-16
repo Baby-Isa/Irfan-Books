@@ -5,6 +5,9 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | Term (book spelling) | Variants seen in transcripts | Arabic | Short definition | First seen |
 |---|---|---|---|---|
 | abdal | Abdaal, abdaal | | A class of saints in the hierarchy; God provides for the earth through them | L12 |
+| akhfa | | | "The most hidden": the inmost level of the soul, beyond khafi (Mutahhari, `light` p. 58) | B2 Ch5 |
+| liqaʾ Allah | liqa Allah | | The meeting with God; in ʿirfan, nearness with the veils lifted, never a grasp of His essence | B2 Ch4 |
+| murshid | | | Spiritual guide; the partner term to murid | B2 Ch4 |
 | ʿadhab | azaab | | Punishment | L04 |
 | ahwal | Ahwaal | | Mystical states that come and go on the path | L12 |
 | akhlaq | | | Ethics; the rules of character that go beyond the legal minimum (Shomali) | B2 Ch1 |

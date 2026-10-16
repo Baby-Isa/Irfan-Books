@@ -10,7 +10,7 @@ And my heart enthralled by Your love! [@duas_dua_kumayl, §221]
 
 These words come near the end of Duʿa Kumayl, the prayer Imam ʿAli (as) taught to Kumayl ibn Ziyad, one of his closest disciples. The Mafatih al-Jinan recommends it on every Thursday evening, the night before Friday, when many of us hear it [@mafatih, p. 129]. The line asks God for a heart enthralled by His love.
 
-A request for God's love begins to answer the question Chapter Two ended on. That chapter argued that knowing God is reached by purifying the heart, and it asked where an ordinary believer already stands on this path. The words we already say ask for exactly what Chapter Two described. Duʿa Kumayl asks for the love that goes with that knowing; other prayers we recite ask for the knowing itself. This chapter sets out what those prayers ask for.
+A request for God's love begins to answer the question Chapter Two ended on. That chapter argued that knowing God is reached by purifying the heart, and it asked where an ordinary believer already stands on this path. Duʿa Kumayl asks for the love that goes with that knowing, and other prayers we recite ask for the knowing itself. This chapter sets out what they ask for.
 
 ::: {.words}
 *duʿa*: supplication, any request made to God · *munajat*: an intimate, whispered prayer to God · *Mafatih al-Jinan*: the standard manual of Shia prayers · *inqitaʿ*: severance of the heart from all but God
@@ -22,7 +22,7 @@ A request for God's love begins to answer the question Chapter Two ended on. Tha
 The prayers' first request is that the heart be cut off from everything but God. What they ask to lose is the heart's attachment to the world, not the world itself, so the severance is in the heart and not a withdrawal from family or society.
 :::
 
-Let's start with the order in which the prayers ask. Sheikh Bahmanpour reads the Munajat Shaʿbaniyyah as a sequence. Those who seek God want to know Him and to look at Him, but "they have to cut off from everything first". In the prayer, the request for light in the eyes of the heart, with which this book opened, follows straight on from a request to be cut off.
+Sheikh Bahmanpour reads the Munajat Shaʿbaniyyah as a sequence. Those who seek God want to know Him and to look at Him, but "they have to cut off from everything first". In the prayer, the request for light in the eyes of the heart, with which this book opened, follows straight on from a request to be cut off.
 
 ::: {.quote ar="إِلٰهِي هَبْ لي كَمَالَ ٱلاِنْقِطَاعِ إِلَيْكَ" source="Munajat Shaʿbaniyyah"}
 My Lord, grant me complete severance of my relations with everything else [@light, p. 165; @duas_munajat_shabaniyah, §104]
@@ -40,7 +40,7 @@ Duʿa ʿArafah, as given in the Mafatih, describes this severance from the other
 It is You Who have removed love for others from the hearts of Your lovers so that they have loved none save You [@duas_dua_arafah_imam_husain, §783–784]
 :::
 
-The line names God as the one who cleared these hearts. He removed love for others from them, and what remained was love for Him alone.
+In these hearts the severance is God's own work, and it leaves nothing behind but love for Him.
 
 ## To see, to love, to draw near
 
@@ -48,9 +48,9 @@ The line names God as the one who cleared these hearts. He removed love for othe
 A heart cut off from all else is free for God, and the prayers go on to ask to see Him with the heart, to love Him, and to come near Him. These are the knowing and the love that Chapter One named as the two aims of ʿirfan.
 :::
 
-A heart cleared of everything but God is free for Him. The prayers go on to ask for three things: to see God with the heart, to love Him, and to come near Him. Let's take them in turn.
+A heart cleared of everything but God is free for Him. The prayers go on to ask for three things: to see God with the heart, to love Him, and to come near Him.
 
-The first is sight. The Munajat asks God to light the eyes of the heart so that they look at Him, and pass even through the veils of light. The Sheikh raises the difficulty himself: the Qur'an says that sight cannot perceive God (Q 6:103), and some who meet these words take them for a mistake. In a later lecture he gives the answer. The eyes cannot catch Him; the prayer is speaking of the heart. Our physical eyes work perfectly well, and still we miss God's signs, because the inner faculty behind them is blind. The prayer asks God to give that inner faculty, the eye of the heart, light to see by.
+The first is sight. The Munajat asks God to light the eyes of the heart so that they look at Him, and pass even through the veils of light. The Sheikh raises the difficulty himself: the Qur'an says that sight cannot perceive God (Q 6:103), and some who meet these words take them for a mistake. His answer, given in a later lecture, is that the prayer is not speaking of the eyes in our heads. Our physical eyes work perfectly well, and still we miss God's signs, because the inner faculty behind them is blind. The prayer asks God to give that inner faculty, the eye of the heart, light to see by.
 
 Duʿa ʿArafah, as given in the Mafatih, speaks of that light as something God has already lit in the hearts of His friends.
 
@@ -76,7 +76,7 @@ My Lord, provide me with a heart, the passion of which may bring it near You [@l
 
 In this request the heart is brought near by its own passion for God. Duʿa Abu Hamza al-Thumali goes further and asks to love the meeting with God itself. "O Lord of Glory and Honor, (please do) make me love meeting You," it says ([يَا ذَا ٱلْجَلالِ وَٱلإِكْرَامِ حَبِّبْ إِلَيَّ لِقَاءَكَ]{lang=ar}) [@duas_ramadan_dua_abu_hamza_thumali, §599].
 
-The Whispered Prayer of the Lovers asks for a place among those who have already been brought near. It is one of the fifteen whispered prayers printed with the Sahifa, and several of its lines were read in the lectures this book draws on.
+The Whispered Prayer of the Lovers, one of the fifteen whispered prayers printed with the Sahifa, asks for a place among those who have already been brought near.
 
 ::: {.quote ar="[VERIFY: Arabic of Sahifa, Whispered Prayer of the Lovers]" source="Whispered Prayer of the Lovers"}
 My God, place us with him whom Thou hast chosen for Thy nearness and Thy friendship, … granted gazing upon Thy face [@sahifa, p. 656]

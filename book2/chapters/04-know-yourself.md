@@ -26,7 +26,7 @@ Everything we know, we know with the soul, and the soul knows itself by presence
 
 Let's start with why the soul comes first. ʿIrfan has a practical side and a theoretical side. The practical side is the training by which the mystics come to see. What they see, they then set out as theory: an account of existence, the soul, and the world, argued much as philosophy is argued. When Sheikh Bahmanpour turns to the theory, he begins with the soul, "because this is the means to understand and to learn".
 
-Whatever else we come to know, we know with the soul, the inner faculty that Chapter One found rusted and in need of repair. Its working and its capacities therefore need to be understood first. The soul is also the one thing it knows from the inside. Chapter Two called this knowledge by presence, *ʿilm al-huduri*: knowing that needs no concept, because what is known is already present, as hunger is present to the one who fasts.
+Whatever else we come to know, we know with the soul, the inner faculty that Chapter One found rusted and in need of repair. Its working and its capacities therefore need to be understood first. The soul also knows itself, and it knows itself from the inside. Chapter Two called this knowledge by presence, *ʿilm al-huduri*: knowing that needs no concept, because what is known is already present, as hunger is present to the one who fasts.
 
 Images in the mind are known in this way. We know them because they are present to the soul, which holds them within itself, and whatever the mystics come to know by practice, they know in the same way. The soul's knowledge of itself goes further. In the mystics' account, the one who perceives and the thing perceived are here the same: the soul perceives itself, and this is the clearest case of knowledge by presence there is.
 
@@ -76,7 +76,7 @@ Whoever knows his own self knows his Lord. [@lantern, p. 9]
 
 The relationship is two-way, in Sheikh Bahmanpour's phrase. Whoever forgets God forgets the soul, and whoever forgets the soul forgets God, because the two are closely connected. One meaning the lectures give the saying is that the soul reflects its Maker, so that to look into it is to learn of Him.
 
-A reflection is not the thing it reflects, and the likeness has limits. The qualities in God are infinite and very different from those in the soul, yet there is a similarity, and through it God can be known by looking into one's own soul. The soul carries something of the spirit, *ruh*, that God breathed into the first human being (Q 15:29). Yet the spirit from God is not God; it is a spirit that He created.
+A reflection is not the thing it reflects, and the likeness has limits. The qualities in God are infinite and differ greatly from those in the soul, yet there is a similarity, and through it God can be known by looking into one's own soul. The soul carries something of the spirit, *ruh*, that God breathed into the first human being (Q 15:29). Yet the spirit from God is not God; it is a spirit that He created.
 
 ʿAllama Tabatabaʾi draws the practical conclusion from a verse that tells believers to take care of their own souls (Q 5:105). The seeker, he writes, learns from it that the only path of perfect guidance is knowing himself, and that he "must see Allah through the window of his own soul" [@light, p. 7]. He also cites from the Prophet the saying in its other direction, that those who know Allah better know themselves better [@light, p. 7].
 
@@ -106,7 +106,7 @@ The answer lies in the depth of the soul itself. Even our own soul cannot be kno
 
 The saying can be read in both directions for this reason. Read one way, it says that no one can know their own soul completely, and so no one can know their Lord. The lectures allow that reading, and hold that other narrations show the saying to speak of a knowledge that is possible. Both readings are true: through the soul, God is known in part and never completely.
 
-Imam Khomeini records two positions on liqaʾ Allah. Some ʿulamaʾ and exegetes, wishing to affirm that God is beyond every physical quality, read all the verses and traditions on it as the encounter with the Last Day and Judgment, its reward and punishment. He finds that reading "implausible and far-fetched" for some reliable supplications and traditions [@forty_hadith, p. 398].
+The meeting itself has been read in more than one way, and Imam Khomeini records two positions on liqaʾ Allah. Some ʿulamaʾ and exegetes, wishing to affirm that God is beyond every physical quality, read all the verses and traditions on it as the encounter with the Last Day and Judgment, its reward and punishment. He finds that reading "implausible and far-fetched" for some reliable supplications and traditions [@forty_hadith, p. 398].
 
 Those who keep the path of the meeting open set the same limit as the lectures. They do not mean, he writes, "that it is permissible to fathom the mystery of the Divine Essence" [@forty_hadith, p. 398]. The philosophers and the people of mystic knowledge agree that God cannot be fathomed, so the meeting they speak of is a nearness, *qurb*, and never a grasp of Him.
 
