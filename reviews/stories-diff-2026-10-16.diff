@@ -1,0 +1,187 @@
+diff --git a/book2/chapters/01-seeking-not-powers.md b/book2/chapters/01-seeking-not-powers.md
+index 55acc11..69c54e6 100644
+--- a/book2/chapters/01-seeking-not-powers.md
++++ b/book2/chapters/01-seeking-not-powers.md
+@@ -18,10 +18,16 @@ There is a verse often recited at weddings, one most of us know. In Surah al-Rum
+
+::: {.point}
+The obligatory acts are enough for salvation, and that is not contested. What is contested is the claim that they are the whole of the religion. In Surah al-Rum the Qur'an asks for more than the minimum: it asks us to reflect on, know, listen to, and reason about its signs.
+
+{+New story (D47): The man who asked what was enough, L01 ¶5.+}
+:::
+
+Let's start with two claims. The first is that a believer who prays, fasts, pays what is due, and goes on hajj can hope for *jannah*, provided they do what is *wajib* and avoid what is forbidden. This claim is not contested. Sheikh Bahmanpour accepts it as fair for ordinary believers. Mohammad Ali Shomali makes the same point, describing the obligatory rules of fiqh as "the minimally necessary conditions of human perfection" [@self_knowledge, p. 17].
+
+{+::: {.box-story title="Story: The man who asked what was enough"}+}
+{+Sheikh Bahmanpour began the case for ʿirfan with a story about a man who came to the Prophet ﷺ. The man said that he had no eagerness for the night prayer (*salat al-layl*), the recommended fasts, and the like. He asked whether he would go to jannah if he prayed the five daily prayers, fasted in Ramadan, paid his zakat, and went on hajj once. The Prophet said yes: if he did these things, he would go to jannah. From this answer the lecture drew its opening question: if the obligatory acts alone are enough for jannah, why should anyone take on the hard work of ʿirfan? The Prophet's answer is the reason the first claim is not contested: the obligatory acts are enough for salvation.+}
+{+:::+}
+
+The second claim goes further, and it is the one this book disputes. Some jurists and activists hold that the obligatory acts are the whole of the religion; anything beyond them, they say, is made up by the whims and wishes of certain mystics.
+
+To see why there is more than the obligations, let's turn to the Qur'an and read on from the verse this chapter began with. Surah al-Rum names three more sets of signs: the creation of the heavens and the earth, with the variety of our languages and colours; our sleep and our work; the lightning, and the rain that revives the dead earth (Q 30:22–24). Each verse ends as the first did, by saying who the sign is for.
+diff --git a/book2/chapters/02-knowing-about-not-knowing.md b/book2/chapters/02-knowing-about-not-knowing.md
+index 4a848fb..9436bd2 100644
+--- a/book2/chapters/02-knowing-about-not-knowing.md
++++ b/book2/chapters/02-knowing-about-not-knowing.md
+@@ -86,6 +86,8 @@ Knowledge of God is a light God gives to a purified heart, not something gathere
+5. Once the soul is purified, God's teaching follows as His gift, and a verse of Surah al-Baqarah links that teaching to wariness of Him.
+6. The verse gives the same order: wariness of God first, then His teaching; purity first, then the light.
+7. Therefore: unlike learning, which passes from mind to mouth, this light passes from heart to heart.
+
+{+New story (D47): A thousand doors of knowledge, L03 ¶5–10.+}
+:::
+
+A knowledge that analysis cannot produce must be given. A hadith that Imam Khomeini quotes in his *Forty Hadith* says who gives it.
+@@ -114,6 +116,10 @@ In the verse, God's teaching follows on from wariness of Him. In the same way, t
+
+A knowledge given to the heart also travels differently. The knowledge of books passes from mind to mouth, through language, whereas the knowledge of the ʿurafaʾ passes "from heart to heart", in the Sheikh's words. Receiving it directly from God is possible but difficult, and one usually has to start through someone else. Chapter Seven describes the guide.
+
+{+::: {.box-story title="Story: A thousand doors of knowledge"}+}
+{+In one of his lectures, Sheikh Bahmanpour asked whether knowledge can pass from one heart to another. We know how it passes between minds: a speaker turns an image into words, and the words raise the image again in the listener's mind. Of knowledge passing between hearts we have no experience. In answer, he recalled a report from Imam ʿAli (as). When the Prophet ﷺ lay on his deathbed, a thousand doors of knowledge were opened in Imam ʿAli's heart, and from each door a thousand more opened. None of it came through language; it passed from heart to heart. In the lecture, this is the kind of knowledge the ʿurafaʾ have: given to the heart, not built up from words.+}
+{+:::+}
+
+## The path is purification
+
+::: {.point}
+diff --git a/book2/chapters/03-you-already-know-these-words.md b/book2/chapters/03-you-already-know-these-words.md
+index 1742f74..d8d83f0 100644
+--- a/book2/chapters/03-you-already-know-these-words.md
++++ b/book2/chapters/03-you-already-know-these-words.md
+@@ -60,6 +60,8 @@ The prayers then ask for what ʿirfan seeks: to see God with the heart, to love
+6. The third request is nearness.
+7. The Munajat asks God for a heart whose passion brings it near; a prayer of the Sahifa asks to join those already near.
+8. Nearness is felt when we call on God. Therefore the three requests, sight, love, and nearness, are what ʿirfan seeks.
+
+{+New story (D47): The young man who saw paradise, L07 ¶38; L11 ¶42–43.+}
+:::
+
+A heart cleared of everything but God is free for Him. The prayers go on to ask for three things: to see God with the heart, to love Him, and to come near Him.
+@@ -72,6 +74,10 @@ The prayer does not ask for the eyes in our heads. It asks for the eyes of the h
+It is You Who have lit the illuminations in the hearts of Your intimate servants [@duas_dua_arafah_imam_husain, §781]
+:::
+
+{+::: {.box-story title="Story: The young man who saw paradise"}+}
+{+In two of his lectures, Sheikh Bahmanpour told of a young companion whom the Prophet ﷺ asked how he was. The young man answered that he could see paradise and hell, and could tell which of the companions were in each. The Prophet hushed him and told him not to speak of such things, but said that he knew he was truthful. The lesson drawn in the lectures is that the young man was not set apart from the other companions. He had purified his soul, and anyone who goes through that purification can see what others cannot. The hadith collection al-Kafi names him as Harithah ibn Malik al-Ansari. In its version, the Prophet turned to his companions and said, "This is a man whose heart has been illuminated with the light of faith by God" [@light, p. 19]. Harithah's sight was the kind the Munajat asks for: it came through the heart rather than the eyes, and God had lit it.+}
+{+:::+}
+
+The second request is love. The Munajat asks for a place among God's friends, and it defines that place by love.
+
+::: {.quote ar="إِلٰهِي أَقِمْنِي فِي أَهْلِ وِلايَتِكَ مُقَامَ مَنْ رَجَا ٱلزِّيَادَةَ مِنْ مَحَبَّتِكَ" source="Munajat Shaʿbaniyyah"}
+diff --git a/book2/chapters/04-know-yourself.md b/book2/chapters/04-know-yourself.md
+index 9177f4d..d95242e 100644
+--- a/book2/chapters/04-know-yourself.md
++++ b/book2/chapters/04-know-yourself.md
+@@ -108,6 +108,8 @@ God is already near, so reaching Him means lifting, in this life, the veils over
+8. Hence the seeker lifts the veils in this life rather than waiting, since the journey through death is longer and harder.
+9. Whoever uncovers the self sees its reality, and that is knowing its Lord.
+10. Therefore the way to God runs through knowing the self.
+
+{+New story (D47): Musa asks to see God, L04 ¶56–57.+}
+:::
+
+Looking within does not mean going anywhere, because God is already near. In Sheikh Bahmanpour's words, "We are actually in [H]is presence at the moment. However, [H]e is not in our presence." The soul stands before God now. What it lacks is the perception of the One before whom it stands.
+@@ -126,6 +128,10 @@ What is seen at that meeting is the soul, and the soul is a reflection of God. S
+
+Even then, the soul cannot encompass God. The depth of our own soul cannot be known, so a complete knowledge of its Lord is out of reach. As the lectures put it, "You can get some understanding but knowing [H]im completely … is impossible." Imam Khomeini sets a similar limit for the seeker. Those who hold that the meeting with God is open to the seeker, he writes, do not mean that it is permissible "to fathom the mystery of the Divine Essence", or that the Essence can be encompassed in knowledge by presence [@forty_hadith, p. 398].
+
+{+::: {.box-story title="Story: Musa asks to see God"}+}
+{+In one of his lectures, Sheikh Bahmanpour turned to the Prophet Musa (as) to show a limit on perceiving God in this life. The Qur'an tells the scene in Surah al-Aʿraf. Musa comes to the meeting God appointed for him, and his Lord speaks to him. Musa then asks for more: "My Lord, show [Yourself] to me, that I may look at You!" God answers, "You shall not see Me" ([لَن تَرَىٰنِي]{lang=ar}). He tells Musa to look at the mountain instead: if it stays in its place, Musa will see Him. God discloses Himself to the mountain and levels it, and the prophet falls down in a swoon. When he comes round, he says, "Immaculate are You! I turn to You in penitence" (Q 7:143). Musa's request, as the lecture explains, was for a degree of perceiving God that cannot be reached in this body. Even Musa, to whom God spoke, was refused that sight, so while the soul is in the body some perception of God is open to it and a further degree is not.+}
+{+:::+}
+
+What a soul perceives of God at that meeting depends on what it perceives of Him now. In the lectures' words, "whoever is completely blind in this world is completely blind in the other world." The Qur'an uses the same image.
+
+::: {.ayah ref="17:72"}
+diff --git a/book2/chapters/05-the-soul-and-its-worlds.md b/book2/chapters/05-the-soul-and-its-worlds.md
+index b87271d..51f183c 100644
+--- a/book2/chapters/05-the-soul-and-its-worlds.md
++++ b/book2/chapters/05-the-soul-and-its-worlds.md
+@@ -30,8 +30,11 @@ The world has three depths, so the dead have gone deeper into it, not away.
+5. The intellect grasps meanings with no image or matter, and these belong to a third world, the world of intellects.
+6. The world of images links the other two, so it is called barzakh, a barrier.
+7. None of these worlds is a place; each is a deeper dimension of this one, the world of intellects with some difference.
+8. {+Imam ʿAli (as) taught that this world lies inside the hereafter, which surrounds it.+}
+{+9.+} So far: three worlds make one reality, and none of them is far away.
+[-9.-]{+10.+} Therefore the dead have gone deeper into our world, not away from it.
+
+{+New story (D47): The churchman's question to Imam ʿAli, L04 ¶62.+}
+:::
+
+Let's start with a claim of the mystics: the human soul is the whole of creation in small, a compact copy of everything that exists. We know things in three ways: through the senses, the imagination, and the intellect. If the soul is a copy of creation, each of these three should give us a sample of one world. Each world can then be approached through something we already know.
+@@ -48,6 +51,8 @@ The world of images stands between the other two. That is why it is also called
+
+None of these worlds is a place we travel to. In Sheikh Bahmanpour's words, the world of images "is another dimension of the same world in which we are living", and so, with some difference, is the world of intellects. The unseen worlds surround this one, but in depth and not in distance: each is a deeper dimension of the world we are in now.
+
+{+Imam ʿAli (as) also spoke of this world as surrounded, in a story Sheikh Bahmanpour tells. A Christian churchman once came to him with questions. One was whether the hereafter lies inside this world, or this world inside the hereafter. Imam ʿAli (as) answered that this world lies inside the hereafter. This world is the smaller one, and the hereafter surrounds it. The lectures set the answer beside the verse that says hell surrounds the faithless (Q 9:49).+}
+
+There are three worlds, then, and they make one reality. The senses meet matter, the imagination samples a world of images, and the intellect grasps pure meaning. Each lies deeper than the one before, and none of them is far away.
+
+This changes the picture at the graveside. The dead are in barzakh, which is the world of images, and that world is not a distant room. It is a deeper dimension of the world we are living in. Even the resurrection is not a journey elsewhere but a move deeper still, closer to the majesty and beauty of God.
+@@ -116,6 +121,8 @@ What we do now shapes the image body we will meet after death.
+4. On the Last Day people will be grouped by their true natures.
+5. Piety shines as light on the Last Day; Shomali holds that some rewards are the deeds themselves made visible.
+6. Therefore the image body is being shaped now, and part of what we meet after death may be our own deeds.
+
+{+New story (D47): Ibn ʿArabi and Surah Yasin, L13 ¶35–37.+}
+:::
+
+If every soul passes into the middle world in any case, it can seem that what we do here changes little. Habit shows otherwise, because repeated acts shape the self. Shomali takes the example of lying. A child telling a first lie feels uneasy and later remorseful. With repetition "the soul becomes inured to the effects" [@self_knowledge, p. 20], until lying costs little effort.
+@@ -138,6 +145,10 @@ The lectures read this light as the shining of the pious themselves. The body of
+
+If some rewards are the deeds themselves, the form a soul meets after death may be, in part, the work of its own deeds. Shomali himself draws a related conclusion from the fact that heaven and hell already exist: "our future is now present" [@self_knowledge, p. 77]. The image body is being shaped now, by what we do.
+
+{+::: {.box-story title="Story: Ibn ʿArabi and Surah Yasin"}+}
+{+Sheikh Bahmanpour tells a story that the great mystic Ibn ʿArabi told of his own childhood. At the age of twelve he fell seriously ill and went into a coma. It was so serious that everyone thought he had died. In that state he saw horrible-looking people who were trying to hurt him. Then a figure breathing out a wonderful perfume defended him and drove them away. Ibn ʿArabi asked who he was. The figure answered that he was Surah Yasin, his protector. When the boy came round, he found his father at his bedside in tears. His father had just finished reciting Surah Yasin for his recovery, and the boy had not known. The lecture draws a general point from it. Even a lie or a word of comfort, which we take for mere words, has an image in the world of images, and that image is as real as the figure the boy saw.+}
+{+:::+}
+
+## The self can change its state
+
+::: {.point}
+diff --git a/book2/chapters/06-no-path-outside-the-law.md b/book2/chapters/06-no-path-outside-the-law.md
+index c6e1064..77de2a1 100644
+--- a/book2/chapters/06-no-path-outside-the-law.md
++++ b/book2/chapters/06-no-path-outside-the-law.md
+@@ -65,8 +65,11 @@ No wonder or experience stands in for the law.
+4. Knowing God is not learned in a classroom, so without the law the chain never starts.
+5. The light of knowing God does not descend on a heart that sets the law aside.
+6. What comes without the law is easily mistaken for that light.
+7. {+A real light that comes through the law can be mistaken for God too.+}
+{+8.+} Even the experiences that come on the path are only a preliminary to a lasting change in the self.
+[-8.-]{+9.+} Therefore: lasting change comes through continuous practice of the law, not through an exercise that ends.
+
+{+New story (D47): The master and the light of his wudu, L06 ¶67.+}
+:::
+
+If the truth is reached only through the law, someone who claims the truth while setting the law aside has left the ship. Kubra draws this conclusion from his own image. Suppose a person is seen flying through the air, walking on the sea, or eating fire. In the Sheikh's rendering of his words, if they have abandoned "even one injunction of God", then "you should know that they are liars".
+@@ -85,6 +88,8 @@ Imam Khomeini reaches the same conclusion through the image of light: "Without a
+
+What does come without the law is easily mistaken for that light. Sheikh Bahmanpour, recalling a remark of ʿAllama Tabatabaʾi's, warns that anyone of any belief will find something if they go forty days on less and less food. The knowledge of God is so unfamiliar to us that whatever is found is taken for God.
+
+{+The same mistake can be made over a light that is real and comes through the law. The Sheikh tells of a great mystic whose chain of teachers went back to Imam al-Rida (as). One day, as he was making his ritual ablution (*wudu*), his disciples suddenly fell into prostration, glorifying God. He asked them what had happened, and they said they had seen the light of God. He told them it was the light of his wudu. That light was real, and it came from an act the law asks for. The light of God was unknown to the disciples, so they took this one for His.+}
+
+Even the experiences that come on the true path are not the goal. Tabatabaʾi's lectures on the path were recorded by his student Sayyid Muhammad Husayn Tihrani in *Kernel of the Kernels*. There the states a traveller passes through, and the lights that appear from time to time, are called "a preliminary to an enduring condition" [@kernel, p. 30]. An experience comes and goes. What counts is a lasting change in the self. Until the change is lasting, "the smallest lapse in wayfaring and spiritual jihad would bring him down again to the lower world" [@kernel, p. 31].
+
+A forty-day exercise does not make that lasting change. In the remark the Sheikh recalls, the harder discipline is practising the law without a break. It asks for worship every day and night and at every dawn. It asks for a constant watch over the tongue, which might backbite, and the ears, which might listen to what is vile. A forty-day exercise ends, whereas the law is kept for a whole life, and the real ʿarif is the one who keeps it continuously.
+diff --git a/book2/chapters/07-finding-a-guide.md b/book2/chapters/07-finding-a-guide.md
+index 12e67f3..adfd807 100644
+--- a/book2/chapters/07-finding-a-guide.md
++++ b/book2/chapters/07-finding-a-guide.md
+@@ -28,6 +28,8 @@ A traveller needs a companion who has walked the road, wherever scholars place t
+5. ʿAllama Tabatabaʾi places the need for a general teacher at the beginning of the road.
+6. Murtada Mutahhari describes guidance at every stage, by a guide the ʿurafaʾ call Khidr.
+7. Therefore: the scholars place the need at different points, but in every account the guide is someone who has walked the road.
+
+{+New story (D47): ʿUnwan al-Basri at the door of Imam al-Sadiq, L07 ¶18–19; L08 ¶77–79.+}
+:::
+
+A guide helps because the road has turns that a traveller cannot read alone, and those turns are in the soul. On the journey the soul can pass into strange states. There may come a time when a traveller hates worship, or cannot bear to live among people. Such states arrive without explanation. A traveller who does not know what they mean, or what to do next, can lose the way.
+@@ -38,6 +40,10 @@ How early in the journey this need begins is where scholars differ. Many who wan
+
+What a beginner does need is narrower: a teacher who says which of the practices handed down in the hadith matter most. The Musabbihat are the five surahs that open with God's glorification, which the Prophet ﷺ recited every night before sleeping. Mirza ʿAli Aqa Qadi, the teacher of ʿAllama Tabatabaʾi, had beginners recite them every night before sleep for a whole year, and only then gave them a second instruction. <!-- src: L07 ¶14-16 -->
+
+{+::: {.box-story title="Story: ʿUnwan al-Basri at the door of Imam al-Sadiq"}+}
+{+In two of his lectures, Sheikh Bahmanpour told the hadith of ʿUnwan al-Basri. ʿUnwan was an old man, near the end of his life, when he asked Imam al-Sadiq (as) to teach him. The sixth Imam at first turned him away, saying that he was busy with words of remembrance he recited at every hour of the day. He told ʿUnwan to go and learn from Malik ibn Anas and the other scholars of Medina, because ʿUnwan was not yet at a level where he could be taught. ʿUnwan persisted. He prayed that God would soften the heart of Imam al-Sadiq (as) towards him, so that he could learn something. When he went back, the Imam received him warmly and began to advise him. Among the first counsels were rules for eating: do not eat unless you are hungry, and when you do eat, eat only what is lawful and begin in the name of God. The teacher ʿUnwan had to wait and pray for began by telling him which practices to start with. <!-- src: L07 ¶18-19; L08 ¶77-79 -->+}
+{+:::+}
+
+ʿAllama Tabatabaʾi places the need for a teacher at the beginning of the road. In the lectures recorded in *Kernel of the Kernels*, he distinguishes a general teacher, consulted as one consults anyone learned, from the teachers God has appointed. Of the general teacher he says: "The necessity of referring to the general teacher is only at the beginning of wayfaring" [@kernel, p. 80; @light, p. 100]. Once the traveller reaches the higher stations, that teacher's company is no longer needed.
+
+Murtada Mutahhari describes the practice of ʿirfan as guided at every stage. Each stage is passed under the guidance of "a mature and perfect example of humanity who, having traveled this path, is aware of the manners and ways of each station". Without such a guide, the traveller "is in danger of going astray". The ʿurafaʾ, he reports, call this guide Khidr, and he quotes a couplet: "Leave not this stage without the company of Khidr, / There is darkness ahead; be afraid of losing the way" [@light, p. 10].
