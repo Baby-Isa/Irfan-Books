@@ -1,0 +1,96 @@
+{"profile": [
+  "Opens each paragraph on the last one's point, often by repeating its key noun: 'Despite saying these words in our munajats…' after 'These words come from…'; 'Placing the fault in the receiver has two consequences' after the rusted machine; 'Repair is only the start' after 'can be repaired'.",
+  "Ends paragraphs on the point itself, in a short plain sentence, not a flourish: 'That side of the religion is called ʿirfan.' 'In most of us, it is not working.' 'God is not withholding signs; we are failing to receive them.'",
+  "Medium sentences, frequently joined with a bare 'and' (no comma): 'ʿIrfan is the Arabic name for what English books call Islamic mysticism and the two words do not say the same thing.' Semicolons carry contrasts ('A faculty that exists but has rusted can be repaired; one that is absent cannot'), colons introduce lists ('The signs are all around us: in marriage, in the people we meet…'), 'whereas' appears once for a contrast of surface and depth.",
+  "Names a teacher once per paragraph, then 'the Sheikh' or 'he'; verbs are 'in X's words', 'explains', 'insists', 'compares', 'accepts', 'makes the same point'. Never 'he says' as filler.",
+  "Quotations are short phrases embedded in the author's own syntax and always explained afterwards in concrete terms: Tabatabaʾi's red light → 'Most of us see only the lamp'; the machine → 'That machine is the soul.'",
+  "Introduces a verse with one short set-up sentence that says what it will show: 'The Qur'an describes the gap in one verse.' 'The Qur'an says where it lies, speaking of people who have every faculty and use none of them.'",
+  "Stance is 'we', 'us', 'most of us', with the author inside the group and never scolding: 'We have heard these verses many times'; 'Looking at the variety of languages and colours, we are more likely to see a reason for division than a sign of God.' 'Let's' appears for turning to a text. 'You' is rare.",
+  "Numbered, stepwise argument: 'Let's start with two claims. The first… The second…'; 'has two consequences. The first… The second…'; 'Three guiding principles… The first… The second… The third'.",
+  "Concrete, plain diction anchored in everyday things (weddings, red light, lamp, rain, machine, cattle); Arabic terms glossed in passing ('the wajibat', 'maʿrifah, knowledge', 'the shariʿa').",
+  "Cross-references the book's own chapters flatly: 'as Chapter One shows', 'Chapter Fourteen sets out their wider concerns'.",
+  "Occasional tidy antithesis when it is the point ('not in withdrawal from the world but in return'), but no closing aphorism added after the point is made, no restated conclusion, no rhetorical questions.",
+  "Writes 'God', not 'Allah', in its own voice ('God says that He created spouses', 'a sign of God', 'friends of God'); 'Allah' appears only inside quoted matter."
+ ],
+ "passages": {
+  "A": {"p": 35, "verdict": "different", "tells": [
+    "'Mutahhari also explains why seeking them would be shirk: the goal has become something other than God' — restates the quotation just given; Author A explains a quote once and moves on.",
+    "'The scholars differ in emphasis but agree that powers are not the aim' — a summary line that adds no step; Author A would go straight to the next step.",
+    "'the definition Sheikh Bahmanpour gave at the end of his first lecture: ʿirfan \"is actually seeking and nothing else\". It seeks two things: maʿrifah…; and the love of God' — claim, colon, quotation, then another colon; Author A embeds a short quote in his own sentence and explains it after."
+  ]},
+  "B": {"p": 40, "verdict": "different", "tells": [
+    "'Nothing else can be studied until that instrument is understood' — absolute, abstract overclaim; Author A would make the concrete point (the soul is what understands) and leave it.",
+    "'the one thing we know directly … the soul is the one place where we have it … This chapter sets out why we must know ourselves' — the same point three times in four sentences; Author A states it once.",
+    "'Because the soul is both the instrument of all knowing and the one thing we know directly, the theory of ʿirfan begins with it' — opens on a summary conclusion before the argument; Author A opens on a text or a concrete thing and builds to it."
+  ]},
+  "C": {"p": 40, "verdict": "different", "tells": [
+    "'It is difficult, but it is open, because we are made for it' then 'He means this as a statement of what we were made for' — the same point said twice with 'open' three times; Author A says it once.",
+    "'This is the case for pursuing ʿirfan. The Qur'an invites more than the minimum and what stands in the way is a faculty in us that can be repaired. On the other side of that repair lie…' — a paragraph that restates the chapter's conclusions; Author A stops on the point.",
+    "'A human being has the capacity to become a friend of God; God created us with that capacity and wants us to reach it' — closing line that repeats 'capacity' to round off; Author A ends on the new point, not a recap."
+  ]},
+  "D": {"p": 45, "verdict": "different", "tells": [
+    "'The great teachers of the Shia tradition make closely related points, each in his own words' — padded opener; Author A would begin with the teacher and the point.",
+    "Three Tabatabaʾi quotations stacked in one paragraph ('has no right…', 'does not move on the path…', 'though he may not admit it…') — Author A quotes one short phrase and explains it.",
+    "'used: the measure of true spiritual effort is how much selfishness is in it. If a traveller's \"spiritual exercises…\"' — colon-claim then a quotation that ends the paragraph unexplained; Author A follows a quote with his own plain sentence."
+  ]},
+  "E": {"p": 30, "verdict": "different", "tells": [
+    "'the Sheikh says… he says… the Sheikh says' — three attributions in two short paragraphs used as filler; Author A names once and then writes in his own voice.",
+    "'There is no hindrance on His side… His knowledge and bounty are all there… Whatever stands between the heart and the light stands on our side' — the same point three times; Author A says 'God is not withholding signs; we are failing to receive them' once.",
+    "'Allah's light… Allah picks out some people' — Author A writes 'God' in his own voice.",
+    "'Chapter One reached the same conclusion by another road' — a figurative tag; Author A cross-references flatly ('as Chapter One shows')."
+  ]},
+  "F": {"p": 40, "verdict": "different", "tells": [
+    "'Imam Khomeini, in one of his talks, takes this familiarity for granted' — vague source and a one-sentence paragraph that is only a quotation; Author A would place the quote and then say what it shows.",
+    "'and the scholars say so' — filler tag; Author A would go to the scholar directly.",
+    "'Imam Khomeini… Imam Khomeini makes a narrower point… he says that \"those who are fit to do so\" should pray' — the name repeated and the paragraph ending on an unexplained quotation; Author A explains after the quote."
+  ]},
+  "G": {"p": 70, "verdict": "same", "tells": [
+    "Numbered gifts with one-sentence verse set-ups ('The third gift is peace, promised in the verse of Surah Yunus that names the friends of God'), a translation gloss explained plainly, and the antithesis 'The first three ranks are beyond us; the fourth is a doorway' used as the point, not a flourish."
+  ]},
+  "H": {"p": 40, "verdict": "different", "tells": [
+    "'the Sheikh sets it against… he says… the Sheikh says… he grants' — four attributions in two paragraphs; Author A names once per paragraph.",
+    "'The prophets knew God in this way, with a knowledge present in their hearts and not worked out by argument' — a closing line restating 'not reached by analysis'; Author A stops at the cross-reference.",
+    "'God is not a body and God is not in one place and absent from another' — an 'and' chain of examples; Author A would set them off with a colon list or a semicolon."
+  ]},
+  "I": {"p": 65, "verdict": "same", "tells": [
+    "Quotation followed by a concrete explanation in the author's own words ('calling into the sky to someone far away'), teacher named once and then 'the Sheikh', and Mutahhari's quote followed by 'He cites them to show that ʿirfan has its sources inside Islam'."
+  ]},
+  "J": {"p": 60, "verdict": "same", "tells": [
+    "Each paragraph picks up the last ('Knowing God therefore begins…', 'Looking within does not mean…', 'Reaching God therefore covers no distance'), Arabic glossed in parentheses, a flat cross-reference to Chapter Eight, and the Munajat tied back to the argument."
+  ]},
+  "K": {"p": 75, "verdict": "same", "tells": [
+    "One-line verse set-up ('One of its lines is a confession'), explanation after the quote, each paragraph opening on the last one's noun ('that care', 'The soul is also…'), the concrete hunger example and the gloss '(ʿilm al-huduri)'."
+  ]},
+  "L": {"p": 30, "verdict": "different", "tells": [
+    "'The way to God therefore runs through the self. God is already near and the soul reflects Him. What keeps us from Him is a veil over our own soul. Lifting it means…' — a whole paragraph restating the conclusion; Author A stops on the point.",
+    "'The whole effort of the path is to remove them now, so that the heart can see the glory of God and feel His presence' — grand diction ('whole effort', 'glory'); Author A would write what the heart then perceives in concrete terms.",
+    "'Lifting it means coming to know the soul as it is, which is how we come to know our Lord' — a tidy closing line; Author A ends on the new step."
+  ]},
+  "M": {"p": 50, "verdict": "same", "tells": [
+    "Concrete example and flat cross-reference ('Chapter One argued…') match; the scene-setting opener ('by late afternoon, no one has to be told') and the colon-antithesis closer ('knowing God and not only knowing about Him') are warmer and tidier than Author A's usual stop, so no strong lean either way."
+  ]},
+  "N": {"p": 60, "verdict": "same", "tells": [
+    "Plain concrete statement with the author inside the group ('have families, friends and a place in society, as we do'), 'The first gift is nearness:' followed by a one-sentence verse set-up, and the Arabic glossed after the verse."
+  ]},
+  "O": {"p": 45, "verdict": "different", "tells": [
+    "'A forgotten soul also hides its own faults. The worst sins are the ones we do not recognise as sins… istighfar… covers the sins we commit without seeing them' — a true side-remark that does not move the argument from forgetting to remembering; Author A would cut it or make it a step.",
+    "'The worst sins are the ones we do not recognise as sins, because what is not recognised cannot be cured' — aphoristic balance; Author A would state the plain consequence.",
+    "'This is how the mystics read the verse' — a filler tag after the reading has already been given."
+  ]},
+  "P": {"p": 40, "verdict": "different", "tells": [
+    "'What the prayer asks to lose is the heart's love for the world, not the world itself or the people and the work in it' — restates the first paragraph's 'in the heart, not in the household or the marketplace'; Author A says it once.",
+    "'not in the household or the marketplace' — figurative pairing; Author A would write 'not in family or work'.",
+    "'describes the same severance from the other side' — a figurative transition; Author A links with the plain point."
+  ]},
+  "Q": {"p": 45, "verdict": "different", "tells": [
+    "'Tawhid is simple to say and hard to grasp; the intellect alone cannot reach its depths and only the awakened soul can' — aphorism plus grand diction ('awakened soul', 'depths'); Author A would say what the ʿarif knows that others do not, concretely.",
+    "'Most of us fear Allah's punishment' — Author A writes 'God' in his own voice.",
+    "'Every Muslim knows that there is no god but Allah. Our knowledge of tawhid, God's oneness, is still not the knowledge of those who witness it' — the sentences sit side by side without the link Author A would make."
+  ]},
+  "R": {"p": 40, "verdict": "different", "tells": [
+    "'Imam Khomeini draws the same line… Imam Khomeini holds that the meeting is open' — the name repeated where Author A would write 'he'.",
+    "'Even unveiled… yet even so… Yet even those who hold' — repeated 'even' and 'yet' hedging; Author A's sentences are plainer.",
+    "'The meeting brings nearness to God (qurb), never a grasp of Him' — tidy antithetical closer after the quote; Author A would explain the quote in a plain sentence.",
+    "'The lectures draw this from Surah al-Isra' — Author A attributes to 'the Sheikh' or 'Sheikh Bahmanpour', not to 'the lectures'."
+  ]}
+ }}
