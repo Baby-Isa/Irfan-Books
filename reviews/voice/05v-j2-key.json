@@ -1,0 +1,39 @@
+{
+ "A": "control",
+ "B": "chapter",
+ "C": "control",
+ "D": "chapter",
+ "E": "exemplar",
+ "F": "control",
+ "G": "exemplar",
+ "H": "control",
+ "I": "control",
+ "J": "exemplar",
+ "K": "exemplar",
+ "L": "exemplar",
+ "M": "chapter",
+ "N": "exemplar",
+ "O": "chapter",
+ "P": "chapter",
+ "Q": "chapter",
+ "R": "control",
+ "_meta": {
+  "candidate": [
+   "book2/chapters/05-the-soul-and-its-worlds.md"
+  ],
+  "reference": [
+   "reviews/voice/corpus/A-prologue.md",
+   "reviews/voice/corpus/A-ch01.md@0-3"
+  ],
+  "exemplar": [
+   "reviews/voice/corpus/A-ch01.md@4-9"
+  ],
+  "control": [
+   "reviews/voice/corpus/X-ch02-v1-2d8143e.md",
+   "reviews/voice/corpus/X-ch03-v1-2d8143e.md"
+  ],
+  "fold": "A",
+  "judge_model": "fable",
+  "round": "v2"
+ }
+}
