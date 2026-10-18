@@ -18,14 +18,14 @@ A heart enthralled by God's love is one of the two things ʿirfan seeks. Other p
 
 ## Cut off from all else
 
-::: {.point}
+:::: {.point}
 The prayers' first request is a severance from everything but God, made in the heart.
 
-1. Before the Munajat asks to see God, it asks to be cut off from everything else.
-2. Taken at its word, that could mean leaving family, work, and society; the Sheikh answers that the cutting off is in the heart.
-3. Duʿa Abu Hamza and Duʿa ʿArafah both place it there: love of the world and love for others leave the heart.
-4. Therefore the severance the prayers ask for is in the heart.
-:::
+1. Before the Munajat asks to see God, it asks to be cut off from everything else; seekers "have to cut off from everything first" (the Sheikh).
+2. Taken at its word, that could mean leaving family, work and society; the Sheikh answers that the cutting off is "in the heart".
+3. Duʿa Abu Hamza asks that love of the world leave the heart; Duʿa ʿArafah says God has already removed love for others from the hearts of those who love Him.
+4. Both prayers remove a love from the heart. Therefore the severance the prayers ask for is in the heart.
+::::
 
 The Munajat Shaʿbaniyyah asks to be cut off from everything before it asks to see God. This book opened on its request for light in the eyes of the heart. In the prayer, that line follows straight on from a request for severance. The order fits what Sheikh Bahmanpour says of those who seek God: they want to know Him and to look at Him, but "they have to cut off from everything first".
 
@@ -49,26 +49,25 @@ Both prayers speak of love, and both remove it from the heart. The severance the
 
 ## To see, to love, to draw near
 
-::: {.point}
+:::: {.point}
 The prayers then ask for what ʿirfan seeks: to see God with the heart, to love Him, and to come near Him.
 
-1. A heart cleared of everything but God is free to ask three things of Him.
-2. The first is sight, though the Qur'an says sight cannot perceive God.
-3. The prayer asks for light in the eyes of the heart, not the eyes in our heads, and treats that light as God's to give.
-4. The second request is love: a place among God's friends.
-5. That friendship is knowledge of God and love of Him, the two things ʿirfan seeks.
-6. The third request is nearness.
-7. The Munajat asks God for a heart whose passion brings it near; a prayer of the Sahifa asks to join those already near.
-8. Nearness is felt when we call on God. Therefore the three requests, sight, love, and nearness, are what ʿirfan seeks.
-
-New story (D47): The companion who saw paradise, L07 ¶38; L11 ¶42–43.
-:::
+1. A heart cleared of everything but God is free for Him, and the prayers go on to ask Him for three things. *(Reader told: "three things: to see God with the heart, to love Him, and to come near Him".)*
+    a. The first is sight, though the Qur'an says sight cannot perceive God (Q 6:103).
+    b. The prayer asks for the eyes of the heart, the faculty behind our eyes that misses the signs (Ch 1); it is the light the last chapter described, which God gives to a purified heart, and Duʿa ʿArafah says He has lit it in His friends. *(Story box: the companion who saw paradise.)*
+    c. The second is love: the Munajat asks for a place among God's friends, defined by love.
+    d. That friendship is knowing God and loving Him, the two things ʿirfan seeks.
+    e. The third is nearness, asked earlier in the same prayer.
+    f. The Munajat asks for a heart whose passion brings it near; the Whispered Prayer of the Lovers asks to join those God has chosen for His nearness.
+    g. Nearness is felt in prayer, as His presence when we call on Him.
+2. Therefore, with nearness, the prayers have asked for all that ʿirfan seeks: sight, love and nearness. *(Last sentence of 1g's paragraph, as in Ch 1.)*
+::::
 
 A heart cleared of everything but God is free for Him. The prayers go on to ask for three things: to see God with the heart, to love Him, and to come near Him.
 
 The first is sight. The Munajat asks God to light the eyes of the heart so that they look at Him and pass even through the veils of light. Yet the Qur'an says that sight cannot perceive God (Q 6:103). The difficulty is a real one, and people unfamiliar with the mystics' wording sometimes call such lines a mistake.
 
-The prayer does not ask for the eyes in our heads. It asks for the eyes of the heart. Our physical eyes work perfectly well, and still we miss God's signs, because the inner faculty behind them is blind. The prayer asks God to light that faculty, and treats the light as His to give. Duʿa ʿArafah says He has already lit that light in the hearts of His intimate servants, the friends of God (*awliyaʾ*).
+The prayer does not ask for the eyes in our heads. It asks for the eyes of the heart. Our physical eyes work perfectly well, and still we miss God's signs, because the inner faculty behind them is blind. The prayer asks God to light that faculty. It is the light the last chapter described, which God gives to a purified heart. Duʿa ʿArafah says He has already lit that light in the hearts of His intimate servants, the friends of God (*awliyaʾ*).
 
 ::: {.quote ar="أَنْتَ ٱلَّذِي أَشْرَقْتَ ٱلأَنْوَارَ فِي قُلُوبِ أَوْلِيَائِكَ" source="Duʿa ʿArafah"}
 It is You Who have lit the illuminations in the hearts of Your intimate servants [@duas_dua_arafah_imam_husain, §781]
@@ -102,18 +101,20 @@ The difference nearness makes is felt in prayer. For some of us, calling on God 
 
 ## A pupil reading above his level
 
-::: {.point}
+:::: {.point}
 Words above our level are still ours to say, as an honour and as a plea from need.
 
-1. These are the words of those brought near, like a university book handed to a primary school pupil.
-2. The prayers themselves speak from need.
-3. Even our turning towards God is His doing.
-4. The Sheikh's answer: we are honoured to be allowed to recite them, and God may grant a sincere request.
-:::
+1. Requests this high are the words of those brought near, yet ordinary believers are told to say them, like a primary school pupil handed university books.
+2. Part of the answer is in the prayers themselves, which speak from need. *(Reader told: "part of the answer".)*
+    a. Duʿa ʿArafah comes to God with nothing to offer but its need of Him.
+    b. The Munajat goes further: even our turning towards God is His doing.
+3. The Sheikh: we are honoured to be allowed to say them, though they are not our level. Pleas from need claim no level, so a reciter may say them, and God may grant a sincere request.
+4. Therefore: words above our level are still ours to say. *(Lands within step 3's paragraph: "a reciter may say them".)*
+::::
 
 Requests this high raise a difficulty, which Sheikh Bahmanpour puts plainly. These words come from the peak of understanding and longing, from those brought near to God, yet ordinary believers are told to recite them. He compares it to telling a primary school boy to read university books.
 
-The prayers themselves speak from need. Duʿa ʿArafah comes to God with nothing to offer but its need of Him.
+Part of the answer is in the prayers themselves, which speak from need. Duʿa ʿArafah comes to God with nothing to offer but its need of Him.
 
 ::: {.quote ar="هَا أَنَا أَتَوَسَّلُ إِلَيْكَ بِفَقْرِي إِلَيْكَ" source="Duʿa ʿArafah"}
 Here I am begging You by my need for You. [@duas_dua_arafah_imam_husain, §689]
@@ -129,16 +130,17 @@ The Sheikh's answer to the difficulty is that we have been honoured to be allowe
 
 ## Prayers for ordinary nights
 
-::: {.point}
+:::: {.point}
 These prayers are set on nights we already keep, so anyone may begin them.
 
-1. Four of these prayers are in the Mafatih, each set on a night or a day.
-2. The Munajat Shaʿbaniyyah belongs to Shaʿban, to be said with presence of heart.
-3. Duʿa Kumayl, Duʿa ʿArafah, and Duʿa Abu Hamza have their own nights and days.
-4. Said on nights we keep, the words become familiar.
-5. Reciting is not comprehending: few grasp their depth.
-6. Therefore anyone may begin them; what we have is access, not attainment.
-:::
+1. The invitation to say them reaches us through a book most believers own: four of the prayers are in the Mafatih, each set on a night or a day. *(Reader told: "each of them on a night or a day".)*
+    a. The Munajat Shaʿbaniyyah belongs to Shaʿban, said by the Imams, to be said "with presence of heart".
+    b. Duʿa Kumayl, Duʿa ʿArafah and Duʿa Abu Hamza have their own nights and days.
+2. Said on nights we keep, the words become familiar (Imam Khomeini). *(History box: the Mafatih and the Sahifa.)*
+3. Reciting is not comprehending: few grasp their depth (Maliki Tabrizi).
+4. The Sheikh still recommends the Munajat to every listener: the two answer different questions, how far a reciter reaches and who may begin.
+5. Therefore anyone may begin these prayers: what we have is access to their words, not attainment. *(Last sentence of step 4's paragraph.)*
+::::
 
 The invitation to recite these words reaches us through a book most believers already own. Four of the prayers quoted in this chapter are in the Mafatih al-Jinan, which sets each of them on a night or a day in the believer's year.
 
@@ -154,18 +156,21 @@ The prayers in this chapter reach ordinary believers through two books. The *Maf
 
 Reciting the words is not the same as comprehending what they describe. Maliki Tabrizi sees the supplications as a servant's own words rising to God. That, he writes, "is not accepted and comprehended by any one, except a small number of believers who are thoroughly familiar and enlightened" [@journey, p. 43].
 
-Sheikh Bahmanpour still recommends the Munajat to every listener, to be recited in Shaʿban as often as they can. The two positions answer different questions: how far a reciter reaches, and who may begin. This chapter claims only the second, access to these words rather than attainment of what they ask for.
+Sheikh Bahmanpour still recommends the Munajat to every listener, to be recited in Shaʿban as often as they can. The two positions answer different questions: how far a reciter reaches, and who may begin. This chapter claims only the second: anyone may begin these prayers, with access to their words rather than attainment of what they ask for.
 
 ## Words already on our lips
 
-::: {.point}
-The goal of ʿirfan is already on the believer's lips.
+:::: {.point}
+The goal of ʿirfan is already on our lips: in these prayers, we have already begun to ask for it.
 
-1. Therefore: the prayers ask for what ʿirfan seeks, from need, on nights we keep, so its goal is already on our lips.
-2. The prayers keep asking God to work on the heart, the self within us, which leaves the question of what the self is.
-:::
+1. Access to these words is where an ordinary believer already stands on the path (answers the close of Ch 2).
+2. The prayers ask for what ʿirfan seeks (§2), from need (§3), on nights we keep (§4).
+3. Therefore the goal of ʿirfan is already on our lips: in these prayers, we have already begun to ask for it.
 
-Access to these words is where an ordinary believer already stands on the path. The prayers ask for what ʿirfan seeks, in the voice of someone in need, on nights the ordinary believer keeps. The goal of ʿirfan is therefore not foreign to us: it is already on our lips.
+Close: "These prayers keep asking God to work on the heart, the self within us. What is this self?"
+::::
+
+Access to these words is where an ordinary believer already stands on the path. The prayers ask for what ʿirfan seeks, in the voice of someone in need, on nights the ordinary believer keeps. The goal of ʿirfan is therefore not foreign to us: it is already on our lips. In saying these prayers, we have already begun to ask for it.
 
 These prayers keep asking God to work on the heart, the self within us. What is this self?
 

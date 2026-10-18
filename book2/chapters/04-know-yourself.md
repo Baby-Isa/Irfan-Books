@@ -24,15 +24,15 @@ The theory of ʿirfan therefore begins with the soul, since every other study is
 
 ## The human story is the soul's story
 
-::: {.point}
-The Qur'an places the human story in the soul: whoever purifies it succeeds, and whoever betrays it fails.
+:::: {.point}
+The human story is the soul's story: we succeed by purifying it and fail by betraying it.
 
-1. God made every soul able to tell good from evil.
-2. Whether we succeed or fail rests on what we do with the soul.
-3. Hence the human story is the soul's story: we are here to purify and develop it.
-:::
+1. God made every soul able to tell good from evil (Q 91:7–8).
+2. Success and failure turn on what we do with that soul: purify it or betray it (Q 91:9–10).
+3. Therefore the human story is the soul's story: we are here to purify and develop it, and the Munajat's neglect is the failure the surah names.
+::::
 
-The Qur'an gives the reason we must know ourselves. Surah al-Shams opens with a run of oaths: by the sun and the moon, the day and the night, the sky and Him who built it, and the earth and Him who spread it (Q 91:1–6). The last oath is by the soul and "Him who fashioned it, and inspired it with [discernment between] its virtues and vices" (Q 91:7–8). Every soul comes with the means to tell good from evil, and the next two verses say what follows from that gift.
+The Qur'an shows what rests on the soul. Surah al-Shams opens with a run of oaths: by the sun and the moon, the day and the night, the sky and Him who built it, and the earth and Him who spread it (Q 91:1–6). The last oath is by the soul and "Him who fashioned it, and inspired it with [discernment between] its virtues and vices" (Q 91:7–8). Every soul comes with the means to tell good from evil, and the next two verses say what follows from that gift.
 
 ::: {.ayah ref="91:9-10"}
 one who purifies it is felicitous, and one who betrays it fails.
@@ -48,18 +48,18 @@ Mirza Muhammad ʿAli Shahabadi was the teacher who most shaped Imam Khomeini's s
 
 ## Forgotten together, known together
 
-::: {.point}
+:::: {.point}
 Knowing God begins with knowing the soul, because the two are forgotten together and known together.
 
-1. Forgetting God makes us forget our own souls.
-2. Most of us have forgotten our souls in this sense: their potential lies undeveloped.
-3. Remembering God turns our attention back to the soul.
-4. Losing the soul costs us our faith.
+1. If everything rests on the soul, losing sight of it is the deepest loss, and Q 59:19 names the cause: forgetting God makes us forget our own souls.
+2. Most of us, Muslims included, have forgotten our souls in this sense: we leave their potential undeveloped.
+3. The mystics find the cure in the same verse: remembering God (*dhikr*) turns our attention back to the soul.
+4. The other direction holds too: losing the soul takes faith with it (Q 6:20).
 5. That is because a soul that is seen points to its Maker.
-6. Knowing is tied the same way as forgetting: whoever knows his soul knows his Lord.
+6. Knowing runs both ways as forgetting does: "Whoever knows his own self knows his Lord."
 7. The saying holds because the soul reflects God, without being part of Him.
-8. Therefore knowing God begins with knowing the soul.
-:::
+8. Therefore knowing God begins with knowing the soul (Tabatabaʾi: "the window of his own soul").
+::::
 
 If the human story is the soul's story, losing sight of the soul is the deepest loss. Surah al-Hashr names its cause: forgetting God.
 
@@ -69,7 +69,7 @@ Do not be like those who forget Allah, so He makes them forget their own souls. 
 
 The verse calls such people transgressors. Sheikh Bahmanpour counts most of us, Muslims included, among those who have forgotten their souls. He does not mean that we will necessarily be punished for it. He means that we do not realise the potential our souls hold, and so we do not develop them as we could.
 
-The cure follows from the verse. If forgetting God makes us forget the soul, remembering God (*dhikr*) turns our attention back to it. This is how the mystics read the verse. The return comes in stages. A person first turns back to the self and sees that it must have a Creator. Fuller knowledge of the soul comes later, as the remembrance of God deepens.
+The mystics find the cure in the same verse. If forgetting God makes us forget the soul, remembering God (*dhikr*) turns our attention back to it. The return comes in stages. A person first turns back to the self and sees that it must have a Creator. Fuller knowledge of the soul comes later, as the remembrance of God deepens.
 
 Where remembering God brings the soul back, losing the soul takes faith with it. Surah al-Anʿam says so.
 
@@ -95,26 +95,26 @@ The saying is short in Arabic: *man ʿarafa nafsahu faqad ʿarafa rabbahu*. Its 
 
 ## Near already: lifting the veils
 
-::: {.point}
-God is already near, so reaching Him means lifting, in this life, the veils over our own soul.
+:::: {.point}
+God is already near and reflected in the soul, so reaching Him means lifting the veils over that soul, and doing it in this life.
 
-1. God is near: the soul stands in His presence now, though it does not perceive Him.
-2. Reaching Him therefore covers no distance; what stands between is a veil over the heart.
-3. The veils come off for every soul at the meeting with God that the Qur'an promises.
-4. At that meeting each soul sees itself as it is.
-5. The soul reflects God, so at the meeting it perceives Him in that reflection, not in His Essence.
-6. Even then the soul cannot encompass God: some understanding of Him is possible, complete knowledge is not.
-7. What a soul perceives of God at that meeting depends on what it perceives of Him in this life.
-8. Hence the seeker lifts the veils in this life rather than waiting, since the journey through death is longer and harder.
-9. Whoever uncovers the self sees its reality, and that is knowing its Lord.
-10. Therefore the way to God runs through knowing the self.
+1. God is already near: the soul stands in His presence now, though it does not perceive Him.
+2. So reaching Him covers no distance; what stands between is a veil over the heart, and purification is what removes it.
+3. For every soul, the veils come off at the meeting with God that the Qur'an promises (Q 6:31).
+4. There each soul sees its own soul as it is. Three things about that meeting matter to a seeker now. *(Reader told: "what the soul sees there, where its sight stops, and what decides how much it sees".)*
+    a. What it sees is the soul, a reflection of God, so it perceives Him in that reflection, not in His Essence.
+    b. Even then it cannot encompass God: some understanding is possible, complete knowledge is not (Imam Khomeini). *(Story box: Musa asks to see God, L04 ¶56–57, D47.)*
+    c. How much it sees then depends on how much it sees now (Q 17:72).
+5. So the seeker lifts the veils in this life, not waiting for death, whose journey is longer and harder.
+6. Whoever uncovers the self sees its reality, and that is knowing its Lord (Maliki Tabrizi).
+7. Therefore the way to God runs through knowing and purifying our own self.
 
-New story (D47): Musa asks to see God, L04 ¶56–57.
-:::
+Close: "If the way to God runs through the self, how deep does the self go?"
+::::
 
 Looking within does not mean going anywhere, because God is already near. In Sheikh Bahmanpour's words, "We are actually in His presence at the moment. However, He is not in our presence." The soul stands before God now. What it lacks is the perception of the One before whom it stands.
 
-Reaching God therefore covers no distance. The journey to Him is a sharpening of the heart's sight, not a movement from one place to another. What stands between the soul and Him is a veil over the heart (*hijab*, plural *hujub*). Coming near to God (*qurb*) means having such a veil removed. The Munajat Shaʿbaniyyah asks that the eyes of our hearts penetrate even the veils of light [@light, p. 165]. Chapter Eight sets out these veils and the stages in which they are lifted.
+Reaching God therefore covers no distance. The journey to Him is a sharpening of the heart's sight, not a movement from one place to another. What stands between the soul and Him is a veil over the heart (*hijab*, plural *hujub*). Coming near to God (*qurb*) means having such a veil removed, and purification is what removes it. The Munajat Shaʿbaniyyah asks that the eyes of our hearts penetrate even the veils of light [@light, p. 165]. Chapter Eight sets out these veils and the stages in which they are lifted.
 
 For every soul, the veils will one day come off, at the meeting with God that the Qur'an promises. Surah al-Anʿam warns those who deny that meeting.
 
@@ -122,7 +122,7 @@ For every soul, the veils will one day come off, at the meeting with God that th
 They are certainly losers who deny the encounter with Allah.
 :::
 
-The verse speaks of the meeting with God (*liqaʾ Allah*). Every soul will take part in this meeting, believer or unbeliever, because every soul can perceive God. At the meeting, as the lectures put it, "We remove the layers that cover our soul". Each of us will see our own soul as it is.
+The verse speaks of the meeting with God (*liqaʾ Allah*). Every soul will take part in this meeting, believer or unbeliever, because every soul can perceive God. At the meeting, as the lectures put it, "We remove the layers that cover our soul". Each of us will see our own soul as it is. Three things about that meeting matter to a seeker now: what the soul sees there, where its sight stops, and what decides how much it sees.
 
 What is seen at that meeting is the soul, and the soul is a reflection of God. Seeing it is therefore seeing a reflection of God, and not God Himself. The verse still calls it a meeting with Him. On that day the soul perceives the presence it has always stood in. The believer perceives God's mercy and reward, whereas the unbeliever perceives His justice.
 
@@ -142,7 +142,7 @@ The seeker therefore begins lifting the veils in this life. There is a second re
 
 Mirza Jawad Maliki Tabrizi describes what the seeker finds when the self is uncovered. The one given God's grace can "remove the material curtain from his spirit and self" and see the self's reality. For him, this knowledge of the self is the meaning of Imam ʿAli's (as) saying that whoever knows himself knows his Lord [@journey, p. 125].
 
-The way to God therefore runs through the self. God is already near and reflected in the soul, and the veil that keeps us from Him lies over the soul itself.
+The way to God therefore runs through knowing and purifying our own self. God is already near and reflected in the soul, and the veil that keeps us from Him lies over the soul itself.
 
 If the way to God runs through the self, how deep does the self go?
 

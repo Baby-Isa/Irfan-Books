@@ -20,22 +20,19 @@ Sheikh Bahmanpour teaches otherwise: at death "we don't go anywhere". The dead a
 
 ## One world at three depths
 
-::: {.point}
-The world has three depths, so the dead have gone deeper into it, not away.
+:::: {.point}
+Creation has three worlds, one inside another, and none of them is far away.
 
-1. The soul is a copy of creation, so each of its three ways of knowing samples one world.
-2. The senses meet the material world; the other two worlds are unseen, not distant.
-3. The imagination shows that shape and colour can exist without matter.
-4. Because the soul is a copy of creation, our imagination is a sample of a created world of images that does not depend on anyone's mind.
-5. The intellect grasps meanings with no image or matter, and these belong to a third world, the world of intellects.
-6. The world of images links the other two, so it is called barzakh, a barrier.
-7. None of these worlds is a place; each is a deeper dimension of this one, the world of intellects with some difference.
-8. Imam ʿAli (as) taught that this world lies inside the hereafter, which encompasses it.
-9. So far: three worlds make one reality, and none of them is far away.
-10. Therefore the dead have gone deeper into our world, not away from it.
-
-New story (D47): The churchman's question to Imam ʿAli, L04 ¶62.
-:::
+1. The mystics hold that the soul is creation in small, so the kinds of thing the soul holds show the kinds of world creation holds.
+2. The soul holds three kinds of thing, one for each way it knows. *(Reader told: "taking them one at a time shows the three worlds.")*
+    a. The senses meet things made of matter: the first world, the material world.
+    b. The imagination holds shape and colour with no matter; creation holds the same on a larger scale, outside anyone's mind: the world of images.
+    c. The intellect holds meanings with no shape and no matter: the world of intellects.
+3. So creation has three worlds, and the world of images stands between the other two: barzakh, "a barrier".
+4. These worlds are not places but depths of the one world we live in.
+5. Story: the churchman asks Imam ʿAli (as); this world lies inside the hereafter, which surrounds it.
+6. Therefore: three worlds, one inside another, none far away.
+::::
 
 Let's start with a claim of the mystics: the human soul is the whole of creation in small, a compact copy of everything that exists. We know things in three ways: through the senses, the imagination, and the intellect. If the soul is a copy of creation, each of these three should give us a sample of one world. Each world can then be approached through something we already know.
 
@@ -63,20 +60,18 @@ A *barzakh* is a barrier, something that stands between two things and keeps eac
 
 ## A soul that crosses them
 
-::: {.point}
-The soul moves between the worlds, as far as the life it lives takes it.
+:::: {.point}
+When the body's hold on the soul loosens, the soul passes into the middle world; at death it stays there.
 
-1. The soul links the spirit God breathed into us with the body, so it has a share in every world.
-2. For now the body holds the soul's attention, and that hold loosens at three times.
-3. In sleep the soul touches the world of images, which is why a dream can show what has not yet happened.
-4. The Qur'an sets sleep beside death: God takes the soul in both.
-5. At death the soul lets go of the body completely and lives in an image body with shape but no mass.
-6. The image body was with us all along, so at death the soul sets the body down and goes on in it.
-7. Awake, a person can loosen the hold by turning their attention to God.
-8. So far: sleep, death, and watchfulness each loosen the body's hold, and each time the soul can reach the world of images.
-9. The angels, unlike the soul, each have a fixed station they cannot leave.
-10. Therefore the soul, which has none, goes as far as the life it lives takes it.
-:::
+1. The soul stands between the spirit God breathed into us and the body, so it has a share in every world.
+2. For now the body holds its attention; the hold loosens at three times. *(Reader told: "sleep, death and watchfulness, one at a time.")*
+    a. Sleep: the hold slackens and the soul touches the middle world, which is why a dream can show what has not yet happened.
+    b. Death: the Qur'an sets it beside sleep, since God takes the soul in both (Q 39:42); the difference is degree.
+    c. At death the soul lets go of the body completely and goes on in an image body it had all along.
+    d. Watchfulness: awake, a person who turns their whole attention to God loosens the hold on purpose and can see into the middle world. *(Qadi box.)*
+3. So each time the hold loosens, the soul reaches the middle world, and at death it stays there.
+4. Therefore the dead have gone deeper into our world, not away from it (pays off the opening).
+::::
 
 The soul has a share in each of these worlds, because it was made to stand between them. The Qur'an says that God breathed of His spirit into the first human being (Q 15:29). God has no spirit as part of Himself, since He is not made of parts. The spirit is called His out of honour, as the Kaʿba is called His house. It is the greatest of His creations. Pure spirit and matter cannot meet directly. The soul is the means by which that spirit reaches the body, as the world of images links intellect and matter.
 
@@ -112,18 +107,17 @@ The human soul has no known place of this kind. It can move and change, and no o
 
 ## Our deeds give the soul a form
 
-::: {.point}
-What we do now shapes the image body we will meet after death.
+:::: {.point}
+Because the soul is not fixed like an angel, what we do shapes it, and it meets that shape in the middle world.
 
-1. Repeated acts shape the self, as the habit of lying shows.
-2. The image body records that shaping far more than the face does: sin deforms it and piety lights it.
-3. The state of the soul at death fixes the form it takes in the next world.
-4. On the Last Day people will be grouped by their true natures.
-5. Piety shines as light on the Last Day; Shomali holds that some rewards are the deeds themselves made visible.
-6. Therefore the image body is being shaped now, and part of what we meet after death may be our own deeds.
-
-New story (D47): Ibn ʿArabi and Surah Yasin, L13 ¶35–37.
-:::
+1. An angel has a fixed station and does not grow (Q 37:164); the soul has none, so it can be shaped. *(Moved from §2.)*
+2. Repeated acts shape it, as the habit of lying shows.
+3. In this world the shaping shows a little, in the face; the image body shows it fully: sin deforms it, piety makes it shine.
+4. The state the soul leaves the body in fixes its form in the next world (Imam Khomeini).
+5. The Qur'an points the same way: people come in groups by their true natures (Q 78:18); the faithful come with their light before them (Q 57:12).
+6. Some rewards are the deeds themselves made visible. *(Story: Ibn ʿArabi and Surah Yasin.)*
+7. Therefore the form we meet after death is being made now, by what we do.
+::::
 
 If every soul passes into the middle world in any case, it can seem that what we do here changes little. Habit shows otherwise, because repeated acts shape the self. Shomali takes the example of lying. A child telling a first lie feels uneasy and later remorseful. With repetition "the soul becomes inured to the effects" [@self_knowledge, p. 20], until lying costs little effort.
 
@@ -151,21 +145,22 @@ Sheikh Bahmanpour tells a story that the great mystic Ibn ʿArabi told of his ow
 
 ## The self can change its state
 
-::: {.point}
-The one self can rise from its lowest state to peace, so what it becomes is, by God's grace, in our hands.
+:::: {.point}
+The self that does the deeds can change its state, so what the soul becomes is, by God's grace, in our hands.
 
-1. So far: the soul lives in more than one world, and its deeds give it a form there.
-2. The lowest state of the self is the one that commands to evil, when the body rules the spirit.
-3. Worry ties the soul to the body as much as pleasure does.
-4. The self that blames itself after giving in is a hopeful sign.
-5. Self-blame, kept up, brings the self to peace.
-6. These are one self under three names, so changing our attitude changes its state.
-7. The remembrance of God refreshes and revives the soul.
-8. The Qur'an says hearts find rest in remembrance, and its word for rest shares a root with the name of the self at peace.
-9. Fasting and the night prayer loosen the soul's tie to the body.
-10. These acts work because the soul takes on habits quickly, so what we make of it is ours forever.
-11. Therefore, by God's grace, what the soul finally becomes is in our hands.
-:::
+1. The Qur'an names three states of the self. *(Reader told: "from lowest to highest.")*
+    a. Commanding to evil, when the body rules (Q 12:53); worry binds as much as pleasure.
+    b. Blaming itself, a hopeful sign (Q 75:2).
+    c. At peace, which self-blame kept up leads to (Q 89:27–28).
+2. These are one self under three names, so changing our attitude changes its state.
+3. Familiar acts make that change, because each loosens the body's hold, as in §2.
+    a. Remembrance gives the rest of the self at peace; the Qur'an's word for "rest" shares its root (Q 13:28).
+    b. Fasting and the night prayer free the soul's attention from the body.
+4. The change lasts, because the soul takes on habits quickly and what we make of it stays with us forever.
+5. Therefore, by God's grace, what the soul becomes is in our hands.
+
+Close: a short recap; "If the work on the soul is this inward, what keeps it from going astray?"
+::::
 
 The picture so far is this. The soul lives in more than one world, and it can pass into the world of images in sleep, at death, and in watchfulness. What it carries there is a form made by its own deeds.
 
