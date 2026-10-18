@@ -24,7 +24,9 @@ _Update at the end of every task. Keep it short. History lives in git and DECISI
 
 **2026-10-16, the Sheikh's correction (D46) and stories (D47).** The prologue names the Prophet with the Qur'an and the Imams. Eight of the Sheikh's stories added to Ch 1–7 (one per chapter, two in Ch 5), each Fable-reviewed and fact-checked against its transcript; marked "New story (D47)" in the draft's point notes; the Ch 1 story awaits the user's approval. Parts 3–5 outlines now plan a told story in every chapter. The user kept the Ch 4 Musa box; a second screen added three more to the outlines (Hatim, Ch 9.3; Tabatabaʾi in Ibn ʿArabi, Ch 14.2; the Miʿraj prayer, Ch 12 opener, if sourced): 25 of the 61 now told or planned in full. Glossary: six story terms added.
 
-**Next:** the user's read of `parts-one-two-v2`; score the v2 predictions; then the Part Three briefs (Ch 8–12) with point ladders (brief template updated).
+**2026-10-18, proof ladders (D48).** The user made the proof-style ladder the model (TONE 40a, 44a; LESSONS 28–29). Book chain approved (`docs/ladders/00-book-chain.md`, now in ARGUMENT and STORYLINE). Every section's red note in Ch 1–7 is its proof ladder; the user-approved edits are applied to Ch 1–4, 6, 7; Ch 5 is rewritten on its approved ladder, Fable-reviewed and fact-checked. Chain score now splits idle paragraphs into breathers, recaps and drag (Ch 1 calibration: 73% forward, drag 10%). Chapters start on the next page. Sent: `samples/parts-one-two-v3.pdf` (draft) and `-v3-review.pdf`. Story sources researched (`reviews/story-sources.md`; D48 decisions).
+
+**Next:** the user's call on Ch 1's four drag paragraphs (`reviews/ch01-drag-review.md`: trim 1 and 3, keep 2, cut 4); his read of Ch 5 in v3; then the Part Three briefs (Ch 8–12), written as proof ladders from the start.
 
 ## Open questions for the user or lecturer
 1. The lecturer is M. S. Bahmanpour (from the slides). Confirm his preferred title and name format.
