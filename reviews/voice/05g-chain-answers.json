@@ -1,0 +1,107 @@
+{
+  "sections": {
+    "1": {
+      "point": "Open with the prayer's picture of sleep, set the common picture of the dead as far away against the Sheikh's claim that at death we go nowhere, and announce the chapter's four steps.",
+      "steps": [
+        "Explain the quotation: sleep as a picture of neglect, set beside meeting God",
+        "Link sleep to death and to the graveside picture of the dead as far away (the foil)",
+        "State the counter-claim (we don't go anywhere), say why the soul is the way in, and give the four-step roadmap"
+      ]
+    },
+    "2": {
+      "point": "Creation has three nested worlds (matter, images, intellects), each a deeper dimension of the one we are in, so none is far away.",
+      "steps": [
+        "The soul is creation in small, so its contents map the kinds of world",
+        "The soul knows in three ways, so it holds three kinds of thing",
+        "Senses meet matter: the material, witnessed world",
+        "Imagination meets shaped, weightless things: the world of images, real and outside the mind",
+        "Intellect meets pure meanings: the world of intellects",
+        "The world of images stands between the other two as a barrier (barzakh)",
+        "The worlds are dimensions of this world, nested in depth not distance"
+      ]
+    },
+    "3": {
+      "point": "The soul sits between body and spirit; whenever the body's hold loosens (sleep, watchfulness, death) it enters the world of images, and at death it stays there in an image body.",
+      "steps": [
+        "The soul is the link between God's spirit and the body, so it touches both the material and the deeper worlds",
+        "The body normally occupies the soul; that hold loosens at three times",
+        "Sleep: the soul touches the world of images (true dreams)",
+        "Death is like sleep but complete (Qur'an sets them together; difference of degree)",
+        "At death the soul carries on in the image body, which was always with us",
+        "Watchfulness: attention turned to God does deliberately what sleep does",
+        "Therefore the dead in barzakh have gone deeper into our world, not away"
+      ]
+    },
+    "4": {
+      "point": "Unlike a fixed angel, the soul can be shaped; repeated deeds shape it, the image body takes that shape, and after death the soul meets its own deeds as its form.",
+      "steps": [
+        "Angels have fixed stations and cannot change",
+        "The human soul has no fixed station and can be shaped by how it lives",
+        "What shapes it is repeated action: habit becomes part of the soul",
+        "The image body registers that shaping far more than the material body",
+        "The shape at death is kept in the next world",
+        "Qur'an: people come forth as what they have become; the faithful's light is their own piety",
+        "So some rewards are the deeds themselves made manifest; the form is being made now"
+      ]
+    },
+    "5": {
+      "point": "The self that acts is one self in changeable states (commanding, blaming, at peace); known acts change the state and the change lasts, so what the soul becomes is in our hands, the start being God's grace.",
+      "steps": [
+        "Deeds are done by the self, and the self too is not fixed: three names read as three states",
+        "The commanding self: body overcomes spirit",
+        "The blaming self: remorse shows higher values, a hopeful sign",
+        "The self at peace: reliant on the other world, called back to its Lord",
+        "These are one self under different names, so the state can be changed",
+        "The attitude is changed by acts that turn attention from body to God (dhikr; fasting and night prayer)",
+        "Such change lasts because the soul takes on habits; it has been entrusted to us",
+        "Conclusion: what the soul becomes is in our hands, by God's grace"
+      ]
+    }
+  },
+  "paragraphs": {
+    "¶1": {"label": "advance", "why": "Explains the opening quotation and fixes the hook: sleep as a picture of neglect, set beside the meeting with God."},
+    "¶2": {"label": "advance", "why": "Moves from sleep to death and to the graveside, planting the 'waiting room far away' picture the chapter will overturn."},
+    "¶3": {"label": "advance", "why": "States the counter-claim ('we don't go anywhere'), says why the soul is the route, and gives the four-step roadmap and the chapter's thesis."},
+    "¶4": {"label": "advance", "why": "Supplies the method premise: the soul is creation in small, so its contents map the worlds."},
+    "¶5": {"label": "advance", "why": "Supplies the count: three ways of knowing, hence three kinds of thing and three worlds."},
+    "¶6": {"label": "advance", "why": "First world (matter, witnessed); also plants that 'unseen' means untrained perception, not distance, which the point needs."},
+    "¶7": {"label": "advance", "why": "Second world (images): shaped, weightless, real and outside the mind. A needed step not given before."},
+    "¶8": {"label": "advance", "why": "Third world (intellects): pure meanings, angels. Completes the three."},
+    "¶9": {"label": "advance", "why": "Adds the ordering and the middle world as barrier (barzakh), which gives the nesting and names the term the graveside payoff needs."},
+    "¶10": {"label": "advance", "why": "Supplies the 'depth not distance' step: the worlds are dimensions of this world, not places."},
+    "¶11": {"label": "support", "why": "Imam Ali's answer gives the authority for the nesting and extends it to the hereafter encompassing this world, which ¶21's 'the resurrection is a move deeper still' relies on. Borderline: much of it repeats ¶10's claim with a second voice."},
+    "¶12": {"label": "restate", "why": "Summarises ¶5-¶10; every clause has already been stated."},
+    "¶13": {"label": "advance", "why": "Places the soul between spirit and body, which is why it can touch the deeper worlds at all."},
+    "¶14": {"label": "advance", "why": "Introduces the body's hold and the three times it loosens; the frame for the section."},
+    "¶15": {"label": "advance", "why": "Sleep: the soul touches the world of images; true dreams as the sign. First of the three."},
+    "¶16": {"label": "advance", "why": "Introduces death as the second case and the verse that pairs it with sleep. Thin on its own but it is the step; could be merged with ¶17."},
+    "¶17": {"label": "advance", "why": "Draws the needed inference from the verse: sleep and death differ in degree, so what sleep shows applies to death completely."},
+    "¶18": {"label": "advance", "why": "Supplies the image body and the claim that the soul carries on in it; the core of 'at death it stays there'."},
+    "¶19": {"label": "advance", "why": "Watchfulness as the third case; shows the hold can be loosened on purpose and completes the set announced in ¶14."},
+    "¶20": {"label": "restate", "why": "Summarises ¶15-¶19; 'at death it stays there' is already in ¶18."},
+    "¶21": {"label": "advance", "why": "Joins barzakh (¶9) to the world of images the soul enters, answering the graveside picture from ¶2. Beyond the strict point but the step that gives it meaning; the resurrection sentence leans on ¶11."},
+    "¶22": {"label": "advance", "why": "Angels are fixed: the contrast that defines the soul's unfixed nature."},
+    "¶23": {"label": "advance", "why": "The soul is not fixed and so can be shaped by its life; the section's premise."},
+    "¶24": {"label": "advance", "why": "Supplies the mechanism: repeated action becomes habit, habit becomes part of the soul."},
+    "¶25": {"label": "advance", "why": "Moves the shaping from face to image body, which registers it fully; needed to reach 'meets that shape in the middle world'."},
+    "¶26": {"label": "advance", "why": "Adds that the shape at death is kept, with Khomeini's second form as evidence."},
+    "¶27": {"label": "support", "why": "Introduces the al-Naba' verse that ¶29 uses ('in both verses, people appear as what their souls have become')."},
+    "¶28": {"label": "support", "why": "Hadith gloss and the al-Hadid verse; both are used by ¶29 and ¶30."},
+    "¶29": {"label": "advance", "why": "Reads the light as the pious themselves shining, which ¶30 builds on; also marks the Last Day body as distinct from the image body."},
+    "¶30": {"label": "advance", "why": "Supplies the step that rewards are deeds made manifest, so the form the soul meets is its deeds."},
+    "¶31": {"label": "advance", "why": "Closes the inference from ¶30 to the point and adds 'our future is now present'. Half of it (image body shaped by what we do) is already in ¶25-¶26."},
+    "¶32": {"label": "advance", "why": "Shifts to the self that does the deeds and frames three names as three states."},
+    "¶33": {"label": "advance", "why": "First state, the commanding self, with its verse and the mercy that lifts it."},
+    "¶34": {"label": "aside", "why": "Its first sentence repeats ¶33's last; the worry remark widens what binds the soul but no later step needs it (¶42's 'trained to worry' stands without it)."},
+    "¶35": {"label": "advance", "why": "Second state, the blaming self, and why it is a hopeful sign."},
+    "¶36": {"label": "advance", "why": "Third state, the self at peace."},
+    "¶37": {"label": "advance", "why": "The decisive step: one self, three names, so the state can be changed."},
+    "¶38": {"label": "advance", "why": "Supplies how the state is changed (acts that turn attention) and ties it back to loosening the body's hold."},
+    "¶39": {"label": "support", "why": "Dhikr as the first example, with the verse ¶40 reads."},
+    "¶40": {"label": "support", "why": "Ties the verse's 'rest' to mutma'inna, showing remembrance produces the third state; used by the ¶38 claim."},
+    "¶41": {"label": "support", "why": "Second example announced in ¶38; ¶42's 'see the light' depends on it. A second example of the same mechanism, so the weaker of the two."},
+    "¶42": {"label": "advance", "why": "Supplies that the change lasts and that the soul is entrusted to us, the step to 'in our hands'."},
+    "¶43": {"label": "restate", "why": "Chapter summary; only 'the drive to begin is God's grace' is new and it could sit in ¶42."},
+    "¶44": {"label": "aside", "why": "A bridge question to the next chapter; the point does not need it and nothing here answers it."}
+  }
+}
