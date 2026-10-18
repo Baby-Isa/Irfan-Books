@@ -1,0 +1,89 @@
+{
+  "sections": {
+    "1": {
+      "point": "Open with the hunger image and announce that the chapter will show why knowing about God is not knowing Him, and how He is in fact known.",
+      "steps": [
+        "A concrete case of knowing that study cannot give (hunger in Ramadan).",
+        "Most knowledge of God is study-knowledge; the Qur'an's invitation (earlier ground) is to a knowing of the hunger kind.",
+        "State the chapter's claim in the title's terms."
+      ]
+    },
+    "2": {
+      "point": "The mystic's knowledge of God is knowledge by presence, because God has no limit and so cannot be defined.",
+      "steps": [
+        "Define acquired knowledge: from outside, through concepts.",
+        "Acquired knowledge works by definition, and to define is to limit.",
+        "Define knowledge by presence: present to the soul, no concept needed (self, hunger, pain).",
+        "Mysticism aims at arriving by presence, not understanding by definition; God has no limit, so the ʿarif's knowledge must be by presence."
+      ]
+    },
+    "3": {
+      "point": "Reason stops short of what God is; it can only prove and negate, so positive knowledge of God must be had within the soul, by presence.",
+      "steps": [
+        "Reason knows attributes, never the 'it' of a thing (Ibn Sina).",
+        "A fortiori it cannot reach God, who has no attributes of that kind (Imam ʿAli).",
+        "What reason can still do about God is prove His existence and say what He is not: negative knowledge only.",
+        "ʿIrfan seeks positive knowledge of His attributes from within, which is knowledge by presence.",
+        "Knowledge by presence is only of what is within us, so God must be known within the soul."
+      ]
+    },
+    "4": {
+      "point": "The knowledge of God that study cannot produce is a light God places in a heart that has been purified.",
+      "steps": [
+        "A knowledge analysis cannot produce must be given; a hadith names the giver (God puts a light in the heart).",
+        "'Whomever He wills' looks like selection; the Light verse shows God's light is everywhere and held back from no one.",
+        "So what keeps a heart dark is that it is closed; opening it is purifying it.",
+        "Imam Khomeini: once the soul is purified, divine teaching follows, as the Baqarah verse links teaching to wariness.",
+        "Hence knowledge of God is a given light, conditional on purity, not gathered by study."
+      ]
+    },
+    "5": {
+      "point": "The way to know God is to purify the heart (suluk, not fikr); study is needed to know what to practise but is itself a veil unless it leads to faith.",
+      "steps": [
+        "If the light is everywhere and the heart is closed, the path is opening the heart; fikr versus suluk.",
+        "Wayfaring is purify, then wait for the light (Sheikh; Munajat Shaʿbaniyyah).",
+        "Purification begins with the shariʿa: doing what the Prophet asked.",
+        "Practice needs knowledge of the rules, so study has an early place (Tabatabaʾi).",
+        "But learning without faith is a veil; study serves purification and cannot replace it (Khomeini)."
+      ]
+    },
+    "6": {
+      "point": "Gather the chapter: knowing God is knowing by presence, given as light to the purified, which study serves but cannot replace.",
+      "steps": [
+        "Restate the chapter's conclusion in one breath.",
+        "Hand off to the next chapter."
+      ]
+    }
+  },
+  "paragraphs": {
+    "¶1": {"label": "advance", "why": "Supplies the hook and the hunger image that every later section leans on; introduces the lecturer's own analogy."},
+    "¶2": {"label": "advance", "why": "States the chapter's claim in the title's terms (knowing about versus knowing) and recalls earlier ground (the Qur'an's invitation) in one sentence, as the point asks."},
+    "¶3": {"label": "advance", "why": "Defines acquired knowledge, the first of the two kinds the point contrasts."},
+    "¶4": {"label": "advance", "why": "Supplies the step that definition is limitation (hadd), which ¶7 and ¶11 both use to say God cannot be defined."},
+    "¶5": {"label": "advance", "why": "Defines knowledge by presence and gives its paradigm cases; the second kind the point names."},
+    "¶6": {"label": "aside", "why": "Completeness and infallibility of presence-knowledge are true and interesting but no later step uses them; ¶7's argument (arrive, not define; God has no limit) stands without this paragraph. Borderline support at best."},
+    "¶7": {"label": "advance", "why": "Joins the two definitions to the point: mysticism aims at arriving by presence, and since definition limits and God has none, the mystic cannot know Him by definition. This is the section's conclusion."},
+    "¶8": {"label": "restate", "why": "By its own words 'draws the same line' ¶7 drew: witnessing equals presence, proofs equal acquired knowledge. A second authority for a claim already made; only the label ʿarif is new, and the box carries that."},
+    "¶9": {"label": "advance", "why": "Supplies the first step: reason knows attributes but never what a thing is, with Ibn Sina conceding it."},
+    "¶10": {"label": "advance", "why": "Supplies the a fortiori step from things to God and introduces the oration that is the authority for it."},
+    "¶11": {"label": "support", "why": "Glosses the quotation ¶10 set up so the reader sees it saying what ¶10 claimed. Its last sentence (definition draws a line, none round God) repeats ¶7 and could go."},
+    "¶12": {"label": "advance", "why": "Supplies the step that reason's remaining work about God is existence-proof plus negation, which ¶13 needs to motivate the demand for positive knowledge."},
+    "¶13": {"label": "advance", "why": "Supplies the step that ʿirfan seeks positive knowledge of the attributes from within, i.e. by presence. The Mulla Sadra sentence and the 'degrees' remark are asides inside an otherwise needed paragraph."},
+    "¶14": {"label": "advance", "why": "Supplies the final step: presence-knowledge is only of what is within us, so God must be known within the soul. Lands the point."},
+    "¶15": {"label": "advance", "why": "Opens the chain: what analysis cannot produce must be given, and introduces the hadith that names the giver."},
+    "¶16": {"label": "support", "why": "Reads the hadith so the reader sees learning versus placed light in it; ¶17 and ¶21 rely on that reading. Could be a sentence."},
+    "¶17": {"label": "advance", "why": "Raises the selection problem in 'whomever He wills' and brings in the Light verse that ¶18 uses to resolve it. The puzzle is used, so it earns its place."},
+    "¶18": {"label": "advance", "why": "Resolves ¶17: God's light is held back from no heart, so darkness is a closed heart. This is the hinge to purification. The to-and-fro on 'those He loves' is loose, but the step is new and needed."},
+    "¶19": {"label": "advance", "why": "Supplies the step that opening is purifying and that teaching follows purity (Khomeini), and introduces the Baqarah verse as its ground."},
+    "¶20": {"label": "restate", "why": "Both sentences repeat what ¶19 (teaching follows wariness/purity) and ¶18 (dark heart is closed heart) already said; nothing later depends on this gloss."},
+    "¶21": {"label": "restate", "why": "First sentence states a conclusion ¶16 and ¶19 had already assembled; the rest (heart-to-heart transmission, the guide, Chapter Seven) is an aside the point does not need and the box covers it anyway."},
+    "¶22": {"label": "advance", "why": "Draws the inference from Section 4 (light everywhere, heart closed) to the path, and supplies the fikr/suluk distinction the section is built on."},
+    "¶23": {"label": "advance", "why": "Supplies the two parts of wayfaring (purify, then wait) in the Sheikh's words and sets up the Munajat line. The 'light is not absent while the heart waits' sentence repeats ¶18."},
+    "¶24": {"label": "restate", "why": "A callback to the book's opening line plus a gloss saying the quotation says what ¶22-23 already said (the one who follows the path receives the light). Deleting it breaks nothing in ¶25 onward."},
+    "¶25": {"label": "advance", "why": "Supplies the step that purification begins with shariʿa practice, which ¶26 needs to bring study in."},
+    "¶26": {"label": "advance", "why": "Supplies the 'study serves' half of the point: practice needs knowledge of the rules, with Tabatabaʾi's knowledge-action cycle."},
+    "¶27": {"label": "advance", "why": "Supplies the 'cannot replace' half with Khomeini's veil warning and lands the point. Borderline: 'without the polishing of the soul no maʿrifah' repeats ¶25, and the paragraph could lose its last two sentences."},
+    "¶28": {"label": "restate", "why": "Summarises Sections 2 to 5 in one paragraph. As a closing section that is its job, but by the rubric it adds no new link."},
+    "¶29": {"label": "aside", "why": "Raises a question the chapter does not answer. It is a hand-off to the next chapter, not a step toward this section's point."}
+  }
+}
