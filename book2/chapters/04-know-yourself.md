@@ -112,7 +112,7 @@ God is already near, so reaching Him means lifting, in this life, the veils over
 New story (D47): Musa asks to see God, L04 ¶56–57.
 :::
 
-Looking within does not mean going anywhere, because God is already near. In Sheikh Bahmanpour's words, "We are actually in [H]is presence at the moment. However, [H]e is not in our presence." The soul stands before God now. What it lacks is the perception of the One before whom it stands.
+Looking within does not mean going anywhere, because God is already near. In Sheikh Bahmanpour's words, "We are actually in His presence at the moment. However, He is not in our presence." The soul stands before God now. What it lacks is the perception of the One before whom it stands.
 
 Reaching God therefore covers no distance. The journey to Him is a sharpening of the heart's sight, not a movement from one place to another. What stands between the soul and Him is a veil over the heart (*hijab*, plural *hujub*). Coming near to God (*qurb*) means having such a veil removed. The Munajat Shaʿbaniyyah asks that the eyes of our hearts penetrate even the veils of light [@light, p. 165]. Chapter Eight sets out these veils and the stages in which they are lifted.
 
@@ -126,7 +126,7 @@ The verse speaks of the meeting with God (*liqaʾ Allah*). Every soul will take 
 
 What is seen at that meeting is the soul, and the soul is a reflection of God. Seeing it is therefore seeing a reflection of God, and not God Himself. The verse still calls it a meeting with Him. On that day the soul perceives the presence it has always stood in. The believer perceives God's mercy and reward, whereas the unbeliever perceives His justice.
 
-Even then, the soul cannot encompass God. The depth of our own soul cannot be known, so a complete knowledge of its Lord is out of reach. As the lectures put it, "You can get some understanding but knowing [H]im completely … is impossible." Imam Khomeini sets a similar limit for the seeker. Those who hold that the meeting with God is open to the seeker, he writes, do not mean that it is permissible "to fathom the mystery of the Divine Essence", or that the Essence can be encompassed in knowledge by presence [@forty_hadith, p. 398].
+Even then, the soul cannot encompass God. The depth of our own soul cannot be known, so a complete knowledge of its Lord is out of reach. As the lectures put it, "You can get some understanding but knowing Him completely … is impossible." Imam Khomeini sets a similar limit for the seeker. Those who hold that the meeting with God is open to the seeker, he writes, do not mean that it is permissible "to fathom the mystery of the Divine Essence", or that the Essence can be encompassed in knowledge by presence [@forty_hadith, p. 398].
 
 ::: {.box-story title="Story: Musa asks to see God"}
 Sheikh Bahmanpour points briefly to the Prophet Musa (as) for a limit on perceiving God. The scene he has in mind is told in the Qur'an, in Surah al-Aʿraf. Musa comes to the meeting God appointed for him, and his Lord speaks to him. Musa asks, "My Lord, show [Yourself] to me, that I may look at You!" God answers, "You shall not see Me" ([لَن تَرَىٰنِي]{lang=ar}), and tells him to look at the mountain instead: if it stays in its place, Musa will see Him. God discloses Himself to the mountain and levels it, and Musa falls down in a swoon (Q 7:143). In the Sheikh's words, "There is a degree of perception which could not be attained by this body", and that is what Musa was asking for.

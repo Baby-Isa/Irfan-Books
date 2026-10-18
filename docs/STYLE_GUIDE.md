@@ -67,6 +67,7 @@ Everything in Book 1, plus the following.
 - **Honorifics:**
   - Use ﷺ after the Prophet's name, the first time per section.
   - Use (as) for the Imams and Lady Fatima (the reader's familiar form; D42), and (atfs) for Imam al-Mahdi.
+  - Pronouns for God are capitalised (He, Him, His), in quotations too: "in His presence", never "in [H]is presence" (user, 18 Oct).
   - Use "God" or "Allah": Allah in devotional contexts, God in philosophical ones. Be consistent within a paragraph.
 - **Transliteration (light):**
   - Write ʿayn as ʿ and hamza as ʾ (not at the start of a word).

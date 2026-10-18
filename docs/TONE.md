@@ -219,6 +219,12 @@ Once he is named, the rest of that line of thought belongs to him, so don't name
 - Example (Ch 4): **Point:** Getting close to God means understanding our own soul. **Paragraphs:** 1. God is always near. 2. He is reflected in our souls. 3. So we do not need to travel far to reach Him. 4. What stands between us is a veil. 5. Since He is reflected in the soul, lifting the veil means understanding the soul. 6. So knowing God comes through knowing the soul.
 **Don't:** write a point that needs a second reading, or a point with two claims joined by "and". A paragraph with no step of its own is cut (rule 25).
 
+### 40a. The ladder is a proof; set up before you argue (user, 2026-10-18)
+**Do:** read the ladder as a maths proof. Each step uses only what earlier steps (or earlier sections) have established, and its key words appear in those steps: if step 2 speaks of "worlds" and "samples", step 1 must already have introduced them. The section points, read in order, are themselves a chain, each following from the one before, and together they prove the chapter point. Where a step needs several things explained first, make them nested steps (2a, 2b, 2c), one paragraph each, and tell the reader before the first one what is coming and why ("The soul knows in three ways. Taking them one at a time shows what each reaches."), so that no paragraph seems unconnected. Then a step brings them together.
+- Before (Ch 5): "The soul is a copy of creation, so each of its three ways of knowing samples one world." Nothing earlier mentions worlds or sampling, so the "so" does not follow.
+- After: "1. The mystics hold that the soul is creation in small, so the kinds of thing the soul holds show the kinds of world creation holds. 2. The soul holds three kinds of thing, one for each way it knows: 2a. … 2b. … 2c. … 3. So creation has three worlds."
+**Don't:** link two claims with "so" or "therefore" unless the first really gives the second; don't start a run of explanatory paragraphs without saying where they lead.
+
 ### 41. Always say which Imam
 **Do:** name the Imam every time: by name ("Imam ʿAli (as)", "Imam al-Sadiq (as)") or by number ("the Twelfth Imam"). Vary the form.
 **Don't:** write "the Imam" and leave the reader to guess.

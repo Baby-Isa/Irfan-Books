@@ -51,7 +51,7 @@ The world of images stands between the other two. That is why it is also called 
 
 None of these worlds is a place we travel to. In Sheikh Bahmanpour's words, the world of images "is another dimension of the same world in which we are living", and so, with some difference, is the world of intellects. The unseen worlds surround this one, but in depth and not in distance: each is a deeper dimension of the world we are in now.
 
-Imam ʿAli (as) described this world as lying inside a larger one, in a story Sheikh Bahmanpour tells. A Christian churchman once came to him with questions. One was whether the hereafter lies inside this world, or this world inside the hereafter. Imam ʿAli (as) answered that this world lies inside the hereafter: this world is limited, and the hereafter encompasses it. The lectures set the answer beside a verse that says hell, which belongs to the hereafter, surrounds the faithless (Q 9:49).
+Sheikh Bahmanpour tells of a Christian churchman who once came to Imam ʿAli (as) with questions. One was whether the hereafter lies inside this world, or this world inside the hereafter. Imam ʿAli (as) answered that this world lies inside the hereafter: this world is limited, and the hereafter encompasses it. The lectures set the answer beside a verse that says hell, which belongs to the hereafter, surrounds the faithless (Q 9:49).
 
 There are three worlds, then, and they make one reality. The senses meet matter, the imagination samples a world of images, and the intellect grasps pure meaning. Each lies deeper than the one before, and none of them is far away.
 

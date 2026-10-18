@@ -152,7 +152,9 @@
 
 // ---------- chapter opener ----------
 #let chapter(num: none, title: [], title-ar: "") = {
-  pagebreak(weak: true, to: "odd")
+  // A chapter starts on the next page, left or right: no blank page after the
+  // previous chapter (user, 2026-10-18). Part openers still start on a right-hand page.
+  pagebreak(weak: true)
   set par(first-line-indent: 0pt)
   v(18mm)
   if num != none {
