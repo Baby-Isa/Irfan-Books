@@ -12,7 +12,7 @@
 ## Sections (each heading tagged with the chapter point(s) it serves, e.g. [N.1])
 1. **Heading** [N.1]
    - **Point:** one short plain sentence (TONE 40)
-   - **Paragraph points:** 1. short claim (source) → 2. … → n. therefore the point
+   - **Paragraph points (a proof, TONE 40a, D48):** 1. short claim (source) → 2. … → n. therefore the point. Each step uses only earlier steps and their words; explanations needed first are nested (2a, 2b…) and announced to the reader. Short breathers allowed (TONE 44a). Model: `docs/ladders/05.md`.
 
 ## Argument, in order (optional detail)
 _Each step depends only on earlier steps. Each step is sourced as `LNN ¶a–b`, `Q S:A` or `[@key, loc]`. Together the steps are MECE: nothing is missing and nothing overlaps._

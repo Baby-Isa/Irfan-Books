@@ -1,6 +1,6 @@
 # The book's argument (pyramid). Canonical: D23
 
-_Status: v3, approved 2026-10-12 (D40–D41). Detailed outlines: `docs/outline/` (FRAMEWORK, part-1 to part-5). Plain-English reading: `docs/STORYLINE.md`. v2.1 is kept under "History" at the end._
+_Status: v3, approved 2026-10-12 (D40–D41); chapter conclusions reworded as a proof chain, approved 2026-10-18 (D48, `docs/ladders/00-book-chain.md`). Detailed outlines: `docs/outline/` (FRAMEWORK, part-1 to part-5). Plain-English reading: `docs/STORYLINE.md`. v2.1 is kept under "History" at the end._
 
 **Hierarchy:**
 - **Book thesis**, supported by
@@ -57,7 +57,7 @@ _Each chapter states one conclusion, proved by its numbered points, in an order 
 _Divider (Munajat §73–74): "My Lord, I was not strong enough to move away from Your disobedience, except when You awakened me to Your love." [@light, p. 164]_
 
 **Ch 1. More than the minimum.** (old 1; approved text; retitled D41)
-- **Conclusion:** ʿirfan is worth pursuing: it is the training of the soul to perceive and love God, open to every believer, and sought for God alone.
+- **Conclusion:** Keeping the obligations saves, but the Qur'an invites more: to perceive God in His signs and love Him for His own sake, and any believer can accept.
 - 1.1 The minimum saves, but the Quran openly invites more: its signs are "for a people who reflect", and most people pass them by. [B1] L01 ¶5–12, ¶16; Q 30:21–24, 12:105
 - 1.2 The failure is in us, not in the signs: our inner faculties are not working, and what is broken can be repaired. [B1] L01 ¶9–12; L02 ¶3–5; Q 7:179
 - 1.3 The repaired state is real and worth having: the Quran describes those who perceive God's signs and promises them nearness, "a good life" and freedom from fear and grief, and that rank is open to ordinary believers. [B1] L01 ¶15–16, ¶25–27; L02 ¶7–19; Q 4:69, 10:62, 16:97
@@ -65,7 +65,7 @@ _Divider (Munajat §73–74): "My Lord, I was not strong enough to move away fro
 - → If the aim is to know and love God, what kind of knowing is that?
 
 **Ch 2. Knowing about God is not knowing Him.** (old 3, "Two kinds of knowing"; moved up by the Ch 2/3 swap, D41)
-- **Conclusion:** knowing God is a different kind of knowing from knowing about Him, reached by purification, which study serves but cannot replace.
+- **Conclusion:** That perceiving is not knowing *about* God; it is a light God gives to a purified heart, so it is reached by purification, which study serves but cannot replace.
 - 2.1 The ʿarif knows God by presence, not by definition: acquired knowledge (ʿilm) defines and limits; knowledge by presence (maʿrifah) arrives. [B1] L02 ¶29–32, ¶36–37 (old 3.1)
 - 2.2 Reason cannot reach God Himself, so He must be known within the soul. [B1] L03 ¶25–28, ¶33, ¶35, ¶38 (old 3.2)
 - 2.3 Knowledge of God is a light God gives to a purified heart, not something gathered by study. [B1] L03 ¶10–11, ¶18–21 (added: `forty_hadith` p. 331; `lantern` p. 10) (old 3.3)
@@ -74,7 +74,7 @@ _Divider (Munajat §73–74): "My Lord, I was not strong enough to move away fro
 - → Where, then, does an ordinary believer already stand on this path?
 
 **Ch 3. You already know these words.** (old 2; moved down to close Part One on hope, D41)
-- **Conclusion:** the goal of ʿirfan is already on the believer's lips.
+- **Conclusion:** Our own prayers already ask for this sight, love and nearness, so a believer has already begun to ask for what ʿirfan seeks.
 - 3.1 The prayers' first request is a severance from everything but God, made in the heart. [B1] L01 ¶18, ¶20, ¶25–26 (Munajat Shaʿbaniyyah, Abu Hamza, ʿArafah) (old 2.1, first half)
 - 3.2 The prayers then ask for what ʿirfan seeks: to see God with the heart, to love Him, and to come near Him. [B1] L01 ¶19, ¶23, ¶27–29 (the Lovers) (old 2.1, second half)
 - 3.3 Words above our level are still ours to say, as an honour and as a plea from need. [B1] L01 ¶17, ¶22 (old 2.2)
@@ -86,7 +86,7 @@ _Divider (Munajat §73–74): "My Lord, I was not strong enough to move away fro
 _Divider (Munajat §5–7): "I have come running to You and am standing before You imploring You in humility." [@light, p. 163]_
 
 **Ch 4. Know yourself, know your Lord.** (old 4)
-- **Conclusion:** the way to God runs through the self.
+- **Conclusion:** Since knowing God comes by purifying the heart (2), and God is reflected in the soul, the way to God runs through knowing and purifying our own self.
 - _Opener, not a point (old 4.1):_ the soul is the instrument of all knowing, so it is the first thing to understand. L04 ¶3–9
 - 4.1 The Qur'an places the human story in the soul: whoever purifies it succeeds, and whoever betrays it fails. [B2] L04 ¶12 (Q 91:1–10)
 - 4.2 Knowing God begins with knowing the soul, because the two are forgotten together and known together: the Quran ties forgetting God to forgetting oneself (Q 59:19), and the tradition ties knowing oneself to knowing one's Lord. [B2] L04 ¶12–23 (attribution per `lantern` p. 9; side by side: Imam ʿAli, `journey` p. 125; D15; added: `self_knowledge` p. 8)
@@ -94,7 +94,7 @@ _Divider (Munajat §5–7): "I have come running to You and am standing before Y
 - → If the self is the door, how deep does it go?
 
 **Ch 5. The soul and its worlds.** (old 5)
-- **Conclusion:** the self is deeper than it appears, and its final shape is in our hands.
+- **Conclusion:** That self reaches into worlds deeper than this one, and the form it takes there is made by what we do now, so what it becomes is, by God's grace, in our hands.
 - 5.1 The world has three depths, so the dead have gone deeper into it, not away: the material, the imaginal and the intellectual worlds are one reality at three levels. [B2] L04 ¶61–96; L05 ¶3–8 (kept to about a page)
 - 5.2 The soul moves between the worlds, as far as the life it lives takes it: in sleep, in death and in contemplation. [B2] L04 ¶61–96; L05 ¶16–31 (added: `lantern` p. 24; `self_knowledge` p. 76)
 - 5.3 What we do now shapes the image body we will meet after death, deformed or luminous. [B2] L05 ¶10–15 (added: `forty_hadith` p. 41; `self_knowledge` pp. 21, 77)
@@ -102,7 +102,7 @@ _Divider (Munajat §5–7): "I have come running to You and am standing before Y
 - → What keeps so inward a work from going astray?
 
 **Ch 6. No path outside the law.** (old 6, "The ship, the sea and the pearl")
-- **Conclusion:** there is no inner path outside the shariʿa.
+- **Conclusion:** Work this inward can go astray, so it must stay inside the law: the path is the inside of the shariʿa, never a way around it, to the last breath.
 - 6.1 The path and the truth are the inside of the law, so they are reached only through it: law, path and truth are one reality at three depths, shell, core and kernel. [B2] L06 ¶7–15, ¶23–25, ¶43–48 (added: `inner_secrets` pp. 32, 48; `light` p. 15)
 - 6.2 No wonder or experience stands in for the law: wonders without the shariʿa are magic, not karamat. [B2] L06 ¶17–22, ¶27–33 (added: `forty_hadith` p. 35; `light` p. 135; `inner_secrets` p. 42). L06 ¶20 ("probably") is left out; the rule is given as Kubra's, with Khomeini beside it (D39).
 - 6.3 The inner work begins inside the law, with attention in prayer. [B2] L06 ¶65–70 (new section; split from old 6.2)
@@ -110,7 +110,7 @@ _Divider (Munajat §5–7): "I have come running to You and am standing before Y
 - → The law is the boundary. Who walks beside the traveller?
 
 **Ch 7. Finding a guide.** (old 10, plus a short form of old 9.3)
-- **Conclusion:** a guide stands under the Imams and is tested by the law, long company and where he turns people, never by wonders.
+- **Conclusion:** Inside the law, a traveller still needs a companion who has walked the road: a guide under the Imams, tested by the law and by where he turns people, never by wonders.
 - 7.1 A traveller needs a companion who has walked the road, wherever scholars place the need: they weigh it differently, from after the law's first steps to every stage. [B2] L14 ¶23–25; L07 ¶14–15 (old 10.2; side by side: `kernel` p. 80; `light` pp. 10, 100–102; `inner_secrets` p. 192)
 - 7.2 A guide stands under the Imams, never in their place, and a traveller submits to him only if he meets a high bar. [B2] L14 ¶6–8, ¶22 (short form of old 9.3; added: `kernel` pp. 80–83, 87–88; `light` pp. 100–102; the full comparison with the orders is Ch 15)
 - 7.3 Shia can name teachers of this road in recent generations, and Tabatabaʾi's own line belonged to no Sufi order. [B2] L14 ¶22–25; L06 ¶21–25; L10 ¶44 (old 10.1; added: the chain as given in `kernel` pp. 87–89 and `light` pp. 105–107; `forty_hadith` p. 8; `journey` p. 8). The v2.1 `[QUERY: which Hamadani]` is resolved: Akhund Mulla Husayn-Quli Hamadani (this chapter) and Mulla ʿAbd al-Samad Hamadani (Ch 6) are kept apart.
@@ -121,34 +121,34 @@ _Divider (Munajat §5–7): "I have come running to You and am standing before Y
 _Divider (Munajat §94): "My Lord, inspire me with a passionate love of remembering You so that I may keep on remembering You." [@light, p. 165]_
 
 **Ch 8. The stages of the journey.** (old 11, "The stages of the first journey")
-- **Conclusion:** the road is inward, and it has an order.
+- **Conclusion:** Since God is already near (4), the journey covers no distance: it removes veils, in four stages, in order.
 - 8.1 Travel means removing veils, not covering distance: God is already nearer than the jugular vein. [B3] L07 ¶4; L08 ¶3–10; L09 ¶73; L10 ¶21 (full treatment; seeded in 4.3, D26; Q 50:16)
 - 8.2 The first journey has four stages in order: polishing by the law, emptying the heart, adornment by God, and annihilation; none is skipped. [B3] L07 ¶11–13, ¶21–29, ¶36–39; L09 ¶2–3 (the triad's names are the lecturer's framing; substance in `inner_secrets` pp. 108–110, 195)
 - _Box, not a point (old 11.3):_ Ibn Sina's ladder of stations maps the same ascent, step by step, to arrival. L15 ¶3–59 (analogies are the lecturer's; `light` pp. 45–50)
 - → Where on it does one set foot first?
 
 **Ch 9. Setting out.** (old 12)
-- **Conclusion:** the first steps are repentance and character.
+- **Conclusion:** The first stage begins with repentance, open to anyone after any sin, and with putting things right with people.
 - 9.1 The road begins with repentance, and anyone can begin, after any sin. [B3] L08 ¶10–12, ¶16–18 (added: `lantern` pp. 48, 59; `forty_hadith` p. 249)
 - 9.2 Repentance is paced: no vows one cannot keep, no rush, and sooner is easier. [B3] L08 ¶13–15, ¶19–22, ¶26–27 (side by side: `light` pp. 89, 126–127; `forty_hadith` pp. 118, 250 press harder)
 - 9.3 Good conduct toward people is the first condition of the inner work. [B3] L08 ¶39–42 (added: `inner_secrets` p. 108; `light` p. 70; Nahj 1.191)
 - → What trains the soul once it has turned?
 
 **Ch 10. The five disciplines.** (old 13)
-- **Conclusion:** five disciplines train the soul, in measured doses.
+- **Conclusion:** Once the soul has turned, five disciplines loosen the body's hold on it (5), each in a measured dose.
 - 10.1 Five disciplines loosen the soul's bondage to the body, each with a Quranic root: silence, hunger, night prayer, seclusion and remembrance. [B3] L08 ¶43–88; L10 ¶6–65, ¶11–12, ¶40 (added: `lantern` p. 56; `kernel` p. 76; `journey` p. 16; Mafatih p. 802)
 - 10.2 Each is a medicine, dosed and never forced; on seclusion the lecturer prefers the private hour where the masters prescribe retreat. [B3] L08 ¶55–58; L10 ¶23–27, ¶41–54 (side by side: `kernel` pp. 77–78; `lantern` pp. 50, 55; `light` p. 102)
 - → What keeps a traveller going when discipline alone runs dry?
 
 **Ch 11. Love, the engine.** (old 14)
-- **Conclusion:** love drives the path.
+- **Conclusion:** Discipline alone runs dry; love carries the traveller on, until even love is left at the door.
 - 11.1 Fear and renunciation start the journey; love carries it, and the early schools lacked it. [B3] L11 ¶61–63; L12 ¶38–61; L15 ¶11–13 (added: `lantern` p. 58; `kernel` p. 70). The early schools' history is Ch 13's, which calls back here.
 - 11.2 The Imams voice this love: the worship of the free, not of merchants or slaves; the Lovers' prayer. [B3] L12 ¶38–42, ¶60; L01 ¶27–31 (Nahj 3.222 set beside al-Sadiq's love version, `light` p. 94, because the Nahj saying speaks of thanks, FRAMEWORK §8.7; Sahifa pp. 656–657; Kumayl §123–124; `lantern` p. 88)
 - 11.3 Even love is finally a means, left behind at the Beloved. [B3] L12 ¶59–60 (Rabiʿa in a line) (added: `kernel` pp. 72–73; `light` pp. 45, 95)
 - → Where does love carry the traveller in the end?
 
 **Ch 12. Losing the self, finding God.** (old 15) **The crescendo of the book.**
-- **Conclusion:** the first journey ends in seeing only God while remaining oneself.
+- **Conclusion:** Love ends in losing the false self before God's glory, and in coming back sober, seeing only God while remaining oneself.
 - 12.1 Fana is the loss of false self-perception before God's glory, not becoming God and not ceasing to exist. [B3] L07 ¶41–63; L09 ¶3–9; L15 ¶55–57, ¶60 (added: `inner_secrets` p. 115; `light` pp. 49, 63)
 - 12.2 It has degrees: in action, in attributes, in essence. [B3] L09 ¶52–69 (added: `inner_secrets` pp. 113–117; `light` pp. 107–108). The climax of the chapter and of Part Three.
 - 12.3 It has dangers (captivation, ecstatic utterance, licence), stated as principles; the healthy outcome is baqa, separation after union, which ends the first journey and begins the second. [B3] L09 ¶20–50; L15 ¶59 (added: `forty_hadith` pp. 515–516; `inner_secrets` p. 116; `light` p. 102). The chapter ends on Imam ʿAli's "I did not see a thing without beholding God…" (`forty_hadith` p. 516). Bayazid and Junayd are named in a line, with a pointer to Ch 14.
@@ -159,21 +159,21 @@ _Divider (Munajat §109–110, in the duas.org wording, FRAMEWORK §8.3): "My Lo
 _Tone: the analytical step back after the crescendo. Calm, clear, curious._
 
 **Ch 13. Where it comes from.** (old 7, "Roots and the first seekers")
-- **Conclusion:** ʿirfan is native to Islam, and the Imams stand above those who first walked it.
+- **Conclusion:** This road began in the Qur'an, the Prophet and the Imams; the early seekers walked it in the Imams' orbit, and below them.
 - 13.1 Its roots are the Quran, the Prophet's companions and the Imams. [B4] L11 ¶34–46 (Schimmel is the lecturer's reference; `light` pp. 4–5, 19, 24–25 carry the evidence) (old 7.2)
 - 13.2 The early seekers developed fear, renunciation and love, in that order (the order the reader met in Ch 11), often in the Imams' orbit, and the Imams stand above them, not among them. [B4] L11 ¶58–63, ¶78–90; L12 ¶3–37, ¶53–56 (old 7.3; added: `light` pp. 5, 24–25)
 - 13.3 So it was not brought in from outside: it did not come from monks, Neoplatonists or yogis; at most, techniques were borrowed. [B4] L11 ¶3–24 (added: `light` pp. 16, 20, 21) (old 7.1). Placed last and kept short, so the chapter opens on people (FRAMEWORK §9; FRAMEWORK §8.4: opens on a companion, not Kumayl).
 - → Where did those travellers arrive?
 
 **Ch 14. Drunk and sober.** (old 8)
-- **Conclusion:** of those who reached fana, the sober went furthest, and the tradition's great theory, though contested, is neither pantheism nor licence.
+- **Conclusion:** Those who reached the end divided into the drunk and the sober; the sober went further, and the great theory of what they saw is neither pantheism nor licence.
 - 14.1 The knowers divided over the state beyond the self, Bayazid's intoxication or Junayd's sobriety, and the tradition ranked the return higher. [B4] L13 ¶3–34 (added: `light` pp. 25, 27, 57; `kernel` p. 73, Bistami line only)
 - 14.2 Ibn ʿArabi gave the tradition its theory, the unity of being, which the lecturer holds is grasped by experience, not argument. [B4] L13 ¶35–67 (added: `light` pp. 34–35, 144; Nahj 1.1.1)
 - 14.3 That theory drew Shia critics; the held defenders answer that it is neither pantheism nor licence, and the lecturer himself declines to judge. [B4] L13 ¶43, ¶47–55; L01 ¶6 (side by side: `light` p. 34 against `inner_secrets` p. 99 on Ibn ʿArabi's Seal of the Saints; added: `forty_hadith` pp. 345, 402; `light` pp. 13–14, 144; `inner_secrets` pp. 98–99). The critics' concerns are reported as the defenders give them (FRAMEWORK §9); no critical source is held.
 - → How did the road become orders, and where do Shia stand?
 
 **Ch 15. Sufis and Shia.** (old 9)
-- **Conclusion:** Shia ʿirfan shares the path and its source with Sufism, but not its institution of authority.
+- **Conclusion:** The road later became the Sufi orders; Shia share the path and its source, but not the orders' authority, which belongs to the Imam.
 - 15.1 A Sufi order is an institution: a founder's method, a chain back to the Prophet, and total submission to a shaykh. [B4] L14 ¶3–21, ¶27–30, ¶36, ¶56–59, ¶62–78 (old 9.1; added: `light` pp. 5–6, 22–23, 31, 34, 40)
 - 15.2 Nearly every chain runs back to ʿAli, so the Sufi and the Shia seeker share a source. [B4] L14 ¶8–9, ¶36–37, ¶79 (old 9.2; added: `kernel` p. 87; `light` pp. 6, 25; `inner_secrets` p. 13)
 - 15.3 Set techniques are secondary, because each soul receives God's grace in its own shape; what a seeker needs is a trustworthy guide (Ch 7), not a lineage. [B4] L14 ¶59–71 (old 9.4, now before authority; added: `inner_secrets` p. 195; `kernel` p. 87)
@@ -185,14 +185,14 @@ _Divider (Munajat §128–131): "My Lord, let me be attached to the Light of You
 _Tone: the emotion comes back and is brought home._
 
 **Ch 16. Back among people.** (old 16, "The four journeys and the perfect human"; ends on Karbala)
-- **Conclusion:** the path's completion is a return to people, with God, shown fully in the Prophet and the Imams.
+- **Conclusion:** The completed journey comes back to people, with God, as the Prophet and the Imams show, to Karbala.
 - 16.1 After fana the road goes on and the traveller returns to creation: the four journeys, with their Quranic anchors. [B5] L09 ¶70–88, ¶91 (old 16.1; the Nahj 3.133 scene of a face comes first, FRAMEWORK §9; added: `light` pp. 49–50; `inner_secrets` p. 140)
 - 16.2 How far ordinary believers share in that return is left open: the lecturer reserves the completed fourth journey for the Prophet and the Imams; ʿAllama Tabatabaʾi, gently set beside him, holds that wilaya is not exclusive and others reach it in their measure; both place the full return in the Prophet and the Imams. [B5] L09 ¶87–89 (old 16.3; side by side: `kernel` p. 20; `light` p. 64; D25). The `[QUERY]` of v2.1 is resolved: L09 ¶89 is followed over ¶87 (D39).
 - 16.3 The Prophet and the Imams embody this return; Karbala is offered to the reader as a reflection on it, through Duʿa ʿArafah. [B5] L09 ¶87–89 (old 16.2; added, D16: `light` p. 138; `duas_dua_arafah_imam_husain` §742–743, §790–791; Mafatih pp. 374, 401). Where a line is given as Imam Husayn's, the main body of the prayer is used (FRAMEWORK §8.2). The chapter ends on this reflection.
 - → The friends of God return to people. Where does every soul return?
 
 **Ch 17. The return to God.** (old 17, "Reading the Quran with the heart, and the return to God")
-- **Conclusion:** every soul returns to God, and ʿirfan is making that return willingly, now.
+- **Conclusion:** Every soul returns to God, willingly or not; ʿirfan is making that return willingly, now.
 - 17.1 The Quran may be read from the inside, on condition that the inner meaning agrees with the outer and never cancels it. [B5] L16 ¶3–17 (the opener scene; added: `light` p. 110; `journey` p. 54)
 - 17.2 The return reverses creation: existence, knowledge, power and will were given, and are surrendered in reverse order to be re-given by God (Tusi). [B5] L16 ¶17–32 (`forty_hadith` p. 517 holds the Tusi text)
 - 17.3 Hell is the same return, refused: the same surrender undergone against one's will. [B5] L16 ¶39–55 (side by side, as agreement: `forty_hadith` pp. 137, 365 keep the fire literal as well)
