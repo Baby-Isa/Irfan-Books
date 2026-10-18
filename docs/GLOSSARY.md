@@ -22,6 +22,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | ʿalam al-mulk | aalamul mulk, aalamul-mulk, aalam al mulk | | The material world of outward kingdom | L04 |
 | ʿalam al-shahada | aalamul shahadah | | The witnessed world, the realm of the senses | L04 |
 | ʿalam al-ʿuqul | aalamul uqul, aalamul-oqul | | World of pure intellects | L04 |
+| Sayyid Haydar Amuli | Haydar Amuli | | Shia master, author of *Inner Secrets of the Path* | B2 Ch5 |
 | ʿamm / khass | al aam, khaas | | The general and the elite among believers | L06 |
 | ʿaql | aql | | Intellect, here the theoretical or discursive intellect | L02 |
 | ʿarif | aarif, aaraf, arif | | One who knows God by experience; the true mystic | L01 |
@@ -115,6 +116,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | maʿrifah | marefah, maarifah | | Experiential knowledge (gnosis) of God | L01 |
 | mathal | masal | | Parable or allegory pointing to a deeper meaning | L16 |
 | miʿraj | meraj | | The Prophet's ascension | L01 |
+| Mirza ʿAli Aqa Qadi | Hajj Mirza Aqa Qadi, Qadi | | The gnostic who taught ʿAllama Tabatabaʾi the path (`kernel` p. 8) | B2 Ch5 |
 | Mafatih al-Jinan | | | The prayer manual compiled by Shaykh ʿAbbas Qummi | L01 |
 | munajat | munajat | | An intimate, whispered prayer addressed to God | L01 |
 | Musabbihat | al Musabbihaat | | The five surahs that open with God's glorification (57, 59, 61, 62, 64), recited by the Prophet ﷺ before sleep | L07 |
