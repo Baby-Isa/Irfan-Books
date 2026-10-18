@@ -8,9 +8,9 @@ chapter: 5
 My Lord, if my disregard for preparations to meet You has put me to sleep, my knowledge of Your kind bounties has awakened me. [@light, p. 166; @duas_munajat_shabaniyah, §118–119]
 :::
 
-At a graveside we say that the dead are now in *barzakh* (the world between this life and the resurrection), and we picture it as a waiting room far from the living. Sheikh Bahmanpour teaches the opposite: at death "we don't go anywhere". The dead are nearer than we think.
+At a graveside we say that the dead are now in *barzakh* (the world between this life and the resurrection), and we picture it as a waiting room far from the living realm. Sheikh Bahmanpour teaches the opposite: at death "we don't go anywhere". The dead are nearer than we think.
 
-They are near because barzakh is not a place at a distance. It is one of the worlds God has created, and these worlds lie inside one another as depths of a single world, so the next world is deeper than this one, not further away. The soul already belongs to them. Each night in sleep it touches that deeper world. That is why the prayer above speaks of sleep and of the meeting with God in one breath, and why *Lantern of the Path*, attributed to Imam al-Sadiq (as), calls sleep "the brother of death" [@lantern, p. 24]. At death the soul does not travel; it goes deeper.
+The dead are near because the next world is not far away. Creation holds more than one world, and they are layers of one reality: each is deeper than the last, not further away. Barzakh is one of these deeper worlds. Each night, in sleep, the soul already touches it. That is why *Lantern of the Path*, attributed to Imam al-Sadiq (as), calls sleep "the brother of death" [@lantern, p. 24]. The prayer above makes the same link: it speaks of sleep and of meeting God together. At death the soul does not travel away; it goes deeper.
 
 This chapter sets out the soul and its worlds: which worlds creation holds; how the soul passes into them; how what we do gives the soul its form there; and why that form is, by God's grace, still in our hands.
 

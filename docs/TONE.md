@@ -263,5 +263,6 @@ Read only the first sentence of every paragraph in order. If the argument does n
 - **Anchor the abstract:** a concrete noun, not "somewhere" or "something".
 - **No hollow openers** ("it is easy to see", "it is worth noting"); say who sees: "we".
 - **No dashes** (already the house style).
+- **One vivid word is welcome** where it sharpens the meaning: "far from the living realm" (user, 18 Oct) says in one word that the worlds are distinct, and makes "the living" unambiguous. The awe comes from the content, not the wording.
 **Don't:** stack echoes that repeat one image ("a distant waiting room, a far-off place a long way from the living"); it adds words, not meaning (LINGO). Keep the diction plain; the punctuation, not grand words, gives the weight.
 
