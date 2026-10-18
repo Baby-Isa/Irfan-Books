@@ -213,7 +213,7 @@ The repair is training the soul, and that training must aim at God alone, never 
 
 Pursuing ʿirfan means training the soul, and soul-training is not unique to Islam. People take up the inner life for different reasons. Some train the soul in an attempt to gain power: to be in two places at once, to see the future or the past, or to master the hidden world of the soul. This kind of mysticism must be held apart from ʿirfan. Islamic mysticism is about catching the signs of Allah: becoming sensitive to them, and learning to hear and see.
 
-Sheikh Bahmanpour ends his first lecture more strongly. ʿIrfan, he says, is not about gaining power over the soul to work *karamat* and *muʿjizat*, the wonders of the saints and the miracles of the prophets. Such powers are *shirk*, the sin of setting up a partner beside God.
+Sheikh Bahmanpour ends his first lecture more strongly. ʿIrfan, he says, is not about gaining power over the soul to work *karamat* and *muʿjizat*, the wonders of the saints and the miracles of the prophets. Such powers are *shirk*: the sin of setting up a partner beside God.
 
 The great teachers of the Shia tradition make closely related points, each in his own words. ʿAllama Tabatabaʾi tells the traveller that he "has no right to seek occult experiences and miraculous qualities", nor to perform austerities or recite invocations to gain powers such as crossing great distances in a moment or reading the thoughts of others. Whoever does so "does not move on the path of the Beloved's pleasure and his worship is not for the sake of God". It is his own self that he worships, "though he may not admit it by word of mouth" [@kernel, pp. 28–29].
 

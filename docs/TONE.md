@@ -253,3 +253,15 @@ Read only the first sentence of every paragraph in order. If the argument does n
 - Example (Ch 1, kept): "Repair is only the start. Once the inner faculty begins to work, the journey begins, and it does not end; it is, in the Sheikh's words, a path that "has a beginning and no end"."
 **Calibration (Ch 1, the approved chapter, 18 Oct):** 41 paragraphs: 73% forward, 3 breathers, 4 recaps, 4 drag (10%). The auditor is stricter than the user: two of the four were caveats he values (the law is not bypassed; the friends of God live in the world). So the guide is **forward 70–85%, drag at most about 10% of paragraphs**, and a drag paragraph is a candidate to look at, not an automatic cut.
 **Don't:** cut a short breather to make the ladder neater, or let breathers bunch (two together are drag); more than about one per section reads as padding.
+
+### 45. Punctuation that carries weight (user, 2026-10-18; from his style profile)
+**Do:**
+- **Colon for a heavy definition.** When a term is followed at once by what it means, use a colon, not a comma: "Such powers are *shirk*: the sin of setting up a partner beside God." (When the English comes first, the Arabic still goes in brackets, rule 42.)
+- **No weak trailing comma.** Don't hang a long description off the end of a sentence after a comma; build it into the sentence. Before: "it is easy to picture somewhere far off, a waiting room a long way from the living." After: "we picture it as a waiting room far from the living."
+- **Semicolons only between two full sentences** of equal weight: "The human soul is the whole of creation in small; it is a compact copy of everything that exists." Never before a fragment.
+- **Heavy lists:** introduce with a colon and separate long items (or items with their own commas) with semicolons: "This chapter sets out the soul and its worlds: which worlds creation holds; how the soul passes into them; how what we do gives the soul its form there; and why that form is, by God's grace, still in our hands." Short lists keep commas.
+- **Anchor the abstract:** a concrete noun, not "somewhere" or "something".
+- **No hollow openers** ("it is easy to see", "it is worth noting"); say who sees: "we".
+- **No dashes** (already the house style).
+**Don't:** stack echoes that repeat one image ("a distant waiting room, a far-off place a long way from the living"); it adds words, not meaning (LINGO). Keep the diction plain; the punctuation, not grand words, gives the weight.
+
