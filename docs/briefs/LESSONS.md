@@ -40,3 +40,4 @@ _Read this before drafting or reviewing any chapter. Each line is something the 
 26. **Idle paragraphs between 15% and 28%** by the chain audit; an end-of-chapter recap and a closing page-turner question are fine within it. (TONE 44)
 27. **Tell the Sheikh's stories.** Every chapter carries at least one, told in full as his account, where it carries a section's point; they are "the best bit" (the user's uncle). No joke stories; nothing garbled. (D47; `reviews/stories-audit.md`)
 28. **The ladder is a proof.** Each step follows only from earlier ones and uses their words; section points chain into the chapter point. Explanations needed before an argument are nested steps (2a, 2b…), announced to the reader first. (TONE 40a; user on Ch 5)
+29. **Keep short breathers; cut drag.** A short idle paragraph between steps is a breather the reader welcomes; long or clustered idle paragraphs are drag. The chain score reports both. (TONE 44a; user on Ch 1)

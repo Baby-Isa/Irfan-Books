@@ -588,25 +588,58 @@ def chain(stem, spec):
 
 CHAIN_BAD = ("restate", "aside")
 CHAIN_MIN, CHAIN_MAX = 0.15, 0.28   # TONE 44: Ch 1 runs 22-28%; below 15% reads clipped
+BREATHER_MAX = 50                   # words; TONE 44a (user, 18 Oct): short, spaced-out idle
+                                    # paragraphs are breathers the reader welcomes
+
+
+def chain_kinds(labs, pk):
+    """Sort every paragraph into forward / breather / recap / drag (TONE 44a).
+    forward: advance or support. recap: a restate that closes its section, or an idle
+    paragraph among the chapter's last two (the end recap and page-turner, approved).
+    breather: any other idle paragraph of BREATHER_MAX words or fewer, with no idle
+    paragraph either side. drag: every other idle paragraph (long, or in a cluster)."""
+    wc, sec_of, last = {}, {}, {}
+    sec = 0
+    for line in pk.splitlines():
+        if line.startswith("## Section"):
+            sec += 1
+        m = re.match(r"¶(\d+)\. (.*)", line)
+        if m:
+            n = int(m.group(1)); wc[n] = len(words(m.group(2))); sec_of[n] = sec; last[sec] = n
+    lab = {int(k.lstrip("¶")): v["label"] for k, v in labs.items()}
+    idle = {n for n, l in lab.items() if l in CHAIN_BAD}
+    kind = {}
+    for n in sorted(lab):
+        if n not in idle:
+            kind[n] = "forward"
+        elif (lab[n] == "restate" and last.get(sec_of.get(n)) == n) or n > max(lab) - 2:
+            kind[n] = "recap"      # closes its section, or the chapter's closing recap and question
+        elif wc.get(n, 0) <= BREATHER_MAX and (n - 1) not in idle and (n + 1) not in idle:
+            kind[n] = "breather"
+        else:
+            kind[n] = "drag"
+    return kind, wc
 
 
 def chain_score(stems):
-    print(f"  {'packet':14} {'source':52} paras  restate aside  idle%  idle words%")
+    print(f"  {'packet':8} {'source':44} paras  fwd%  breather  recap  drag  idle%  idle words%  drag paragraphs")
     rows = []
     for stem in stems:
         src = json.loads((VOICE_DIR / f"{stem}-chain-key.json").read_text())["source"]
         ans = json.loads((VOICE_DIR / f"{stem}-chain-answers.json").read_text())
         labs = ans["paragraphs"]
         pk = (VOICE_DIR / f"{stem}-chain-packet.md").read_text()
-        wc = {m.group(1): len(words(m.group(2))) for m in re.finditer(r"¶(\d+)\. (.*)", pk)}
-        bad = [k for k, v in labs.items() if v["label"] in CHAIN_BAD]
-        idle = len(bad) / max(len(labs), 1)
-        idle_w = sum(wc.get(k.lstrip("¶"), 0) for k in bad) / max(sum(wc.values()), 1)
-        c = collections.Counter(v["label"] for v in labs.values())
+        kind, wc = chain_kinds(labs, pk)
+        c = collections.Counter(kind.values())
+        bad = [n for n, k in kind.items() if k != "forward"]
+        idle = len(bad) / max(len(kind), 1)
+        idle_w = sum(wc.get(n, 0) for n in bad) / max(sum(wc.values()), 1)
+        drags = ",".join(f"¶{n}" for n, k in sorted(kind.items()) if k == "drag")
         rows.append((stem, src, idle, idle_w))
         band = "  OVER 28%" if idle > CHAIN_MAX else ("  UNDER 15%" if idle < CHAIN_MIN else "")
-        print(f"  {stem:14} {src[-52:]:52} {len(labs):5} {c['restate']:8} {c['aside']:5} "
-              f"{100 * idle:5.0f} {100 * idle_w:11.0f}{band}")
+        print(f"  {stem:8} {src[-44:]:44} {len(kind):5} {100 * c['forward'] / max(len(kind), 1):5.0f} "
+              f"{c['breather']:8} {c['recap']:6} {c['drag']:5} {100 * idle:5.0f} {100 * idle_w:11.0f}  "
+              f"{drags or '-'}{band}")
     return rows
 
 
