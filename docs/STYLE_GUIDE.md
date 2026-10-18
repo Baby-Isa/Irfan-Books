@@ -81,6 +81,8 @@ Everything in Book 1, plus the following.
   - Use the English text, with Arabic only if it comes from a held source.
   - Cite collection, volume and page or number, e.g. `[@kafi, 2:123]`.
 - **Spelling and headings:** British spelling. Sentence case for headings.
+- **Tense (user, 18 Oct):** the lectures and books speak in the present ("Sheikh Bahmanpour ends his first lecture…", "Tabatabaʾi tells the traveller…"); what people did in their lives stays in the past ("Shahabadi taught a few select students…"), and so does the narration inside a story.
+- **Quotations in a sentence (user, 18 Oct):** do not splice a quoted fragment into a sentence where the reader does not expect it (ʿIrfan "is not about any type of power…" to work karamat). Quote a whole sentence, introduced as one ("In his words: …"), or paraphrase without quotation marks. Do not add a quotation that only repeats the sentence around it ("He called such powers shirk ("These are shirk")").
 - **Markers:**
   - `[VERIFY: …]`: a fact or text needs checking against a source.
   - `[QUERY: …]`: a question for the lecturer.

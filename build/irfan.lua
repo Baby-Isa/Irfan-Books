@@ -152,3 +152,15 @@ function Cite(el)
   local blocks = pandoc.read(md, "markdown").blocks
   return pandoc.Note(blocks)
 end
+
+
+-- A chapter that opens on a verse or quotation: mark it as the epigraph so the template
+-- spaces it evenly between the title and the first paragraph (user, 2026-10-18).
+-- Runs after Div (Pandoc is visited last), so the first block is already raw Typst.
+function Pandoc(doc)
+  local b = doc.blocks[1]
+  if b and b.t == "RawBlock" and (b.text:match("^#ayah%(") or b.text:match("^#arquote%(")) then
+    b.text = b.text:gsub("^#(%a+)%(", "#%1(epigraph: true, ", 1)
+  end
+  return doc
+end

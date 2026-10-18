@@ -30,7 +30,7 @@ The obligations save, but the Qur'an asks for more: to reflect on, know, listen 
 Let's start with two claims. The first is that a believer who prays, fasts, pays what is due, and goes on hajj can hope for *jannah*, provided they do what is *wajib* and avoid what is forbidden. This claim is not contested. Sheikh Bahmanpour accepts it as fair for ordinary believers. Mohammad Ali Shomali makes the same point, describing the obligatory rules of fiqh as "the minimally necessary conditions of human perfection" [@self_knowledge, p. 17].
 
 ::: {.box-story title="Story: What was enough for jannah"}
-Someone once came to the Prophet ﷺ and said that they had no eagerness for the night prayer (*salat al-layl*), the recommended fasts, and the like. They asked whether they would go to jannah if they prayed the five daily prayers, fasted in Ramadan, paid their zakat, and went on hajj once. The Prophet said yes. Sheikh Bahmanpour opened his first lecture with this story and drew his question from the Prophet's answer: if the obligatory acts are enough for jannah, why take on the hard work of ʿirfan?
+Someone once came to the Prophet ﷺ and said that they had no eagerness for the night prayer (*salat al-layl*), the recommended fasts, and the like. They asked whether they would go to jannah if they prayed the five daily prayers, fasted in Ramadan, paid their zakat, and went on hajj once. The Prophet said yes. Sheikh Bahmanpour opens his first lecture with this story and draws his question from the Prophet's answer: if the obligatory acts are enough for jannah, why take on the hard work of ʿirfan?
 :::
 
 The second claim goes further, and it is the one this book disputes. Some jurists and activists hold that the obligatory acts are the whole of the religion; anything beyond them, they say, is made up by the whims and wishes of certain mystics.
@@ -51,7 +51,7 @@ There are indeed signs in that for people who exercise their reason.
 
 Four times in a row, the Qur'an makes the same point. The signs are all around us: in marriage, in the people we meet, in sleep, in work, in the weather. Yet they are for those who reflect, know, listen, and reason. This reflecting, knowing, listening, and reasoning is what the Qur'an asks of us beyond the minimum.
 
-For the avoidance of doubt, this invitation from the Qur'an is not an invitation to circumvent the law or to abandon the prescribed wajibat. Imam Khomeini insists that a genuine seeker's devotion "is within the bounds of the Shari'ah" [@forty_hadith, p. 61]. Within those bounds, the Qur'an is just as insistent, in these verses and others, that it invites us to more than the obligatory acts.
+For the avoidance of doubt, this invitation from the Qur'an is not an invitation to circumvent the law or to abandon the prescribed wajibat. Imam Khomeini insists that a genuine seeker's devotion "is within the bounds of the Shari'ah" [@forty_hadith, p. 61]. Within those bounds, the Qur'an is just as insistent: it invites us to more than the obligatory acts.
 
 ## Signs most people miss
 
@@ -193,7 +193,7 @@ Whoever obeys Allah and the Apostle—they are with those whom Allah has blessed
 
 Sheikh Bahmanpour reads this verse as naming four ranks of those God has blessed: the prophets; the truthful (*siddiqin*); the *shuhadaʾ*, which the translation used here renders "martyrs" and which he takes as "the witnesses"; and the righteous (*salihin*). The first three ranks are beyond us; the fourth is a doorway. The salihin are those able to receive this favour, and from among them God chooses the truthful and the prophets. The way in is righteous action, as the verse on the good life also says.
 
-That doorway is open to people like us: ordinary people can also enter the realm of the muqarrabun. It is difficult, but it is open, because we are made for it. We call ourselves human beings, yet, in the Sheikh's words, "we are not yet human beings". We begin with the potential to become human in the full sense that the prophets are. A human being has the capacity to become a friend of God; God created us with that capacity, and wants us to reach it.
+That doorway is open to people like us. It is difficult, but we are made for it. We call ourselves human beings, yet, in the Sheikh's words, "we are not yet human beings": we begin with the capacity to become human in the full sense that the prophets are, and God wants us to reach it.
 
 This is the case for pursuing ʿirfan. The Qur'an invites more than the minimum, and what stands in the way is a faculty in us that can be repaired. On the other side of that repair lie nearness to God, a good life, and freedom from fear and grief. That rank is open to any believer who obeys God and the Prophet and acts righteously.
 
@@ -213,7 +213,7 @@ The repair is training the soul, and that training must aim at God alone, never 
 
 Pursuing ʿirfan means training the soul, and soul-training is not unique to Islam. People take up the inner life for different reasons. Some train the soul in an attempt to gain power: to be in two places at once, to see the future or the past, or to master the hidden world of the soul. This kind of mysticism must be held apart from ʿirfan. Islamic mysticism is about catching the signs of Allah: becoming sensitive to them, and learning to hear and see.
 
-Sheikh Bahmanpour ended his first lecture more strongly. ʿIrfan "is not about any type of power or empowering the soul" to work *karamat* and *muʿjizat*, the wonders of the saints and the miracles of the prophets. He then called such powers *shirk* ("These are shirk"), the sin of setting up a partner beside God.
+Sheikh Bahmanpour ends his first lecture more strongly. ʿIrfan, he says, is not about gaining power over the soul to work *karamat* and *muʿjizat*, the wonders of the saints and the miracles of the prophets. Such powers are *shirk*, the sin of setting up a partner beside God.
 
 The great teachers of the Shia tradition make closely related points, each in his own words. ʿAllama Tabatabaʾi tells the traveller that he "has no right to seek occult experiences and miraculous qualities", nor to perform austerities or recite invocations to gain powers such as crossing great distances in a moment or reading the thoughts of others. Whoever does so "does not move on the path of the Beloved's pleasure and his worship is not for the sake of God". It is his own self that he worships, "though he may not admit it by word of mouth" [@kernel, pp. 28–29].
 
@@ -233,24 +233,21 @@ The scholars differ in emphasis but agree that powers are not the aim. Mutahhari
 ʿIrfan is seeking the knowledge and love of God and nothing else, and it is worth pursuing.
 
 1. With powers set aside, the Sheikh's definition remains: ʿirfan "is actually seeking and nothing else": the knowledge of God and the love of God. *(Word Study box.)*
-2. Tabatabaʾi agrees: the real gnostic worships because he knows Him and loves Him.
-3. Therefore ʿirfan is worth pursuing: the training of the soul to perceive and love God, open to every believer, and sought for God alone.
+2. Therefore ʿirfan is worth pursuing: the training of the soul to perceive and love God, open to every believer, and sought for God alone.
 
 Close: "If the aim is to know and love God, what kind of knowing is that?"
 ::::
 
-With powers set aside, what remains is the definition Sheikh Bahmanpour gave at the end of his first lecture: ʿirfan "is actually seeking and nothing else". It seeks two things: *maʿrifah*, the knowledge of God; and the love of God.
+With powers set aside, what remains is the definition Sheikh Bahmanpour gives at the end of his first lecture: ʿirfan "is actually seeking and nothing else". It seeks two things: *maʿrifah*, the knowledge of God; and the love of God.
 
 ::: {.box-word title="Word Study: ʿIrfan and maʿrifah"}
 *ʿIrfan*, *maʿrifah*, *ʿarif* and its plural *ʿurafaʾ* belong to one family of words about knowing. An ʿarif, as Sheikh Bahmanpour puts it, is "someone who knows". "Mystic" is used of Christians, Hindus, and Buddhists alike; ʿarif is the Islamic word, and it makes a precise claim. Murtada Mutahhari draws the line. The philosopher wants a correct picture of the world in his mind. The ʿarif "wishes to reach the very kernel and reality of existence, God, to become connected to it and witness it" [@light, p. 12]. *Lantern of the Path*, attributed to Imam al-Sadiq (as), says that there is no way to God except through knowledge [@lantern, p. 9]. What kind of knowledge that is, and how it differs from what we learn from books, is the subject of Chapter Two.
 :::
-
-ʿAllama Tabatabaʾi's definition agrees: "The real gnostic is he who worships Allah not, because he hopes for any reward or is afraid of any punishment, but only because he knows Him and loves Him" [@light, p. 4].
 
 ʿIrfan is therefore worth pursuing: it is the training of the soul to perceive and love God, open to every believer, and sought for God alone.
 
 If the aim is to know and love God, what kind of knowing is that?
 
 ::: {.box-try title="Try this"}
-Sheikh Bahmanpour built his first lesson on the four signs of Surah al-Rum. For one week, read Q 30:21–24 slowly once a day. After each verse, ask yourself what he found in its ending: whether you reflect, whether you know, whether you listen, and whether you use your reason. Then, at some point in the day, notice one of the four signs where it occurs in your life: the affection in your home, the languages and colours of the people you meet, your own sleep and the work that earns your living, or the rain.
+Sheikh Bahmanpour builds his first lesson on the four signs of Surah al-Rum. For one week, read Q 30:21–24 slowly once a day. After each verse, ask yourself what he found in its ending: whether you reflect, whether you know, whether you listen, and whether you use your reason. Then, at some point in the day, notice one of the four signs where it occurs in your life: the affection in your home, the languages and colours of the people you meet, your own sleep and the work that earns your living, or the rain.
 :::

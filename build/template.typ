@@ -52,7 +52,9 @@
   text(size: 0.95em, style: "italic", body)
 }))
 
-#let ayah(ref: "", arabic: "", body) = block(width: 100%, above: 2.5em, below: 1em, breakable: false, {
+// A chapter's opening epigraph sits evenly between the title and the first paragraph
+// (user, 2026-10-18): the gap below matches the gap the opener leaves above.
+#let ayah(ref: "", arabic: "", epigraph: false, body) = block(width: 100%, above: if epigraph { 0em } else { 2.5em }, below: if epigraph { 9mm } else { 1em }, breakable: false, {
   // the reference sits bottom right; the small bottom margin keeps the gap below the quote equal to the gap above it
   if arabic != "" {
     align(center, block({
@@ -66,7 +68,7 @@
   align(right, text(size: 8.5pt, fill: teal, tracking: 0.06em, smallcaps[Qur'an #ref]))
 })
 
-#let arquote(arabic: "", source: "", body) = block(width: 100%, above: 2.5em, below: 1em, breakable: false, {
+#let arquote(arabic: "", source: "", epigraph: false, body) = block(width: 100%, above: if epigraph { 0em } else { 2.5em }, below: if epigraph { 9mm } else { 1em }, breakable: false, {
   if arabic != "" {
     align(center, block({
       set par(justify: false, leading: 1.1em, first-line-indent: 0pt)

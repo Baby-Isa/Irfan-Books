@@ -8,11 +8,11 @@ chapter: 5
 My Lord, if my disregard for preparations to meet You has put me to sleep, my knowledge of Your kind bounties has awakened me. [@light, p. 166; @duas_munajat_shabaniyah, §118–119]
 :::
 
-These words come from the Munajat Shaʿbaniyyah, the prayer of the month of Shaʿban. The one who prays admits that neglect has put them to sleep, unready to meet God. Knowing His generosity has woken them. The prayer uses sleep as a picture of neglect, and sets it beside the meeting with God.
+At a graveside we say that the dead are now in *barzakh* (the world between this life and the resurrection), and it is easy to picture somewhere far off, a waiting room a long way from the living. Sheikh Bahmanpour teaches the opposite: at death "we don't go anywhere". The dead are nearer than we think.
 
-The tradition also speaks of real sleep in the same breath as death. *Lantern of the Path*, attributed to Imam al-Sadiq (as), calls sleep "the brother of death" [@lantern, p. 24]. Death is what we stand before at a graveside. There we say that the dead are now in *barzakh* (the world between this life and the resurrection), and many of us picture a waiting room somewhere far away.
+The reason lies in what the soul is, and we have a clue every night. The prayer above speaks of sleep and of the meeting with God in one breath, and *Lantern of the Path*, attributed to Imam al-Sadiq (as), calls sleep "the brother of death" [@lantern, p. 24]. Where the soul goes when we sleep tells us where the dead have gone, and where each of us is going.
 
-Sheikh Bahmanpour teaches otherwise: at death "we don't go anywhere". The dead are not far away, and the reason lies in what the soul is. The mystics say that to know God's creation, we must know the soul. How deep the soul goes therefore matters. This chapter sets out the soul and its worlds. It takes four steps: the worlds that creation holds, how the soul passes into them, how our deeds give the soul a form there, and how the self that does those deeds can change. Together they show that what the soul finally becomes is, by God's grace, in our hands.
+This chapter sets out the soul and its worlds: which worlds creation holds, how the soul passes into them, how what we do gives the soul its form there, and why that form is, by God's grace, still in our hands.
 
 ::: {.words}
 *ʿalam al-mulk*: the material world · *ʿalam al-mithal* or *barzakh*: the middle world of images · *ʿalam al-ʿuqul*: the world of pure intellects · *badan mithali*: the image body · *muraqaba*: watchfulness; keeping the heart's attention on God
@@ -34,7 +34,7 @@ Creation has three worlds, one inside another, and none of them is far away.
 6. Therefore: three worlds, one inside another, none far away.
 ::::
 
-Let's start with a claim of the mystics: the human soul is the whole of creation in small, a compact copy of everything that exists. If that is so, we can use the soul as a map of creation. Each kind of thing the soul holds has its counterpart in creation on a larger scale, and each such kind makes up a world of its own. By looking at the kinds of thing the soul holds, we can learn the kinds of world that creation holds.
+Let's start with a claim of the mystics: the human soul is the whole of creation in small; it is a compact copy of everything that exists. If that is so, we can use the soul as a map of creation. Each kind of thing the soul holds has its counterpart in creation on a larger scale, and each such kind makes up a world of its own. By looking at the kinds of thing the soul holds, we can learn the kinds of world that creation holds.
 
 The soul holds three kinds of thing, because it knows in three ways: through the senses, through the imagination, and through the intellect. Each way of knowing meets its own kind of thing. Taking them one at a time shows the three worlds.
 
