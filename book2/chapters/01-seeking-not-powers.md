@@ -8,7 +8,7 @@ chapter: 1
 There are indeed signs in that for a people who reflect.
 :::
 
-There is a verse often recited at weddings, one most of us know. In Surah al-Rum, God says that He created spouses for us from among ourselves "that you may take comfort in them", and that He ordained "affection and mercy" between husband and wife (Q 30:21). The verse ends with the words above: this is a sign for a people who reflect. Whether a person sees it depends on something in the person doing the looking. That something, and why it is worth developing, is the subject of this chapter.
+There is a verse often recited at weddings, one most of us know. In Surah al-Rum, God says that He created spouses for us from among ourselves "that you may take comfort in them", and that He ordained "affection and mercy" between husband and wife (Q 30:21). The verse ends with the words above: this is a sign for a people who reflect. Whether a person sees it depends on something in the person doing the looking. That something, and why it is worth seeking more than the minimum, is what this chapter sets out.
 
 ::: {.words}
 *ʿIrfan*: knowing God from close · *maʿrifah*: knowledge of God · *ʿarif* (plural *ʿurafaʾ*): one who knows God · *muqarrabun*: those brought near to God · *awliyaʾ Allah*: the friends of God · *shirk*: setting up a partner beside God
@@ -16,11 +16,16 @@ There is a verse often recited at weddings, one most of us know. In Surah al-Rum
 
 ## What the minimum leaves out
 
-::: {.point}
-The obligatory acts are enough for salvation, and that is not contested. What is contested is the claim that they are the whole of the religion. In Surah al-Rum the Qur'an asks for more than the minimum: it asks us to reflect on, know, listen to, and reason about its signs.
+:::: {.point}
+The obligations save, but the Qur'an asks for more: to reflect on, know, listen to and reason about its signs.
 
-New story (D47): What was enough for jannah, L01 ¶5.
-:::
+1. A believer who keeps the obligations can hope for jannah; that is not contested. *(Story box: what was enough for jannah, and the Sheikh's question: then why do more?)*
+2. This book disputes a second claim: that the obligations are the whole of the religion.
+3. The Qur'an answers it: Surah al-Rum names three more sets of signs, and each ends by saying whom the sign is for.
+4. Four times running, the signs are "for" those who reflect, know, listen and reason; that is what the Qur'an asks beyond the minimum.
+5. This "more" never bypasses the law.
+6. Therefore: the obligations save, but the Qur'an asks for more.
+::::
 
 Let's start with two claims. The first is that a believer who prays, fasts, pays what is due, and goes on hajj can hope for *jannah*, provided they do what is *wajib* and avoid what is forbidden. This claim is not contested. Sheikh Bahmanpour accepts it as fair for ordinary believers. Mohammad Ali Shomali makes the same point, describing the obligatory rules of fiqh as "the minimally necessary conditions of human perfection" [@self_knowledge, p. 17].
 
@@ -50,9 +55,14 @@ For the avoidance of doubt, this invitation from the Qur'an is not an invitation
 
 ## Signs most people miss
 
-::: {.point}
-Most of us, the devout included, accept that the signs exist because the Qur'an says so, but we do not perceive them. The Qur'an describes that gap itself.
-:::
+:::: {.point}
+Most of us, the devout included, do not perceive those signs.
+
+1. An invitation to those who reflect implies that many do not, the devout included.
+2. Accepting that a sign exists because the Qur'an says so is not perceiving it, and the Qur'an names that gap (Q 12:105).
+3. A sign points beyond itself, like a red light; most of us see only the lamp (Tabatabaʾi).
+4. Therefore: most of us do not perceive the signs.
+::::
 
 An invitation addressed to those who reflect, know, listen, and reason implies that many people do none of these things. This is not limited to the careless. Most pious people, even those careful about the shariʿa, do not find a sign in these verses. Looking at the variety of languages and colours, we are more likely to see a reason for division than a sign of God.
 
@@ -66,9 +76,17 @@ How many a sign there is in the heavens and the earth that they pass by while th
 
 ## The fault is in the receiver
 
-::: {.point}
-We miss the signs because an inner faculty in us, the soul's ability to perceive, is not working. It exists and has only rusted, so it can be repaired. ʿIrfan is that repair.
-:::
+:::: {.point}
+Since the signs are plain and we miss them, the fault is a faculty in us; it has rusted, so it can be repaired.
+
+1. If the signs are plain and we still miss them, the fault is ours; the Qur'an names it: hearts, eyes and ears unused (Q 7:179).
+2. Cattle see and hear, so the fault is not in the senses but in the faculty behind them that turns sight into understanding.
+3. That faculty is the soul, a machine that has rusted; ʿirfan is its repair (the Sheikh).
+4. This has two consequences. *(Reader told: "two consequences".)*
+    a. The problem is not a lack of evidence: God is not withholding signs.
+    b. The problem can be solved: a rusted faculty can be repaired, and the pull towards God is part of how we are made (Kernel). So the fault is in us, and it can be repaired.
+5. Repair only starts a journey with "a beginning and no end". *(Breather, kept by the user.)*
+::::
 
 If the signs are present and plain, and yet we still pass them by, the fault is on our side. The Qur'an says where it lies, speaking of people who have every faculty and use none of them.
 
@@ -88,11 +106,19 @@ Repair is only the start. Once the inner faculty begins to work, the journey beg
 
 ## Some do see
 
-::: {.point}
-The Qur'an describes believers in whom this faculty works: hearts that tremble at God's mention, those who know, those who fear Him, the friends of God. These are the people the tradition calls the ʿurafaʾ.
-:::
+:::: {.point}
+If the faculty can be repaired, some have repaired it: the Qur'an describes believers in whom it works, the ʿurafaʾ.
 
-If the faculty can be repaired, there should be people in whom it already works. The Qur'an describes them more than once. People can be divided into two groups: those whose souls work, and those whose souls do not. The first group are the *ʿurafaʾ*, the plural of *ʿarif*. The prophets and the Imams (as) are a class of their own; the ʿurafaʾ are ordinary believers who see more than the rest. The first description of them is in Surah al-Anfal.
+1. If it can be repaired, there should be people in whom it works; the tradition calls them the ʿurafaʾ, ordinary believers, not prophets. The Qur'an describes them in four ways. *(Reader told: "four ways".)*
+    a. Their hearts tremble at God's mention (Q 8:2), so they know Him.
+    b. They "possess knowledge" and bear witness to His oneness (Q 3:18): they witness what others only say.
+    c. They fear Him (Q 35:28), and not only His punishment.
+    d. They are the friends of God (Q 10:62), who in Imam ʿAli's words see the world's reality when others see its surface.
+2. Seeing inside the world does not mean leaving it: they live among people, with their hearts on God.
+3. Therefore: in some believers the faculty works.
+::::
+
+If the faculty can be repaired, there should be people in whom it already works. The Qur'an describes them in four ways. People can be divided into two groups: those whose souls work, and those whose souls do not. The first group are the *ʿurafaʾ*, the plural of *ʿarif*. The prophets and the Imams (as) are a class of their own; the ʿurafaʾ are ordinary believers who see more than the rest. The first description of them is in Surah al-Anfal.
 
 ::: {.ayah ref="8:2" words="1-8"}
 The faithful are only those whose hearts tremble [with awe] when Allah is mentioned,
@@ -122,11 +148,20 @@ Other people look at the surface of the world; the friends of God look at what l
 
 ## What they are given, and why it is open to all
 
-::: {.point}
-The Qur'an promises these people nearness to God, a good life, and freedom from fear and grief. Their rank is open to any believer who obeys God and acts righteously. Together, these make the case for pursuing ʿirfan.
-:::
+:::: {.point}
+What they are given is worth having, and their rank is open to every believer.
 
-The Qur'an also tells us what these people receive. The first gift is nearness: Surah al-Waqiʿa sorts people on the Last Day, and at the top it places the Foremost Ones.
+1. The Qur'an names three things they are given. *(Reader told: "three".)*
+    a. Nearness: they are "brought near" (Q 56:10–11), a veil removed.
+    b. A good life (Q 16:97): clean, above the worries that occupy everyone else.
+    c. Freedom from fear and grief (Q 10:62).
+2. This is not only for prophets: Q 4:69 names four ranks, and the fourth, the righteous, is a doorway open to us.
+3. We are made for it: "we are not yet human beings", but God created us able to become His friends.
+4. So far: the Qur'an invites more, what stops us can be repaired, and beyond the repair lie nearness, a good life and peace, open to any believer.
+5. Therefore: what they have is worth having, and within our reach.
+::::
+
+The Qur'an names three things these people receive. The first is nearness: Surah al-Waqiʿa sorts people on the Last Day, and at the top it places the Foremost Ones.
 
 ::: {.ayah ref="56:10-11"}
 And the Foremost Ones are the foremost ones: they are the ones brought near [to Allah],
@@ -164,9 +199,17 @@ This is the case for pursuing ʿirfan. The Qur'an invites more than the minimum,
 
 ## The aim is God, not powers
 
-::: {.point}
-Training the soul can aim at powers or at God. Sheikh Bahmanpour calls powers sought this way shirk. Tabatabaʾi, Khomeini, and Mutahhari each agree in their own way: the aim of ʿirfan is God alone.
-:::
+:::: {.point}
+The repair is training the soul, and that training must aim at God alone, never at powers.
+
+1. Repair means training the soul, and soul-training can aim at powers: being in two places at once, seeing the future.
+2. The Sheikh: ʿirfan is not about powers; seeking them is shirk.
+3. The great Shia teachers agree, each in his own words. *(Reader told: "each in his own words"; a nuanced point, so three scholars, TONE 43.)*
+    a. Tabatabaʾi: the traveller has no right to seek powers; whoever does worships his own self. *(Who's Who box.)*
+    b. Khomeini, from his teacher Shahabadi: exercises meant for powers are invalid.
+    c. Mutahhari: any goal but God is a kind of shirk, because the goal has become something other than God.
+4. Therefore: the scholars differ in emphasis but agree that the aim is God alone, not powers. *(Short closing paragraph, kept by the user.)*
+::::
 
 Pursuing ʿirfan means training the soul, and soul-training is not unique to Islam. People take up the inner life for different reasons. Some train the soul in an attempt to gain power: to be in two places at once, to see the future or the past, or to master the hidden world of the soul. This kind of mysticism must be held apart from ʿirfan. Islamic mysticism is about catching the signs of Allah: becoming sensitive to them, and learning to hear and see.
 
@@ -186,9 +229,15 @@ The scholars differ in emphasis but agree that powers are not the aim. Mutahhari
 
 ## Seeking, and nothing else
 
-::: {.point}
-ʿIrfan is seeking God, the knowledge and love of Him, and nothing else. The chapter's conclusion follows: ʿirfan is worth pursuing, as the training of the soul to perceive and love God, open to every believer and sought for God alone.
-:::
+:::: {.point}
+ʿIrfan is seeking the knowledge and love of God and nothing else, and it is worth pursuing.
+
+1. With powers set aside, the Sheikh's definition remains: ʿirfan "is actually seeking and nothing else": the knowledge of God and the love of God. *(Word Study box.)*
+2. Tabatabaʾi agrees: the real gnostic worships because he knows Him and loves Him.
+3. Therefore ʿirfan is worth pursuing: the training of the soul to perceive and love God, open to every believer, and sought for God alone.
+
+Close: "If the aim is to know and love God, what kind of knowing is that?"
+::::
 
 With powers set aside, what remains is the definition Sheikh Bahmanpour gave at the end of his first lecture: ʿirfan "is actually seeking and nothing else". It seeks two things: *maʿrifah*, the knowledge of God; and the love of God.
 
