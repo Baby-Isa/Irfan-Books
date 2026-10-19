@@ -11,6 +11,7 @@ _Read this first, then `CLAUDE.md`, `docs/STATUS.md`, `docs/briefs/LESSONS.md` (
 - **Style decisions since 16 Oct:** lectures and books in the present tense ("Sheikh Bahmanpour ends his first lecture…"), events in the past; no spliced quotation fragments; pronouns for God capitalised without brackets; chapters start on the next page; chapter epigraphs evenly spaced.
 
 ## Next
+0. **(2026-10-19) Part Three ladders written** (`docs/ladders/08`–`12.md`, briefs `docs/briefs/08`–`12-case.md`) and sent in chat for approval. Do not draft prose until the user approves them.
 1. **Part Three briefs (Ch 8–12)** from `docs/outline/part-3.md`, written from the start as proof ladders (`docs/briefs/_TEMPLATE.md`), each with its told stories (Ch 9 now three: Fudayl, the young man told to stop, Hatim; Ch 12's Miʿraj prayer only if a held source is found). Gate A: present the chapter point, the section chain and each section's ladder in chat for approval before any prose.
 2. Open with the user: Chapter One's story box (implicitly kept); the case-by-case story-source differences; the prologue names the Sheikh 5.2 times per 1,000 words (exempt, but flagged).
 

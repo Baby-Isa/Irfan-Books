@@ -30,6 +30,10 @@ _Update at the end of every task. Keep it short. History lives in git and DECISI
 
 **Next:** the Part Three briefs (Ch 8–12) as proof ladders, Gate A in chat (see HANDOVER).
 
+**2026-10-19, Part Three Gate A.** Proof ladders `docs/ladders/08`–`12.md` and briefs `docs/briefs/08`–`12-case.md` written from `docs/outline/part-3.md` and the L07–L12, L15 notes; key held quotations spot-checked in `sources/extracts/`. Changes from the outline are listed at the foot of each ladder (Ch 8 three sections; Ch 10 four; Ch 9 two story boxes, the told-to-stop story in prose; Ch 12 drops the Miʿraj prayer, the Hafiz line and `inner_secrets` p. 115's "gnostic annihilation"; Ch 12 chapter point "seeing only God" → "seeing God in all things", proposed). The user asked to approve the ladders before any prose: **no chapter drafted yet.**
+
+**Next:** the user's approval of the five ladders; then draft Ch 8–12 on them (pipeline in HANDOVER §3).
+
 ## Open questions for the user or lecturer
 1. The lecturer is M. S. Bahmanpour (from the slides). Confirm his preferred title and name format.
 2. **The class slides and hand-outs.** The lectures refer to slides, a "chart" of the branches, an Ibn Sina hand-out, a Miʿraj hand-out and a Chodkiewicz hand-out. Do these still exist?
