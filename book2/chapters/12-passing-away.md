@@ -52,7 +52,7 @@ What is lost in passing away is therefore the false picture of a self that stand
 :::: {.point}
 Passing away comes in three degrees, each the lived truth of words we already say.
 
-1. Amuli quotes a gnostic: "The essence is veiled by the attributes and the attributes by the action", so the unveiling goes from the outermost veil inwards. *(Reader told: "three degrees, from the outermost"; side by side, in a parenthesis: Tabatabaʾi counts four in the same order, the last being the unity of being.)*
+1. Amuli quotes a gnostic: "The essence is veiled by the attributes and the attributes by the action", so the unveiling goes from the outermost veil inwards. *(Reader told: "three degrees, from the outermost"; side by side, in a parenthesis: Tabatabaʾi counts four, adding a unity of the Names before the last.)*
     a. In action: the traveller sees that every act comes from God's power, "it is really not you who is seeing": the lived truth of *la hawla wa la quwwata illa billah*, tasted rather than thought, as a dish is tasted and not only read in a recipe; "There, all authority belongs to Allah, the Real" (Q 18:44).
     b. In attributes: wherever he looks he sees God's attributes, the truth of *la ilaha illa Allah*; "Allah—there is no god except Him—is the Living One, the All-sustainer" (Q 2:255).
     c. In essence: not even attributes, "just His glory, which is overshadowing everything", and only *Huwa*, "He"; "Say, 'He is Allah, the One'" (Q 112:1).
