@@ -1,0 +1,166 @@
+{
+  "scores": {
+    "P1": {
+      "score": 55,
+      "tells": [
+        "\"strives for brevity and clarity in its role as a welcoming guide to beginning the journey\" — abstract-noun stacking and a self-description a human editor would cut",
+        "\"Additional call-out sections are spread throughout with helpful context and short side notes\" — padded, brochure-ish",
+        "Counter-tell: Part Three is missing and 'asks why a believer should bother' is a human register, so likely AI draft with human edits"
+      ]
+    },
+    "P2": {
+      "score": 70,
+      "tells": [
+        "Identical frame used twice: \"The silence meant here is not a lifelong vow... It means\" / \"The hunger meant here is not going without food for days. It means\"",
+        "\"The first door is the tongue, and silence (samt) shuts it\" / \"The second door is the stomach, and hunger (juʿ) shuts it\" — mechanical parallel scaffolding",
+        "Every paragraph begins with a thesis sentence and the last paragraph ties both threads together in one tidy move"
+      ]
+    },
+    "P3": {
+      "score": 72,
+      "tells": [
+        "\"Reason has a limit.\" / \"Reason still has work it can do.\" — three-word topic sentences opening paragraphs in even rhythm",
+        "\"A definition draws a line round its object, and there is no line to draw round God.\" — closing epigram",
+        "\"If reason cannot reach what the things around us are, it falls still further short of God\" — syllogistic hinge sentence starting the next paragraph"
+      ]
+    },
+    "P4": {
+      "score": 5,
+      "tells": [
+        "OCR artefacts: \"suﬁ\" ligature, mid-sentence start and end, running numbered list",
+        "Dense dating conventions \"405/1014 or 412/1021\", \"ruba'iyyat\" — scanned printed reference text",
+        "No topic-sentence discipline; compiler's voice (\"The following ruba'i is also\")"
+      ]
+    },
+    "P5": {
+      "score": 70,
+      "tells": [
+        "\"If a guide is needed, the next question is what authority he holds.\" — stepwise signposting opener",
+        "Three paragraphs each open with a flat thesis: \"The Sufi orders give one answer\", \"Shia agree that...\", \"The orders also ask for total submission\"",
+        "\"Yet they do not hold, as Shia do, that...\" / \"For Shia the Imams hold that place, and so\" — restates the same contrast three times"
+      ]
+    },
+    "P6": {
+      "score": 68,
+      "tells": [
+        "\"This is the lived truth of words we say often\" — 'lived truth' abstraction",
+        "\"The difference is that between a recipe and the dish. Reading the recipe, we can imagine... whereas only the cooked dish gives the taste.\" — analogy stated, then explained, then restated",
+        "Numbered-degree scaffolding with a one-line gloss per degree, even sentence lengths"
+      ]
+    },
+    "P7": {
+      "score": 65,
+      "tells": [
+        "\"The love never stops, and the knowing keeps growing.\" — balanced gerund epigram",
+        "\"Requests this high raise a difficulty, which Sheikh Bahmanpour puts plainly.\" — stage-managed turn",
+        "\"With this third request, the prayers have asked for all that ʿirfan seeks: to see... to love... to be near\" — tidy tricolon recap; final paragraph is a detached fragment (editing residue)"
+      ]
+    },
+    "P8": {
+      "score": 70,
+      "tells": [
+        "\"Each depth is therefore reached only through the one before it, and none can be skipped.\" — summarising opener with 'therefore'",
+        "\"The claim to know God fails without the law because of what the law does to the one who keeps it.\" — polished chiastic hinge sentence",
+        "\"'Liars' does not mean that the feats are faked... The lie is in the claim\" — negation-then-correction frame"
+      ]
+    },
+    "P9": {
+      "score": 75,
+      "tells": [
+        "Mirror-image paragraph openers: \"Dark veils are the ones we make ourselves\" / \"Veils of light are finer, and we do not make them\"",
+        "\"The journey therefore covers no distance.\" — aphoristic one-liner",
+        "\"so the aim here is only to see the whole road in order\" — explicit roadmap signposting; \"In English they are polishing, emptying, adorning, and annihilating\" — four-item list set up for four chapters"
+      ]
+    },
+    "P10": {
+      "score": 72,
+      "tells": [
+        "Chain-link topic sentences: \"Old habits return because the self fights back.\" → \"Because the self can strike back, rushing ahead is dangerous.\"",
+        "\"Sincere repentance brings more than forgiveness.\" — flat thesis opener",
+        "\"ʿAllama Tabatabaʾi sets the standard beside it\" / \"The traveller holds to that standard, and repents again on falling short of it\" — neat reconciling move"
+      ]
+    },
+    "P11": {
+      "score": 70,
+      "tells": [
+        "\"The cargo weighs one byte. The ticket costs a context switch.\" — fragment pair elaborating a metaphor past the original rant",
+        "\"It isn't a performance bug. It's a decision, made once per byte, thousands of times, by someone who never stopped to ask what the loop was for.\" — 'not X, it's Y' plus cascading commas",
+        "\"that's the generous reading. The less generous one is...\" — tidy antithesis bolted onto a known human email whose own lines (\"find a tit and suck\") are shorter and cruder"
+      ]
+    },
+    "P12": {
+      "score": 72,
+      "tells": [
+        "\"A ruined soul loses faith because its owner can no longer see it. A soul that is seen points to its Maker.\" — paired short declaratives with mirrored structure",
+        "\"The saying holds because the soul reflects its Maker.\" / \"Knowing God therefore begins with knowing the soul.\" — every paragraph opens with a one-clause thesis",
+        "\"This does not make the soul a part of God.\" — pre-emptive objection handled in one line"
+      ]
+    },
+    "P13": {
+      "score": 5,
+      "tells": [
+        "OCR ligatures \"afﬂictions\", \"reﬂection\", \"ﬁnally\"; starts and ends mid-sentence",
+        "Translator's diction \"Concupiscence\", \"many a wonderful state\", \"whereat\"; sentence of 70+ words with stacked participles",
+        "Inline transliteration \"(qiyamat al-anfusiyyah ye wusta)\" with Persian ezafe — printed translation"
+      ]
+    },
+    "P14": {
+      "score": 68,
+      "tells": [
+        "\"The light had come to stay. The body follows the soul, and it tires in prayer only when the soul is after other pleasures.\" — moral drawn in two epigrams after the anecdote",
+        "\"Even gifts that stay are not arrival\" — compressed abstract phrasing",
+        "\"No one reads a book and falls in love with God.\" — aphoristic opener; stray spaces before full stops show stripped citations, i.e. project prose"
+      ]
+    },
+    "P15": {
+      "score": 72,
+      "tells": [
+        "\"Taking them one at a time shows where the soul goes when the hold loosens.\" — explicit signposting before an enumeration; \"The first is sleep.\"",
+        "\"Pure spirit and matter cannot meet directly.\" / \"It does not leave the body completely. If it did, we would be dead.\" — chains of short declaratives of near-equal length",
+        "\"That hold loosens at three times: in sleep, at death, and in watchfulness.\" — triad announced then walked through"
+      ]
+    },
+    "P16": {
+      "score": 70,
+      "tells": [
+        "\"This is the whole subject in one sentence: mysticism is about making the soul hear, see, and reflect.\" — explicit summing-up with a tricolon",
+        "\"Most of us see only the lamp.\" / \"In most of us, it is not working.\" — paragraph-ending one-liners",
+        "\"If the signs are present and plain, and yet we still pass them by, the fault is on our side.\" — conditional hinge opening the next step"
+      ]
+    }
+  },
+  "recurring_tells": [
+    {
+      "tell": "Every paragraph opens with a one-clause thesis sentence that hooks onto the previous paragraph's conclusion (\"Old habits return because the self fights back.\" → \"Because the self can strike back, rushing ahead is dangerous.\"). Read in sequence the openers form an outline.",
+      "fix": "In every second or third paragraph start with the particular (a quote, the anecdote, the verse) and let the point emerge by the second sentence; delete at least one 'therefore'/'because' hinge per page."
+    },
+    {
+      "tell": "Paragraph-ending epigrams: \"The journey therefore covers no distance.\", \"Most of us see only the lamp.\", \"The light had come to stay.\", \"A definition draws a line round its object, and there is no line to draw round God.\"",
+      "fix": "Cut the last sentence of the paragraph, or replace it with a concrete detail or the next fact; the point should already be clear from the body."
+    },
+    {
+      "tell": "Mirror-image parallel frames used for paired items: \"The first door is the tongue, and silence shuts it\" / \"The second door is the stomach, and hunger shuts it\"; \"Dark veils are the ones we make ourselves\" / \"Veils of light are finer, and we do not make them\"; \"The X meant here is not Y. It means Z\" twice.",
+      "fix": "Keep the parallel for the first item only; introduce the second with a different construction, different length, or by contrast with the first rather than by repetition of the template."
+    },
+    {
+      "tell": "Uniform sentence rhythm: runs of 8–14-word declaratives with almost no subordinate clauses or asides (\"It does not leave the body completely. If it did, we would be dead. This explains how...\").",
+      "fix": "Merge two or three short sentences into one with a subordinate clause or parenthesis, and allow one noticeably long sentence per paragraph."
+    },
+    {
+      "tell": "Negation-then-correction (\"It isn't a performance bug. It's a decision\", \"'Liars' does not mean the feats are faked... The lie is in\", \"not a lifelong vow... It means\").",
+      "fix": "State the positive claim directly and drop the straw negative unless a real reader would hold it."
+    },
+    {
+      "tell": "Explicit roadmap signposting (\"Taking them one at a time shows...\", \"so the aim here is only to see the whole road in order\", \"This is the whole subject in one sentence\", \"the next question is\").",
+      "fix": "Delete the signpost sentence; let headings and the first concrete item carry the structure."
+    },
+    {
+      "tell": "Announced triads then walked through (\"at three times: in sleep, at death, and in watchfulness\"; \"to see God with the heart, to love Him, and to be near Him\"; \"hear, see, and reflect\").",
+      "fix": "Where the source gives three, keep the three but do not pre-announce the count; where the prose added the third for balance, drop it."
+    },
+    {
+      "tell": "Abstract compression (\"lived truth\", \"the knowing keeps growing\", \"gifts that stay are not arrival\", \"in its role as a welcoming guide\").",
+      "fix": "Replace the abstract noun with the thing or act it stands for (what is said, done, or seen)."
+    }
+  ]
+}
