@@ -1,16 +1,21 @@
-# Handover to a new session (2026-10-16)
+# Handover to a new session (2026-10-19)
 
-_Read this first, then `CLAUDE.md`, `docs/STATUS.md`, `docs/briefs/LESSONS.md` and `docs/EXEMPLAR.md`. All work is on branch `claude/zealous-edison-mh1dpk` (it contains everything from the older `claude/stoic-euler-p7myev`). If the new session is given a different branch, base it on `claude/zealous-edison-mh1dpk`._
+_Read this first, then `CLAUDE.md`, `docs/STATUS.md`, `docs/briefs/LESSONS.md` (1–31) and `docs/EXEMPLAR.md`. Branch: `claude/irfan-books-part-three-kh8nd2`. Commit and push after every unit._
 
-## 1. Where we are (updated 2026-10-16, later)
-- **Branch:** `claude/irfan-books-part-three-kh8nd2` (based on `claude/zealous-edison-mh1dpk`).
-- **Book 2, Parts One and Two (prologue, Ch 1–7) rebuilt after the user's review (D45):** every section now has a point ladder in its `::: {.point}` note. Sent: `samples/parts-one-two-v2-review.pdf` (reader copy) and `samples/parts-one-two-v2.pdf` (draft with ladders). Awaiting the user's read.
-- **Voice tests (D44, D45):** profile = gate (now also gates "read twice" sentences at 9%); chain audit (`chain-auditor`) = idle paragraphs 15–28%; blind judges (`voice-judge`, 2 per chapter) = advisory, act on fair tells. `docs/VOICE-TEST.md`; calibration in `reviews/voice/CALIBRATION.md`.
-- **Next:**
-  1. Score `reviews/voice/PREDICTIONS-v2-ch02-07.md` against the user's feedback; apply the feedback; add lessons to LESSONS/TONE.
-  2. Part Three briefs (Ch 8–12) from `docs/outline/part-3.md`, each section with a one-line point and paragraph points (template updated). Gate A: bullets for approval before prose.
+## 1. Where we are
+- **Book 2, prologue and Chapters One to Seven are done to the user's current standard.** Latest PDFs: `samples/parts-one-two-v5.pdf` (draft, red proof ladders) and `samples/parts-one-two-v5-review.pdf` (reader copy). Raw links: `https://github.com/Baby-Isa/Irfan-Books/raw/claude/irfan-books-part-three-kh8nd2/samples/<file>`.
+- **D48, the proof ladder.** Every section's `::: {.point}` note is a proof: each step follows only from earlier steps and uses their words; explanations needed first are nested (2a, 2b…) and the prose tells the reader what is coming. Book-level chain approved: `docs/ladders/00-book-chain.md` (now in ARGUMENT and STORYLINE). Per-chapter ladders: `docs/ladders/NN.md`; the model is `docs/ladders/05.md`.
+- **D49, punctuation.** TONE 45 (colons sparingly; semicolons only between two equal full sentences or in heavy lists; no echo or long tail on a sentence's last comma; Oxford comma and "and" on every list; one vivid word welcome, echo phrases not; a fronted phrase now and then; no dashes; plain diction). `python3 build/voice.py punct FILE` and every `profile` flag sentences; writers fix or keep each flag before replying. The sweep of Ch 0–7 is done; no future sweeps.
+- **Measures:** `voice.py profile` (gate); chain audit with `chainscore` splitting idle paragraphs into breathers, recaps and drag (TONE 44a; Ch 1 calibration: 73% forward, drag ≤ ~10%; a drag flag is a paragraph to look at, not a cut). Blind judge only for a new kind of chapter.
+- **Stories (D47):** 25 of the Sheikh's 61 told or planned in full (`reviews/stories-audit.md`, `reviews/stories-screen.md`). Sources researched (`reviews/story-sources.md`): tell each as the Sheikh's account; cite a held or page-checked classical source where one tells the same story; differences between versions are decided by the user case by case, later.
+- **Style decisions since 16 Oct:** lectures and books in the present tense ("Sheikh Bahmanpour ends his first lecture…"), events in the past; no spliced quotation fragments; pronouns for God capitalised without brackets; chapters start on the next page; chapter epigraphs evenly spaced.
+
+## Next
+1. **Part Three briefs (Ch 8–12)** from `docs/outline/part-3.md`, written from the start as proof ladders (`docs/briefs/_TEMPLATE.md`), each with its told stories (Ch 9 now three: Fudayl, the young man told to stop, Hatim; Ch 12's Miʿraj prayer only if a held source is found). Gate A: present the chapter point, the section chain and each section's ladder in chat for approval before any prose.
+2. Open with the user: Chapter One's story box (implicitly kept); the case-by-case story-source differences; the prologue names the Sheikh 5.2 times per 1,000 words (exempt, but flagged).
 
 ## 2. How the user works (beyond CLAUDE.md)
+- **Newest (18–19 Oct):** he reviews in chat, line by line, and approves numbered change lists ("yes to all except …"). Show exact before → after. He wants arguments like a maths proof, plain sentences that read once, short breathers kept, colons rare, and his punctuation rules (TONE 45). Push back with reasons where a rule would add padding or grandeur; he welcomes it. Never send a paragraph you have not checked against TONE 38, 40a and 45.
 - **Read `docs/briefs/LESSONS.md` before drafting or reviewing anything.** It holds the 21 lessons from the user's reviews; TONE rules 23–37 hold the before/afters. The biggest are:
   - Name the Sheikh sparingly: at most 5 per 1,000 words, never twice in a paragraph, no "he says" filler. The prologue is exempt.
   - Straight prose, not "he said, she said".
