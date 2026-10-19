@@ -49,7 +49,7 @@ With no distance to cross, the journey runs inward. The mystics call it wayfarin
 
 The inward journey removes a veil. In the lectures, the journey means lifting the veil that blocks the heart's vision and keeps the light of God from shining in it. The many methods the mystics have devised serve this one aim. It is the journey we were created for, since human beings were made to see the glory and beauty of Allah, and it is the veil over the heart that stops them. <!-- src: L08 ¶9; L07 ¶4 -->
 
-The veils are not all of one kind. The mystics speak of dark veils and veils of light, and the stages of the journey deal with them differently. <!-- src: L08 ¶10 -->
+The mystics speak of two kinds of veil, dark veils and veils of light, and the stages of the journey deal with them differently. <!-- src: L08 ¶10 -->
 
 Dark veils are the ones we make ourselves. Our own actions create them, and they belong to the lower self (*nafs*). This is what Duʿa Abu Hamza means when it says that God conceals Himself from no one unless their wrong deeds stand between them and Him. Each wrong act lays a dark layer over the heart, and a heart under such layers cannot see Allah. <!-- src: L09 ¶72-73 -->
 
@@ -111,7 +111,7 @@ Each stage rests on the one before, and none is ever dropped.
 Close: "The first stage begins with a step any believer can take. What is it?"
 ::::
 
-The four stages come in a fixed order, because each needs the one before. The Shia mystics hold that until the soul and body have been polished with what the law asks, "you cannot move to the next step". The gifts God gives in adorning are all around us, yet only a purified soul can catch them. The mystics see and hear what others cannot, in Sheikh Bahmanpour's words, "not because … they are chosen ones but because they have furbished their souls". Annihilation comes last. It happens when adorning reaches its height, when God shows a glimpse of His glory to a heart already adorned. <!-- src: L07 ¶13, ¶37, ¶55-56 -->
+The four stages come in a fixed order, because each needs the one before. The Shia mystics hold that until the soul and body have been polished with what the law asks, "you cannot move to the next step". The gifts God gives in adorning are all around us, yet only a purified soul can catch them. The mystics see and hear what others cannot, in Sheikh Bahmanpour's words, "not because … they are chosen ones but because they have furbished their souls". Annihilation comes last, when adorning reaches its height and God shows a glimpse of His glory to a heart already adorned. <!-- src: L07 ¶13, ¶37, ¶55-56 -->
 
 None of the stages is dropped when the next begins. The lectures say this of polishing, which "should accompany a mystic until the end". Even the Prophet ﷺ, at the highest of stations, was told to stand vigil through the night and recite the Qur'an in a measured tone (Q 73:1–4). As Chapter Six showed, no station on the road releases the traveller from the law, and once the truth is unveiled the law is kept more carefully, not less. This book draws a wider point from it. Each stage is added to those before it, so a traveller who has reached adorning is still polishing the self. <!-- src: L07 ¶20-21 -->
 

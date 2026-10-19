@@ -56,9 +56,9 @@ At first the gifts come briefly and are gone. Ibn Sina's account of the first li
 
 Later the light stays and becomes the traveller's delight. If it leaves him, Ibn Sina says, "he becomes sad and bewildered" [@light, p. 48]. Uways al-Qarani shows what this stage looks like. He was a companion of Imam ʿAli (as), and the mystics trace their chains through him [@light, p. 5]. It is reported that he waited all day for the night. When it came, he said that this night was for bowing (*rukuʿ*), and he stayed bowed until morning. The next night he spent in prostration (*sajda*). <!-- src: L15 ¶41-42 -->
 
-Someone asked whether the long nights tired him. He answered that the night was not long to him but short. He is also reported to have wished that his whole life were a single night, passed in one prostration to God. The light had come to stay, and the body follows the soul. The body tires in prayer when the soul is after other pleasures, and it does not tire when the soul wants God. <!-- src: L15 ¶42-43 -->
+Someone asked whether the long nights, bowed or prostrate until morning, tired him. He answered that the night was not long to him but short, and he is also reported to have wished that his whole life were a single night, passed in one prostration to God. The light had come to stay. The body follows the soul, and it tires in prayer only when the soul is after other pleasures. <!-- src: L15 ¶42-43 -->
 
-Even gifts that stay are not arrival, and the lectures call them "not a great deal", since a long way remains. Wonders prove nothing either. They come at the stage of spiritual disclosure, and a great distance separates that stage from the end of the road [@kernel, p. 81]. <!-- src: L07 ¶39 -->
+Even gifts that stay are not arrival, and the lectures call them "not a great deal", since a long way remains. Wonders, which come at the stage of spiritual disclosure, prove nothing either, because a great distance separates that stage from the end of the road [@kernel, p. 81]. <!-- src: L07 ¶39 -->
 
 ## Love, the gift the Imams asked for
 

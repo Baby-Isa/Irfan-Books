@@ -91,7 +91,7 @@ Imam al-Sadiq (as) gave the same counsel of pace. He told ʿAbd al-ʿAziz al-Qar
 
 ʿAllama Tabatabaʾi draws from this hadith the traveller's rule of moderation. A beginner full of zeal may take on every good practice at once and then tire of it, leaving the work incomplete. In his words, "Too much enthusiasm in the beginning leads to too little interest in the end" [@light, p. 89].
 
-Not rushing is not the same as putting off. Some older believers conclude that the road is closed to them, which the lectures count as despair of God's mercy too. With age the road does become harder, as energy and capacity diminish, yet "it is not impossible", because age limits a person's ability and not the mercy of God. Imam Khomeini presses harder: "do not postpone the task of reform to old age" [@light, p. 127], since youth is "the springtime for tawbah" [@forty_hadith, p. 250]. Both agree that the sooner the road is begun, the easier it is. <!-- src: L08 ¶19-22 -->
+A steady pace still means setting out now, at whatever age. Some older believers conclude that the road is closed to them, which the lectures count as despair of God's mercy too. With age the road does become harder, as energy and capacity diminish, yet "it is not impossible", because age limits a person's ability and not the mercy of God. Imam Khomeini presses harder: "do not postpone the task of reform to old age" [@light, p. 127], since youth is "the springtime for tawbah" [@forty_hadith, p. 250]. Both agree that the sooner the road is begun, the easier it is. <!-- src: L08 ¶19-22 -->
 
 Repentance is therefore kept up at a steady pace. It is renewed whenever the traveller falls and taken no faster than the self can bear, and it is not put off to old age, which only makes it harder.
 

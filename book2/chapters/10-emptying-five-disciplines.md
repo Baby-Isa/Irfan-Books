@@ -39,7 +39,7 @@ Ibn Sina names four steps in emptying. The first is separating the heart from wh
 
 Mystics of every faith name the same five disciplines as instruments of the journey. They are silence, hunger, the night vigil, seclusion, and the constant remembrance of God. *Lantern of the Path*, attributed to Imam al-Sadiq (as), says true rest comes only on meeting God, though four of these give rest too. Wakefulness, it says, "illuminates your heart, purifies your nature and cleanses your spirit" [@lantern, p. 56]. The lectures tie remembrance to emptying, and this book places all five there. Each is an act the law recommends, so keeping it is still polishing. What makes the five the tools of emptying is their target, the heart. <!-- src: L07 ¶12, ¶27; L08 ¶55, ¶58; L10 ¶6, ¶66 -->
 
-Emptying is therefore the second stage of the road, and the five disciplines are its tools. We can read three of them as shutting the doors through which the world fills the heart, and two as working on the heart itself. The next two sections take them in that order.
+Emptying is therefore the second stage of the road, and the five disciplines are its tools. We can read three of them as shutting the doors through which the world fills the heart and two as working on the heart itself, which is the order the next two sections follow.
 
 ## Silence, hunger, and the night
 
@@ -80,13 +80,13 @@ The command is for half the night, a little less, or a little more. Two verses l
 Indeed the watch of the night is firmer in tread and more upright in respect to speech, for indeed during the day you have drawn-out engagements.
 :::
 
-The day is full of drawn-out engagements, so the pure remembrance of God becomes possible at night. After sleep the body is rested and the memory is fresh. The attention is gathered rather than scattered, and the stomach is empty. Rising in the middle of the night also shows how seriously a person holds their faith, and a command the Prophet ﷺ was given is an example for the rest of us. Surah al-Dhariyat counts the same habit among the marks of the righteous. <!-- src: L10 ¶9, ¶19-20 -->
+The day is full of drawn-out engagements, so the pure remembrance of God becomes possible at night. After sleep the body is rested and the memory is fresh. The attention is gathered rather than scattered, and the stomach is empty. Rising in the middle of the night also shows how seriously a person holds their faith, and a command the Prophet ﷺ was given is an example for the rest of us. Surah al-Dhariyat counts the same habit, sleeping little by choice, among the marks of the righteous. <!-- src: L10 ¶9, ¶19-20 -->
 
 ::: {.ayah ref="51:17-18"}
 They used to sleep a little during the night, and at dawns they would plead for forgiveness,
 :::
 
-The righteous of this verse chose to sleep little. Read together, the three disciplines work in the same way. A held tongue, a light stomach, and an hour awake before the day's engagements begin each leave more of the heart's attention free for God. <!-- src: L08 ¶50, ¶72; L10 ¶19-20 -->
+Read together, a held tongue; a light stomach; and an hour awake before the day's engagements begin, each leave more of the heart's attention free for God. <!-- src: L08 ¶50, ¶72; L10 ¶19-20 -->
 
 The tongue, the stomach, and sleep are therefore the doors these three disciplines shut. What the world has already left inside the heart is the work of the other two.
 

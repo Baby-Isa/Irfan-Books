@@ -272,3 +272,16 @@ The user's punctuation rules, agreed rule by rule. `python3 build/voice.py punct
 **Variety: a fronted phrase, sprinkled.** The user likes "Recited by the Prophet ﷺ every night before sleeping, the Musabbihat…". Use it only when the reader already knows the subject (never in the sentence that defines it), the phrase is about ten words or fewer and adds a fact, it truly describes the subject that follows, and the sentences around it start the usual way. Two or three per chapter at most, never two in one section.
 
 **Words.** Anchor the abstract in a concrete noun, not "somewhere". No hollow openers ("it is easy to see"); say "we". One vivid word is welcome where it sharpens the meaning ("far from the living realm"); an echo phrase that repeats an image is not. The awe comes from the content, not the wording. No dashes.
+
+### 46. Less mechanical, still clear (user, 2026-10-19; D51)
+From the user's choices on sixteen before/after edits (`reviews/ai/examples-2026-10-19.md`), after a blind judge found the house style itself reads as AI-written when applied too evenly. Clarity wins every tie.
+**Do:**
+- **Cut "not X" set against a reading nobody raised** (the biggest tell). Say the positive. "Not rushing is not the same as putting off." → "A steady pace still means setting out now, at whatever age." Keep a "not" only where a source or the lecturer raises the misreading ("not nirvana").
+- **Fold a short emphatic fragment** into its neighbour. "Annihilation comes last. It happens when…" → "Annihilation comes last, when adorning reaches its height and God shows…". Keep a short sentence only where it truly lands a point, and sparingly.
+- **Keep one half of a mirrored closer.** "The body tires… when the soul is after other pleasures, and it does not tire when the soul wants God." → "The body follows the soul, and it tires in prayer only when the soul is after other pleasures."
+- **Extend a sentence with a concrete detail already in the text**, freely: "whether the long nights, bowed or prostrate until morning, tired him". A long sentence built of clauses is used sparingly, spaced out, and set among short simple sentences.
+- **Work signposts into the sentence** rather than announcing them: "Taken in turn, each of the three degrees turns words we already say into something the traveller sees."
+- **Paraphrase a hard, garbled quotation** from the lectures rather than embedding it whole; quote only what reads cleanly.
+- **Lists whose items have their own clauses** take semicolons, with a comma before the sentence resumes: "a held tongue; a light stomach; and an hour awake before the day's engagements begin, each leave more…".
+**Keep (the user rejected changing these):** paragraph openings that restate the last point when they carry clarity (1a, 4a, 4b kept); a quotation followed by a line that adds a fact, such as the name it explains (5a kept); a contrast built with "whereas" only where it is a real contrast (2b rejected).
+**Don't:** pile more than three or four comma-separated pieces into one sentence; leave a trailing comma tail where "which" would join it ("…"an epistemological issue", meaning a matter of perception rather than of existence").
