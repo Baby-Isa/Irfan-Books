@@ -31,14 +31,12 @@ The road begins with repentance, and repentance is open to anyone after any sin.
 
 Setting out takes two moves. The first is to wake up. We have been living as if asleep, heedless of a God who is near. The second move is to repent, and the mystics call this the first and most important step of the road. Imam Khomeini gives the same order in *Forty Hadith*: when the heart "awakes from its slumber of negligence, this state of awakening is followed by that of repentance" [@forty_hadith, p. 249]. <!-- src: L08 ¶10 -->
 
-Repentance (*tawba*) in this sense reaches further than sins. It is, in Sheikh Bahmanpour's words, "repenting from our casualness towards the Lord". We repent from taking everything for granted, from wasting our lives, and from not heeding the presence of God. No one is punished for these things. <!-- src: L08 ¶10 -->
-
-*Lantern of the Path*, attributed to Imam al-Sadiq (as), sets this repentance beside the familiar kind. In its words, "the repentance of the elite is for being occupied with anything other than Allah, and the repentance of the common people is for wrong actions" [@lantern, p. 48]. The Munajat's confession of a life spent forgetting God is the first kind, the repentance of the elite.
+Repentance (*tawba*) in this sense reaches further than sins. It is, in Sheikh Bahmanpour's words, "repenting from our casualness towards the Lord". We repent from taking everything for granted, from wasting our lives, and from not heeding the presence of God. No one is punished for these things. *Lantern of the Path*, attributed to Imam al-Sadiq (as), sets this repentance beside the familiar kind: "the repentance of the elite is for being occupied with anything other than Allah, and the repentance of the common people is for wrong actions" [@lantern, p. 48]. <!-- src: L08 ¶10 -->
 
 Repentance of this kind is open to a sinner as much as to a devout believer, because it covers every sin and every wrong attitude towards God. Among the early mystics were men who had lived as wrongdoers, Bishr al-Hafi and Fudayl ibn ʿIyad among them, until something struck a chord in their souls. They repented wholeheartedly, gave themselves to the religion of God, and set out on the road. Fudayl's turning came through a single verse. <!-- src: L08 ¶11-12 -->
 
 :::: {.box-story title="Story: Fudayl the highwayman"}
-Sheikh Bahmanpour tells the story of Fudayl ibn ʿIyad among his accounts of the early mystics. Fudayl was born in Samarqand, lived in Kufa, and died in Mecca in 187 AH, a contemporary of Imam al-Kazim (as) and Imam al-Rida (as). In his early life he was a highwayman. One night the young Fudayl climbed the wall of a house to reach a girl he loved. Someone inside was reciting the Qur'an, and he heard a verse of Surah al-Hadid.
+Sheikh Bahmanpour tells the story of Fudayl ibn ʿIyad among his accounts of the early mystics. Fudayl was born in Samarqand, lived in Kufa, and died in Mecca in 187 AH, a contemporary of Imam al-Kazim (as) and Imam al-Rida (as). In his early life he was a highwayman. Once the young Fudayl climbed the wall of a house to reach a girl he loved. Someone inside was reciting the Qur'an, and he heard a verse of Surah al-Hadid.
 
 ::: {.ayah ref="57:16" words="1-13"}
 Is it not time yet for those who have faith that their hearts should be humbled for Allah’s remembrance and toward the truth which has come down [to them],
@@ -55,9 +53,7 @@ Say [that Allah declares,] ‘O My servants who have committed excesses against 
 
 Sheikh Bahmanpour reads "who have committed excesses against their own souls" broadly. The words can mean real sins, but they also fit those who have wasted much of the capacity in their souls and now despair of moving on the path. The verse tells them not to despair, because God forgives all sins. It is an encouragement for the beginning of the road, so that no believer sets the road aside as meant for others. <!-- src: L08 ¶16-18 -->
 
-God's forgiveness is not all that sincere repentance brings. In *Forty Hadith*, Imam Khomeini opens his chapter on repentance with a saying of Imam al-Sadiq (as). When a servant turns to God with sincere repentance, "God loves him and covers him (i.e. his sins) in the world and the Hereafter" [@forty_hadith, p. 249].
-
-*Lantern of the Path* describes what the same repentance does to the heart, which God created pure and clean. "When the pure heart turns grey by being fed on heedlessness and vexation, it is polished by the burnish of repentance and cleaned by the water of regret" [@lantern, p. 59]. This is the polishing that gives the first stage its name.
+Sincere repentance brings more than forgiveness. In *Forty Hadith*, Imam Khomeini cites Imam al-Sadiq (as): when a servant turns to God with sincere repentance, "God loves him and covers him (i.e. his sins) in the world and the Hereafter" [@forty_hadith, p. 249]. *Lantern of the Path* says what it does to the heart, which God created pure and clean. "When the pure heart turns grey by being fed on heedlessness and vexation, it is polished by the burnish of repentance and cleaned by the water of regret" [@lantern, p. 59]. This is the polishing that gives the first stage its name.
 
 Anyone can therefore begin, and the Munajat Shaʿbaniyyah gives the words to begin with. Near its end, the one praying comes before God as sinner and penitent at once.
 
@@ -65,14 +61,14 @@ Anyone can therefore begin, and the Munajat Shaʿbaniyyah gives the words to beg
 My Lord, I am Your powerless sinning slave and Your repentant bondman. [@light, p. 165]
 :::
 
-The sentence admits weakness and sin, and in the same breath claims the name of God's repentant servant. These are words any believer can say, whatever lies behind them.
+The sentence admits weakness and sin, and in the same breath claims the name of God's repentant servant, in words any believer can say, whatever lies behind them.
 
 ## Steady, not fast
 
 :::: {.point}
 Repentance is kept up at a steady pace: not rushed, and not put off.
 
-1. A repentant traveller may slip back; the answer is to repent again, because repentance is kept up, not done once (L08 ¶13–15). Side by side: Tabatabaʾi asks that a repented sin "must not be committed again"; the two meet, since the resolve is never to return and a fall is met with fresh repentance.
+1. A repentant traveller may slip back; the answer is to repent again, because repentance is kept up, not done once (L08 ¶13–15). Side by side: Tabatabaʾi asks that a repented sin "must not be committed again"; set side by side, not merged (one speaks of the fall, the other of the standard).
 2. The self fights back, "would come back and… take revenge" (L08 ¶15); this struggle with the self is *mujahada*.
 3. Because the self fights back, rushing is dangerous: the Sheikh warns of "the dangers of rushing things forward" and asks for the pace the Imams advised (L08 ¶26–27).
 4. Story (prose, unnamed): a young man in Tehran recited Ziyarat ʿAshura daily until light showed in his face; an elder told his father to stop him: "you need to have basis. You are rushing" (L08 ¶24–27).
@@ -83,7 +79,7 @@ Repentance is kept up at a steady pace: not rushed, and not put off.
 
 Once a traveller has begun with repentance, an old habit may still return. When it does, the traveller repents again. Sheikh Bahmanpour calls repentance a continuous process, not a single act. <!-- src: L08 ¶13-15 -->
 
-ʿAllama Tabatabaʾi sets the bar from the other side. Among his rules for the path is steadiness, which "means that after feeling penitence about a sin and asking Allah's forgiveness for it, it must not be committed again" [@light, p. 89]. The two views meet. At the moment of repenting, the resolve is never to return, and when a traveller falls, the answer is fresh repentance rather than despair.
+ʿAllama Tabatabaʾi sets a stricter bar. Among his rules for the path is steadiness, which "means that after feeling penitence about a sin and asking Allah's forgiveness for it, it must not be committed again" [@light, p. 89]. The two are set here side by side. One speaks of the traveller who falls, and the other of the standard a traveller holds to.
 
 Old habits return because the self fights back. The traveller's struggle with the self (*mujahada*) goes on through every stage of the road. At each stage there is a danger that the self "would come back and … take revenge", and when it strikes hard, it can leave a person reeling for days. <!-- src: L08 ¶15 -->
 
@@ -97,9 +93,7 @@ Imam al-Sadiq (as) gave the same counsel of pace. He told ʿAbd al-ʿAziz al-Qar
 
 ʿAllama Tabatabaʾi draws from this hadith the traveller's rule of moderation. A beginner full of zeal may take on every good practice at once and then tire of it, leaving the work incomplete. In his words, "Too much enthusiasm in the beginning leads to too little interest in the end" [@light, p. 89].
 
-Not rushing is not the same as putting off. Some older believers conclude that the road is closed to them. The lectures call this despair of God's mercy as well. With age the road does become harder, as a wrestler's training is harder begun late, because energy and capacity diminish. Yet, in Sheikh Bahmanpour's words, "it is not impossible", because what age limits is a person's ability and not the mercy of God. <!-- src: L08 ¶19-22 -->
-
-Imam Khomeini presses the point harder, speaking to the young: "It is easier to reform thousands of young men than to reform an old man. Therefore, do not postpone the task of reform to old age" [@light, p. 127]. In *Forty Hadith* he calls youth "the springtime for tawbah", the time when sins are fewer and the heart's inner darkness is still incomplete [@forty_hadith, p. 250]. The lectures and Imam Khomeini agree that the sooner the road is begun, the easier it is.
+Not rushing is not the same as putting off. Some older believers conclude that the road is closed to them, which the lectures count as despair of God's mercy too. With age the road does become harder, as energy and capacity diminish, yet "it is not impossible", because age limits a person's ability and not the mercy of God. Imam Khomeini presses harder: "do not postpone the task of reform to old age" [@light, p. 127], since youth is "the springtime for tawbah" [@forty_hadith, p. 250]. Both agree that the sooner the road is begun, the easier it is. <!-- src: L08 ¶19-22 -->
 
 Repentance is therefore kept up at a steady pace. It is renewed whenever the traveller falls and taken no faster than the self can bear, and it is not put off to old age, which only makes it harder.
 
@@ -111,7 +105,7 @@ Polishing is keeping the law strictly, and its first demand is putting things ri
 1. Polishing is keeping the law "in the strictest sense", the obligatory and the recommended (L07 ¶12–13), as Chapter Six set out (one sentence).
 2. After repentance, "the first and foremost and most important condition is to behave yourself with regards to people" (L08 ¶39).
 3. The reason: a "system of justice" underlies every action, and a wrong done to anyone, even an animal, blocks the traveller's rise until it is put right (L08 ¶39–40).
-4. The inner road therefore cannot go around people: "It is not possible to acquire the position of the virtuous and the pure without acquiring their qualities" (Tabatabaʾi); the Prophet ﷺ: "I have been sent to perfect good behaviour" (Amuli).
+4. The inner road therefore cannot go around people: good behaviour is at the core of the Prophet's message, "I have been sent to perfect good behaviour" (Amuli).
 5. The Prophet ﷺ and the Imams (as), at the highest station, were people "everyone loved to sit with" (L08 ¶40–41); Imam ʿAli (as) describes the God-fearing: "They forgive those who oppress them, give to those who refuse them, and foster those who cut them off".
 6. *(Story box: Hatim "the Deaf" spares a woman her embarrassment by pretending not to hear, and carries the name for life (L12 ¶25).)* Good conduct reaches down to the smallest courtesy to an ordinary person.
 7. Therefore (section and chapter): the first stage, polishing, begins with repentance, open to anyone and kept up steadily, and is kept by the law, starting with people.
@@ -125,15 +119,13 @@ Within the law, one demand comes first. After repentance, in Sheikh Bahmanpour's
 
 The reason is a "system of justice". In the lectures, this system underlies every action in this world, and it is "very, very strong". A wrong done to anyone, even to an animal, holds the traveller back from rising through the stations. The system will not let the traveller advance until such wrongs are put right, and this includes wrongs done without knowing it. <!-- src: L08 ¶39-40 -->
 
-The inner road therefore cannot go around people. ʿAllama Tabatabaʾi puts the principle in one sentence: "It is not possible to acquire the position of the virtuous and the pure without acquiring their qualities" [@light, p. 70]. Among those qualities, good behaviour stands at the centre. Sayyid Haydar Amuli, a fourteenth-century teacher of the path, places it "at the very core of the Prophet's message and purpose" and quotes the Prophet's words, "I have been sent to perfect good behaviour" [@inner_secrets, p. 108].
+The inner road therefore cannot go around people, because good behaviour stands at the centre of the religion. Sayyid Haydar Amuli, a fourteenth-century teacher of the path, places it "at the very core of the Prophet's message and purpose" and quotes the Prophet's words, "I have been sent to perfect good behaviour" [@inner_secrets, p. 108].
 
 The Prophet ﷺ and the Imams (as) show what this looks like at the highest station. They stood at the summit of the path, yet everyone loved to sit and talk with them, and they were pleasant and friendly with all. However high mystics rise, they have to stay friendly with ordinary people. Imam ʿAli (as), describing the pious in one of his orations, names these among their qualities. <!-- src: L08 ¶40-41 -->
 
 ::: {.quote ar="يعفو عمّن ظلمه ويعطي من حرمه ويصل من قطعه" source="Nahj al-Balagha"}
 They forgive those who oppress them, give to those who refuse them, and foster those who cut them off. [@nahj, 1.191]
 :::
-
-Each clause answers a wrong with a kindness. In this description, the conduct of the pious is measured by how they treat the people who have wronged them.
 
 Good conduct of this kind reaches down to the smallest courtesy shown to an ordinary person. One of the early mystics carried a nickname for the rest of his life because of one such courtesy.
 
@@ -146,5 +138,5 @@ The first stage, polishing, therefore begins with repentance. Repentance is open
 Polishing is open to every believer. Where does ʿirfan proper begin?
 
 ::: {.box-try title="Try this"}
-Sheikh Bahmanpour suggests beginning the road with a prayer of repentance that, the Mafatih reports, the Prophet ﷺ recommended for Sundays in the month of Dhu'l-Qaʿdah [@mafatih, p. 356]. According to the lectures, the scholars of hadith allow it at any time, though a Sunday of that month is its best time. On that day, take a ritual bath (*ghusl*) and make wudu. Then pray four rakʿas, two at a time like every recommended prayer, reciting in each Surah al-Fatiha once, Surah al-Tawhid three times, and Surahs al-Falaq and al-Nas once each. Afterwards say *astaghfirullah* one hundred times, then *la hawla wa la quwwata illa billahil-ʿaliyyil-ʿazim*. Then say the short supplication the Mafatih gives, which calls on God as the Mighty and the All-Forgiving and asks Him to forgive your sins and those of all believing men and women, since none forgives sins but Him [VERIFY: Arabic and English of the supplication, Mafatih p. 356]. Among the rewards the Mafatih reports are that the repentance is accepted, and that those who pray it will find their rivals pleased with them on the Day of Resurrection [@mafatih, p. 356]. <!-- src: L08 ¶29-33 -->
+Sheikh Bahmanpour suggests beginning the road with a prayer of repentance that, the Mafatih reports, the Prophet ﷺ recommended for Sundays in the month of Dhu'l-Qaʿdah [@mafatih, p. 356]. According to the lectures, the traditionists allow it at any time, though a Sunday of that month is its best time. On that day, take a ritual bath (*ghusl*) and make wudu. Then pray four rakʿas, two at a time like every recommended prayer, reciting in each Surah al-Fatiha once, Surah al-Tawhid three times, and Surahs al-Falaq and al-Nas once each. Afterwards say *astaghfirullah* one hundred times (the lectures give seventy and name al-Nas alone; the Mafatih's count is followed here), then *la hawla wa la quwwata illa billahil-ʿaliyyil-ʿazim*. Then say the short supplication the Mafatih gives, which calls on God as the Mighty and the All-Forgiving and asks Him to forgive your sins and those of all believing men and women, since none forgives sins but Him. Among the rewards the Mafatih reports are that the repentance is accepted, and that those who pray it will find their rivals pleased with them on the Day of Resurrection [@mafatih, p. 356]. <!-- src: L08 ¶29-33 -->
 :::
