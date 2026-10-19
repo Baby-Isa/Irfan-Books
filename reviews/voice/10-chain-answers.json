@@ -1,0 +1,88 @@
+{
+  "sections": {
+    "1": {
+      "point": "The reader already keeps these disciplines in Ramadan without naming them; this chapter names them as the tools of the road's second stage, emptying, and says where it begins, how each works and how much to take.",
+      "steps": [
+        "Tie the opening quotation to a practice the reader already keeps (the Ramadan disciplines) so the subject feels familiar.",
+        "Place emptying inside the four stages already covered and state the chapter's three questions: where emptying begins, how each discipline works, how much to take."
+      ]
+    },
+    "2": {
+      "point": "Irfan proper starts at emptying the heart, not at polishing, and the five disciplines are the tools of that emptying.",
+      "steps": [
+        "Polishing is the first stage and open to any believer, so irfan proper begins at the next stage, emptying.",
+        "Emptying means clearing the heart of whatever occupies it other than God, and it is harder than keeping the law.",
+        "Clarify the target: what occupies the heart, not every love.",
+        "Give the anatomy of emptying (separating, dusting off) that the later sections map the disciplines onto.",
+        "Name the five disciplines and say why they are tools of emptying rather than more polishing: their target is the heart."
+      ]
+    },
+    "3": {
+      "point": "Silence, hunger and the night prayer each close one of the three openings (tongue, stomach, sleep) through which the world gets into the heart.",
+      "steps": [
+        "Silence shuts the tongue; define the silence meant (no idle talk, not a vow).",
+        "Hunger shuts the stomach; define the hunger meant (never to heaviness) and why a full stomach takes the soul's attention.",
+        "The night prayer shuts sleep; show why the night is the time the heart can be kept on God (day is full, body rested, stomach empty).",
+        "State the common mechanism: each loosens the body's hold on the soul by choice, so less of the soul's attention is taken by the body."
+      ]
+    },
+    "4": {
+      "point": "Seclusion is Ibn Sina's first step (separating the heart from what diverts it) and remembrance is his second (dusting off the traces that remain).",
+      "steps": [
+        "Seclusion in Shia irfan is of the heart, not the body, and equals Ibn Sina's first step.",
+        "Prove it from the Qur'an and the Prophet's life: he was told to dedicate himself wholly yet lived among people, so the cutting off is in the heart.",
+        "Give the practical form: the night prayer is the traveller's daily seclusion.",
+        "Separating leaves traces; remembrance dusts them off and equals Ibn Sina's second step; say what the practice is and that it should be frequent.",
+        "Say what 'frequent' means in practice (the Tasbih as minimum, no upper limit)."
+      ]
+    },
+    "5": {
+      "point": "No discipline is taken in full; each is taken in a small dose set by what the person can carry, grown slowly and kept up for a long time.",
+      "steps": [
+        "None of the five is kept to the full; even the Qur'an eased the night prayer.",
+        "The measure is what the person can carry, not imitation of the Prophet.",
+        "Concrete doses: start small, grow slowly, keep one practice for a year.",
+        "The written guides set the same measures, one person at a time (the medicine image).",
+        "Handle the one discipline where sources disagree (seclusion) and show all of them keep the nightly hour."
+      ]
+    }
+  },
+  "paragraphs": {
+    "¶1": {"label": "advance", "why": "Supplies the hook: the opening quotation is tied to Ramadan, where the reader already keeps these disciplines unnamed."},
+    "¶2": {"label": "advance", "why": "Recalls the four stages in two sentences, names emptying as the chapter's subject and states the three questions the chapter will answer."},
+    "¶3": {"label": "advance", "why": "First step of the section: polishing is open to all, so irfan proper begins at emptying."},
+    "¶4": {"label": "advance", "why": "Defines emptying (clearing the heart of whatever occupies it other than God) and shows it is a harder and distinct stage from keeping the law."},
+    "¶5": {"label": "support", "why": "Refines the definition in ¶4 (what occupies the heart, not what it loves); Section 4's 'seclusion of the heart, not the body' (¶19, ¶21) rests on this distinction."},
+    "¶6": {"label": "support", "why": "Ibn Sina's steps give the anatomy of emptying that ¶19 and ¶23 map seclusion and remembrance onto. Only the first two steps are used anywhere; 'leaving' and 'rejecting' are never picked up again and could be cut."},
+    "¶7": {"label": "aside", "why": "The self as the last thing left, and the non-swimmer image, are true and vivid but the section's point (emptying is the stage; the five are its tools) does not need them. Only the closing ¶36 echoes it, and that echo is itself a bridge, not a step."},
+    "¶8": {"label": "advance", "why": "Names the five disciplines and gives the reason they are tools of emptying rather than more polishing: their target is the heart. The Lantern citation inside it is support for the same step."},
+    "¶9": {"label": "restate", "why": "Repeats the point already made by ¶3 and ¶8 and previews the next two sections; the three-plus-two split is the only new content and it is a signpost."},
+    "¶10": {"label": "advance", "why": "First door: silence shuts the tongue; defines the silence meant and sets up the displayed saying."},
+    "¶11": {"label": "aside", "why": "A second gloss of the displayed saying, a callback to the Munajat, and a history lesson (the fast of silence among the Children of Israel, Maryam). None of it is needed for 'silence shuts the tongue', and nothing later uses it; ¶13 repeats the silence-to-wisdom link from another source anyway."},
+    "¶12": {"label": "advance", "why": "Second door: hunger shuts the stomach; defines the hunger meant and gives the reason a full stomach takes the soul's attention."},
+    "¶13": {"label": "support", "why": "Its first half explains what comes in through the first two doors (the chain of idle thoughts), which links 'shut the door' to 'fills the heart'. The second half (muraqaba, the ascension hadith on silence and wisdom) is a second source for a link already stated after the ¶10 quotation and is not used later."},
+    "¶14": {"label": "advance", "why": "Third door: the night prayer shuts sleep; notes the Qur'an's weight on it and introduces the verse."},
+    "¶15": {"label": "support", "why": "Connective between the two displayed verses; the measure (half the night, a little less or more) is used again by ¶29 when the command is eased."},
+    "¶16": {"label": "advance", "why": "Supplies why the night works: the day is full, the body is rested, the stomach is empty, attention gathered. This is the step that makes 'shutting the door of sleep' effective. The 'shows seriousness' and Dhariyat remarks are extra weight on the same step."},
+    "¶17": {"label": "advance", "why": "Supplies the common mechanism for all three: each loosens the body's hold on the soul by choice. Without it the three doors stay a list rather than one argument."},
+    "¶18": {"label": "restate", "why": "States the section's point, already supplied by ¶10, ¶12, ¶14 and ¶17, and hands over to the next section."},
+    "¶19": {"label": "advance", "why": "Seclusion is of the heart, not the body, in Shia irfan, and equals Ibn Sina's first step. The Sufi contrast and i'tikaf are extra weight but the step is here."},
+    "¶20": {"label": "support", "why": "Introduces the verse that ¶21 and the box argue from; one line, does its job."},
+    "¶21": {"label": "advance", "why": "Proves seclusion is of the heart: the Prophet was told to dedicate himself wholly yet lived among people; the industrial-city and cave images carry the step."},
+    "¶22": {"label": "advance", "why": "Gives the practical form of seclusion of the heart, the nightly prayer; ¶34 later relies on it (the nightly hour against forty days of retreat)."},
+    "¶23": {"label": "advance", "why": "Remembrance dusts off the traces separation leaves, equals Ibn Sina's second step, with the practice itself and the requirement that it be frequent."},
+    "¶24": {"label": "support", "why": "Completes the displayed verse by saying what 'frequent remembrance' is in practice (the Tasbih of al-Zahra as minimum, no upper limit); ¶23 raises 'frequent' and this answers it."},
+    "¶25": {"label": "aside", "why": "'Remembrance is also answered' opens a new topic the point (remembrance dusts off what remains) does not need; it exists only to introduce ¶26."},
+    "¶26": {"label": "aside", "why": "A puzzle (how can God remember?) raised and resolved, then a remark on God's favour; nothing later uses it and the section's point is complete without it. At most it glosses 'its effect is real and present' from ¶23, which did not need glossing."},
+    "¶27": {"label": "aside", "why": "Where the formulas come from (hadith not the shaykh) is a side remark contrasting Sufi and Shia practice; the point does not need it and ¶32's 'words of remembrance a teacher sets' is intelligible without it."},
+    "¶28": {"label": "restate", "why": "Repeats the section's point (already in ¶19 and ¶23) and recounts the five tools."},
+    "¶29": {"label": "advance", "why": "First step: none of the five is kept to the full, shown for each discipline, and even the Qur'an eased the night prayer; introduces the verse."},
+    "¶30": {"label": "advance", "why": "Supplies the measure: what the person can carry, not imitation of the Prophet, and names the Sheikh's question 'where is the balance'."},
+    "¶31": {"label": "advance", "why": "Concrete doses: start with half an hour, grow slowly, keep one practice for a year, with the bodily reason the dose must grow slowly. This is the 'small and kept up' half of the point."},
+    "¶32": {"label": "support", "why": "The written programme confirms the measure 'to the extent' of the person's constitution and supplies the medicine line the section title depends on. It is close to a second scholar saying what ¶30 said; it earns its place only through the title's image."},
+    "¶33": {"label": "aside", "why": "A third source saying the same thing as ¶31 and ¶32 (small and consistent). Memorable, but by the time it arrives the claim has been made twice; nothing later uses it."},
+    "¶34": {"label": "advance", "why": "Handles the one discipline where the sources disagree on dose (seclusion), sets the counter-evidence from Tabatabai and Lantern beside the Sheikh's preference, and lands on what all of them keep: the hour before dawn. The objection had to be met for the point to hold across all five."},
+    "¶35": {"label": "restate", "why": "A chapter summary: every sentence repeats a section point already stated (¶4, ¶18, ¶28, ¶31)."},
+    "¶36": {"label": "restate", "why": "Repeats ¶7 (emptying ends at the self) and ¶2 (the last two stages are God's gift), then closes on a question the chapter does not answer. Nothing new for the chain."}
+  }
+}
