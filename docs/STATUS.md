@@ -38,7 +38,9 @@ _Update at the end of every task. Keep it short. History lives in git and DECISI
 
 **2026-10-19, "less mechanical" approval sheet.** After `reviews/ai/REPORT-2026-10-19.md` (eight tells), sixteen before → after edits for Part Three written to `reviews/ai/examples-2026-10-19.md` (two per tell, spread over Ch 8–12, each "before" quoted exactly). Chapters not edited; awaiting the user's approval.
 
-**Next:** the user's read of Part Three (PDFs in `samples/`) and his choices on the approval sheet.
+**2026-10-19, TONE 46 sweep of Part Three (D51).** The user's eleven approved edits applied; the rest of Ch 8–12 swept for the seven approved kinds only. Forty-two before → after edits in `reviews/ai/sweep-part3-2026-10-19.md` (every "before" occurs once in its file; lengths checked; every remaining "not" was checked against its transcript and the lecturer-raised ones are listed as kept). Chapters not edited; awaiting the user's line-by-line choices.
+
+**Next:** the user's read of Part Three (PDFs in `samples/`) and his choices on the sweep sheet.
 
 ## Open questions for the user or lecturer
 1. The lecturer is M. S. Bahmanpour (from the slides). Confirm his preferred title and name format.
