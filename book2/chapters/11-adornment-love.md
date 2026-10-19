@@ -8,9 +8,11 @@ chapter: 11
 If You haul me into the hell, I will tell its inmates that I love You. [@light, p. 164; @duas_munajat_shabaniyah, §59]
 :::
 
-These words come from the Munajat Shaʿbaniyyah, the prayer the Mafatih reports Imam ʿAli (as) and the other Imams saying in the month of Shaʿban [@mafatih, p. 243]. The lines just before it ask for pardon, promising to cling to God's forgiveness whatever sins are held against the one praying. Then comes a sentence no trader would say. A trader weighs what he gives against what he hopes to get, whereas this reciter pictures the fire itself and still declares love. Love like this is not something the one praying claims to have made.
+These words come from the Munajat Shaʿbaniyyah, the prayer the Mafatih reports Imam ʿAli (as) and the other Imams saying in the month of Shaʿban [@mafatih, p. 243]. Many of us recite it in that month too. The lines just before it ask for pardon, promising to cling to God's forgiveness whatever sins are held against the one praying. Then comes a sentence no trader would say. A trader weighs what he gives against what he hopes to get, whereas this reciter pictures the fire itself and still declares love. Love like this is not something the one praying claims to have made.
 
-The Munajat line at the head of Part One says where such love comes from. There the one praying admits to having had no strength to move away from disobedience except when God awakened them to His love. In the prayers, love is something God awakens. The road to Him has four stages, and the first two, polishing the self and emptying the heart, are the traveller's work. With the third stage, adornment, the work passes from the traveller to God. This chapter sets out what God gives the emptied heart in that stage, and how love, among His gifts, carries the traveller until even love is left at the door.
+The Munajat line at the head of Part One says where such love comes from. There the one praying admits to having had no strength to move away from disobedience except when God awakened them to His love. In the prayers, love is something God awakens.
+
+That awakening has its place on the road to God, which has four stages. The first two, polishing the self and emptying the heart, are the traveller's work, and emptying ends with the self, the last thing the traveller leaves behind. With the third stage, adornment, the work passes from the traveller to God. This chapter sets out what God gives the emptied heart in that stage, and how love, among His gifts, carries the traveller until even love is left at the door.
 
 ::: {.words}
 *tahliya*: adornment, God's gifts to the emptied heart · *mahabba*: love, above all the love of God · *khawf*: fear of God · *zuhd*: renunciation of the world · *ʿibadat al-ahrar*: the worship of the free, who worship God for His own sake
@@ -38,7 +40,7 @@ These gifts are not withheld from anyone; what differs is the heart that receive
 Is he who was lifeless, then We gave him life and provided him with a light by which he walks among the people
 :::
 
-The verse joins the new life to a light, and the one who is given it walks with that light among the people.
+The verse joins the new life to a light, and the one who is given it walks with that light among the people. Many verses of the Qur'an, the lectures note, speak of this new life, given through true faith. <!-- src: L07 ¶39 -->
 
 Knowledge received in this way is a reward the Qur'an promises to those who do good. Surah Yusuf says so of the Prophet Yusuf (as), before he was given his mission.
 
@@ -50,9 +52,11 @@ The verse's last words state a general rule. Whoever does good (*muhsin*) is rew
 
 Sheikh Bahmanpour saw such knowledge in a preacher in Tehran whose weekly gatherings he attended several times. The preacher had almost no formal learning and had not studied the hadith. He would set out a teaching and then ask his listeners to supply the hadith or the verse for it. He was sure that one existed, and he knew the ideas of the hadith without having read them. The preacher's case is no reason to set study aside. Formal learning matters, and the mystics, Imam Khomeini among them, all studied formally. Study alone repeats a teacher's concepts; matched with the knowledge God gives the heart, the two reinforce each other. <!-- src: L10 ¶14-16 -->
 
-At first the gifts come briefly and are gone. Ibn Sina, as Murtada Mutahhari quotes him, describes flashes of the light of the Real (God) that are "momentary like flashes of lightning appearing and instantly vanishing". With practice they come more often, until "the flashes become a prolonged blaze" and the traveller reaches "an enduring gnostic state which permanently accompanies him" [@light, p. 48]. The order has a reason. A light seen without its cloud would burn the eyes, so at first God's mercy lets it shine from behind the clouds, while the heart widens and becomes able to receive more. <!-- src: L15 ¶20-22, ¶40-41 -->
+At first the gifts come briefly and are gone. Ibn Sina, as Murtada Mutahhari quotes him, describes flashes of the light of the Real (God) that are "momentary like flashes of lightning appearing and instantly vanishing". With practice they come more often, until "the flashes become a prolonged blaze" and the traveller reaches "an enduring gnostic state which permanently accompanies him" [@light, p. 48]. The order has a reason. A light seen without its cloud would burn the eyes, so at first God's mercy lets it shine from behind the clouds, while the heart widens and becomes able to receive more. <!-- src: L15 ¶20-22, ¶40 -->
 
-Once the gifts stay, worship stops tiring the traveller. It is reported of Uways al-Qarani, a companion of Imam ʿAli (as) through whom the mystics trace their chains [@light, p. 5], that he waited all day for the night. When night came, he said that this night was for bowing (*rukuʿ*), and he stayed bowed until morning. The next night was for prostration (*sajda*), and he spent it in sajda. Someone asked whether the long nights tired him. He said he did not find the night long, but very short. He is also reported to have wished that his whole life were a single night, spent in one prostration to God. <!-- src: L15 ¶41-42 -->
+When the light stays, it becomes the traveller's delight. If it leaves him, Ibn Sina says, "he becomes sad and bewildered" [@light, p. 48]. Turning from it to the business of the world is always done with regret, because the traveller's pleasure is in that light. <!-- src: L15 ¶41 -->
+
+That is why, at this stage, worship stops tiring the traveller. It is reported of Uways al-Qarani, a companion of Imam ʿAli (as) through whom the mystics trace their chains [@light, p. 5], that he waited all day for the night. When night came, he said that this night was for bowing (*rukuʿ*), and he stayed bowed until morning. The next night was for prostration (*sajda*), and he spent it in sajda. Someone asked whether the long nights tired him. He said he did not find the night long; to him it was short. He is also reported to have wished that his whole life were a single night, spent in one prostration to God. <!-- src: L15 ¶41-42 -->
 
 Uways did not tire because the body always follows the soul. When the soul is after other pleasures, standing in prayer tires the body. When the soul wants God, the body does not tire, and the night grows short. <!-- src: L15 ¶43 -->
 
@@ -94,7 +98,7 @@ Because love is given, the Imams (as) always asked for it. In effect they asked 
 Then suppose, My God, my Master, my Protector and my Lord that I am able to endure Your chastisement, How can I endure separation from You? [@duas_dua_kumayl, §123–124]
 :::
 
-Punishment, the one praying supposes, might be endured, whereas separation from God could not. Imam Zayn al-ʿAbidin (as) opens the Whispered Prayer of the Lovers with a question of the same kind.
+Punishment, the one praying supposes, might be endured, whereas separation from God could not. The duʿa goes on in the voice of the Munajat line at the head of this chapter. If left with speech among the fire's inhabitants, the one praying will still lament and cry out to God, as the hopeful and the bereft do [@duas_dua_kumayl, §128–131]. Imam Zayn al-ʿAbidin (as) opens the Whispered Prayer of the Lovers with a question of the same kind.
 
 ::: {.quote ar="[VERIFY: Arabic of Sahifa, Whispered Prayer of the Lovers, opening line]" source="Whispered Prayer of the Lovers"}
 My God, who can have tasted the sweetness of Thy love, then wanted another in place of Thee? [@sahifa, p. 656]
@@ -102,7 +106,7 @@ My God, who can have tasted the sweetness of Thy love, then wanted another in pl
 
 A heart that still wants something else in God's place has not yet tasted that sweetness. <!-- src: L01 ¶27 -->
 
-What the Imams asked for is what carries a traveller on the road. The early mystics walked with fear (*khawf*), renunciation (*zuhd*), and love, and in each, without excluding the others, one of the three stood out, as among the prophets some feared more and some hoped more. In the lectures, love became "the victorious [side]" and the heart of mysticism in Islam. *Lantern of the Path*, attributed to Imam al-Sadiq (as), gives the order within one traveller: fear, then hope, then love, when "the breeze of love stirs" [@lantern, p. 58]. <!-- src: L11 ¶61-63; L12 ¶56 -->
+What the Imams asked for is what carries a traveller on the road. The early mystics walked with fear (*khawf*), renunciation (*zuhd*), and love, and in each, without excluding the others, one of the three stood out. Even among the prophets, some feared more and some hoped more. In the lectures, love became "the victorious [side]" and the heart of mysticism in Islam. *Lantern of the Path*, attributed to Imam al-Sadiq (as), gives the order within one traveller: fear, then hope, then love, when "the breeze of love stirs" [@lantern, p. 58]. <!-- src: L11 ¶61-63; L12 ¶56 -->
 
 Fear does not leave when love comes. It stays beside the heart's expansion, its open and hopeful ease. In the *Kernel of the Kernels*, perfection is "possessing perfect expansion while possessing perfect fear", and it belongs to the Imams alone [@kernel, p. 70].
 
@@ -112,9 +116,9 @@ Worship that comes from love is a different kind of worship. Imam ʿAli (as) nam
 Some worship God out of desire for His reward—that is the worship of merchants. Others worship God from fear of His punishment—that is the worship of slaves. A third group worship God to give thanks for His favors—that is the worship of the free! [@nahj, 3.222]
 :::
 
-In Imam ʿAli's saying, the free worship to give thanks. ʿAllama Tabatabaʾi records a report from Imam al-Sadiq (as) that names a third group, who worship Allah because they love Him and whose worship "is that of freemen" [@light, p. 94]. Sheikh Bahmanpour gives a third reason: the free worship God "because He deserves to be worshipped". The same reason is in a prayer of Imam ʿAli (as) that Tabatabaʾi quotes, where he worships God because he has found Him fit for worship [@light, p. 95]. <!-- src: L12 ¶60 -->
+The merchant worships for a price and the slave from fear, whereas in Imam ʿAli's saying the free worship to give thanks. ʿAllama Tabatabaʾi records a report from Imam al-Sadiq (as) that names a third group, who worship Allah because they love Him and whose worship "is that of freemen" [@light, p. 94]. Sheikh Bahmanpour gives a third reason: the free worship God "because He deserves to be worshipped". The same reason is in a prayer of Imam ʿAli (as) that Tabatabaʾi quotes, where he worships God because he has found Him fit for worship [@light, p. 95]. <!-- src: L12 ¶60 -->
 
-The three sayings give the free different reasons: thanks, love, and God's own worthiness. None of them is a hope of reward or a fear of punishment.
+The sayings give the free three reasons: thanks, love, and God's own worthiness. None of them is a hope of reward or a fear of punishment.
 
 One early mystic of Basra lived out this kind of worship. Rabiʿa al-ʿAdawiyya, "one of the wonders of her time" [@light, p. 24], began in the austere, fearful way of the ascetics of her city and moved to the way of love. She taught that even repentance is a gift from God, since no one could repent unless God had first accepted them. <!-- src: L12 ¶52-53 -->
 
@@ -126,7 +130,7 @@ Love of this kind leaves nothing else standing in the heart. In *Lantern of the 
 Love of Allah is a fire which does not pass by anything without burning it up; the light of Allah does not come over something without illuminating it. [@lantern, p. 88]
 :::
 
-Later mystics repeat this saying in almost every book that speaks of the love of God. The same page of the Lantern says what the fire burns. When love of Allah takes possession of the servant's innermost being, "it empties him of every preoccupation except remembrance of Allah" [@lantern, p. 88]. <!-- src: L12 ¶38 -->
+Later mystics repeat this saying in almost every book that speaks of the love of God. The same page of the Lantern says what the fire burns. When love of Allah takes possession of the servant's innermost being, "it empties him of every preoccupation except remembrance of Allah" [@lantern, p. 88]. The stage before adornment set out to clear the heart of every occupation other than God, and here love finishes that work from God's side. <!-- src: L12 ¶38; L07 ¶22 -->
 
 Love is therefore God's gift. The Imams asked for it in their prayers, and the worship that comes from it is the worship of the free.
 
@@ -148,7 +152,7 @@ Love carries the traveller a long way, but it remains a means. ʿAllama Tabataba
 
 While love is new, the traveller does not see this difference. Love is the traveller's own state, whereas the Beloved is God. A traveller who keeps looking at his own love is still looking at something of his own, and the love that carried him this far begins to stand between him and the One he loves.
 
-Murtada Mutahhari makes a related point with a story from Saʿdi's *Bustan*. The treasure chest of Sultan Mahmud breaks open in a narrow pass, and his riders fall on the pearls and corals, all except his friend Iyaz, who rides on after the king. Asked what booty he has brought, Iyaz says he has none; he preferred the king's service to treasure. Saʿdi draws the lesson: "If you look to your friend for his favors, / You are tied to yourself not to your friend" [@light, pp. 44–45]. The gifts of adornment, love among them, are favours of this kind, and a traveller who holds on to them rather than to the Giver is still tied to the self.
+Murtada Mutahhari makes a related point with a story from Saʿdi's *Bustan*. The treasure chest of Sultan Mahmud breaks open in a narrow pass, and his riders fall on the pearls and corals while his friend Iyaz rides on after the king. Asked what booty he has brought, Iyaz says he has none; he preferred the king's service to treasure. Saʿdi draws the lesson: "If you look to your friend for his favors, / You are tied to yourself not to your friend" [@light, pp. 44–45]. The gifts of adornment, love among them, are favours of this kind. Holding on to them rather than to the Giver still ties the traveller to the self.
 
 ::: {.box-reflect title="Reflection"}
 Imam Khomeini warns those who speak much of their love for God not to think too well of themselves. He then puts to them a question that any traveller can ask: "Ask your heart whether it is in search of God or whether it is in love with itself" [@forty_hadith, p. 89]. Think of one act of worship you look forward to. Is it God you are seeking in it, or the sweetness you find there?
@@ -156,7 +160,7 @@ Imam Khomeini warns those who speak much of their love for God not to think too 
 
 The same Rabiʿa who carried the torch prayed in this spirit, as Sheikh Bahmanpour reads her prayers. In one, she asks to be burned in hell if she worships God from fear of it, and to be kept out of paradise if she worships in hope of it. If she worships Him for Himself, she asks Him not to withhold His beauty from her. Another asks God to give whatever He has destined for her in this world to His enemies, and whatever He has destined for her in the next, paradise with it, to His friends. Her reason closes the prayer: "since You are more than enough for me". <!-- src: L12 ¶59-60 -->
 
-God therefore adorns the emptied heart with knowledge and light, and among His gifts is love, which the Imams asked for and which makes worship the worship of the free. Love carries the traveller through the stages of the road. At the door even love is left behind, so that only the Beloved remains.
+God therefore adorns the emptied heart. He gives it knowledge, a deeper understanding of the Qur'an, and a light to walk by, in flashes at first and then to stay. Among His gifts is love, which the Imams asked for in their prayers and which makes worship the worship of the free. Love carries the traveller through the stages of the road. At the door even love is left behind, so that only the Beloved remains.
 
 With even love left behind, what remains of the traveller before God?
 

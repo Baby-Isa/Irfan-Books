@@ -24,7 +24,7 @@
 
 **Words you'll meet:** *hijab* · *suluk* / *salik* · *tajliya* · *takhliya* · *tahliya* · *fanaʾ*
 **Boxes:** §2 "The road at a glance" (the four-stage table in the ladder). §3 History box, "A philosopher's ladder": Ibn Sina's stations, flashes of lightning [@light, p. 48], Tusi's nine stages [@light, p. 50]; the Sheikh's "from behind the clouds" flagged as his (L15 ¶21–22).
-**The Sheikh's stories (D47):** none told in full here (v2): the Tehran preacher moves to Ch 11 §1, where adornment is proved. Ch 8 is the map; its stories are in Ch 9–12. Decision (2026-10-19): no story here. None of the Sheikh's stories fits the map without being forced; the swimming image (an image, not a story) goes to Ch 10 §1, where the self is left last.
+**The Sheikh's stories (D47):** none told in full here (v2): the Tehran preacher moves to Ch 11 §1, where adorning is proved. Ch 8 is the map; its stories are in Ch 9–12. Decision (2026-10-19): no story here. None of the Sheikh's stories fits the map without being forced; the swimming image (an image, not a story) goes to Ch 10 §1, where the self is left last.
 **Try this:** Recite the Musabbihat (or one of them) before sleep; Qadi gave beginners this for a year (L07 ¶15–16); al-Kafi via [@mafatih, p. 1036].
 **Target:** about 2,700–3,000 words of body.
 **Hand-off to the next chapter:** The first stage begins with a step any believer can take. What is it?

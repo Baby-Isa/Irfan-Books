@@ -21,7 +21,7 @@ _D48 (user, 2026-10-18): the proof-style ladder is the new model. Each line uses
 8. **Ch 8.** Since God is already near (4), the journey covers no distance: it removes veils in four stages, two ours and two God's, each resting on the one before and none ever dropped.
 9. **Ch 9.** The first stage, polishing, begins with repentance, open to anyone after any sin, and is kept by the law, whose first demand is putting things right with people.
 10. **Ch 10.** The second stage, emptying, clears the heart of everything but God, and the five disciplines are its tools, each in a measured dose.
-11. **Ch 11.** The third stage, adornment, is God's gift to the emptied heart: knowledge and light, and love, which carries the traveller until even love is left at the door.
+11. **Ch 11.** The third stage, adorning, is God's gift to the emptied heart: knowledge and light, and love, which carries the traveller until even love is left at the door.
 12. **Ch 12.** In the fourth stage, love ends in losing the false self before God's glory, and in coming back sober, seeing God in all things while remaining oneself.
 - **B3, therefore:** the road is walked in a known order, four stages from repentance to the loss of the false self, two ours and two God's.
 

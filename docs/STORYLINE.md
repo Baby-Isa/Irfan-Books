@@ -96,7 +96,7 @@ _One "slide" per chapter. The heading is the chapter title. The subheading is th
 - Seclusion separates the heart from what distracts it, and remembrance dusts off what remains.
 - Each discipline is taken in a dose measured to the person, small and kept up.
 
-### 11. Adornment: love, the engine
+### 11. Adorning: love, the engine
 **The third stage, adornment, is God's gift to the emptied heart: knowledge and light, and love, which carries the traveller until even love is left at the door.**
 - Once the heart is emptied, God adorns it with gifts no effort makes, briefly at first.
 - Among those gifts is love, which the Imams asked for, and worship from love is the worship of the free.
