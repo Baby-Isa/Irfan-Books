@@ -1,0 +1,20 @@
+[
+ {
+  "before": "The intellect holds the third kind of thing: meanings, with no shape and no matter.",
+  "after": "The intellect holds the third kind of thing, meanings with no shape and no matter.",
+  "kind": "colon",
+  "why": "short gloss needs no colon; matches the second kind's sentence"
+ },
+ {
+  "before": "It does not leave the body completely; if it did, we would be dead.",
+  "after": "It does not leave the body completely. If it did, we would be dead.",
+  "kind": "semicolon",
+  "why": "second half is a next step, not a mirror"
+ },
+ {
+  "before": "Worry binds the soul to the body as well: worry over whether our children will be poor, or whether we will have a job next year.",
+  "after": "Worry over whether our children will be poor, or whether we will have a job next year, binds the soul to the body as well.",
+  "kind": "colon",
+  "why": "second colon in the paragraph; fold the echo of worry"
+ }
+]

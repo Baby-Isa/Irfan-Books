@@ -8,7 +8,7 @@ chapter: 3
 And my heart enthralled by Your love! [@duas_dua_kumayl, §221]
 :::
 
-These words come near the end of Duʿa Kumayl, the prayer Imam ʿAli (as) taught to Kumayl ibn Ziyad, one of his close disciples. Many of us hear it on Thursday evenings, as the Mafatih recommends [@mafatih, p. 129]. The line asks God for a heart enthralled by His love.
+These words come near the end of Duʿa Kumayl, the prayer Imam ʿAli (as) taught to his close disciple Kumayl ibn Ziyad. Many of us hear it on Thursday evenings, as the Mafatih recommends [@mafatih, p. 129]. The line asks God for a heart enthralled by His love.
 
 A heart enthralled by God's love is one of the two things ʿirfan seeks. Other prayers we recite ask for the second, knowing God. This chapter shows that we already know these words.
 
@@ -148,7 +148,7 @@ The Munajat Shaʿbaniyyah is listed among the acts of the month of Shaʿban. The
 
 The other prayers have their own times. Duʿa Kumayl belongs to Thursday evenings and to the night of mid-Shaʿban [@mafatih, p. 129]. Duʿa ʿArafah is the prayer of Imam al-Husayn (as) on the Day of ʿArafah [@mafatih, p. 374]. Duʿa Abu Hamza al-Thumali belongs to Ramadan, when Imam Zayn al-ʿAbidin (as) said it in the last hour of each night [@mafatih, p. 282]. Maliki Tabrizi tells the traveller not to forget it, and to say it every night or every other night, as his mood and situation allow [@journey, p. 111].
 
-Said on nights we keep, these words become familiar ones. Imam Khomeini could count on that familiarity. "You are already familiar with the words used in Imams' supplications," he told his listeners, before reading them lines from the Shaʿbaniyyah [@light, p. 156].
+Said on nights we keep, these words become familiar. Imam Khomeini could count on that familiarity. "You are already familiar with the words used in Imams' supplications," he told his listeners, before reading them lines from the Shaʿbaniyyah [@light, p. 156].
 
 ::: {.box-history title="History: the Mafatih and the Sahifa"}
 The prayers in this chapter reach ordinary believers through two books. The *Mafatih al-Jinan* ("Keys to the Heavens") gathers the supplications of the Imams, the words to be recited at particular times, and the forms for visiting the Imams' shrines. Its compiler, Shaykh ʿAbbas Qummi, was a scholar of vast learning who died in Najaf in 1359/1940 [@journey, p. 112]. Al-Sahifa al-Sajjadiyya is far older. William Chittick calls it "the oldest prayer manual in Islamic sources", composed by Imam Zayn al-ʿAbidin (as). Shia tradition ranks it behind only the Qur'an and Nahj al-Balagha [@sahifa, p. 7]. The fourth Imam died in Medina in 95/713–4, or a year earlier [@sahifa, p. 8]. The fifteen whispered prayers, the Whispered Prayer of the Lovers among them, were added to several modern editions of the Sahifa. They seem to have reached most Shia through ʿAllama Muhammad Baqir Majlisi, the compiler of *Bihar al-Anwar* [@sahifa, p. 9].
@@ -156,7 +156,7 @@ The prayers in this chapter reach ordinary believers through two books. The *Maf
 
 Reciting the words is not the same as comprehending what they describe. Maliki Tabrizi sees the supplications as a servant's own words rising to God. That, he writes, "is not accepted and comprehended by any one, except a small number of believers who are thoroughly familiar and enlightened" [@journey, p. 43].
 
-Sheikh Bahmanpour still recommends the Munajat to every listener, to be recited in Shaʿban as often as they can. The two positions answer different questions: how far a reciter reaches, and who may begin. This chapter claims only the second: anyone may begin these prayers, with access to their words rather than attainment of what they ask for.
+Sheikh Bahmanpour still recommends the Munajat to every listener, to be recited in Shaʿban as often as they can. The two positions answer different questions: how far a reciter reaches, and who may begin. This chapter claims only that anyone may begin these prayers, with access to their words rather than attainment of what they ask for.
 
 ## Words already on our lips
 

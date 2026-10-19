@@ -1,0 +1,50 @@
+[
+  {
+    "before": "and the history of the Prophet ﷺ and the Imams (as); all of it is knowledge about God.",
+    "after": "and the history of the Prophet ﷺ and the Imams (as). All of it is knowledge about God.",
+    "kind": "semicolon",
+    "why": "summing-up after a list, not a mirror; own sentence"
+  },
+  {
+    "before": "Sheikh Bahmanpour gives a definition of mysticism: the urge to reach out to the infinite through knowledge by presence.",
+    "after": "Sheikh Bahmanpour defines mysticism as the urge to reach out to the infinite through knowledge by presence.",
+    "kind": "colon",
+    "why": "two colons in the paragraph; folded"
+  },
+  {
+    "before": "Every description says that it is brown or square or useful, and none says what",
+    "after": "Every description says that it is brown, square, or useful, and none says what",
+    "kind": "oxford",
+    "why": "list of three takes ', or'"
+  },
+  {
+    "before": "Apart from the proof that He exists, the rest is negative knowledge: each statement says what God is not, and none says what He is.",
+    "after": "Apart from the proof that He exists, the rest is negative knowledge, in which each statement says what God is not and none says what He is.",
+    "kind": "colon",
+    "why": "second colon in the paragraph; which-clause"
+  },
+  {
+    "before": "We cannot know God's essence; what ʿirfan seeks is His attributes, known positively:",
+    "after": "We cannot know God's essence. What ʿirfan seeks is His attributes, known positively:",
+    "kind": "semicolon",
+    "why": "second half much heavier than the first; own sentence"
+  },
+  {
+    "before": "A sense of God already lives there, however faint: a vague idea of God that we carry inside us.",
+    "after": "We carry a sense of God inside us, however faint.",
+    "kind": "echo",
+    "why": "'a vague idea of God' renames 'a sense of God'; second colon in the paragraph"
+  },
+  {
+    "before": "He claimed for it a rationalised mysticism: he gave rational argument to what the mystics know only by experience.",
+    "after": "He claimed for it a rationalised mysticism, giving rational argument to what the mystics know only by experience.",
+    "kind": "colon",
+    "why": "second colon in the paragraph; participle"
+  },
+  {
+    "before": "he writes, \"is the greatest of veils\"; yet \"one has to approach a veil in order to tear it into shreds\".",
+    "after": "he writes, \"is the greatest of veils\", yet \"one has to approach a veil in order to tear it into shreds\".",
+    "kind": "semicolon",
+    "why": "'yet' turn is a next step, not a mirror"
+  }
+]

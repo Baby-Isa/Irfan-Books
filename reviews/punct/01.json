@@ -1,0 +1,62 @@
+[
+  {
+    "before": "Some jurists and activists hold that the obligatory acts are the whole of the religion; anything beyond them, they say, is made up by the whims and wishes of certain mystics.",
+    "after": "Some jurists and activists hold that the obligatory acts are the whole of the religion, and that anything beyond them is made up by the whims and wishes of certain mystics.",
+    "kind": "semicolon",
+    "why": "second half is a next step, not a mirror"
+  },
+  {
+    "before": "our sleep and our work; the lightning, and the rain that revives the dead earth (Q 30:22–24).",
+    "after": "our sleep and our work; and the lightning and the rain that revives the dead earth (Q 30:22–24).",
+    "kind": "oxford",
+    "why": "heavy list had no 'and' before the last item"
+  },
+  {
+    "before": "in marriage, in the people we meet, in sleep, in work, in the weather.",
+    "after": "in marriage, in the people we meet, in sleep, in work, and in the weather.",
+    "kind": "oxford",
+    "why": "list with no 'and'"
+  },
+  {
+    "before": "and we accept that there are signs in them because the Qur'an says so; yet accepting that a sign exists is not the same as perceiving it.",
+    "after": "and we accept that there are signs in them because the Qur'an says so. Yet accepting that a sign exists is not the same as perceiving it.",
+    "kind": "semicolon",
+    "why": "unequal halves; own sentence"
+  },
+  {
+    "before": "ʿAllama Tabatabaʾi explains what passing by a sign means; a person who sees a red light",
+    "after": "ʿAllama Tabatabaʾi explains what passing by a sign means. A person who sees a red light",
+    "kind": "semicolon",
+    "why": "second half is an example, not a mirror; own sentence"
+  },
+  {
+    "before": "Once the inner faculty begins to work, the journey begins, and it does not end; it is, in the Sheikh's words, a path that \"has a beginning and no end\".",
+    "after": "Once the inner faculty begins to work, a journey begins that, in the Sheikh's words, \"has a beginning and no end\".",
+    "kind": "echo",
+    "why": "'does not end' renamed by the quote; folded"
+  },
+  {
+    "before": "God is not far from anyone; being brought near means that a veil between the person and God has been removed, so that they understand far more.",
+    "after": "God is not far from anyone. Being brought near means that a veil between the person and God has been removed, so that they understand far more.",
+    "kind": "semicolon",
+    "why": "second half is the next step, much heavier; own sentence"
+  },
+  {
+    "before": "Islamic mysticism is about catching the signs of Allah: becoming sensitive to them, and learning to hear and see.",
+    "after": "Islamic mysticism is about catching the signs of Allah by becoming sensitive to them and learning to hear and see.",
+    "kind": "colon",
+    "why": "second colon in the paragraph; folded"
+  },
+  {
+    "before": "It seeks two things: *maʿrifah*, the knowledge of God; and the love of God.",
+    "after": "It seeks the knowledge of God (*maʿrifah*) and the love of God.",
+    "kind": "semicolon",
+    "why": "semicolon before a fragment, second colon in the paragraph; folded"
+  },
+  {
+    "before": "*ʿIrfan*, *maʿrifah*, *ʿarif* and its plural *ʿurafaʾ* belong to one family of words about knowing.",
+    "after": "*ʿIrfan*, *maʿrifah*, *ʿarif*, and its plural *ʿurafaʾ* belong to one family of words about knowing.",
+    "kind": "oxford",
+    "why": "Oxford comma"
+  }
+]

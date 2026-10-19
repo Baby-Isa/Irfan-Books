@@ -1,0 +1,8 @@
+[
+ {
+  "before": "the many methods the mystics have devised all aim at one thing, removing the veil that covers the heart.",
+  "after": "the many methods the mystics have devised all aim at removing the veil that covers the heart.",
+  "kind": "tail",
+  "why": "fold the appositive tail"
+ }
+]

@@ -75,7 +75,7 @@ The soul has a share in each of these worlds because it stands between the spiri
 
 For now, the body holds almost all of the soul's attention, so the soul lives in the material world and the deeper worlds pass unnoticed. That hold loosens at three times: in sleep, at death, and in watchfulness. Taking them one at a time shows where the soul goes when the hold loosens.
 
-The first is sleep. When we sleep, the soul attends less to the body. With the senses at rest, it can touch the world of images. It does not leave the body completely; if it did, we would be dead. This explains how a dream can show more than memory holds. A person may dream of something that later happens, and memory cannot show the future. Time works differently in the middle world. The soul has seen there the counterpart of an event that has not yet happened here.
+The first is sleep. When we sleep, the soul attends less to the body. With the senses at rest, it can touch the world of images. It does not leave the body completely. If it did, we would be dead. This explains how a dream can show more than memory holds. A person may dream of something that later happens, and memory cannot show the future. Time works differently in the middle world. The soul has seen there the counterpart of an event that has not yet happened here.
 
 The second is death, which the Qur'an sets beside sleep. Surah al-Zumar names the two together.
 
@@ -174,7 +174,7 @@ The lowest is the self that commands to evil (*nafs al-ammara*). In it the bodil
 the [carnal] soul indeed prompts [men] to evil, except inasmuch as my Lord has mercy.
 :::
 
-The verse admits what this self does and names what overcomes it: the mercy of God. The pull of this self is not only towards pleasure. Worry binds the soul to the body as well: worry over whether our children will be poor, or whether we will have a job next year. Worry keeps the soul occupied with the body and stops it rising towards God.
+The verse admits what this self does and names what overcomes it: the mercy of God. The pull of this self is not only towards pleasure. Worry over whether our children will be poor, or whether we will have a job next year, binds the soul to the body as well. Worry keeps the soul occupied with the body and stops it rising towards God.
 
 After giving in, the self may remember what it did and ask why. This is the second state, the self that blames itself (*nafs al-lawwama*). Its self-blame is a hopeful sign, because it shows that we hold values that matter more to us than the pleasure we gave in to. Surah al-Qiyama swears by it.
 

@@ -53,7 +53,7 @@ Hamadani found all three depths in a single salah. As service to God (*khidma*),
 
 The order between the depths runs one way only. The law can be kept without the path. The prayer with the wandering mind was valid in law, yet it did not draw near. The path cannot be walked without the law, because the path is the inside of the law's own acts and has nothing else to work on.[Sayyid Haydar Amuli puts the order as a rule: "shariʿah is possible without tariqah although tariqah is not possible without shariʿah." @inner_secrets, p. 48]
 
-Each depth is therefore reached only through the one before it, and none can be skipped. Sheikh Bahmanpour gives an image for this, which he credits to Najm al-Din Kubra, the head of one of the Sufi orders. The law is a ship, the path is a sea, and the truth is a pearl in that sea. The pearl "cannot be found except by sailing through the sea, and you cannot sail without a ship".
+Each depth is therefore reached only through the one before it, and none can be skipped. Sheikh Bahmanpour credits an image for this to Najm al-Din Kubra, the head of one of the Sufi orders. The law is a ship, the path is a sea, and the truth is a pearl in that sea. The pearl "cannot be found except by sailing through the sea, and you cannot sail without a ship".
 
 ## The inner never cancels the outer
 
@@ -116,7 +116,7 @@ The difficulty is a circle. To bring that sense of presence to the words, we nee
 
 The circle does not mean that the faculty of attention is missing. Imam Khomeini asks, "How is it that the study of a book often absorbs man's entire attention, but prayer does not?" [@light, p. 135]. The question itself shows that the mind can be held, since a book holds it. On this reading, what is missing is the habit of bringing that attention to prayer.
 
-That habit is built inside the law. In *Forty Hadith* he names two things that bring attention to worship: "possessing unoccupied time and an unoccupied heart", and "making one's heart understand the importance of worship" [@forty_hadith, p. 375]. He is plain about what is at stake: "a worship performed without an attentive heart is devoid of value" [@forty_hadith, p. 375]. The path builds the habit a degree at a time, giving each prayer a little more depth than the last, and Chapter Ten takes up the remembrances that carry this attention beyond the prayer.
+That habit is built inside the law. In *Forty Hadith* he names two things that bring attention to worship: "possessing unoccupied time and an unoccupied heart", and "making one's heart understand the importance of worship" [@forty_hadith, p. 375]. He is plain about what is at stake, writing that "a worship performed without an attentive heart is devoid of value" [@forty_hadith, p. 375]. The path builds the habit a degree at a time, giving each prayer a little more depth than the last, and Chapter Ten takes up the remembrances that carry this attention beyond the prayer.
 
 ## To the last breath
 

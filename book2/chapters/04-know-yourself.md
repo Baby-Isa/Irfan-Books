@@ -138,7 +138,7 @@ What a soul perceives of God at that meeting depends on what it perceives of Him
 But whoever has been blind in this [world], will be blind in the Hereafter, and [even] more astray from the [right] way.
 :::
 
-The seeker therefore begins lifting the veils in this life. There is a second reason not to wait: the journey every soul makes through death is longer and harder than the one a seeker takes by choice. In the Sheikh's account, the many methods the mystics have devised all aim at one thing, removing the veil that covers the heart.
+The seeker therefore begins lifting the veils in this life. There is a second reason not to wait: the journey every soul makes through death is longer and harder than the one a seeker takes by choice. In the Sheikh's account, the many methods the mystics have devised all aim at removing the veil that covers the heart.
 
 Mirza Jawad Maliki Tabrizi describes what the seeker finds when the self is uncovered. The one given God's grace can "remove the material curtain from his spirit and self" and see the self's reality. For him, this knowledge of the self is the meaning of Imam ʿAli's (as) saying that whoever knows himself knows his Lord [@journey, p. 125].
 

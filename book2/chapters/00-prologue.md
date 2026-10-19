@@ -29,7 +29,7 @@ This book argues that this side of the religion is worth every believer's pursui
 Any believer who prays, fasts, and recites duʿas, and has wondered whether the religion has another dimension. No background is needed; the book is a welcoming, brief introduction, with help on terms built in.
 :::
 
-The argument is addressed to anyone who prays, fasts, and recites the duʿas, and who has wondered whether there is more to these acts than getting them right; whether the religion has another dimension. No knowledge of ʿirfan, of philosophy, or of Arabic is assumed. The book is meant as a welcoming introduction to ʿirfan, a guide to beginning the journey that strives for brevity and clarity. Each chapter opens with a section that details some of the words you'll meet, along with an explanation, and all terms are gathered in the glossary at the end. Additional call-out sections are spread throughout with helpful context and short side notes.
+The argument is addressed to anyone who prays, fasts, and recites the duʿas, and who has wondered whether the religion has another dimension beyond getting these acts right. No knowledge of ʿirfan, of philosophy, or of Arabic is assumed. The book is meant as a brief, clear, and welcoming guide to beginning the journey towards ʿirfan. Each chapter opens with a section that details some of the words you'll meet, along with an explanation, and all terms are gathered in the glossary at the end. Additional call-out sections are spread throughout with helpful context and short side notes.
 
 ## How the book is built
 
@@ -41,11 +41,11 @@ The book is built in five parts. Each answers one question and depends on the on
 
 Part One, *The Call* (Chapters One to Three), asks why a believer should bother. It answers that the Qur'an invites more than the minimum: not only knowing about God, but knowing Him. The goal of ʿirfan is already on our lips in our duʿas.
 
-Part Two, *Getting Ready* (Chapters Four to Seven), describes the landscape a traveller passes through on the journey towards ʿirfan: the self. It also sets out the boundary that keeps the traveller safe, the shariʿa, and the guide who walks alongside.
+Part Two, *Getting Ready* (Chapters Four to Seven), describes the landscape a traveller passes through on the journey towards ʿirfan: the self. It also sets out the shariʿa as the boundary that keeps the traveller safe, and the guide who walks alongside.
 
 Part Three, *The Road* (Chapters Eight to Twelve), asks how the path is walked: through ordered stages, by repentance, discipline, and love, to the loss of the false self.
 
-Part Four, *Fellow Travellers* (Chapters Thirteen to Fifteen), meets those who walked the road before us. It shows the road's roots in the teachings of the Qur'an, the Prophet ﷺ, and the Imams from his Ahl al-Bayt, where its travellers arrived, and how Shia ʿirfan relates to Sufism.
+Part Four, *Fellow Travellers* (Chapters Thirteen to Fifteen), meets those who walked the road before us. It shows the road's roots in the teachings of the Qur'an, the Prophet ﷺ, and the Imams from his Ahl al-Bayt; where its travellers arrived; and how Shia ʿirfan relates to Sufism.
 
 Part Five, *The Destination* (Chapters Sixteen and Seventeen), asks what the road is for. The friends of God return to people, with God; every soul returns to God.
 

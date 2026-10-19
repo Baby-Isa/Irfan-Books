@@ -33,9 +33,9 @@ Let's start with two claims. The first is that a believer who prays, fasts, pays
 Someone once came to the Prophet ﷺ and said that they had no eagerness for the night prayer (*salat al-layl*), the recommended fasts, and the like. They asked whether they would go to jannah if they prayed the five daily prayers, fasted in Ramadan, paid their zakat, and went on hajj once. The Prophet said yes. Sheikh Bahmanpour opens his first lecture with this story and draws his question from the Prophet's answer: if the obligatory acts are enough for jannah, why take on the hard work of ʿirfan?
 :::
 
-The second claim goes further, and it is the one this book disputes. Some jurists and activists hold that the obligatory acts are the whole of the religion; anything beyond them, they say, is made up by the whims and wishes of certain mystics.
+The second claim goes further, and it is the one this book disputes. Some jurists and activists hold that the obligatory acts are the whole of the religion, and that anything beyond them is made up by the whims and wishes of certain mystics.
 
-To see why there is more than the obligations, let's turn to the Qur'an and read on from the verse this chapter began with. Surah al-Rum names three more sets of signs: the creation of the heavens and the earth, with the variety of our languages and colours; our sleep and our work; the lightning, and the rain that revives the dead earth (Q 30:22–24). Each verse ends as the first did, by saying who the sign is for.
+To see why there is more than the obligations, let's turn to the Qur'an and read on from the verse this chapter began with. Surah al-Rum names three more sets of signs: the creation of the heavens and the earth, with the variety of our languages and colours; our sleep and our work; and the lightning and the rain that revives the dead earth (Q 30:22–24). Each verse ends as the first did, by saying who the sign is for.
 
 ::: {.ayah ref="30:22" words="9-"}
 There are indeed signs in that for those who know.
@@ -49,7 +49,7 @@ There are indeed signs in that for a people who listen.
 There are indeed signs in that for people who exercise their reason.
 :::
 
-Four times in a row, the Qur'an makes the same point. The signs are all around us: in marriage, in the people we meet, in sleep, in work, in the weather. Yet they are for those who reflect, know, listen, and reason. This reflecting, knowing, listening, and reasoning is what the Qur'an asks of us beyond the minimum.
+Four times in a row, the Qur'an makes the same point. The signs are all around us: in marriage, in the people we meet, in sleep, in work, and in the weather. Yet they are for those who reflect, know, listen, and reason. This reflecting, knowing, listening, and reasoning is what the Qur'an asks of us beyond the minimum.
 
 For the avoidance of doubt, this invitation from the Qur'an is not an invitation to circumvent the law or to abandon the prescribed wajibat. Imam Khomeini insists that a genuine seeker's devotion "is within the bounds of the Shari'ah" [@forty_hadith, p. 61]. Within those bounds, the Qur'an is just as insistent: it invites us to more than the obligatory acts.
 
@@ -66,13 +66,13 @@ Most of us, the devout included, do not perceive those signs.
 
 An invitation addressed to those who reflect, know, listen, and reason implies that many people do none of these things. This is not limited to the careless. Most pious people, even those careful about the shariʿa, do not find a sign in these verses. Looking at the variety of languages and colours, we are more likely to see a reason for division than a sign of God.
 
-We have heard these verses many times, and we accept that there are signs in them because the Qur'an says so; yet accepting that a sign exists is not the same as perceiving it. The Qur'an describes the gap in one verse.
+We have heard these verses many times, and we accept that there are signs in them because the Qur'an says so. Yet accepting that a sign exists is not the same as perceiving it. The Qur'an describes the gap in one verse.
 
 ::: {.ayah ref="12:105"}
 How many a sign there is in the heavens and the earth that they pass by while they are disregardful of it!
 :::
 
-ʿAllama Tabatabaʾi explains what passing by a sign means; a person who sees a red light thinks of the danger it warns of, not of the colour and shape of the lamp. In the same way, the things of the world are signs, and "what the signs indicate is not this world, but the person of its Creator" [@light, pp. 6–7]. Most of us see only the lamp. We witness the rain as rain and the marriage as a marriage, and we pass them by without perceiving what they say about their Creator.
+ʿAllama Tabatabaʾi explains what passing by a sign means. A person who sees a red light thinks of the danger it warns of, not of the colour and shape of the lamp. In the same way, the things of the world are signs, and "what the signs indicate is not this world, but the person of its Creator" [@light, pp. 6–7]. Most of us see only the lamp. We witness the rain as rain and the marriage as a marriage, and we pass them by without perceiving what they say about their Creator.
 
 ## The fault is in the receiver
 
@@ -102,7 +102,7 @@ Placing the fault in the receiver has two consequences. The first is that the pr
 
 The second is that the problem can be solved. A faculty that exists but has rusted can be repaired; one that is absent cannot be made fit for purpose. The *Kernel of the Kernels*, a record of ʿAllama Tabatabaʾi's early lectures on the path, opens by saying that the pull towards the unseen is "part of the innate instincts of the human being" [@kernel, p. 4]. The longing for God, and the faculty that perceives Him, are part of how we are made.
 
-Repair is only the start. Once the inner faculty begins to work, the journey begins, and it does not end; it is, in the Sheikh's words, a path that "has a beginning and no end".
+Repair is only the start. Once the inner faculty begins to work, a journey begins that, in the Sheikh's words, "has a beginning and no end".
 
 ## Some do see
 
@@ -167,7 +167,7 @@ The Qur'an names three things these people receive. The first is nearness: Surah
 And the Foremost Ones are the foremost ones: they are the ones brought near [to Allah],
 :::
 
-The Arabic for "brought near" is *muqarrabun*. God is not far from anyone; being brought near means that a veil between the person and God has been removed, so that they understand far more.
+The Arabic for "brought near" is *muqarrabun*. God is not far from anyone. Being brought near means that a veil between the person and God has been removed, so that they understand far more.
 
 The second gift is a different kind of life, promised in Surah al-Nahl to whoever acts righteously, man or woman, while having faith.
 
@@ -211,7 +211,7 @@ The repair is training the soul, and that training must aim at God alone, never 
 4. Therefore: the scholars differ in emphasis but agree that the aim is God alone, not powers. *(Short closing paragraph, kept by the user.)*
 ::::
 
-Pursuing ʿirfan means training the soul, and soul-training is not unique to Islam. People take up the inner life for different reasons. Some train the soul in an attempt to gain power: to be in two places at once, to see the future or the past, or to master the hidden world of the soul. This kind of mysticism must be held apart from ʿirfan. Islamic mysticism is about catching the signs of Allah: becoming sensitive to them, and learning to hear and see.
+Pursuing ʿirfan means training the soul, and soul-training is not unique to Islam. People take up the inner life for different reasons. Some train the soul in an attempt to gain power: to be in two places at once, to see the future or the past, or to master the hidden world of the soul. This kind of mysticism must be held apart from ʿirfan. Islamic mysticism is about catching the signs of Allah by becoming sensitive to them and learning to hear and see.
 
 Sheikh Bahmanpour ends his first lecture more strongly. ʿIrfan, he says, is not about gaining power over the soul to work the wonders of the saints (*karamat*) or the miracles of the prophets (*muʿjizat*). Such powers are *shirk*: the sin of setting up a partner beside God.
 
@@ -238,7 +238,7 @@ The scholars differ in emphasis but agree that powers are not the aim. Mutahhari
 Close: "If the aim is to know and love God, what kind of knowing is that?"
 ::::
 
-With powers set aside, what remains is the definition Sheikh Bahmanpour gives at the end of his first lecture: ʿirfan "is actually seeking and nothing else". It seeks two things: *maʿrifah*, the knowledge of God; and the love of God.
+With powers set aside, what remains is the definition Sheikh Bahmanpour gives at the end of his first lecture: ʿirfan "is actually seeking and nothing else". It seeks the knowledge of God (*maʿrifah*) and the love of God.
 
 ::: {.box-word title="Word Study: ʿIrfan and maʿrifah"}
 *ʿIrfan*, *maʿrifah*, *ʿarif* and its plural *ʿurafaʾ* belong to one family of words about knowing. An ʿarif, as Sheikh Bahmanpour puts it, is "someone who knows". "Mystic" is used of Christians, Hindus, and Buddhists alike; ʿarif is the Islamic word, and it makes a precise claim. Murtada Mutahhari draws the line. The philosopher wants a correct picture of the world in his mind. The ʿarif "wishes to reach the very kernel and reality of existence, God, to become connected to it and witness it" [@light, p. 12]. *Lantern of the Path*, attributed to Imam al-Sadiq (as), says that there is no way to God except through knowledge [@lantern, p. 9]. What kind of knowledge that is, and how it differs from what we learn from books, is the subject of Chapter Two.

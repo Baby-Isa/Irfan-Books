@@ -1,0 +1,20 @@
+[
+  {
+    "before": "the prayer Imam ʿAli (as) taught to Kumayl ibn Ziyad, one of his close disciples.",
+    "after": "the prayer Imam ʿAli (as) taught to his close disciple Kumayl ibn Ziyad.",
+    "kind": "tail",
+    "why": "second stacked appositive sags; folded"
+  },
+  {
+    "before": "Said on nights we keep, these words become familiar ones.",
+    "after": "Said on nights we keep, these words become familiar.",
+    "kind": "tail",
+    "why": "'ones' echoes 'words'"
+  },
+  {
+    "before": "This chapter claims only the second: anyone may begin these prayers, with access to their words",
+    "after": "This chapter claims only that anyone may begin these prayers, with access to their words",
+    "kind": "colon",
+    "why": "second colon in the paragraph; folded"
+  }
+]

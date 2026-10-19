@@ -1,0 +1,14 @@
+[
+ {
+  "before": "Sheikh Bahmanpour gives an image for this, which he credits to Najm al-Din Kubra, the head of one of the Sufi orders.",
+  "after": "Sheikh Bahmanpour credits an image for this to Najm al-Din Kubra, the head of one of the Sufi orders.",
+  "kind": "tail",
+  "why": "fold the which-clause; one gloss left at the end"
+ },
+ {
+  "before": "He is plain about what is at stake: \"a worship performed",
+  "after": "He is plain about what is at stake, writing that \"a worship performed",
+  "kind": "colon",
+  "why": "second colon in the paragraph; participle instead"
+ }
+]

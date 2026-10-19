@@ -1,0 +1,62 @@
+[
+ {
+  "before": "The advice can be as exact as which words of remembrance suit that stage, *Allahu akbar* or *la ilaha illa Allah*.",
+  "after": "The advice can be as exact as whether *Allahu akbar* or *la ilaha illa Allah* is the remembrance that suits that stage.",
+  "kind": "tail",
+  "why": "fold the examples into the sentence"
+ },
+ {
+  "before": "ʿUnwan did not give up: he prayed that God would soften",
+  "after": "ʿUnwan did not give up. He prayed that God would soften",
+  "kind": "colon",
+  "why": "second colon in the box; own sentence"
+ },
+ {
+  "before": "Through that chain, the orders hold, the Prophet's inner knowledge passed from heart to heart, from each master to the next.",
+  "after": "Through that chain, the orders hold, the Prophet's inner knowledge passed from the heart of each master to the next.",
+  "kind": "echo",
+  "why": "two phrases rename one idea; fold"
+ },
+ {
+  "before": "some of them through Imam al-Rida (as) [@kernel, pp. 87–88], yet they do not hold, as Shia do,",
+  "after": "some of them through Imam al-Rida (as) [@kernel, pp. 87–88]. Yet they do not hold, as Shia do,",
+  "kind": "tail",
+  "why": "long sentence sags; turn gets its own sentence"
+ },
+ {
+  "before": "They find an instructor for themselves, one who comes from no order and holds no special licence to instruct.",
+  "after": "They find for themselves an instructor who comes from no order and holds no special licence to instruct.",
+  "kind": "echo",
+  "why": "fold 'one who' into a plain clause"
+ },
+ {
+  "before": "What they look for is a person they can trust, someone to whom \"you could entrust your soul\".",
+  "after": "What they look for is a person to whom \"you could entrust your soul\".",
+  "kind": "echo",
+  "why": "'trust' renamed by the quotation"
+ },
+ {
+  "before": "Qadi's line runs back two generations, to Akhund Mulla Husayn-Quli Hamadani, a different scholar from Mulla ʿAbd al-Samad Hamadani,",
+  "after": "Qadi's line runs back two generations, to Akhund Mulla Husayn-Quli Hamadani. He was a different scholar from Mulla ʿAbd al-Samad Hamadani,",
+  "kind": "tail",
+  "why": "three stacked tails; split"
+ },
+ {
+  "before": "but it does not make him a friend of God (*wali*): such feats are",
+  "after": "but it does not make him a friend of God (*wali*). Such feats are",
+  "kind": "colon",
+  "why": "second colon in the paragraph; own sentence"
+ },
+ {
+  "before": "Keeping the law rules a false guide out, but it does not show how far a true one has travelled; time shows that.",
+  "after": "Keeping the law rules a false guide out, but only time shows how far a true one has travelled.",
+  "kind": "semicolon",
+  "why": "semicolon before a short afterthought; fold"
+ },
+ {
+  "before": "as anyone comes to know a person, by living alongside him.",
+  "after": "as anyone comes to know a person by living alongside him.",
+  "kind": "tail",
+  "why": "fold the tail; comma split the phrase"
+ }
+]
