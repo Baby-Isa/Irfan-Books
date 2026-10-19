@@ -17,7 +17,7 @@ The annihilation he names is what the mystics call passing away (*fanaʾ*), and 
 :::: {.point}
 In passing away the traveller loses the sense of self before God's glory; he neither ceases to exist nor becomes God, so what is lost is a false self.
 
-1. At the height of adornment, God shows the traveller His glory, and no one can watch that glory and perceive himself at the same time, so the sense of self goes, as a person seized by fear or joy does not feel a cut hand.
+1. At the height of adorning, God shows the traveller His glory, and no one can watch that glory and perceive himself at the same time, so the sense of self goes, as a person seized by fear or joy does not feel a cut hand.
 2. Passing away is therefore the annihilation of self-perception in perceiving the reality of God: a change in what is seen, "an epistemological issue", not in what exists. Tabatabaʾi: the world does not lose its existence; "the devotee sees unity in plurality".
 3. The soul remains. Unlike nirvana, the individual goes on "more expanded, more capable"; otherwise there would be no one to taste what is shown.
 4. Nor does the traveller become God: any merging of God and creature is shirk or kufr.
@@ -25,7 +25,7 @@ In passing away the traveller loses the sense of self before God's glory; he nei
 6. Therefore: what is lost is the false self; the soul remains, and God remains God.
 ::::
 
-Passing away begins at the height of adornment. At the end of that stage God shows the traveller a small measure of His glory. No one can watch that glory and perceive himself at the same time. The glory does not wait for the traveller to clear a space for it. It comes, and everything else goes from his sight, even his sense of himself. Something like it happens to a person seized by great fear or great joy. He can cut his hand and not feel it, because what is in front of him has taken all his attention. <!-- src: L07 ¶55-57 -->
+Passing away begins at the height of adorning. At the end of that stage God shows the traveller a small measure of His glory. No one can watch that glory and perceive himself at the same time. The glory does not wait for the traveller to clear a space for it. It comes, and everything else goes from his sight, even his sense of himself. Something like it happens to a person seized by great fear or great joy. He can cut his hand and not feel it, because what is in front of him has taken all his attention. <!-- src: L07 ¶55-57 -->
 
 Passing away is therefore a change in what the traveller sees, and not in what exists. Sheikh Bahmanpour defines it as "the annihilation of self perception of the mystics in perceiving the unveiling [of] the reality of God". The world goes on as before. What changes is the traveller's knowing, and so the lectures call passing away "an epistemological issue", a matter of perception and not of existence. ʿAllama Tabatabaʾi says the same of the world around the traveller: "this does not mean that everything in the material world loses its existence. Actually, the devotee sees unity in plurality" [@light, p. 63]. <!-- src: L07 ¶59; L09 ¶4 -->
 
