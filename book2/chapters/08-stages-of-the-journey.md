@@ -55,9 +55,7 @@ Dark veils are the ones we make ourselves. Our own actions create them, and they
 
 Veils of light are finer, and we do not make them. They belong to the higher levels of the soul, the heart (*qalb*) and the spirit (*ruh*). They come from our existence as creatures, not from anything we do. The outer veils of light lift at the end of the journey this chapter describes. Some never lift, even between the Prophet ﷺ and God, because without them creation would perish before the glory of Allah. <!-- src: L09 ¶72-74; L07 ¶59 -->
 
-Whatever their kind, the veils lie on our side. The knowledge the mystics seek is everywhere, and the work of ʿirfan is to prepare the soul to receive it. In the lectures' words, "There is no hindrance from the other side, the hindrance is inside us; we have to remove it." <!-- src: L10 ¶21 -->
-
-The journey therefore covers no distance. It removes veils inside us, first the dark ones our deeds have made and then the outer veils of light.
+Whatever their kind, the veils lie on our side. In the lectures' words, "There is no hindrance from the other side, the hindrance is inside us; we have to remove it." The journey therefore covers no distance. It removes veils inside us, first the dark ones our deeds have made and then the outer veils of light. <!-- src: L10 ¶21 -->
 
 ## Four stages: two ours, two God's
 
@@ -115,19 +113,15 @@ The four stages come in a fixed order, because each needs the one before. The Sh
 
 None of the stages is dropped when the next begins. Polishing, in the lectures' words, "should accompany a mystic until the end". Even the Prophet ﷺ, at the highest of stations, was told to stand vigil through the night and recite the Qur'an in a measured tone (Q 73:1–4). As Chapter Six showed, no station on the road releases the traveller from the law, and once the truth is unveiled the law is kept more carefully, not less. Each stage is therefore added to those before it. A traveller who has reached adorning is still polishing the self and guarding the heart. <!-- src: L07 ¶20-21 -->
 
-Since the first stage is the law, the road begins where a believer who keeps the law already stands. The lectures describe polishing as what ordinary believers can start doing, and they place the start of ʿirfan proper at the second stage. ʿIrfan proper means the deeper understanding the mystics seek, and it begins when the work turns from the outward acts to the heart. The first stage asks for the law, kept completely, before anything else. A believer who wants to set out therefore need not wait to find a teacher. <!-- src: L07 ¶14-15, ¶22 -->
-
-The four stages complete only the first part of the road. The mystics describe four journeys: from creation to God, with God in God, from God back to creation, and in creation with God [@light, p. 49]. Passing away ends the first of them, and the return that follows belongs to Chapters Twelve and Sixteen. <!-- src: L09 ¶70-75 -->
-
-Other masters divide this first journey differently, yet they keep the same order. The philosopher Ibn Sina counts its stations by what the traveller meets along the way, and the box below sets out his count. <!-- src: L15 ¶4-5, ¶18-19 -->
+Since the first stage is the law, the road begins where a believer who keeps the law already stands. The lectures describe polishing as what ordinary believers can start doing, and they place the start of ʿirfan proper at the second stage. ʿIrfan proper means the deeper understanding the mystics seek, and it begins when the work turns from the outward acts to the heart. <!-- src: L07 ¶22 -->
 
 ::: {.box-history title="History: A philosopher's ladder"}
 Ibn Sina was mainly a philosopher, not a mystic, yet in his *al-Isharat*, which appears to be his last work, he gave a whole section to the stations of the ʿurafaʾ [@light, p. 42]. His count begins with will (*irada*), the longing to return to God, and training (*riyada*), which clears the path of all but God [@light, pp. 46–47]. When these reach a certain degree, flashes of God's light descend on the traveller, "momentary like flashes of lightning appearing and instantly vanishing" [@light, p. 48]. Sheikh Bahmanpour, reading the passage with his students, adds that the light comes at first from behind the clouds, because the heart could not yet bear it uncovered. With more training the flashes become "a prolonged blaze" and a lasting state [@light, p. 48]. At arrival the traveller "becomes oblivious to his own self and views only the Holy" [@light, p. 49]. Khwaja Nasir al-Din al-Tusi, commenting on the *Isharat*, counts nine stages in three groups of three, for the beginning, the way, and arrival [@light, p. 50]. The numbers differ, but the order is the one this chapter has followed. The traveller's own work comes first, God's gifts follow it, and the self falls away last. <!-- src: L15 ¶4, ¶9-11, ¶20-23 -->
 :::
 
-The journey to God therefore covers no distance. It removes veils inside us in four stages. Polishing and emptying are ours; adorning and passing away are God's. Each stage rests on the one before, and none is dropped when the next begins.
+The journey to God therefore covers no distance. It removes veils inside us in four stages. Polishing and emptying are ours; adorning and passing away are God's. Each stage rests on the one before, and none is dropped when the next begins. Together they complete only the first of four journeys the mystics describe, from creation to God [@light, p. 49]; the return that follows belongs to Chapters Twelve and Sixteen. <!-- src: L09 ¶70-75 -->
 
-The first stage begins with a step any believer can take. What is it?
+The first stage asks for the law before anything else, so a believer need not wait to find a teacher before setting out. Its first step is one any believer can take. What is it? <!-- src: L07 ¶14-15 -->
 
 ::: {.box-try title="Try this"}
 Mirza ʿAli Aqa Qadi, the teacher of ʿAllama Tabatabaʾi, had beginners recite the Musabbihat every night before sleep for a whole year, and only then gave them a second instruction. These are the surahs that open with God's glorification, among them al-Hadid, al-Hashr, al-Saff, al-Jumuʿa, and al-Taghabun. Al-Kafi records Imam Muhammad al-Baqir (as) saying that whoever recites them before sleep will live to see the reign of Imam al-Mahdi (atfs), and at death will be placed near the Prophet ﷺ [@mafatih, p. 1036]. It is a recommended act of the kind that polishing is made of. Tonight, recite one of them before you sleep. If you can, keep it up each night, and add the others as the habit settles. <!-- src: L07 ¶15-16 -->
