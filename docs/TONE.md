@@ -256,6 +256,7 @@ Read only the first sentence of every paragraph in order. If the argument does n
 
 ### 45. Punctuation that carries weight (user, 2026-10-18; from his style profile)
 **Do:**
+- **Colons sparingly (user, 19 Oct: "I try to not have too many colons; I don't feel they are elegant").** At most about one per paragraph. Prefer a subordinate clause ("which…", "whose…"), a participle ("recited by…") or a semicolon between two full sentences; keep the colon for the heaviest definition.
 - **Colon for a heavy definition.** When a term is followed at once by what it means, use a colon, not a comma: "Such powers are *shirk*: the sin of setting up a partner beside God." (When the English comes first, the Arabic still goes in brackets, rule 42.)
 - **No weak trailing comma.** Don't hang a long description off the end of a sentence after a comma; build it into the sentence. Before: "it is easy to picture somewhere far off, a waiting room a long way from the living." After: "we picture it as a waiting room far from the living."
 - **Semicolons only between two full sentences** of equal weight: "The human soul is the whole of creation in small; it is a compact copy of everything that exists." Never before a fragment.

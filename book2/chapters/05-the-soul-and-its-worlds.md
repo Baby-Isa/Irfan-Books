@@ -10,7 +10,7 @@ My Lord, if my disregard for preparations to meet You has put me to sleep, my kn
 
 At a graveside we say that the dead are now in *barzakh* (the world between this life and the resurrection), and we picture it as a waiting room far from the living realm. Sheikh Bahmanpour teaches the opposite: at death "we don't go anywhere". The dead are nearer than we think.
 
-The dead are near because the next world is not far away. Creation holds more than one world, and they are layers of one reality: each is deeper than the last, not further away. Barzakh is one of these deeper worlds. Each night, in sleep, the soul already touches it. That is why *Lantern of the Path*, attributed to Imam al-Sadiq (as), calls sleep "the brother of death" [@lantern, p. 24]. The prayer above makes the same link: it speaks of sleep and of meeting God together. At death the soul does not travel away; it goes deeper.
+The dead are near because the next world is not far away. Creation holds more than one world, and they are layers of one reality: each is deeper than the last, not further away. Barzakh is one of these deeper worlds. Each night, in sleep, the soul already touches it. That is why *Lantern of the Path*, attributed to Imam al-Sadiq (as), calls sleep "the brother of death" [@lantern, p. 24]. The prayer above makes the same link: it speaks of sleep and of meeting God together. At death the soul does not travel away; it goes into a deeper world.
 
 This chapter sets out the soul and its worlds: which worlds creation holds; how the soul passes into them; how what we do gives the soul its form there; and why that form is, by God's grace, still in our hands.
 
