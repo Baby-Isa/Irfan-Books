@@ -90,10 +90,11 @@
     {
       set text(font: sans, size: 9pt, fill: ink)
       set par(leading: 0.62em, justify: false, first-line-indent: 0pt, spacing: 0.75em)
-      text(fill: c, weight: 600, size: 9pt, tracking: 0.04em)[
+      // The title sticks to what follows, and a table is never split, so a box never strands its title or header row.
+      show table: it => block(breakable: false, it)
+      block(sticky: true, below: 0.85em, text(fill: c, weight: 600, size: 9pt, tracking: 0.04em)[
         #text(font: ("Amiri", "Source Sans 3"), box-icons.at(kind)) #h(3pt) #upper(if title == none { box-labels.at(kind) } else { title })
-      ]
-      v(0.1em)
+      ])
       body
     },
   )

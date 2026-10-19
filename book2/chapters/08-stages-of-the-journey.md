@@ -84,12 +84,12 @@ The fourth stage is passing away (*fanaʾ*). When adorning reaches its height, G
 The four stages fall into two pairs. The first two are the traveller's work: the law is kept, and the heart is guarded against whatever occupies it. The last two are God's act on the heart the traveller has prepared. In the lectures' image, the traveller prepares the soul for the food that God gives it. Of adorning they say, "It is Allah's act on the soul", and add that it comes not directly but through the angels around us. No effort brings about the sight of His glory either. The box below sets the four stages side by side. <!-- src: L07 ¶10, ¶36-37, ¶55 -->
 
 ::: {.box-history title="The road at a glance"}
-| Stage | What happens | Whose act | Chapter |
-|---|---|---|---|
-| 1. Polishing (*tajliya*) | Wake, repent, and keep the law strictly, starting with the rights of people. Begins the work on the dark veils our deeds make. | Ours | Nine |
-| 2. Emptying (*takhliya*) | Clear the heart of everything but God. In this book's placing, its tools are the five disciplines (silence, hunger, night vigil, seclusion, and remembrance), each kept in balance. ʿIrfan proper begins here. | Ours | Ten |
-| 3. Adorning (*tahliya*) | God's gifts to the emptied heart: insight, understanding of the Qur'an, and love, which carries the traveller until even love is left at the door (Chapter Eleven). | God's | Eleven |
-| 4. Passing away (*fanaʾ*), then return (*baqaʾ*) | Shown a glimpse of God's glory, the traveller loses the sense of self. On the right path he comes back sober, seeing God in all things (Chapter Twelve). This ends the first journey only. | God's | Twelve |
+| Stage | What happens |
+|:---|:---|
+| **1. Polishing** (*tajliya*). Ours. Chapter Nine. | Wake, repent, and keep the law strictly, starting with the rights of people. The work on the dark veils of our deeds begins. |
+| **2. Emptying** (*takhliya*). Ours. Chapter Ten. | Clear the heart of every occupation but God. ʿIrfan proper begins here. This book reads the five disciplines as its tools: silence, hunger, night vigil, seclusion, and remembrance. |
+| **3. Adorning** (*tahliya*). God's. Chapter Eleven. | God's gifts to the emptied heart: insight, understanding of the Qur'an, and love, which carries the traveller until even love is left at the door. |
+| **4. Passing away** (*fanaʾ*). God's. Chapter Twelve. | Shown a glimpse of God's glory, the traveller loses the sense of self. On the right path he comes back sober, seeing God in all things. |
 
 <!-- src: L08 ¶10, ¶39; L09 ¶72-74; L08 ¶55, ¶58; L10 ¶6; L07 ¶22, ¶36, ¶55-56; L09 ¶45 -->
 :::

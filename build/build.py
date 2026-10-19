@@ -24,7 +24,8 @@ BOOKS = {
 
 def chapters(book, pattern="*"):
     base = BUILD / "sample" if book == "sample" else ROOT / book / "chapters"
-    return sorted(base.glob(f"{pattern}.md"))
+    # Several globs may be given, comma-separated (e.g. "08*,09*,1[0-2]*" for Part Three).
+    return sorted({f for pat in pattern.split(",") for f in base.glob(f"{pat}.md")})
 
 
 def check(books):
