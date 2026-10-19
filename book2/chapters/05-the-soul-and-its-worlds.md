@@ -174,7 +174,7 @@ The lowest is the self that commands to evil (*nafs al-ammara*). In it the bodil
 the [carnal] soul indeed prompts [men] to evil, except inasmuch as my Lord has mercy.
 :::
 
-The verse admits what this self does and names what overcomes it: the mercy of God. The pull of this self is not only towards pleasure. Worry over whether our children will be poor, or whether we will have a job next year, binds the soul to the body as well. Worry keeps the soul occupied with the body and stops it rising towards God.
+The verse admits what this self does and names what overcomes it: the mercy of God. The pull of this self is not only towards pleasure. Worry also binds the soul to the body, whether it is thought given to our own employment, our children's futures, or other wider concerns. Worry keeps the soul occupied with the body and stops it rising towards God.
 
 After giving in, the self may remember what it did and ask why. This is the second state, the self that blames itself (*nafs al-lawwama*). Its self-blame is a hopeful sign, because it shows that we hold values that matter more to us than the pleasure we gave in to. Surah al-Qiyama swears by it.
 

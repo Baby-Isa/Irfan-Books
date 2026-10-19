@@ -66,13 +66,13 @@ Most of us, the devout included, do not perceive those signs.
 
 An invitation addressed to those who reflect, know, listen, and reason implies that many people do none of these things. This is not limited to the careless. Most pious people, even those careful about the shariʿa, do not find a sign in these verses. Looking at the variety of languages and colours, we are more likely to see a reason for division than a sign of God.
 
-We have heard these verses many times, and we accept that there are signs in them because the Qur'an says so. Yet accepting that a sign exists is not the same as perceiving it. The Qur'an describes the gap in one verse.
+We have heard these verses many times, and we accept that there are signs in them because the Qur'an says so; yet accepting that a sign exists is not the same as perceiving it. The Qur'an describes the gap in one verse.
 
 ::: {.ayah ref="12:105"}
 How many a sign there is in the heavens and the earth that they pass by while they are disregardful of it!
 :::
 
-ʿAllama Tabatabaʾi explains what passing by a sign means. A person who sees a red light thinks of the danger it warns of, not of the colour and shape of the lamp. In the same way, the things of the world are signs, and "what the signs indicate is not this world, but the person of its Creator" [@light, pp. 6–7]. Most of us see only the lamp. We witness the rain as rain and the marriage as a marriage, and we pass them by without perceiving what they say about their Creator.
+ʿAllama Tabatabaʾi explains what passing by a sign means; a person who sees a red light thinks of the danger it warns of, not of the colour and shape of the lamp. In the same way, the things of the world are signs, and "what the signs indicate is not this world, but the person of its Creator" [@light, pp. 6–7]. Most of us see only the lamp. We witness the rain as rain and the marriage as a marriage, and we pass them by without perceiving what they say about their Creator.
 
 ## The fault is in the receiver
 
@@ -211,7 +211,7 @@ The repair is training the soul, and that training must aim at God alone, never 
 4. Therefore: the scholars differ in emphasis but agree that the aim is God alone, not powers. *(Short closing paragraph, kept by the user.)*
 ::::
 
-Pursuing ʿirfan means training the soul, and soul-training is not unique to Islam. People take up the inner life for different reasons. Some train the soul in an attempt to gain power: to be in two places at once, to see the future or the past, or to master the hidden world of the soul. This kind of mysticism must be held apart from ʿirfan. Islamic mysticism is about catching the signs of Allah by becoming sensitive to them and learning to hear and see.
+Pursuing ʿirfan means training the soul, and soul-training is not unique to Islam. People take up the inner life for different reasons. Some train the soul in an attempt to gain power: to be in two places at once, to see the future or the past, or to master the hidden world of the soul. This kind of mysticism must be held apart from ʿirfan. Islamic mysticism is about catching the signs of Allah: becoming sensitive to them, and learning to hear and see.
 
 Sheikh Bahmanpour ends his first lecture more strongly. ʿIrfan, he says, is not about gaining power over the soul to work the wonders of the saints (*karamat*) or the miracles of the prophets (*muʿjizat*). Such powers are *shirk*: the sin of setting up a partner beside God.
 
@@ -238,7 +238,7 @@ The scholars differ in emphasis but agree that powers are not the aim. Mutahhari
 Close: "If the aim is to know and love God, what kind of knowing is that?"
 ::::
 
-With powers set aside, what remains is the definition Sheikh Bahmanpour gives at the end of his first lecture: ʿirfan "is actually seeking and nothing else". It seeks the knowledge of God (*maʿrifah*) and the love of God.
+With powers set aside, what remains is the definition Sheikh Bahmanpour gives at the end of his first lecture: ʿirfan "is actually seeking and nothing else". It seeks the knowledge of God (*maʿrifah*) and the love of God (*mahabba*).
 
 ::: {.box-word title="Word Study: ʿIrfan and maʿrifah"}
 *ʿIrfan*, *maʿrifah*, *ʿarif* and its plural *ʿurafaʾ* belong to one family of words about knowing. An ʿarif, as Sheikh Bahmanpour puts it, is "someone who knows". "Mystic" is used of Christians, Hindus, and Buddhists alike; ʿarif is the Islamic word, and it makes a precise claim. Murtada Mutahhari draws the line. The philosopher wants a correct picture of the world in his mind. The ʿarif "wishes to reach the very kernel and reality of existence, God, to become connected to it and witness it" [@light, p. 12]. *Lantern of the Path*, attributed to Imam al-Sadiq (as), says that there is no way to God except through knowledge [@lantern, p. 9]. What kind of knowledge that is, and how it differs from what we learn from books, is the subject of Chapter Two.

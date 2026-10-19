@@ -106,6 +106,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | kursi | kursi | | The Footstool, one of the higher encompassing realms | L04 |
 | liqaʾ Allah | liqa Allah | | The meeting with God; in the lectures, the soul seeing itself with its veils removed (L04 ¶42) | B2 Ch4 |
 | Lut | Lut | | The prophet Lot (Q 21:75) | L02 |
+| mahabba | muhabbat, mohabbat | | Love; the love of God, sought with maʿrifah (the root of *muhibbin*, the Lovers) | B2 Ch1 |
 | maʿad | maad | | Return, resurrection | L16 |
 | mahiyya | mahiyyat | | Quiddity or essence | L13 |
 | mahw | mahv | | Obliteration; annihilation in action | L09 |

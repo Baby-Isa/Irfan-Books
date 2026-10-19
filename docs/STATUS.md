@@ -26,7 +26,7 @@ _Update at the end of every task. Keep it short. History lives in git and DECISI
 
 **2026-10-18, proof ladders (D48).** The user made the proof-style ladder the model (TONE 40a, 44a; LESSONS 28–29). Book chain approved (`docs/ladders/00-book-chain.md`, now in ARGUMENT and STORYLINE). Every section's red note in Ch 1–7 is its proof ladder; the user-approved edits are applied to Ch 1–4, 6, 7; Ch 5 is rewritten on its approved ladder, Fable-reviewed and fact-checked. Chain score now splits idle paragraphs into breathers, recaps and drag (Ch 1 calibration: 73% forward, drag 10%). Chapters start on the next page. Sent: `samples/parts-one-two-v3.pdf` (draft) and `-v3-review.pdf`. Story sources researched (`reviews/story-sources.md`; D48 decisions).
 
-**2026-10-19, punctuation (D49).** TONE 45 from the user's style profile; `voice.py punct` built into every profile; sweep applied to Ch 0–7; Ch 1 drags fixed; Ch 5 opening rewritten and approved; v5 PDFs sent.
+**2026-10-19, punctuation (D49).** TONE 45 from the user's style profile; `voice.py punct` built into every profile; sweep applied to Ch 0–7; Ch 1 drags fixed; Ch 5 opening rewritten and approved; v5 PDFs sent. The user then chose line by line (`reviews/punct/user-choices-2026-10-19.md`); TONE 45 amended to match; three fronted phrases added (Ch 3, 4, 6); *mahabba* added to the glossary; v6 PDFs sent.
 
 **Next:** the Part Three briefs (Ch 8–12) as proof ladders, Gate A in chat (see HANDOVER).
 

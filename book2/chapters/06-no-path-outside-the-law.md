@@ -14,7 +14,7 @@ In our own prayers the two often come apart. We stand for salah, raise our hands
 
 That gap can lead to a tempting conclusion. The journey towards God is an inward one, worked out in the self. If the remembering is what matters, and the rules can be kept without it, perhaps the rules are an outer layer to be left behind as the traveller goes deeper. Some mystical traditions have taught exactly this: train the heart, and do not trouble over the details of the law.
 
-Most of the masters of the path in Islam, Shia and Sunni alike, taught the opposite. This chapter sets out why there is no path outside the law. The rules we keep and the remembering we lose belong to one religion, seen at different depths. The deeper levels are reached only through the law, and the law is kept to the end of the road.
+Most of the masters of the path in Islam, Shia and Sunni alike, taught the opposite. This chapter sets out why there is no path outside the law. Seen at different depths, the rules we keep and the remembering we lose belong to one religion. The deeper levels are reached only through the law, and the law is kept to the end of the road.
 
 ::: {.words}
 *shariʿa*: the sacred law; what the Prophet ﷺ taught us to do · *tariqa*: the path; the inward way of doing what the law asks · *haqiqa*: the truth that the path leads to · *karamat*: wonders worked by those close to God

@@ -116,7 +116,7 @@ Looking within does not mean going anywhere, because God is already near. In She
 
 Reaching God therefore covers no distance. The journey to Him is a sharpening of the heart's sight, not a movement from one place to another. What stands between the soul and Him is a veil over the heart (*hijab*, plural *hujub*). Coming near to God (*qurb*) means having such a veil removed, and purification is what removes it. The Munajat Shaʿbaniyyah asks that the eyes of our hearts penetrate even the veils of light [@light, p. 165]. Chapter Eight sets out these veils and the stages in which they are lifted.
 
-For every soul, the veils will one day come off, at the meeting with God that the Qur'an promises. Surah al-Anʿam warns those who deny that meeting.
+At the meeting with God that the Qur'an promises, the veils will one day come off for every soul. Surah al-Anʿam warns those who deny that meeting.
 
 ::: {.ayah ref="6:31" words="1-6"}
 They are certainly losers who deny the encounter with Allah.
@@ -138,7 +138,7 @@ What a soul perceives of God at that meeting depends on what it perceives of Him
 But whoever has been blind in this [world], will be blind in the Hereafter, and [even] more astray from the [right] way.
 :::
 
-The seeker therefore begins lifting the veils in this life. There is a second reason not to wait: the journey every soul makes through death is longer and harder than the one a seeker takes by choice. In the Sheikh's account, the many methods the mystics have devised all aim at removing the veil that covers the heart.
+The seeker therefore begins lifting the veils in this life. There is a second reason not to wait: the journey every soul makes through death is longer and harder than the one a seeker takes by choice. In the Sheikh's account, the many methods the mystics have devised all aim solely at removing the veil that covers the heart.
 
 Mirza Jawad Maliki Tabrizi describes what the seeker finds when the self is uncovered. The one given God's grace can "remove the material curtain from his spirit and self" and see the self's reality. For him, this knowledge of the self is the meaning of Imam ʿAli's (as) saying that whoever knows himself knows his Lord [@journey, p. 125].
 

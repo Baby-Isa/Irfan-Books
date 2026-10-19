@@ -8,7 +8,7 @@ chapter: 3
 And my heart enthralled by Your love! [@duas_dua_kumayl, §221]
 :::
 
-These words come near the end of Duʿa Kumayl, the prayer Imam ʿAli (as) taught to his close disciple Kumayl ibn Ziyad. Many of us hear it on Thursday evenings, as the Mafatih recommends [@mafatih, p. 129]. The line asks God for a heart enthralled by His love.
+These words come near the end of Duʿa Kumayl, the prayer Imam ʿAli (as) taught to Kumayl ibn Ziyad, one of his close disciples. Many of us hear it on Thursday evenings, as the Mafatih recommends [@mafatih, p. 129]. The line asks God for a heart enthralled by His love.
 
 A heart enthralled by God's love is one of the two things ʿirfan seeks. Other prayers we recite ask for the second, knowing God. This chapter shows that we already know these words.
 
@@ -170,7 +170,7 @@ The goal of ʿirfan is already on our lips: in these prayers, we have already be
 Close: "These prayers keep asking God to work on the heart, the self within us. What is this self?"
 ::::
 
-Access to these words is where an ordinary believer already stands on the path. The prayers ask for what ʿirfan seeks, in the voice of someone in need, on nights the ordinary believer keeps. The goal of ʿirfan is therefore not foreign to us: it is already on our lips. In saying these prayers, we have already begun to ask for it.
+Access to these words is where an ordinary believer already stands on the path. In the voice of someone in need, and on nights the ordinary believer keeps, the prayers ask for what ʿirfan seeks. The goal of ʿirfan is therefore not foreign to us: it is already on our lips. In saying these prayers, we have already begun to ask for it.
 
 These prayers keep asking God to work on the heart, the self within us. What is this self?
 
