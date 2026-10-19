@@ -65,6 +65,8 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | hayam | hayyamaan, hayaman | | Burning, unquenchable love of God | L01 |
 | hayat tayyiba | hayaatan taiiyibah, hayaatan taiiyibat | | The good, clean and pure life (Q 16:97) | L02 |
 | hikma | Hikmah, hikmah | | Wisdom, knowing what to do | L10 |
+| husn al-khuluq | husne khulqe, husnus seerat | | Good character and conduct; behaving well toward people, the first condition of the inner work | L08 |
+| ʿibadat al-ahrar | worship of the free (people) | | The worship of the free: worshipping God because He deserves it, not from desire for reward or fear of punishment | L12 |
 | ihsan | Ehsaan, ehsan | | The highest level of faith, worshipping as if seeing God | L06 |
 | ilham | ilhamat | | Inspirations | L07 |
 | ʿilm | ilm | | Knowledge gained by study and experience, contrasted with maʿrifa | L02 |
@@ -87,6 +89,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | jalal | Jalal | | Divine majesty | L12 |
 | jahala | jahala | | Those who do not know; contrasted with the ʿurafaʾ | L02 |
 | jannah | janna | | Paradise | L01 |
+| juʿ | juoo | | Hunger; one of the five disciplines, kept short of weakness | L10 |
 | karamat (sing. karama) | karamaat | | Wonders performed by saints, as against the prophetic miracle | L01 |
 | kashf | unveiling | | Mystical disclosure, the source of theory | L04 |
 | khafi | al-mukhtafi | | The hidden layer of the soul | L05 |
@@ -97,6 +100,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | khass al-khass | khaasul khaas | | The elite of the elite | L06 |
 | khatm | Khatm al Awliya, Khatm al Ambiya, Awsiya | | The seal of saints, of prophets and of legatees | L13 |
 | khawass | hawas, khaas | | The elite | L11 |
+| khawf | | | Fear (of God); with renunciation, where the early seekers began, before love | L11 |
 | khayal | khayal | | Imagination | L05 |
 | khidma | | | Service to God; in salah, the depth of the law (L06 ¶24) | B2 Ch6 |
 | Khidr | | | The servant of God whom Musa follows in Surah al-Kahf; for the ʿurafaʾ, the master who accompanies a beginner (`forty_hadith` p. 508) | B2 Ch7 |
@@ -163,12 +167,15 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | riyada | riyaazat, Riyadah | | Ascetic discipline and spiritual training | L06 |
 | ruh | ruhh | | The higher soul or spirit | L05 |
 | ruh al-qudus | ruhul quddus | | The holy spirit | L05 |
+| sahar | sahro | | The hour before dawn; night vigil, one of the five disciplines | L10 |
+| sahw | sahv | | Sobriety; coming back to oneself after effacement (see sahw baʿd al-mahw) | L09 |
 | sahw baʿd al-mahw | sahw bad al mahw | | Sobriety after obliteration | L09 |
 | salat al-layl | salatul-layl, salatul layl, Salatul lail | | The night prayer, recommended | L01 |
 | Sahifa Sajjadiyya | Sahifa-e-Sajjadiyah | | The book of supplications of Imam Zayn al-ʿAbidin | L01 |
 | salah | salaah | | The ritual prayer | L02 |
 | salihin | saleheen, saaliheen, salehun | | The righteous; fourth and lowest category of the muqarrabun | L01 |
 | salik | saalik | | Wayfarer on the path | L08 |
+| samt | samto | | Silence; one of the five disciplines | L10 |
 | shafaʿa | shafaa | | Intercession | L16 |
 | Shaʿban | Shaban | | The eighth month of the Islamic calendar, before Ramadan; the month of the Munajat Shaʿbaniyyah | L01 |
 | shariʿa | shariah, sharia | | The outward law | L01 |
@@ -192,6 +199,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | taqwa | taqwa | | God-consciousness | L02 |
 | tariqa | tareeqa, tarifa | | The path; also a Sufi order | L06 |
 | taslim | taslim | | Submission | L16 |
+| tawba | tawbah, tauba, Tauba, tawba tun nasooh | | Repentance; turning back to God, the first step of the road | L03 |
 | tawhid | tawheed | | The oneness of God | L02 |
 | tawakkul | tawaqqul, Tawaqqul | | Reliance on God | L09 |
 | taʾwil | tahweel | | Deeper interpretation of verses | L13 |

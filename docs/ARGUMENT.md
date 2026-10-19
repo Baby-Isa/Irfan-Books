@@ -30,7 +30,7 @@ The Parts follow the reader's journey: why travel → getting ready → travelli
 |---|---|---|---|
 | **B1** | ʿIrfan is worth pursuing. The Quran invites more than the minimum, which is knowing God and not only knowing about Him; that knowing is reached by purifying the heart; and our own prayers already ask for it. | Why travel? | One: The Call (Ch 1–3) |
 | **B2** | The journey runs through the self, which is deeper than it looks; the shariʿa is its boundary; and a tested guide is its companion. | What do I need before I set out? | Two: Getting ready (Ch 4–7) |
-| **B3** | It is walked in a known order: veils removed in stages, beginning with repentance and character, trained by measured disciplines, carried by love, and reaching the loss of the false self. | How is it walked? | Three: The Road (Ch 8–12) |
+| **B3** | It is walked in a known order: four stages from repentance to the loss of the false self, two ours (polishing, emptying) and two God's (adornment, passing away), each resting on the one before and none dropped. | How is it walked? | Three: The Road (Ch 8–12) |
 | **B4** | Others have walked it. It is rooted in the teachings of the Qur'an, the Prophet ﷺ, and the Imams from his Ahl al-Bayt; some travellers lost their footing in ecstasy while the sober reached the end; and Shia masters keep the path without a Sufi institution of authority, because authority belongs to the Imam. | Who else is on this road, and where did they arrive? | Four: Fellow travellers (Ch 13–15) |
 | **B5** | Not the road but God: the friends of God return to people, with God; every soul returns to God; ʿirfan is making that return willingly, now. | What is the road for? | Five: The Destination (Ch 16–17) |
 
@@ -120,38 +120,42 @@ _Divider (Munajat §5–7): "I have come running to You and am standing before Y
 ### Part Three: The Road (B3). How is it walked?
 _Divider (Munajat §94): "My Lord, inspire me with a passionate love of remembering You so that I may keep on remembering You." [@light, p. 165]_
 
-**Ch 8. The stages of the journey.** (old 11, "The stages of the first journey")
-- **Conclusion:** Since God is already near (4), the journey covers no distance: it removes veils, in four stages, in order.
-- 8.1 Travel means removing veils, not covering distance: God is already nearer than the jugular vein. [B3] L07 ¶4; L08 ¶3–10; L09 ¶73; L10 ¶21 (full treatment; seeded in 4.3, D26; Q 50:16)
-- 8.2 The first journey has four stages in order: polishing by the law, emptying the heart, adornment by God, and annihilation; none is skipped. [B3] L07 ¶11–13, ¶21–29, ¶36–39; L09 ¶2–3 (the triad's names are the lecturer's framing; substance in `inner_secrets` pp. 108–110, 195)
-- _Box, not a point (old 11.3):_ Ibn Sina's ladder of stations maps the same ascent, step by step, to arrival. L15 ¶3–59 (analogies are the lecturer's; `light` pp. 45–50)
-- → Where on it does one set foot first?
+_Part Three was restructured per D50 (2026-10-19): one stage per chapter. Ch 8 is the map, Ch 9–12 take the four stages in order; wordings follow `docs/ladders/00-book-chain.md` and `docs/ladders/08.md`–`12.md`, which are authoritative._
 
-**Ch 9. Setting out.** (old 12)
-- **Conclusion:** The first stage begins with repentance, open to anyone after any sin, and with putting things right with people.
-- 9.1 The road begins with repentance, and anyone can begin, after any sin. [B3] L08 ¶10–12, ¶16–18 (added: `lantern` pp. 48, 59; `forty_hadith` p. 249)
-- 9.2 Repentance is paced: no vows one cannot keep, no rush, and sooner is easier. [B3] L08 ¶13–15, ¶19–22, ¶26–27 (side by side: `light` pp. 89, 126–127; `forty_hadith` pp. 118, 250 press harder)
-- 9.3 Good conduct toward people is the first condition of the inner work. [B3] L08 ¶39–42 (added: `inner_secrets` p. 108; `light` p. 70; Nahj 1.191)
-- → What trains the soul once it has turned?
+**Ch 8. The stages of the journey.** (old 11, "The stages of the first journey"; the map, no stage in the title)
+- **Conclusion:** Since God is already near (4), the journey covers no distance: it removes veils in four stages, two ours and two God's, each resting on the one before and none ever dropped.
+- 8.1 God is already near, so the journey covers no distance; it removes veils inside us. [B3] L07 ¶4, ¶59; L08 ¶3–10; L09 ¶73–74; L10 ¶21 (full treatment; seeded in 4.3, D26; Q 50:16)
+- 8.2 The veils come off in four stages: we polish the self and empty the heart, then God adorns it and the self passes away. [B3] L07 ¶10–13, ¶22, ¶36–37, ¶57–59; L09 ¶2–3 (the stages' names are the lecturer's framing; substance in `inner_secrets` pp. 108–110, 195). The table "The road at a glance" shows the stages, whose act each is, and the chapter that takes each.
+- 8.3 Each stage rests on the one before, and none is ever dropped. [B3] L07 ¶13, ¶21–22, ¶37, ¶55; L09 ¶70–75 (box: Ibn Sina's ladder of stations keeps the same order, L15 ¶3–59; analogies are the lecturer's; `light` pp. 45–50)
+- → The first stage begins with a step any believer can take. What is it?
 
-**Ch 10. The five disciplines.** (old 13)
-- **Conclusion:** Once the soul has turned, five disciplines loosen the body's hold on it (5), each in a measured dose.
-- 10.1 Five disciplines loosen the soul's bondage to the body, each with a Quranic root: silence, hunger, night prayer, seclusion and remembrance. [B3] L08 ¶43–88; L10 ¶6–65, ¶11–12, ¶40 (added: `lantern` p. 56; `kernel` p. 76; `journey` p. 16; Mafatih p. 802)
-- 10.2 Each is a medicine, dosed and never forced; on seclusion the lecturer prefers the private hour where the masters prescribe retreat. [B3] L08 ¶55–58; L10 ¶23–27, ¶41–54 (side by side: `kernel` pp. 77–78; `lantern` pp. 50, 55; `light` p. 102)
-- → What keeps a traveller going when discipline alone runs dry?
+**Ch 9. Polishing: setting out.** (old 12, "Setting out"; Stage 1 of 4)
+- **Conclusion:** The first stage, polishing, begins with repentance, open to anyone after any sin, and is kept by the law, whose first demand is putting things right with people.
+- 9.1 The road begins with repentance, and repentance is open to anyone after any sin. [B3] L08 ¶10–12, ¶16–18; L12 ¶19–22 (added: `lantern` pp. 48, 59; `forty_hadith` p. 249; Q 39:53)
+- 9.2 Repentance is kept up at a steady pace: not rushed, and not put off. [B3] L08 ¶13–15, ¶19–22, ¶24–27 (side by side: `light` pp. 89, 126–127; `forty_hadith` pp. 118, 250 press harder)
+- 9.3 Polishing is keeping the law strictly, and its first demand is putting things right with people. [B3] L07 ¶12–13; L08 ¶39–42; L12 ¶25 (added: `inner_secrets` p. 108; `light` p. 70; Nahj 1.191)
+- → Polishing is open to every believer. Where does ʿirfan proper begin?
 
-**Ch 11. Love, the engine.** (old 14)
-- **Conclusion:** Discipline alone runs dry; love carries the traveller on, until even love is left at the door.
-- 11.1 Fear and renunciation start the journey; love carries it, and the early schools lacked it. [B3] L11 ¶61–63; L12 ¶38–61; L15 ¶11–13 (added: `lantern` p. 58; `kernel` p. 70). The early schools' history is Ch 13's, which calls back here.
-- 11.2 The Imams voice this love: the worship of the free, not of merchants or slaves; the Lovers' prayer. [B3] L12 ¶38–42, ¶60; L01 ¶27–31 (Nahj 3.222 set beside al-Sadiq's love version, `light` p. 94, because the Nahj saying speaks of thanks, FRAMEWORK §8.7; Sahifa pp. 656–657; Kumayl §123–124; `lantern` p. 88)
-- 11.3 Even love is finally a means, left behind at the Beloved. [B3] L12 ¶59–60 (Rabiʿa in a line) (added: `kernel` pp. 72–73; `light` pp. 45, 95)
-- → Where does love carry the traveller in the end?
+**Ch 10. Emptying: the five disciplines.** (old 13, "The five disciplines"; Stage 2 of 4)
+- **Conclusion:** The second stage, emptying, clears the heart of everything but God, and the five disciplines are its tools, each in a measured dose.
+- 10.1 ʿIrfan proper begins with emptying the heart, and five disciplines are its tools. [B3] L07 ¶22–29; L08 ¶55, ¶58; L10 ¶6 (added: `lantern` p. 56). The five disciplines placed in emptying are the book's synthesis.
+- 10.2 Silence, hunger and the night prayer shut the doors through which the world fills the heart: the tongue, the stomach and sleep. [B3] L08 ¶50–51, ¶59, ¶72–73; L10 ¶9, ¶19–21 (added: `kernel` pp. 76–77; `journey` p. 16)
+- 10.3 Seclusion separates the heart from what distracts it, and remembrance dusts off what remains. [B3] L07 ¶25–27; L10 ¶42–63 (added: Mafatih p. 802)
+- 10.4 Each discipline is taken in a dose measured to the person, small and kept up. [B3] L08 ¶55–58; L10 ¶23–27, ¶44–47; L15 ¶42 (side by side: `kernel` pp. 76–78; `lantern` pp. 50, 55; `light` p. 102)
+- → Emptying ends at the self, the last thing left behind. What follows is no longer the traveller's work. What does God give the emptied heart?
 
-**Ch 12. Losing the self, finding God.** (old 15) **The crescendo of the book.**
-- **Conclusion:** Love ends in losing the false self before God's glory, and in coming back sober, seeing only God while remaining oneself.
-- 12.1 Fana is the loss of false self-perception before God's glory, not becoming God and not ceasing to exist. [B3] L07 ¶41–63; L09 ¶3–9; L15 ¶55–57, ¶60 (added: `inner_secrets` p. 115; `light` pp. 49, 63)
-- 12.2 It has degrees: in action, in attributes, in essence. [B3] L09 ¶52–69 (added: `inner_secrets` pp. 113–117; `light` pp. 107–108). The climax of the chapter and of Part Three.
-- 12.3 It has dangers (captivation, ecstatic utterance, licence), stated as principles; the healthy outcome is baqa, separation after union, which ends the first journey and begins the second. [B3] L09 ¶20–50; L15 ¶59 (added: `forty_hadith` pp. 515–516; `inner_secrets` p. 116; `light` p. 102). The chapter ends on Imam ʿAli's "I did not see a thing without beholding God…" (`forty_hadith` p. 516). Bayazid and Junayd are named in a line, with a pointer to Ch 14.
+**Ch 11. Adornment: love, the engine.** (old 14, "Love, the engine"; Stage 3 of 4)
+- **Conclusion:** The third stage, adornment, is God's gift to the emptied heart: knowledge and light, and love, which carries the traveller until even love is left at the door.
+- 11.1 Once the heart is emptied, God adorns it with gifts no effort makes, briefly at first. [B3] L07 ¶10, ¶36–39; L10 ¶11–16; L15 ¶20–22, ¶41–43 (added: `inner_secrets` p. 109; `light` p. 48)
+- 11.2 Among those gifts is love, which the Imams asked for, and worship from love is the worship of the free. [B3] L07 ¶10; L11 ¶61–63; L12 ¶38–42, ¶54–56, ¶59–60; L01 ¶27–31 (Nahj 3.222 set beside al-Sadiq's love version, `light` p. 94, FRAMEWORK §8.7; Sahifa p. 656; Kumayl §123–124; `lantern` pp. 58, 88; `kernel` p. 70). Love is among the gifts, not the whole of adornment.
+- 11.3 Love too is a means, so at the Beloved even love is left behind. [B3] L12 ¶59–60 (added: `light` pp. 45, 95; `forty_hadith` p. 89)
+- → With even love left behind, what remains of the traveller before God?
+
+**Ch 12. Passing away: losing the self, finding God.** (old 15, "Losing the self, finding God"; Stage 4 of 4) **The crescendo of the book.**
+- **Conclusion:** In the fourth stage, love ends in losing the false self before God's glory, and in coming back sober, seeing God in all things while remaining oneself.
+- 12.1 In passing away the traveller loses the sense of self before God's glory; he neither ceases to exist nor becomes God, so what is lost is a false self. [B3] L07 ¶41–63; L09 ¶3–9 (added: `kernel` pp. 14–15; `light` p. 63)
+- 12.2 Passing away comes in three degrees, in action, in attributes and in essence, each the lived truth of words we already say. [B3] L09 ¶52–69 (added: `inner_secrets` pp. 113–117; `light` pp. 107–108). The climax of the chapter and of Part Three.
+- 12.3 Passing away is a beginning, not an end: the healthy outcome is to come back to oneself, sober, seeing God and creation together. [B3] L09 ¶20–50; L07 ¶64 (added: `forty_hadith` pp. 515–516; `inner_secrets` p. 116; `light` pp. 57, 102; `kernel` p. 60). Dangers are stated as principles. The chapter ends on Imam ʿAli's "I did not see a thing without beholding God…" (`forty_hadith` p. 516). Bayazid and Junayd are named in a line, with a pointer to Ch 14.
 - → Others have walked this far. Where did the road come from, and who walked it first?
 
 ### Part Four: Fellow travellers (B4). Who else is on this road, and where did they arrive?

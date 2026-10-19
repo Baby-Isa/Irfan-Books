@@ -75,36 +75,38 @@ _One "slide" per chapter. The heading is the chapter title. The subheading is th
 ---
 
 ## Part Three: The Road. How is it walked?
-**In a known order. The traveller covers no distance but removes veils: repentance and good conduct first, then measured disciplines, carried by love, to the loss of the false self.**
+**In a known order: four stages from repentance to the loss of the false self, two ours and two God's.** _(Restructured per D50: one stage per chapter; wordings from `docs/ladders/00-book-chain.md` and `08.md`–`12.md`.)_
 
 ### 8. The stages of the journey
-**Since God is already near (4), the journey covers no distance: it removes veils, in four stages, in order.**
-- Travel is inward: the veils come off, and no distance is covered.
-- The first journey has four stages in order: cleaning by the law, emptying the heart, adornment by God, and losing the self. None is skipped.
-- Ibn Sina's ladder of stations maps the same climb (a box).
+**Since God is already near, the journey covers no distance: it removes veils in four stages, two ours and two God's, each resting on the one before and none ever dropped.**
+- God is already near, so the journey covers no distance; it removes veils inside us.
+- The veils come off in four stages: we polish the self and empty the heart, then God adorns it and the self passes away.
+- Each stage rests on the one before, and none is ever dropped. A box shows Ibn Sina's ladder keeping the same order.
 
-### 9. Setting out
-**The first stage begins with repentance, open to anyone after any sin, and with putting things right with people.**
-- The road begins with repentance, and anyone can begin.
-- Repentance is paced: no vows you cannot keep, and sooner is easier.
-- Good conduct towards people is the first condition of the inner work.
+### 9. Polishing: setting out
+**The first stage, polishing, begins with repentance, open to anyone after any sin, and is kept by the law, whose first demand is putting things right with people.**
+- The road begins with repentance, and repentance is open to anyone after any sin.
+- Repentance is kept up at a steady pace: not rushed, and not put off.
+- Polishing is keeping the law strictly, and its first demand is putting things right with people.
 
-### 10. The five disciplines
-**Once the soul has turned, five disciplines loosen the body's hold on it (5), each in a measured dose.**
-- The five disciplines loosen the soul's grip on the body, and each has a Qur'anic root.
-- Each is a medicine, dosed to the person; on seclusion, the Sheikh prefers a private hour to a long retreat.
+### 10. Emptying: the five disciplines
+**The second stage, emptying, clears the heart of everything but God, and the five disciplines are its tools, each in a measured dose.**
+- ʿIrfan proper begins with emptying the heart, and five disciplines are its tools.
+- Silence, hunger and the night prayer shut the doors through which the world fills the heart: the tongue, the stomach and sleep.
+- Seclusion separates the heart from what distracts it, and remembrance dusts off what remains.
+- Each discipline is taken in a dose measured to the person, small and kept up.
 
-### 11. Love, the engine
-**Discipline alone runs dry; love carries the traveller on, until even love is left at the door.**
-- Fear and renunciation start the journey; love keeps it going.
-- The Imams voice that love: worship as free people, not as traders or slaves.
-- Love too is finally a means, left behind on arrival.
+### 11. Adornment: love, the engine
+**The third stage, adornment, is God's gift to the emptied heart: knowledge and light, and love, which carries the traveller until even love is left at the door.**
+- Once the heart is emptied, God adorns it with gifts no effort makes, briefly at first.
+- Among those gifts is love, which the Imams asked for, and worship from love is the worship of the free.
+- Love too is a means, so at the Beloved even love is left behind.
 
-### 12. Losing the self, finding God (the crescendo)
-**Love ends in losing the false self before God's glory, and in coming back sober, seeing only God while remaining oneself.**
-- Fana is losing a false picture of the self, not ceasing to exist or becoming God.
-- It has degrees: in action, in attributes, in essence.
-- It has dangers. The healthy outcome is coming back to oneself (baqa), which ends the first journey and begins the second.
+### 12. Passing away: losing the self, finding God (the crescendo)
+**In the fourth stage, love ends in losing the false self before God's glory, and in coming back sober, seeing God in all things while remaining oneself.**
+- In passing away the traveller loses the sense of self before God's glory; he neither ceases to exist nor becomes God, so what is lost is a false self.
+- Passing away comes in three degrees, in action, in attributes and in essence, each the lived truth of words we already say.
+- Passing away is a beginning, not an end: the healthy outcome is to come back to oneself, sober, seeing God and creation together.
 
 ---
 
