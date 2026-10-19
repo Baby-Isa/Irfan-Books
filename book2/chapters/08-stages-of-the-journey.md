@@ -5,18 +5,18 @@ chapter: 8
 ---
 
 ::: {.quote ar="يَا قَرِيباً لاَ يَبْعُدُ عَنِ ٱلْمُغْتَرِّ بِهِ" source="Munajat Shaʿbaniyyah"}
-You Near One, Who is not far from one who is away from You. [@light, p. 165; @duas_munajat_shabaniyah, §80]
+You Near One, Who is not far from one who is away from You. [@light, p. 165; Arabic: @duas_munajat_shabaniyah, §80]
 :::
 
-Many of us save for years to travel to Makka, Najaf, or Karbala. That journey is measured in miles. The line above, from the Munajat Shaʿbaniyyah (a prayer of the month of Shaʿban), speaks of another journey. It calls God the Near One, who is not far even from the one who is away from Him. On this journey the distance is not on God's side.
+Many of us save for years to travel to Makka, Najaf, or Karbala. That journey is measured in miles. The line above, from the Munajat Shaʿbaniyyah (a prayer of the month of Shaʿban), speaks of another journey. It calls God the Near One, who is not far even from the one who is away from Him.
 
-If God is near even to the one who is away from Him, something on our side must make a person "away". Duʿa Abu Hamza al-Thumali, the supplication Imam Zayn al-ʿAbidin (as) taught for the nights of Ramadan, names it. It first says that whoever travels towards God has only a short way to go. Then it says what stands in the way.
+If God is near even to the one who is away from Him, something on our side must make a person "away". Duʿa Abu Hamza al-Thumali, the supplication Imam Zayn al-ʿAbidin (as) taught for the nights of Ramadan, names it. It first says that whoever travels towards God has only a short way to go [@duas_ramadan_dua_abu_hamza_thumali, §46]. Then it says what stands in the way.
 
 ::: {.quote ar="وَأَنَّكَ لاَ تَحْتَجِبُ عَنْ خَلْقِكَ إِلاَّ أَنْ تَحْجُبَهُمُ ٱلأَعْمَالُ دُونَكَ" source="Duʿa Abu Hamza al-Thumali"}
 You do not conceal Yourself against Your creatures unless their evildoings stand between them and You. [@duas_ramadan_dua_abu_hamza_thumali, §47–48]
 :::
 
-God conceals Himself from no one. What keeps a person away is their own deeds, which stand between them and Him like a veil. The journey to God, then, is not the crossing of a distance. It is the removal of what stands between, and it has an order of its own. This chapter sets out the stages of the journey: why it covers no distance, what its four stages are, and why they come in order.
+God conceals Himself from no one. What keeps a person away is their own wrong deeds, which stand between them and Him like a veil. The journey to God removes what stands between, and it has an order of its own. This chapter sets out the stages of the journey: why it covers no distance, what its four stages are, and why they come in order.
 
 ::: {.words}
 *hijab* (plural *hujub*): a veil between the heart and God · *suluk*: wayfaring; the journey to God · *salik*: the wayfarer · *tajliya*: polishing the self through the law · *takhliya*: emptying the heart of all but God · *tahliya*: the adornment of the heart with God's gifts · *fanaʾ*: passing away; the loss of the sense of self before God
@@ -33,29 +33,29 @@ God is already near, so the journey covers no distance; it removes veils inside 
 4. The veils are of two kinds. *(Reader told.)*
     a. Dark veils are made by our own deeds, as Abu Hamza says (L09 ¶73).
     b. Light veils are finer; some are never lifted, even for the Prophet ﷺ, because creation could not stand without them (L09 ¶73–74; L07 ¶59).
-5. "There is no hindrance from the other side, the hindrance is inside us" (L10 ¶21).
+5. Whatever the kind of veil, the hindrance lies on our side, not God's: "There is no hindrance from the other side, the hindrance is inside us" (L10 ¶21).
 6. Therefore: the journey covers no distance; it removes veils inside us.
 ::::
 
-The journey covers no distance because God is already near. Surah Qaf says this of every human being. God created him and knows what his soul whispers to him, and the verse ends with these words.
+The journey covers no distance because God is already near. Surah Qaf says this of every human being. God created him and knows what his soul whispers to him, and the verse ends with these words. <!-- src: L08 ¶8-9 -->
 
 ::: {.ayah ref="50:16" words="9-"}
 And We are nearer to him than his jugular vein.
 :::
 
-Few things are closer to a person than the vein in their own neck, and God is nearer than that. The verse sets His nearness beside His knowledge of what the soul whispers, and so it points inward. A traveller towards Him has no distance to cross.
+Few things are closer to a person than the vein in their own neck, and God is nearer than that. A traveller towards Him has no distance to cross. <!-- src: L08 ¶9 -->
 
 With no distance to cross, the journey runs inward. The mystics call it wayfaring (*suluk*), and the one who travels is the wayfarer (*salik*). The Arabic word for wayfaring also means a person's conduct, the way they carry themselves through life. Sheikh Bahmanpour describes the journey simply. "We are not traveling from one place to another place. We are actually finding ourselves." Its purpose is to see what is already around us: the presence of God and our own selves. <!-- src: L08 ¶3-4 -->
 
 The inward journey removes a veil. In the lectures, the journey means lifting the veil that blocks the heart's vision and keeps the light of God from shining in it. The many methods the mystics have devised serve this one aim. It is the journey we were created for, since human beings were made to see the glory and beauty of Allah, and it is the veil over the heart that stops them. <!-- src: L08 ¶9; L07 ¶4 -->
 
-The veils are not all of one kind. The mystics speak of dark veils and veils of light, and the stages of the journey deal with them differently. It helps to take each kind in turn. <!-- src: L08 ¶10 -->
+The veils are not all of one kind. The mystics speak of dark veils and veils of light, and the stages of the journey deal with them differently. <!-- src: L08 ¶10 -->
 
-Dark veils are the ones we make ourselves. Our own actions create them, and they belong to the lower self (*nafs*). This is what Duʿa Abu Hamza means when it says that God conceals Himself from no one unless their deeds stand between them and Him. Each wrong act lays a dark layer over the heart, and a heart under such layers cannot see Allah. Our deeds made these veils, so our deeds can remove them, and the road begins with that work. <!-- src: L09 ¶72-73 -->
+Dark veils are the ones we make ourselves. Our own actions create them, and they belong to the lower self (*nafs*). This is what Duʿa Abu Hamza means when it says that God conceals Himself from no one unless their wrong deeds stand between them and Him. Each wrong act lays a dark layer over the heart, and a heart under such layers cannot see Allah. <!-- src: L09 ¶72-73 -->
 
 Veils of light are finer, and we do not make them. They belong to the higher levels of the soul, the heart (*qalb*) and the spirit (*ruh*). They come from our existence as creatures, not from anything we do. The outer veils of light lift at the end of the journey this chapter describes. Some never lift, even between the Prophet ﷺ and God, because without them creation would perish before the glory of Allah. <!-- src: L09 ¶72-74; L07 ¶59 -->
 
-Whatever their kind, the veils lie on our side. In the lectures' words, "There is no hindrance from the other side, the hindrance is inside us; we have to remove it." The journey therefore covers no distance. It removes veils inside us, first the dark ones our deeds have made and then the outer veils of light. <!-- src: L10 ¶21 -->
+Whatever the kind of veil, the hindrance lies on our side, not God's. In the lectures' words, "There is no hindrance from the other side, the hindrance is inside us; we have to remove it." The journey therefore covers no distance. It removes the veils inside us that can be lifted, first the dark ones our deeds have made and then the outer veils of light. <!-- src: L10 ¶21; L09 ¶72-74; L07 ¶59 -->
 
 ## Four stages: two ours, two God's
 
@@ -63,15 +63,15 @@ Whatever their kind, the veils lie on our side. In the lectures' words, "There i
 The veils come off in four stages: we polish the self and empty the heart, then God adorns it and the self passes away.
 
 1. The mystics count four stages to the end of this first journey (L07 ¶11–12). *(Reader told: "one at a time, in order"; one paragraph each.)*
-    a. Polishing (*tajliya*): repentance opens it, and the law, kept strictly, obligatory and recommended, polishes the self (L07 ¶12–13; L08 ¶10). It removes the dark veils of our deeds. *(Ch 9.)*
-    b. Emptying (*takhliya*): the heart is cleared of every "occupation other than Allah" (L07 ¶22). *(Ch 10.)*
+    a. Polishing (*tajliya*): repentance opens it, and the law, kept strictly, obligatory and recommended, polishes the self (L07 ¶12–13; L08 ¶10). It begins the work on the dark veils our deeds make (L09 ¶72–74). *(Ch 9.)*
+    b. Emptying (*takhliya*): the heart is cleared of every "occupation other than Allah" (L07 ¶22). This book treats the five disciplines (L08 ¶55, ¶58; L10 ¶6) as its tools; the lectures do not assign them to a stage. *(Ch 10.)*
     c. Adorning (*tahliya*): God gives the emptied heart what no effort makes: insight, inspiration, understanding of the Qur'an, and love (L07 ¶10, ¶36). *(Ch 11.)*
-    d. Passing away (*fanaʾ*): before God's glory the last veil, the self, falls away (L07 ¶57–59), "the last of the levels and the highest of the stations of the path" [IS195]. *(Ch 12.)*
+    d. Passing away (*fanaʾ*): shown God's glory "at a very low level", the traveller loses the sense of self, while the soul and the individual remain (L07 ¶54–59), "the last of the levels and the highest of the stations of the path" [IS195]. On the right path a sober return follows (L09 ¶45). *(Ch 12.)*
 2. The first two stages are the traveller's work; the last two are God's act on the prepared heart (L07 ¶10, ¶36–37). *(Box: "The road at a glance", the table above, without the rules row.)*
 3. Therefore: four stages, two ours and two God's.
 ::::
 
-The veils come off in stages, and the mystics count four of them to the end of the soul's first journey towards God. In English they are polishing, emptying, adorning, and passing away. Each of the next four chapters takes one stage in full, so the aim here is only to see the whole road. Taking the stages one at a time, in order, shows what each removes and whose work it is. <!-- src: L07 ¶11-12 -->
+The veils come off in stages, and the mystics count four of them to the end of the soul's first journey towards God. In English they are polishing, emptying, adorning, and passing away. Each of the next four chapters takes one stage in full, so the aim here is only to see the whole road, one stage at a time. <!-- src: L07 ¶11-12 -->
 
 The first stage is polishing (*tajliya*), from a word for burnishing something until it shines. What is polished is the body and the lower self. The stage opens when a person wakes from heedlessness and repents, not only of sins but of taking God for granted. It continues in doing whatever the Prophet ﷺ asked. The obligatory and recommended acts are done, the forbidden and the disliked are avoided, and the Qur'an and the Sunna are followed "in the strictest sense". Polishing removes the dark veils our deeds have made. It is the subject of Chapter Nine. <!-- src: L07 ¶12-13; L08 ¶10 -->
 
