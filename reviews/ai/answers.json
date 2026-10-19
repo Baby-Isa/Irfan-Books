@@ -1,0 +1,172 @@
+{
+  "scores": {
+    "P1": {
+      "score": 66,
+      "tells": [
+        "Staccato thesis fragment: \"Reason has a limit.\"",
+        "Mirrored antithesis closer: \"A definition draws a line round its object, and there is no line to draw round God.\"",
+        "Every paragraph opens with a summarising claim that re-states the previous one as a premise: \"If reason cannot reach what the things around us are, it falls still further short of God.\""
+      ]
+    },
+    "P2": {
+      "score": 4,
+      "tells": [
+        "OCR/scan artefacts and numbered reference-list form: \"4. Abu Al-Hasan 'Ali Ibn 'Uthman Al-Hujwiri He is the author of\"",
+        "Mid-sentence cut and dated biographical entries (\"He passed away in 405/1014 or 412/1021\") typical of a printed source, not generated prose"
+      ]
+    },
+    "P3": {
+      "score": 70,
+      "tells": [
+        "Logical-connector opener that restates the prior conclusion: \"Each depth is therefore reached only through the one before it, and none can be skipped.\"",
+        "Abstract cause-sentence as topic line: \"The claim to know God fails without the law because of what the law does to the one who keeps it.\"",
+        "Definitional 'not X but Y' correction: \"\\\"Liars\\\" does not mean that the feats are faked, because such things can be done. The lie is in the claim\""
+      ]
+    },
+    "P4": {
+      "score": 72,
+      "tells": [
+        "Neat aphoristic close: \"The journey therefore covers no distance.\"",
+        "Template paragraphs in parallel: \"Dark veils are the ones we make ourselves.\" / \"Veils of light are finer, and we do not make them.\"",
+        "Structural signposting: \"Each of the next four chapters takes one stage in full, so the aim here is only to see the whole road in order.\""
+      ]
+    },
+    "P5": {
+      "score": 64,
+      "tells": [
+        "Tidy analogy stated as a maxim: \"The difference is that between a recipe and the dish.\"",
+        "Enumerated template paragraphs: \"The second degree is passing away in attributes.\" / \"The third degree is passing away in essence.\"",
+        "Gloss-the-quote restatement: \"What is left to him is one word, Huwa, \\\"He\\\". The Qur'an uses this pronoun for God, and it points to Him without naming anything beside Him.\""
+      ]
+    },
+    "P6": {
+      "score": 73,
+      "tells": [
+        "Identical paragraph frame repeated: \"The first door is the tongue, and silence (samt) shuts it.\" / \"The second door is the stomach, and hunger (juʿ) shuts it.\"",
+        "Same 'not X. It means Y.' correction twice: \"The silence meant here is not a lifelong vow\" / \"The hunger meant here is not going without food for days. It means\"",
+        "Chained abstract process narrated in uniform clauses: \"We imagine something, then imagine wanting it, then imagine ways of getting it, and the chain drags us\""
+      ]
+    },
+    "P7": {
+      "score": 63,
+      "tells": [
+        "Balanced couplet: \"The love never stops, and the knowing keeps growing.\"",
+        "Summary tricolon capping the section: \"the prayers have asked for all that ʿirfan seeks: to see God with the heart, to love Him, and to be near Him.\"",
+        "Clause that resolves the paragraph too neatly: \"so even the turning towards God is His doing.\""
+      ]
+    },
+    "P8": {
+      "score": 68,
+      "tells": [
+        "Chiastic pair of short sentences: \"A ruined soul loses faith because its owner can no longer see it. A soul that is seen points to its Maker.\"",
+        "'Therefore' topic sentence restating the chain: \"Knowing God therefore begins with knowing the soul.\"",
+        "Pre-emptive caveat with no interlocutor: \"This does not make the soul a part of God.\""
+      ]
+    },
+    "P9": {
+      "score": 65,
+      "tells": [
+        "Antithesis closer: \"The body tires in prayer when the soul is after other pleasures, and it does not tire when the soul wants God.\"",
+        "Isolated emphatic fragments: \"Wonders prove nothing either.\" / \"This face is different.\"",
+        "Aphoristic universal: \"No one reads a book and falls in love with God.\""
+      ]
+    },
+    "P10": {
+      "score": 54,
+      "tells": [
+        "Uniform topic-sentence paragraphing: \"The orders also ask for total submission.\"",
+        "Restating a contrast twice in adjacent sentences: \"Yet they do not hold, as Shia do, that the knowledge passed by inheritance to the Imams. For Shia the Imams hold that place\"",
+        "Mitigating: reported speech with real idiom (\"We don't have such a thing as tariqa in Shia\") and uneven rhythm read as closely transcribed source"
+      ]
+    },
+    "P11": {
+      "score": 78,
+      "tells": [
+        "Brochure filler: \"This book strives for brevity and clarity in its role as a welcoming guide to beginning the journey towards ʿirfan.\"",
+        "Stock metaphors of accompaniment: \"the guide as the one who walks alongside them\" / \"meets those who walked the road before us\"",
+        "Content-free promotional sentence: \"Additional call-out sections are spread throughout with helpful context and short side notes.\""
+      ]
+    },
+    "P12": {
+      "score": 84,
+      "tells": [
+        "Human seed (a known Torvalds mail) padded with literary elaboration: \"as though each one were a separate diplomatic mission. The cargo weighs one byte. The ticket costs a context switch.\"",
+        "'It isn't X. It's Y.' pivot and over-explained joke: \"It isn't a performance bug. It's a decision, made once per byte, thousands of times, by someone who never stopped to ask what the loop was for.\"",
+        "Essayistic 'generous reading / less generous one' framing grafted onto an insult: \"that's the generous reading. The less generous one is that they found it and checked after every drop.\""
+      ]
+    },
+    "P13": {
+      "score": 4,
+      "tells": [
+        "Scan ligatures and translator's register: \"afﬂictions\", \"reﬂection\", \"Concupiscence\"",
+        "Run-on heading embedded in text (\"Islam Al-A'zam (The Greatest Submission) At this stage he enters\") and long periodic sentences typical of a printed translation"
+      ]
+    },
+    "P14": {
+      "score": 68,
+      "tells": [
+        "Explicit signpost: \"Taking them one at a time shows where the soul goes when the hold loosens.\"",
+        "Clipped fragment chain for emphasis: \"It does not leave the body completely. If it did, we would be dead.\"",
+        "Tidy explanatory close: \"The soul has seen there the counterpart of an event that has not yet happened here.\""
+      ]
+    },
+    "P15": {
+      "score": 67,
+      "tells": [
+        "One-line summarising maxim: \"This is the whole subject in one sentence: mysticism is about making the soul hear, see, and reflect.\"",
+        "Short emphatic fragment pattern: \"Most of us see only the lamp.\" / \"In most of us, it is not working.\"",
+        "Gloss immediately after the quotation: \"That machine is the soul. It has to be repaired before it can catch the signals of God.\""
+      ]
+    },
+    "P16": {
+      "score": 70,
+      "tells": [
+        "Every paragraph opens with a causal thesis built from the last one: \"Old habits return because the self fights back.\" / \"Because the self can strike back, rushing ahead is dangerous.\"",
+        "Quote-then-label pattern: \"This is the polishing that gives the first stage its name.\"",
+        "Hook-tease ending with no content: \"He illustrates the point with a story a friend from Iran had told him that morning.\""
+      ]
+    }
+  },
+  "recurring_tells": [
+    {
+      "tell": "Every paragraph opens with a thesis or 'therefore/because' sentence that restates the previous paragraph's conclusion as its premise (P1, P3, P8, P16, P14). The spine is visible in every first sentence, so the prose reads like an outline filled in.",
+      "fix": "Keep the logical order but let about one paragraph in three open on the concrete thing (the name, the quotation, the scene, the example) and carry the link implicitly; delete 'therefore' wherever the previous sentence already does the work."
+    },
+    {
+      "tell": "Mirrored antithesis or chiasmus used to close a paragraph (P1 'draws a line … no line to draw', P9 'tires … does not tire', P8 'ruined soul … soul that is seen', P12 'isn't a bug. It's a decision').",
+      "fix": "Keep one half of the balance and cut the mirrored clause, or end the paragraph on the source's own words rather than on the writer's gloss of them."
+    },
+    {
+      "tell": "Isolated short emphatic fragments for rhythm ('Reason has a limit.' 'Wonders prove nothing either.' 'This face is different.' 'Most of us see only the lamp.' 'The cargo weighs one byte.').",
+      "fix": "Fold the fragment into the neighbouring sentence with a comma or 'but', or give it a concrete subject and object so it carries information rather than emphasis."
+    },
+    {
+      "tell": "Templated parallel paragraphs where the second item copies the first's frame word for word (P6 'The first door is … shuts it' / 'The second door is … shuts it'; P5 'The second degree is …' / 'The third degree is …'; P4 dark veils / veils of light).",
+      "fix": "Vary the frame for the second item: start with its example or its source, or make it a single sentence that assumes the reader remembers the first; let the parallel be inferred, not announced."
+    },
+    {
+      "tell": "Quote followed at once by a one-sentence label of what it means ('This is the polishing that gives the first stage its name.' 'That machine is the soul.' 'This is the whole subject in one sentence: …').",
+      "fix": "Put the writer's point before the quotation and let the quotation be the last word, or cut the label and trust the quote."
+    },
+    {
+      "tell": "Explicit structural signposting inside the prose ('Taking them one at a time shows…', 'so the aim here is only to see the whole road in order', 'Each of the next four chapters takes one stage in full').",
+      "fix": "Delete the signpost sentence; the heading and the numbered first item already tell the reader what is coming."
+    },
+    {
+      "tell": "'Not X. It means Y.' definitional corrections against an objection nobody raised (P6 'is not a lifelong vow', 'is not going without food for days'; P3 '\"Liars\" does not mean that the feats are faked'; P8 'This does not make the soul a part of God').",
+      "fix": "State the positive meaning once and drop the straw alternative unless a held source or the lecturer actually raises it, in which case attribute the objection to them."
+    },
+    {
+      "tell": "Uniform sentence length and total resolution: no digression, no hedge, no particular that serves no argumentative purpose, so each paragraph closes on a resolved note (P4, P7, P14, P16).",
+      "fix": "Let one sentence per section carry a specific detail from the source (a place, a date, an odd phrase of the lecturer's) that does no argumentative work, and allow one paragraph to end on the unresolved point rather than on a wrap-up clause."
+    },
+    {
+      "tell": "Brochure and accompaniment clichés in framing passages (P11 'welcoming guide', 'walks alongside them', 'helpful context and short side notes', 'walked the road before us').",
+      "fix": "Replace each with the plain fact (what the boxes contain, who the guide is, which figures the chapters discuss) and cut any sentence that only describes the book's good intentions."
+    },
+    {
+      "tell": "Literary elaboration layered on a plain or vernacular seed, flattening the original voice (P12: a terse rant acquires 'diplomatic mission', 'generous reading / less generous one', 'close the distance').",
+      "fix": "When editing a human's text, add only what changes the meaning; keep the original's sentence count and remove any added simile or framing phrase that the original author would not have used."
+    }
+  ]
+}

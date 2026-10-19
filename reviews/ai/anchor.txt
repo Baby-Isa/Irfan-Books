@@ -1,0 +1,7 @@
+Kay, this needs to be fixed.
+
+Suggested fix: use the `seq_printf()` interfaces. They do the buffering. They handle reads of any size across packetized data. One buffer, filled once, flushed in a single pass.
+
+I'd also suggest that whoever decided to read things ONE F*CKING BYTE AT A TIME should be retroactively aborted. Not the byte. The system call. A syscall is a full round trip into the kernel, and this loop pays that toll for every single byte, as though each one were a separate diplomatic mission. The cargo weighs one byte. The ticket costs a context switch. Who the f*ck does idiotic things like that? It isn't a performance bug. It's a decision, made once per byte, thousands of times, by someone who never stopped to ask what the loop was for.
+
+How did they not die as babies? The task was simple: find a tit and suck. A newborn has one instinct, and it's to close the distance. The person who wrote this loop would have paused every millimeter to file a request asking whether they had arrived. They were likely too stupid to find it, and that's the generous reading. The less generous one is that they found it and checked after every drop.
