@@ -144,7 +144,7 @@ _Part Three was restructured per D50 (2026-10-19): one stage per chapter. Ch 8 i
 - 10.4 Each discipline is taken in a dose measured to the person, small and kept up. [B3] L08 ¶55–58; L10 ¶23–27, ¶44–47; L15 ¶42 (side by side: `kernel` pp. 76–78; `lantern` pp. 50, 55; `light` p. 102)
 - → Emptying ends at the self, the last thing left behind. What follows is no longer the traveller's work. What does God give the emptied heart?
 
-**Ch 11. Adorning: love, the engine.** (old 14, "Love, the engine"; Stage 3 of 4)
+**Ch 11. Adorning: love as the engine.** (old 14, "Love as the engine"; Stage 3 of 4)
 - **Conclusion:** The third stage, adornment, is God's gift to the emptied heart: knowledge and light, and love, which carries the traveller until even love is left at the door.
 - 11.1 Once the heart is emptied, God adorns it with gifts no effort makes, briefly at first. [B3] L07 ¶10, ¶36–39; L10 ¶11–16; L15 ¶20–22, ¶41–43 (added: `inner_secrets` p. 109; `light` p. 48)
 - 11.2 Among those gifts is love, which the Imams asked for, and worship from love is the worship of the free. [B3] L07 ¶10; L11 ¶61–63; L12 ¶38–42, ¶54–56, ¶59–60; L01 ¶27–31 (Nahj 3.222 set beside al-Sadiq's love version, `light` p. 94, FRAMEWORK §8.7; Sahifa p. 656; Kumayl §123–124; `lantern` pp. 58, 88; `kernel` p. 70). Love is among the gifts, not the whole of adornment.

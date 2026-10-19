@@ -1,5 +1,5 @@
 ---
-title: "Adorning: love, the engine"
+title: "Adorning: love as the engine"
 title-ar: ""
 chapter: 11
 ---

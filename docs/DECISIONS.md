@@ -308,9 +308,10 @@ _Append only. Each entry: date, decision, why. To reverse a decision, add a new 
 The user could not see how the two parts, four stages, five disciplines and repentance fitted together. After a Fable review (`reviews/part3-framework-fable-2026-10-19.md`), Part Three is rebuilt as a map and four stages:
 - Ch 8 is the map: four stages, two ours (polishing, emptying) and two God's (adornment, passing away), in a fixed order, none dropped; a table "The road at a glance".
 - Ch 9 = Stage 1, polishing (repentance, the law, people first); Ch 10 = Stage 2, emptying (the five disciplines are its tools); Ch 11 = Stage 3, adornment (God's gifts, among them love); Ch 12 = Stage 4, passing away and the sober return.
-- Chapter titles show the stage: "Polishing: setting out", "Emptying: the five disciplines", "Adorning: love, the engine", "Passing away: losing the self, finding God". Ch 8 keeps "The stages of the journey".
+- Chapter titles show the stage: "Polishing: setting out", "Emptying: the five disciplines", "Adorning: love as the engine", "Passing away: losing the self, finding God". Ch 8 keeps "The stages of the journey".
 - Two fidelity cautions kept in the prose: placing the five disciplines in emptying is the book's synthesis (they are recommended acts aimed at the heart); love is among the gifts of adornment, not the whole of it.
 - Ch 12's point: "seeing only God" → "seeing God in all things while remaining oneself" (held sources: `kernel` p. 60, `light` pp. 57, 63, `forty_hadith` pp. 515–516, `inner_secrets` p. 116).
 - Ch 8 carries no told story: none fits the map; the Sheikh's swimming image goes to Ch 10 §1.
 - The Miʿraj prayer story (#26) stays out (no held source).
-- (user, 2026-10-19) Stage 3 is named "adorning", so the four stage names match: polishing, emptying, adorning, passing away. Ch 11 title: "Adorning: love, the engine". Plain "adornment" may stay where a sentence needs a noun ("the soul's adornment").
+- (user, 2026-10-19) Stage 3 is named "adorning", so the four stage names match: polishing, emptying, adorning, passing away. Ch 11 title: "Adorning: love as the engine". Plain "adornment" may stay where a sentence needs a noun ("the soul's adornment").
+- (user, 2026-10-19) Ch 11 title: "Adorning: love as the engine" (no comma; keeps the meaning that love drives the traveller).

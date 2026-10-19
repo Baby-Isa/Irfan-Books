@@ -13,5 +13,5 @@ The road covers no distance; it removes the veils inside us, in four stages that
 8 · The stages of the journey\
 9 · Polishing: setting out\
 10 · Emptying: the five disciplines\
-11 · Adorning: love, the engine\
+11 · Adorning: love as the engine\
 12 · Passing away: losing the self, finding God
