@@ -95,7 +95,7 @@ The third is watchfulness (*muraqaba*): keeping the heart's attention on God. It
 
 Sleep, death, and watchfulness are three ways of loosening one hold. In sleep the hold slackens for a night, and in watchfulness a person loosens it on purpose. At death it lets go entirely. Each time, the soul reaches the world of images, and at death it stays there.
 
-This changes the picture at the graveside. The dead are in barzakh, and barzakh is the world of images, the middle world the soul enters whenever the body's hold loosens. That world is not a distant room. It is a deeper dimension of the world we are living in, so the dead have gone deeper into our world, not away from it.
+This changes the picture at the graveside. The dead are in barzakh, which is the world of images; it is the middle world the soul enters when the hold of the body loosens. That world is not a distant room. It is a deeper dimension of the world we are living in, so the dead have gone deeper into our world, not away from it.
 
 ## Our deeds give the soul a form
 

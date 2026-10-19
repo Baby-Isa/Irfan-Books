@@ -193,6 +193,68 @@ def dense(s):
 READ_TWICE = []   # long, comma-heavy sentences: reread each and split it unless it is a plain list
 
 
+# ---------------------------------------------------------------- punctuation (TONE 45, D49)
+# Advisory flags for the user's punctuation rules. Each flag is a sentence to look at,
+# not an automatic change: fix by the TONE 45 method (fold, which-clause or participle,
+# semicolon between two full sentences, own sentence, colon rarely), or leave it if it
+# reads well aloud.
+FINITE = re.compile(r"\b(is|are|was|were|be|been|being|has|have|had|does|do|did|can|could|will|would|may|might|must|shall|should|"
+                    r"\w+s|\w+ed)\b")
+ECHO_START = re.compile(r"^(one|a|an|something|someone|somewhere|the kind|the sort|the one)\b", re.I)
+SKIP_TAIL = re.compile(r"^(which|whose|who|whom|where|when|while|and|or|but|nor|so|yet|as|if|though|although|because|he|she|they|we|it|in his|in her|in the sheikh)\b", re.I)
+WH = ("whether", "how", "what", "why", "when", "where", "which", "who", "to", "that", "the", "a", "an", "his", "its", "their", "our")
+
+
+def _clean(s):
+    s = re.sub(r"\[@[^\]]*\]", "", s)
+    s = re.sub(r'"[^"]*"|“[^”]*”', '"…"', s)
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def punct_flags(paras):
+    out = []
+    for _, p in paras:
+        if p.count(":") - len(re.findall(r"\d:\d|p\.\s*\d", p)) > 1:
+            out.append(("COLONS", p[:90] + "…"))
+        for raw in sentences(p):
+            s = _clean(raw)
+            body = s.rstrip(".?!")
+            if "," in body:
+                head, tail = [x.strip() for x in body.rsplit(",", 1)]
+                tw = tail.split()
+                if len(head.split()) < 5:
+                    tw = []                        # an opening phrase ("At many weddings, …"), not a tail
+                verbless = not FINITE.search(" ".join(w for w in tw if w.lower() not in ("this", "is")) if False else tail)
+                if tw and ECHO_START.match(tail) and len(tw) >= 3 and not SKIP_TAIL.match(tail):
+                    out.append(("ECHO", raw))      # "…, one most of us know." / "…, a guide to…"
+                elif tw and (len(tw) >= 6 and not SKIP_TAIL.match(tail) and '"' not in tail and verbless) or \
+                        (len(tw) >= 5 and re.match(r"^(the|his|her|its|their|our|this|that|these|those)\b", tail, re.I)
+                         and not re.match(r"^(the|this|that)\s+\w+\s+(is|are|was|were|has|have)\b", tail, re.I)):
+                    out.append(("TAIL", raw))      # a long verbless phrase hung on the last comma
+            for semi in [m.start() for m in re.finditer(";", body)]:
+                if body.count(";") >= 2:
+                    break                          # a heavy list: semicolons are right there
+                left, right = body[:semi], body[semi + 1:]
+                sub = re.compile(r"^\s*(whether|which|that|because|although|though|when|if|how|while|as|for|to|with|without)\b", re.I)
+                if not (FINITE.search(left) and FINITE.search(right)) or len(right.split()) < 4 or sub.match(right):
+                    out.append(("SEMI-FRAGMENT", raw))
+                else:
+                    out.append(("SEMI-WEIGHT", raw))   # two full sentences: are they equal and mirrored?
+            # lists of three or more with no "and"/"or" before the last item, or no Oxford comma
+            segs = [x.strip() for x in re.split(r",", body)]
+            if len(segs) >= 3:
+                last3 = segs[-3:]
+                firsts = [x.split()[0].lower() if x.split() else "" for x in last3]
+                if (firsts[1] == firsts[2] or (firsts[1] in WH and firsts[2] in WH and firsts[1] == firsts[0])) \
+                        and not re.match(r"^(and|or)\b", last3[-1], re.I):
+                    out.append(("LIST-NO-AND", raw))
+            if re.search(r"\b\w[\w'ʿʾ-]*, [\w'ʿʾ -]+? (and|or) [\w'ʿʾ-]+", body):
+                m = re.search(r"(\b[\w'ʿʾ-]+), ([\w'ʿʾ -]+?) (and|or) ", body)
+                if m and "," not in m.group(2) and len(m.group(2).split()) <= 4:
+                    out.append(("OXFORD?", raw))
+    return out
+
+
 def lingo_hits(paras):
     hits = []
     READ_TWICE.clear()
@@ -301,6 +363,8 @@ def profile(specs):
             print(f"   LINGO {h}")
         for r in READ_TWICE:
             print(f"   READ TWICE? {r}")
+        for kind, sen in punct_flags(paras):
+            print(f"   PUNCT {kind}? {sen[:150]}")
         # Delta is reported, not gated: calibration showed it does not separate
         # drafts from the exemplar with a ~3,300-word reference (VOICE-TEST.md).
         rt = f["read-twice sentences %"]
@@ -668,6 +732,10 @@ if __name__ == "__main__":
         chain(a[1], a[2])
     elif a[0] == "chainscore":
         chain_score(a[1:])
+    elif a[0] == "punct":
+        for spec in a[1:]:
+            for kind, sen in punct_flags([p for p in paragraphs(read_source(spec)) if p[0] == "body"]):
+                print(f"{spec.split('/')[-1][:2]}  {kind:14} {sen}")
     elif a[0] == "openings":
         openings(a[1])
     else:

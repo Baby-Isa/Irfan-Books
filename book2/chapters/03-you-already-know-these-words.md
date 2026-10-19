@@ -8,7 +8,7 @@ chapter: 3
 And my heart enthralled by Your love! [@duas_dua_kumayl, §221]
 :::
 
-These words come near the end of Duʿa Kumayl, the prayer Imam ʿAli (as) taught to Kumayl ibn Ziyad, one of his close disciples. It is a prayer many of us hear on Thursday evenings, the time the Mafatih recommends for it [@mafatih, p. 129]. The line asks God for a heart enthralled by His love.
+These words come near the end of Duʿa Kumayl, the prayer Imam ʿAli (as) taught to Kumayl ibn Ziyad, one of his close disciples. Many of us hear it on Thursday evenings, as the Mafatih recommends [@mafatih, p. 129]. The line asks God for a heart enthralled by His love.
 
 A heart enthralled by God's love is one of the two things ʿirfan seeks. Other prayers we recite ask for the second, knowing God. This chapter shows that we already know these words.
 

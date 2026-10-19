@@ -29,7 +29,7 @@ This book argues that this side of the religion is worth every believer's pursui
 Any believer who prays, fasts, and recites duʿas, and has wondered whether the religion has another dimension. No background is needed; the book is a welcoming, brief introduction, with help on terms built in.
 :::
 
-The argument is addressed to anyone who prays, fasts, and recites the duʿas, and who has wondered whether there is more to these acts than getting them right; whether the religion has another dimension. No knowledge of ʿirfan, of philosophy, or of Arabic is assumed. The book is meant as a welcoming introduction to ʿirfan, a guide to beginning the journey that strives for brevity and clarity. Each chapter opens with a section that details some of the words you'll meet, along with an explanation; all terms are gathered in the glossary at the end. Additional call-out sections are spread throughout with helpful context and short side notes.
+The argument is addressed to anyone who prays, fasts, and recites the duʿas, and who has wondered whether there is more to these acts than getting them right; whether the religion has another dimension. No knowledge of ʿirfan, of philosophy, or of Arabic is assumed. The book is meant as a welcoming introduction to ʿirfan, a guide to beginning the journey that strives for brevity and clarity. Each chapter opens with a section that details some of the words you'll meet, along with an explanation, and all terms are gathered in the glossary at the end. Additional call-out sections are spread throughout with helpful context and short side notes.
 
 ## How the book is built
 
@@ -59,7 +59,7 @@ This book is inspired by a lecture series on Islamic mysticism given by Sheikh M
 
 Turning spoken lectures into a book has called for some editorial adaptation. To suit a wider readership, the book also adds context and explanation to support its main arguments. It draws on a wider literature as well: the words of the Imams in Nahj al-Balagha, al-Sahifa al-Sajjadiyya, and the supplications of the Mafatih; then the great Shia teachers of the path, from Sayyid Haydar Amuli in the fourteenth century to modern scholars such as Mirza Jawad Maliki Tabrizi, ʿAllama Tabatabaʾi, Imam Khomeini, and Ayatullah Mutahhari. Every source is given in a footnote, for readers who want to go further.
 
-The finer questions of ʿirfan remain an ongoing conversation among our *ʿulamaʾ*: whether a seeker needs a guide from the first step, how much solitude is wise, how far ordinary believers can travel. Where they differ, this book presents each view with neutrality.
+The finer questions of ʿirfan remain an ongoing conversation among our *ʿulamaʾ*: whether a seeker needs a guide from the first step, how much solitude is wise, and how far ordinary believers can travel. Where they differ, this book presents each view with neutrality.
 
 ## What you can expect
 

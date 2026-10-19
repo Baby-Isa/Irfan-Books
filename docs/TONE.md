@@ -254,16 +254,19 @@ Read only the first sentence of every paragraph in order. If the argument does n
 **Calibration (Ch 1, the approved chapter, 18 Oct):** 41 paragraphs: 73% forward, 3 breathers, 4 recaps, 4 drag (10%). The auditor is stricter than the user: two of the four were caveats he values (the law is not bypassed; the friends of God live in the world). So the guide is **forward 70–85%, drag at most about 10% of paragraphs**, and a drag paragraph is a candidate to look at, not an automatic cut.
 **Don't:** cut a short breather to make the ladder neater, or let breathers bunch (two together are drag); more than about one per section reads as padding.
 
-### 45. Punctuation that carries weight (user, 2026-10-18; from his style profile)
-**Do:**
-- **Colons sparingly (user, 19 Oct: "I try to not have too many colons; I don't feel they are elegant").** At most about one per paragraph. Prefer a subordinate clause ("which…", "whose…"), a participle ("recited by…") or a semicolon between two full sentences; keep the colon for the heaviest definition.
-- **Colon for a heavy definition.** When a term is followed at once by what it means, use a colon, not a comma: "Such powers are *shirk*: the sin of setting up a partner beside God." (When the English comes first, the Arabic still goes in brackets, rule 42.)
-- **No weak trailing comma.** Don't hang a long description off the end of a sentence after a comma; build it into the sentence. Before: "it is easy to picture somewhere far off, a waiting room a long way from the living." After: "we picture it as a waiting room far from the living."
-- **Semicolons only between two full sentences** of equal weight: "The human soul is the whole of creation in small; it is a compact copy of everything that exists." Never before a fragment.
-- **Heavy lists:** introduce with a colon and separate long items (or items with their own commas) with semicolons: "This chapter sets out the soul and its worlds: which worlds creation holds; how the soul passes into them; how what we do gives the soul its form there; and why that form is, by God's grace, still in our hands." Short lists keep commas.
-- **Anchor the abstract:** a concrete noun, not "somewhere" or "something".
-- **No hollow openers** ("it is easy to see", "it is worth noting"); say who sees: "we".
-- **No dashes** (already the house style).
-- **One vivid word is welcome** where it sharpens the meaning: "far from the living realm" (user, 18 Oct) says in one word that the worlds are distinct, and makes "the living" unambiguous. The awe comes from the content, not the wording.
-**Don't:** stack echoes that repeat one image ("a distant waiting room, a far-off place a long way from the living"); it adds words, not meaning (LINGO). Keep the diction plain; the punctuation, not grand words, gives the weight.
+### 45. Punctuation that carries weight (user, 2026-10-18/19; D49)
+The user's punctuation rules, agreed rule by rule. `python3 build/voice.py punct FILE` (and every `profile`) flags the sentences to look at; fix each flag by the method below, or leave it if it reads well aloud. Writers run it before replying; editors check it.
 
+**The method for a sentence that sags at the end.** Try, in order: (1) **fold** the tail into the sentence ("to work the wonders of the saints (*karamat*) or the miracles of the prophets (*muʿjizat*)"); (2) a **which/whose clause** or a **participle** ("…open with God's glorification, recited by the Prophet ﷺ every night before sleeping"); (3) a **semicolon** between two full sentences ("The dead are in barzakh, which is the world of images; it is the middle world the soul enters when the hold of the body loosens"); (4) its **own sentence**; (5) a **colon**, rarely. Short tails (five words or fewer) that read well stay: "Many of us hear it on Thursday evenings, as the Mafatih recommends." A normal which/whose clause is not a tail.
+
+**Echoes (flag ECHO).** Never close a sentence by renaming what it has just said ("a verse often recited at weddings, one most of us know"; "an introduction to ʿirfan, a guide to beginning the journey"). Make one idea carry the other: "At many weddings, someone recites a verse most of us know." A gloss that defines a term ("the Munajat Shaʿbaniyyah, a prayer of the month of Shaʿban") is not an echo; keep it short.
+
+**Semicolons (SEMI-WEIGHT, SEMI-FRAGMENT).** Only between two full sentences of equal weight that mirror each other: "The human soul is the whole of creation in small; it is a compact copy of everything that exists." Never before a fragment or a "whether/which/that" clause. Where the second half is an aside or a next step, use ", and" or a full stop: "…along with an explanation, and all terms are gathered in the glossary." In a heavy list (long items, or items with their own commas), introduce with a colon and separate with semicolons; short lists keep commas.
+
+**Colons (COLONS).** Sparingly: about one per paragraph at most (user: "I don't feel they are elegant"). Keep the colon for the heaviest definition ("Such powers are *shirk*: the sin of setting up a partner beside God").
+
+**Lists and the Oxford comma (OXFORD?, LIST-NO-AND).** Every list of three or more has "and" or "or" before the last item, with a comma before it: "whether a seeker needs a guide from the first step, how much solitude is wise, and how far ordinary believers can travel."
+
+**Variety: a fronted phrase, sprinkled.** The user likes "Recited by the Prophet ﷺ every night before sleeping, the Musabbihat…". Use it only when the reader already knows the subject (never in the sentence that defines it), the phrase is about ten words or fewer and adds a fact, it truly describes the subject that follows, and the sentences around it start the usual way. Two or three per chapter at most, never two in one section.
+
+**Words.** Anchor the abstract in a concrete noun, not "somewhere". No hollow openers ("it is easy to see"); say "we". One vivid word is welcome where it sharpens the meaning ("far from the living realm"); an echo phrase that repeats an image is not. The awe comes from the content, not the wording. No dashes.

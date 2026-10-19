@@ -8,7 +8,7 @@ chapter: 1
 There are indeed signs in that for a people who reflect.
 :::
 
-There is a verse often recited at weddings, one most of us know. In Surah al-Rum, God says that He created spouses for us from among ourselves "that you may take comfort in them", and that He ordained "affection and mercy" between husband and wife (Q 30:21). The verse ends with the words above: this is a sign for a people who reflect. Whether a person sees it depends on something in the person doing the looking. That something, and why it is worth seeking more than the minimum, is what this chapter sets out.
+At many weddings, someone recites a verse most of us know. In Surah al-Rum, God says that He created spouses for us from among ourselves "that you may take comfort in them", and that He ordained "affection and mercy" between husband and wife (Q 30:21). The verse ends with the words above: this is a sign for a people who reflect. Whether a person sees it depends on something in the person doing the looking. That something, and why it is worth seeking more than the minimum, is what this chapter sets out.
 
 ::: {.words}
 *ʿIrfan*: knowing God from close · *maʿrifah*: knowledge of God · *ʿarif* (plural *ʿurafaʾ*): one who knows God · *muqarrabun*: those brought near to God · *awliyaʾ Allah*: the friends of God · *shirk*: setting up a partner beside God

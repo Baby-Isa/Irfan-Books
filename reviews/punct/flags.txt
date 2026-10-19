@@ -1,0 +1,113 @@
+00  ECHO           These words come from the Munajat Shaʿbaniyyah, a prayer many of us recite in the month of Shaʿban.
+00  OXFORD?        "Mysticism" suggests mystery, something hidden and hard to pin down.
+00  SEMI-FRAGMENT  The argument is addressed to anyone who prays, fasts, and recites the duʿas, and who has wondered whether there is more to these acts than getting them right; whether the religion has another dimension.
+00  ECHO           The book is meant as a welcoming introduction to ʿirfan, a guide to beginning the journey that strives for brevity and clarity.
+00  SEMI-WEIGHT    The friends of God return to people, with God; every soul returns to God.
+00  TAIL           To suit a wider readership, the book also adds context and explanation to support its main arguments.
+00  SEMI-WEIGHT    It draws on a wider literature as well: the words of the Imams in Nahj al-Balagha, al-Sahifa al-Sajjadiyya, and the supplications of the Mafatih; then the great Shia teachers of the path, from Sayyid Haydar Amuli in the fourteenth century to modern scholars such as Mirza Jawad Maliki Tabrizi, ʿAllama Tabatabaʾi, Imam Khomeini, and Ayatullah Mutahhari.
+00  OXFORD?        The first is that ʿirfan is never pursued for the sake of powers, such as reading minds or foreseeing future events.
+00  SEMI-WEIGHT    The inner path does not go around the law or rise above it; it is the law lived from the inside.
+00  OXFORD?        For those who wish to go further, each chapter and the epilogue offer small, practical steps for bringing this into daily life alongside the wajibat.
+01  SEMI-WEIGHT    Some jurists and activists hold that the obligatory acts are the whole of the religion; anything beyond them, they say, is made up by the whims and wishes of certain mystics.
+01  TAIL           Four times in a row, the Qur'an makes the same point.
+01  LIST-NO-AND    The signs are all around us: in marriage, in the people we meet, in sleep, in work, in the weather.
+01  TAIL           For the avoidance of doubt, this invitation from the Qur'an is not an invitation to circumvent the law or to abandon the prescribed wajibat.
+01  SEMI-WEIGHT    We have heard these verses many times, and we accept that there are signs in them because the Qur'an says so; yet accepting that a sign exists is not the same as perceiving it.
+01  TAIL           ʿAllama Tabatabaʾi explains what passing by a sign means; a person who sees a red light thinks of the danger it warns of, not of the colour and shape of the lamp.
+01  SEMI-WEIGHT    ʿAllama Tabatabaʾi explains what passing by a sign means; a person who sees a red light thinks of the danger it warns of, not of the colour and shape of the lamp.
+01  OXFORD?        ʿAllama Tabatabaʾi explains what passing by a sign means; a person who sees a red light thinks of the danger it warns of, not of the colour and shape of the lamp.
+01  TAIL           Eyes and ears take in the surface of things, whereas inside a human being there should be something more: a faculty, which animals lack, that turns what the senses take in into understanding.
+01  SEMI-WEIGHT    God is not withholding signs; we are failing to receive them.
+01  SEMI-WEIGHT    A faculty that exists but has rusted can be repaired; one that is absent cannot be made fit for purpose.
+01  ECHO           Once the inner faculty begins to work, the journey begins, and it does not end; it is, in the Sheikh's words, a path that "has a beginning and no end".
+01  SEMI-WEIGHT    Once the inner faculty begins to work, the journey begins, and it does not end; it is, in the Sheikh's words, a path that "has a beginning and no end".
+01  SEMI-WEIGHT    The prophets and the Imams (as) are a class of their own; the ʿurafaʾ are ordinary believers who see more than the rest.
+01  SEMI-WEIGHT    A heart trembles only at the mention of someone it has some experience of; a name means little to a person who does not know whom it names.
+01  SEMI-WEIGHT    Tawhid is simple to say and hard to grasp; the intellect alone cannot reach its depths, and only the awakened soul can.
+01  SEMI-FRAGMENT  Other people look at the surface of the world; the friends of God look at what lies inside it.
+01  SEMI-WEIGHT    There is nothing wrong with pursuing material wealth in this life; the trouble is being solely occupied with it.
+01  SEMI-WEIGHT    God is not far from anyone; being brought near means that a veil between the person and God has been removed, so that they understand far more.
+01  OXFORD?        The second gift is a different kind of life, promised in Surah al-Nahl to whoever acts righteously, man or woman, while having faith.
+01  SEMI-WEIGHT    The first three ranks are beyond us; the fourth is a doorway.
+01  OXFORD?        On the other side of that repair lie nearness to God, a good life, and freedom from fear and grief.
+01  COLONS         Pursuing ʿirfan means training the soul, and soul-training is not unique to Islam. People …
+01  OXFORD?        Some train the soul in an attempt to gain power: to be in two places at once, to see the future or the past, or to master the hidden world of the soul.
+01  OXFORD?        Islamic mysticism is about catching the signs of Allah: becoming sensitive to them, and learning to hear and see.
+01  COLONS         With powers set aside, what remains is the definition Sheikh Bahmanpour gives at the end o…
+01  TAIL           It seeks two things: maʿrifah, the knowledge of God; and the love of God.
+01  SEMI-FRAGMENT  It seeks two things: maʿrifah, the knowledge of God; and the love of God.
+02  SEMI-WEIGHT    We learn the rulings of fiqh, the beliefs the scholars set out, and the history of the Prophet ﷺ and the Imams (as); all of it is knowledge about God.
+02  OXFORD?        It reaches us from outside, through the senses or by reasoning.
+02  TAIL           Almost everything we learn from teachers and books is of this kind, including what we know about God.
+02  SEMI-WEIGHT    It does not come from outside and needs no concept to carry it; it is with the soul already.
+02  OXFORD?        Hunger is another, and so are pain and anxiety.
+02  COLONS         Knowledge by presence is what the mystics are after. Sheikh Bahmanpour gives a definition …
+02  SEMI-FRAGMENT  A person does not try to understand their hunger; they arrive at it and feel it.
+02  TAIL           Acquired knowledge is the work of reason (ʿaql), the faculty by which we understand and argue.
+02  COLONS         Reason still has work it can do. It can argue that God exists, and it can say what He is n…
+02  SEMI-FRAGMENT  We cannot know God's essence; what ʿirfan seeks is His attributes, known positively: God as the Merciful, the Compassionate, and the Forgiving.
+02  COLONS         We have knowledge by presence only of what is within us: our own self and some of its stat…
+02  TAIL           If God is to be known, and not only known about, the knowing must happen within the soul.
+02  OXFORD?        Allah's light is everywhere, in the heavens and in the earth, and He is with us wherever we are.
+02  TAIL           If the light is everywhere and the heart is closed, the path to knowing God is the opening of the heart.
+02  SEMI-FRAGMENT  A learning that does not bring faith with it, he writes, "is the greatest of veils"; yet "one has to approach a veil in order to tear it into shreds".
+03  ECHO           These words come near the end of Duʿa Kumayl, the prayer Imam ʿAli (as) taught to Kumayl ibn Ziyad, one of his close disciples.
+03  TAIL           Duʿa ʿArafah says He has already lit that light in the hearts of His intimate servants, the friends of God (awliyaʾ).
+03  OXFORD?        The full text, in Arabic and English, is given in the Appendix.
+03  TAIL           Said on nights we keep, these words become familiar ones.
+03  COLONS         Sheikh Bahmanpour still recommends the Munajat to every listener, to be recited in Shaʿban…
+04  OXFORD?        Surah al-Shams opens with a run of oaths: by the sun and the moon, the day and the night, the sky and Him who built it, and the earth and Him who spread it.
+04  TAIL           The journey to Him is a sharpening of the heart's sight, not a movement from one place to another.
+04  OXFORD?        Every soul will take part in this meeting, believer or unbeliever, because every soul can perceive God.
+05  COLONS         The dead are near because the next world is not far away. Creation holds more than one wor…
+05  SEMI-WEIGHT    At death the soul does not travel away; it goes into a deeper world.
+05  SEMI-WEIGHT    Let's start with a claim of the mystics: the human soul is the whole of creation in small; it is a compact copy of everything that exists.
+05  TAIL           These make up the first world, the material world (ʿalam al-mulk).
+05  OXFORD?        It is part of God's creation, and it exists whether or not anyone imagines it.
+05  TAIL           The intellect holds the third kind of thing: meanings, with no shape and no matter.
+05  OXFORD?        The intellect holds the third kind of thing: meanings, with no shape and no matter.
+05  ECHO           Creation therefore has three worlds that the soul mirrors, one for each of its ways of knowing.
+05  OXFORD?        Whatever is in the world of intellects is reflected first in the world of images, which has the shape and colour of matter without its weight.
+05  OXFORD?        The unseen worlds surround this one, but in depth and not in distance: each is a deeper dimension of the world we are in now.
+05  SEMI-FRAGMENT  It does not leave the body completely; if it did, we would be dead.
+05  TAIL           When the appointed time comes, the soul sets the body down.
+05  TAIL           ʿAllama Tabatabaʾi said that the more he kept up his muraqaba, the more distinctly he saw into that world.
+05  SEMI-WEIGHT    The dead are in barzakh, which is the world of images; it is the middle world the soul enters when the hold of the body loosens.
+05  OXFORD?        In this world, though, the change is slow and small, and it does not deform the body.
+05  TAIL           If some rewards are the deeds themselves, the form a soul meets after death is, in part, the work of its own deeds.
+05  COLONS         The verse admits what this self does and names what overcomes it: the mercy of God. The pu…
+05  TAIL           This is the second state, the self that blames itself (nafs al-lawwama).
+05  TAIL           A self that keeps up its self-blame comes in time to the third state, the self at peace (nafs al-mutmaʾinna).
+05  TAIL           In Arabic, the verse's word for finding rest comes from the same root as mutmaʾinna, the name of the self at peace.
+05  LIST-NO-AND    In Arabic, the verse's word for finding rest comes from the same root as mutmaʾinna, the name of the self at peace.
+05  OXFORD?        Both loosen the body's hold on the soul, as sleep and watchfulness do.
+05  TAIL           The drive to begin is itself God's grace, the mercy that Surah Yusuf named.
+06  OXFORD?        Most of the masters of the path in Islam, Shia and Sunni alike, taught the opposite.
+06  TAIL           The path leads in turn to the truth (haqiqa), the reality that is seen once the path has been walked.
+06  TAIL           As service to God (khidma), the prayer belongs to the law.
+06  TAIL           Sheikh Bahmanpour gives an image for this, which he credits to Najm al-Din Kubra, the head of one of the Sufi orders.
+06  ECHO           If the truth is reached only through the law, someone who claims the truth while setting the law aside has left the ship.
+06  ECHO           The lie is in the claim to be a true ʿarif, one who knows God.
+06  ECHO           When he asked what had happened, one of them said he had seen the light of God.
+06  TAIL           In the remark the Sheikh recalls, the harder discipline is practising the law without a break.
+06  OXFORD?        The lasting change comes from that keeping, not from any wonder or experience, and the real ʿarif is the one who keeps the law continuously.
+06  TAIL           We can close our eyes and keep our tongue still, yet the moment we turn towards God, the thought about the car arrives.
+06  COLONS         That habit is built inside the law. In Forty Hadith he names two things that bring attenti…
+07  TAIL           The advice can be as exact as which words of remembrance suit that stage, Allahu akbar or la ilaha illa Allah.
+07  OXFORD?        The advice can be as exact as which words of remembrance suit that stage, Allahu akbar or la ilaha illa Allah.
+07  COLONS         What a beginner does need is narrower: a teacher who says which of the practices handed do…
+07  TAIL           Once the traveller reaches the higher stations, that teacher's company is no longer needed.
+07  TAIL           If a guide is needed, the next question is what authority he holds.
+07  TAIL           Through that chain, the orders hold, the Prophet's inner knowledge passed from heart to heart, from each master to the next.
+07  TAIL           Their chains go back to Imam ʿAli (as), some of them through Imam al-Rida (as), yet they do not hold, as Shia do, that the knowledge passed by inheritance to the Imams.
+07  OXFORD?        In an order, a disciple (murid) submits to the master (shaykh) completely, whatever he says and whatever he does.
+07  ECHO           They find an instructor for themselves, one who comes from no order and holds no special licence to instruct.
+07  ECHO           What they look for is a person they can trust, someone to whom "you could entrust your soul".
+07  OXFORD?        ʿAllama Tabatabaʾi's two kinds of teacher, the general and the special, show where such an instructor stands.
+07  OXFORD?        He trained several pupils who became guides in turn, among them Qadi's teacher and Imam Khomeini's first formal teacher in gnosis and ethics.
+07  OXFORD?        Of the many Sufi orders, Tabatabaʾi grants that two or three are Shia.
+07  OXFORD?        The guide the last section described, standing under the Imams and in no order, is therefore one Shia can name in recent generations.
+07  COLONS         Wonders cannot answer it either. Tabatabaʾi's lectures list what cannot show that a person…
+07  SEMI-FRAGMENT  Keeping the law rules a false guide out, but it does not show how far a true one has travelled; time shows that.
+07  TAIL           Where it is hard to inquire into a teacher's state, the traveller should trust in God and weigh whatever the teacher says or prescribes "in the light of the Book of God and the Sunnah of the Messenger of Allah and the practice of the Immaculate Imams".
+07  TAIL           It is recorded in Lantern of the Path, the book attributed to Imam al-Sadiq (as).
