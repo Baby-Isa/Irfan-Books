@@ -8,7 +8,7 @@
 
 ## Chapter points
 - **8.1** God is already near, so the journey covers no distance; it removes veils inside us.
-- **8.2** The veils come off in four stages: we polish the self and empty the heart, then God adorns it and the self passes away.
+- **8.2** The veils come off in four stages: we polish the self and empty the heart, then God adorns it and the false self is annihilated.
 - **8.3** Each stage rests on the one before, and none is ever dropped.
 
 ## Sections
@@ -16,7 +16,7 @@
    - **Point:** God is already near, so the journey covers no distance; it removes veils inside us.
    - **Paragraph points:** the proof ladder in `docs/ladders/08.md`, §1.
 2. **Four stages: two ours, two God's** [8.2]
-   - **Point:** The veils come off in four stages: we polish the self and empty the heart, then God adorns it and the self passes away.
+   - **Point:** The veils come off in four stages: we polish the self and empty the heart, then God adorns it and the false self is annihilated.
    - **Paragraph points:** the proof ladder in `docs/ladders/08.md`, §2.
 3. **In order, and none dropped** [8.3]
    - **Point:** Each stage rests on the one before, and none is ever dropped.

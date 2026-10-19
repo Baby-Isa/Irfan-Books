@@ -30,7 +30,7 @@ The Parts follow the reader's journey: why travel → getting ready → travelli
 |---|---|---|---|
 | **B1** | ʿIrfan is worth pursuing. The Quran invites more than the minimum, which is knowing God and not only knowing about Him; that knowing is reached by purifying the heart; and our own prayers already ask for it. | Why travel? | One: The Call (Ch 1–3) |
 | **B2** | The journey runs through the self, which is deeper than it looks; the shariʿa is its boundary; and a tested guide is its companion. | What do I need before I set out? | Two: Getting ready (Ch 4–7) |
-| **B3** | It is walked in a known order: four stages from repentance to the loss of the false self, two ours (polishing, emptying) and two God's (adornment, passing away), each resting on the one before and none dropped. | How is it walked? | Three: The Road (Ch 8–12) |
+| **B3** | It is walked in a known order: four stages from repentance to the loss of the false self, two ours (polishing, emptying) and two God's (adornment, annihilation), each resting on the one before and none dropped. | How is it walked? | Three: The Road (Ch 8–12) |
 | **B4** | Others have walked it. It is rooted in the teachings of the Qur'an, the Prophet ﷺ, and the Imams from his Ahl al-Bayt; some travellers lost their footing in ecstasy while the sober reached the end; and Shia masters keep the path without a Sufi institution of authority, because authority belongs to the Imam. | Who else is on this road, and where did they arrive? | Four: Fellow travellers (Ch 13–15) |
 | **B5** | Not the road but God: the friends of God return to people, with God; every soul returns to God; ʿirfan is making that return willingly, now. | What is the road for? | Five: The Destination (Ch 16–17) |
 
@@ -125,7 +125,7 @@ _Part Three was restructured per D50 (2026-10-19): one stage per chapter. Ch 8 i
 **Ch 8. The stages of the journey.** (old 11, "The stages of the first journey"; the map, no stage in the title)
 - **Conclusion:** Since God is already near (4), the journey covers no distance: it removes veils in four stages, two ours and two God's, each resting on the one before and none ever dropped.
 - 8.1 God is already near, so the journey covers no distance; it removes veils inside us. [B3] L07 ¶4, ¶59; L08 ¶3–10; L09 ¶73–74; L10 ¶21 (full treatment; seeded in 4.3, D26; Q 50:16)
-- 8.2 The veils come off in four stages: we polish the self and empty the heart, then God adorns it and the self passes away. [B3] L07 ¶10–13, ¶22, ¶36–37, ¶57–59; L09 ¶2–3 (the stages' names are the lecturer's framing; substance in `inner_secrets` pp. 108–110, 195). The table "The road at a glance" shows the stages, whose act each is, and the chapter that takes each.
+- 8.2 The veils come off in four stages: we polish the self and empty the heart, then God adorns it and the false self is annihilated. [B3] L07 ¶10–13, ¶22, ¶36–37, ¶57–59; L09 ¶2–3 (the stages' names are the lecturer's framing; substance in `inner_secrets` pp. 108–110, 195). The table "The road at a glance" shows the stages, whose act each is, and the chapter that takes each.
 - 8.3 Each stage rests on the one before, and none is ever dropped. [B3] L07 ¶13, ¶21–22, ¶37, ¶55; L09 ¶70–75 (box: Ibn Sina's ladder of stations keeps the same order, L15 ¶3–59; analogies are the lecturer's; `light` pp. 45–50)
 - → The first stage begins with a step any believer can take. What is it?
 
@@ -151,11 +151,11 @@ _Part Three was restructured per D50 (2026-10-19): one stage per chapter. Ch 8 i
 - 11.3 Love too is a means, so at the Beloved even love is left behind. [B3] L12 ¶59–60 (added: `light` pp. 45, 95; `forty_hadith` p. 89)
 - → With even love left behind, what remains of the traveller before God?
 
-**Ch 12. Passing away: losing the self, finding God.** (old 15, "Losing the self, finding God"; Stage 4 of 4) **The crescendo of the book.**
+**Ch 12. Annihilating: losing the self, finding God.** (old 15, "Losing the self, finding God"; Stage 4 of 4) **The crescendo of the book.**
 - **Conclusion:** In the fourth stage, love ends in losing the false self before God's glory, and in coming back sober, seeing God in all things while remaining oneself.
-- 12.1 In passing away the traveller loses the sense of self before God's glory; he neither ceases to exist nor becomes God, so what is lost is a false self. [B3] L07 ¶41–63; L09 ¶3–9 (added: `kernel` pp. 14–15; `light` p. 63)
-- 12.2 Passing away comes in three degrees, in action, in attributes and in essence, each the lived truth of words we already say. [B3] L09 ¶52–69 (added: `inner_secrets` pp. 113–117; `light` pp. 107–108). The climax of the chapter and of Part Three.
-- 12.3 Passing away is a beginning, not an end: the healthy outcome is to come back to oneself, sober, seeing God and creation together. [B3] L09 ¶20–50; L07 ¶64 (added: `forty_hadith` pp. 515–516; `inner_secrets` p. 116; `light` pp. 57, 102; `kernel` p. 60). Dangers are stated as principles. The chapter ends on Imam ʿAli's "I did not see a thing without beholding God…" (`forty_hadith` p. 516). Bayazid and Junayd are named in a line, with a pointer to Ch 14.
+- 12.1 In annihilation the traveller loses the sense of self before God's glory; he neither ceases to exist nor becomes God, so what is lost is a false self. [B3] L07 ¶41–63; L09 ¶3–9 (added: `kernel` pp. 14–15; `light` p. 63)
+- 12.2 Annihilation comes in three degrees, in action, in attributes and in essence, each the lived truth of words we already say. [B3] L09 ¶52–69 (added: `inner_secrets` pp. 113–117; `light` pp. 107–108). The climax of the chapter and of Part Three.
+- 12.3 Annihilation is a beginning, not an end: the healthy outcome is to come back to oneself, sober, seeing God and creation together. [B3] L09 ¶20–50; L07 ¶64 (added: `forty_hadith` pp. 515–516; `inner_secrets` p. 116; `light` pp. 57, 102; `kernel` p. 60). Dangers are stated as principles. The chapter ends on Imam ʿAli's "I did not see a thing without beholding God…" (`forty_hadith` p. 516). Bayazid and Junayd are named in a line, with a pointer to Ch 14.
 - → Others have walked this far. Where did the road come from, and who walked it first?
 
 ### Part Four: Fellow travellers (B4). Who else is on this road, and where did they arrive?

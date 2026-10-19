@@ -315,3 +315,4 @@ The user could not see how the two parts, four stages, five disciplines and repe
 - The Miʿraj prayer story (#26) stays out (no held source).
 - (user, 2026-10-19) Stage 3 is named "adorning", so the four stage names match: polishing, emptying, adorning, passing away. Ch 11 title: "Adorning: love as the engine". Plain "adornment" may stay where a sentence needs a noun ("the soul's adornment").
 - (user, 2026-10-19) Ch 11 title: "Adorning: love as the engine" (no comma; keeps the meaning that love drives the traveller).
+- (user, 2026-10-19) Stage 4 is named "annihilating" (noun "annihilation", the held translations' word for *fanaʾ*), so the stage names read polishing, emptying, adorning, annihilating. Ch 12 title: "Annihilating: losing the self, finding God"; file `12-annihilating.md`.

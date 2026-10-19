@@ -80,7 +80,7 @@ _One "slide" per chapter. The heading is the chapter title. The subheading is th
 ### 8. The stages of the journey
 **Since God is already near, the journey covers no distance: it removes veils in four stages, two ours and two God's, each resting on the one before and none ever dropped.**
 - God is already near, so the journey covers no distance; it removes veils inside us.
-- The veils come off in four stages: we polish the self and empty the heart, then God adorns it and the self passes away.
+- The veils come off in four stages: we polish the self and empty the heart, then God adorns it and the false self is annihilated.
 - Each stage rests on the one before, and none is ever dropped. A box shows Ibn Sina's ladder keeping the same order.
 
 ### 9. Polishing: setting out
@@ -102,11 +102,11 @@ _One "slide" per chapter. The heading is the chapter title. The subheading is th
 - Among those gifts is love, which the Imams asked for, and worship from love is the worship of the free.
 - Love too is a means, so at the Beloved even love is left behind.
 
-### 12. Passing away: losing the self, finding God (the crescendo)
+### 12. Annihilating: losing the self, finding God (the crescendo)
 **In the fourth stage, love ends in losing the false self before God's glory, and in coming back sober, seeing God in all things while remaining oneself.**
-- In passing away the traveller loses the sense of self before God's glory; he neither ceases to exist nor becomes God, so what is lost is a false self.
-- Passing away comes in three degrees, in action, in attributes and in essence, each the lived truth of words we already say.
-- Passing away is a beginning, not an end: the healthy outcome is to come back to oneself, sober, seeing God and creation together.
+- In annihilation the traveller loses the sense of self before God's glory; he neither ceases to exist nor becomes God, so what is lost is a false self.
+- Annihilation comes in three degrees, in action, in attributes and in essence, each the lived truth of words we already say.
+- Annihilation is a beginning, not an end: the healthy outcome is to come back to oneself, sober, seeing God and creation together.
 
 ---
 
