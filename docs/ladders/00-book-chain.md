@@ -1,6 +1,6 @@
 # The book's argument as a proof (headline chain)
 
-_D48 (user, 2026-10-18): the proof-style ladder is the new model. Each line uses only what earlier lines established. One line per chapter; each Part ends in its book point; the five book points give the thesis. Proposed 2026-10-18; awaiting the user's approval. On approval, `docs/ARGUMENT.md` and `docs/STORYLINE.md` take these wordings._
+_D48 (user, 2026-10-18): the proof-style ladder is the new model. Each line uses only what earlier lines established. One line per chapter; each Part ends in its book point; the five book points give the thesis. Approved 2026-10-18; Part Three lines (Ch 8–12, B3) revised and approved 2026-10-19 (D50). On approval, `docs/ARGUMENT.md` and `docs/STORYLINE.md` take these wordings._
 
 **Question the book answers:** is there more to the religion than the obligations, and if so, how does a believer reach it safely?
 
@@ -18,12 +18,12 @@ _D48 (user, 2026-10-18): the proof-style ladder is the new model. Each line uses
 - **B2, therefore:** the journey runs through the self, inside the law, beside a tested guide.
 
 ## Part Three: The Road. How is it walked?
-8. **Ch 8.** Since God is already near (4), the journey covers no distance: it removes veils, in four stages, in order.
-9. **Ch 9.** The first stage begins with repentance, open to anyone after any sin, and with putting things right with people.
-10. **Ch 10.** Once the soul has turned, five disciplines loosen the body's hold on it (5), each in a measured dose.
-11. **Ch 11.** Discipline alone runs dry; love carries the traveller on, until even love is left at the door.
-12. **Ch 12.** Love ends in losing the false self before God's glory, and in coming back sober, seeing only God while remaining oneself.
-- **B3, therefore:** the road is walked in a known order, from repentance to the loss of the false self.
+8. **Ch 8.** Since God is already near (4), the journey covers no distance: it removes veils in four stages, two ours and two God's, each resting on the one before and none ever dropped.
+9. **Ch 9.** The first stage, polishing, begins with repentance, open to anyone after any sin, and is kept by the law, whose first demand is putting things right with people.
+10. **Ch 10.** The second stage, emptying, clears the heart of everything but God, and the five disciplines are its tools, each in a measured dose.
+11. **Ch 11.** The third stage, adornment, is God's gift to the emptied heart: knowledge and light, and love, which carries the traveller until even love is left at the door.
+12. **Ch 12.** In the fourth stage, love ends in losing the false self before God's glory, and in coming back sober, seeing God in all things while remaining oneself.
+- **B3, therefore:** the road is walked in a known order, four stages from repentance to the loss of the false self, two ours and two God's.
 
 ## Part Four: Fellow travellers. Who else is on this road, and where did they arrive?
 13. **Ch 13.** This road began in the Qur'an, the Prophet and the Imams; the early seekers walked it in the Imams' orbit, and below them.

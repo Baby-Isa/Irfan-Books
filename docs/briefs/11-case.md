@@ -1,7 +1,7 @@
 # Chapter 11: Case brief
 
-**Status:** draft v2, Gate A (2026-10-19; restructured as one stage per chapter, map in `docs/ladders/08.md`). Ladder: `docs/ladders/11.md`. Built from `docs/outline/part-3.md` (approved outline), whose quote ledger, sources and cuts still apply except where the ladder's "Changes from the outline" says otherwise.
-**Title:** Love, the engine
+**Status:** approved 2026-10-19 (user: "go ahead and write those chapters"), v2, Gate A (2026-10-19; restructured as one stage per chapter, map in `docs/ladders/08.md`). Ladder: `docs/ladders/11.md`. Built from `docs/outline/part-3.md` (approved outline), whose quote ledger, sources and cuts still apply except where the ladder's "Changes from the outline" says otherwise.
+**Title:** Adornment: love, the engine
 **Serves:** B3, Part Three "The Road" (`docs/ARGUMENT.md`; `docs/ladders/00-book-chain.md`)
 
 **Conclusion (one sentence the chapter proves):** The third stage, adornment, is God's gift to the emptied heart: knowledge and light, and love, which carries the traveller until even love is left at the door.

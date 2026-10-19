@@ -1,7 +1,7 @@
 # Chapter 9: Case brief
 
-**Status:** draft v2, Gate A (2026-10-19; restructured as one stage per chapter, map in `docs/ladders/08.md`). Ladder: `docs/ladders/09.md`. Built from `docs/outline/part-3.md` (approved outline), whose quote ledger, sources and cuts still apply except where the ladder's "Changes from the outline" says otherwise.
-**Title:** Setting out
+**Status:** approved 2026-10-19 (user: "go ahead and write those chapters"), v2, Gate A (2026-10-19; restructured as one stage per chapter, map in `docs/ladders/08.md`). Ladder: `docs/ladders/09.md`. Built from `docs/outline/part-3.md` (approved outline), whose quote ledger, sources and cuts still apply except where the ladder's "Changes from the outline" says otherwise.
+**Title:** Polishing: setting out
 **Serves:** B3, Part Three "The Road" (`docs/ARGUMENT.md`; `docs/ladders/00-book-chain.md`)
 
 **Conclusion (one sentence the chapter proves):** The first stage, polishing, begins with repentance, open to anyone after any sin, and is kept by the law, whose first demand is putting things right with people.

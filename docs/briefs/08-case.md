@@ -1,6 +1,6 @@
 # Chapter 8: Case brief
 
-**Status:** draft v2, Gate A (2026-10-19; restructured as one stage per chapter, map in `docs/ladders/08.md`). Ladder: `docs/ladders/08.md`. Built from `docs/outline/part-3.md` (approved outline), whose quote ledger, sources and cuts still apply except where the ladder's "Changes from the outline" says otherwise.
+**Status:** approved 2026-10-19, v2, Gate A (2026-10-19; restructured as one stage per chapter, map in `docs/ladders/08.md`). Ladder: `docs/ladders/08.md`. Built from `docs/outline/part-3.md` (approved outline), whose quote ledger, sources and cuts still apply except where the ladder's "Changes from the outline" says otherwise.
 **Title:** The stages of the journey
 **Serves:** B3, Part Three "The Road" (`docs/ARGUMENT.md`; `docs/ladders/00-book-chain.md`)
 
@@ -24,7 +24,7 @@
 
 **Words you'll meet:** *hijab* · *suluk* / *salik* · *tajliya* · *takhliya* · *tahliya* · *fanaʾ*
 **Boxes:** §2 "The road at a glance" (the four-stage table in the ladder). §3 History box, "A philosopher's ladder": Ibn Sina's stations, flashes of lightning [@light, p. 48], Tusi's nine stages [@light, p. 50]; the Sheikh's "from behind the clouds" flagged as his (L15 ¶21–22).
-**The Sheikh's stories (D47):** none told in full here (v2): the Tehran preacher moves to Ch 11 §1, where adornment is proved. Ch 8 is the map; its stories are in Ch 9–12. [Flag: D47 asks one per chapter; if wanted, the Sheikh's swimming image for leaning on God (L07 ¶28–29) could carry §3.]
+**The Sheikh's stories (D47):** none told in full here (v2): the Tehran preacher moves to Ch 11 §1, where adornment is proved. Ch 8 is the map; its stories are in Ch 9–12. Decision (2026-10-19): no story here. None of the Sheikh's stories fits the map without being forced; the swimming image (an image, not a story) goes to Ch 10 §1, where the self is left last.
 **Try this:** Recite the Musabbihat (or one of them) before sleep; Qadi gave beginners this for a year (L07 ¶15–16); al-Kafi via [@mafatih, p. 1036].
 **Target:** about 2,700–3,000 words of body.
 **Hand-off to the next chapter:** The first stage begins with a step any believer can take. What is it?

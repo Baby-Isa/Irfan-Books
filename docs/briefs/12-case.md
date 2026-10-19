@@ -1,7 +1,7 @@
 # Chapter 12: Case brief
 
-**Status:** draft v2, Gate A (2026-10-19; restructured as one stage per chapter, map in `docs/ladders/08.md`). Ladder: `docs/ladders/12.md`. Built from `docs/outline/part-3.md` (approved outline), whose quote ledger, sources and cuts still apply except where the ladder's "Changes from the outline" says otherwise.
-**Title:** Losing the self, finding God
+**Status:** approved 2026-10-19 (user: "go ahead and write those chapters"), v2, Gate A (2026-10-19; restructured as one stage per chapter, map in `docs/ladders/08.md`). Ladder: `docs/ladders/12.md`. Built from `docs/outline/part-3.md` (approved outline), whose quote ledger, sources and cuts still apply except where the ladder's "Changes from the outline" says otherwise.
+**Title:** Passing away: losing the self, finding God
 **Serves:** B3, Part Three "The Road" (the crescendo) (`docs/ARGUMENT.md`; `docs/ladders/00-book-chain.md`)
 
 **Conclusion (one sentence the chapter proves):** In the fourth stage, love ends in losing the false self before God's glory, and in coming back sober, seeing God in all things while remaining oneself.
