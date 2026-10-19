@@ -36,7 +36,9 @@ _Update at the end of every task. Keep it short. History lives in git and DECISI
 
 **2026-10-19, Part Three drafted (Ch 8–12, D50).** Ladders approved by the user (one stage per chapter; titles show the stage; stage 3 named "adorning"; Ch 12 point "seeing God in all things", supported by `kernel` p. 60, `light` pp. 57, 63, `forty_hadith` pp. 515–516, `inner_secrets` p. 116; no told story in Ch 8). Pipeline per chapter: Opus draft (chapter-writer) → Fable structural and line edit → voice profile (all PASS) → chain audit → fact-check (`reviews/book2-08`–`12.md`: Highs 1/0/1/1/2, all Highs and Mediums fixed) → fixes → chain re-audit (Ch 8 22%, Ch 9 ~25% after fold, Ch 10 19%, Ch 12 25% idle; Ch 11 re-audit pending at time of writing). Glossary terms added; ARGUMENT, STORYLINE, FRAMEWORK synced; Part Three divider `book2/parts/3-the-road.md`. Build: boxes keep their title with the content and never split a table; `build.py pdf` accepts comma-separated globs. Body prose is shorter than the exemplar target (1,630–2,260 words by the profiler, boxes excluded). Open: five Arabic [VERIFY] markers (Ch 10 Imam al-Rida's saying; Ch 11 Lovers, Nahj 3.222, Lantern p. 88; Ch 12 Imam ʿAli's closing line); glossary entries for story names (Fudayl, Bishr, Hatim, Uways, Rabiʿa, Saʿdi, Ibn Sina, Tasbih al-Zahraʾ).
 
-**Next:** the user's read of Part Three (PDFs in `samples/`).
+**2026-10-19, "less mechanical" approval sheet.** After `reviews/ai/REPORT-2026-10-19.md` (eight tells), sixteen before → after edits for Part Three written to `reviews/ai/examples-2026-10-19.md` (two per tell, spread over Ch 8–12, each "before" quoted exactly). Chapters not edited; awaiting the user's approval.
+
+**Next:** the user's read of Part Three (PDFs in `samples/`) and his choices on the approval sheet.
 
 ## Open questions for the user or lecturer
 1. The lecturer is M. S. Bahmanpour (from the slides). Confirm his preferred title and name format.
