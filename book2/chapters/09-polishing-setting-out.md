@@ -77,9 +77,7 @@ Repentance is kept up at a steady pace: not rushed, and not put off.
 7. Therefore: repentance is kept up at a steady pace, not rushed and not put off.
 ::::
 
-Once a traveller has begun with repentance, an old habit may still return. When it does, the traveller repents again. Sheikh Bahmanpour calls repentance a continuous process, not a single act. <!-- src: L08 ¶13-15 -->
-
-ʿAllama Tabatabaʾi sets a stricter bar. Among his rules for the path is steadiness, which "means that after feeling penitence about a sin and asking Allah's forgiveness for it, it must not be committed again" [@light, p. 89]. The two are set here side by side. One speaks of the traveller who falls, and the other of the standard a traveller holds to.
+Once a traveller has begun with repentance, an old habit may still return. When it does, the traveller repents again. Sheikh Bahmanpour calls repentance a continuous process, not a single act. ʿAllama Tabatabaʾi sets the standard beside it: a repented sin "must not be committed again" [@light, p. 89]. The traveller holds to that standard, and repents again on falling short of it. <!-- src: L08 ¶13-15 -->
 
 Old habits return because the self fights back. The traveller's struggle with the self (*mujahada*) goes on through every stage of the road. At each stage there is a danger that the self "would come back and … take revenge", and when it strikes hard, it can leave a person reeling for days. <!-- src: L08 ¶15 -->
 
@@ -117,9 +115,9 @@ Repentance opens the first stage, and keeping the law makes up the rest of it. P
 
 Within the law, one demand comes first. After repentance, in Sheikh Bahmanpour's words, "the first and [foremost] and most important condition is to behave yourself with regards to people". A traveller may carry out every kind of repentance and every practice and still not go forward, because relations with people have soured. This first condition is good character and conduct (*husn al-khuluq*). <!-- src: L08 ¶39-40 -->
 
-The reason is a "system of justice". In the lectures, this system underlies every action in this world, and it is "very, very strong". A wrong done to anyone, even to an animal, holds the traveller back from rising through the stations. The system will not let the traveller advance until such wrongs are put right, and this includes wrongs done without knowing it. <!-- src: L08 ¶39-40 -->
+The reason is a "system of justice". In the lectures, this system underlies every action in this world, and it is "very, very strong". A wrong done to anyone, even to an animal, holds the traveller back from rising through the stations. The system will not let the traveller advance until such wrongs are put right, and this includes wrongs done without knowing it. The inner road therefore cannot go around people. <!-- src: L08 ¶39-40 -->
 
-The inner road therefore cannot go around people, because good behaviour stands at the centre of the religion. Sayyid Haydar Amuli, a fourteenth-century teacher of the path, places it "at the very core of the Prophet's message and purpose" and quotes the Prophet's words, "I have been sent to perfect good behaviour" [@inner_secrets, p. 108].
+Good behaviour also stands at the centre of the religion. Sayyid Haydar Amuli, a fourteenth-century teacher of the path, places it "at the very core of the Prophet's message and purpose" and quotes the Prophet's words, "I have been sent to perfect good behaviour" [@inner_secrets, p. 108].
 
 The Prophet ﷺ and the Imams (as) show what this looks like at the highest station. They stood at the summit of the path, yet everyone loved to sit and talk with them, and they were pleasant and friendly with all. However high mystics rise, they have to stay friendly with ordinary people. Imam ʿAli (as), describing the pious in one of his orations, names these among their qualities. <!-- src: L08 ¶40-41 -->
 
