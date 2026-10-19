@@ -1,5 +1,5 @@
 ---
-title: "Adornment: love, the engine"
+title: "Adorning: love, the engine"
 title-ar: ""
 chapter: 11
 ---
@@ -12,7 +12,7 @@ These words come from the Munajat Shaʿbaniyyah, the prayer the Mafatih reports 
 
 The Munajat line at the head of Part One says where such love comes from. There the one praying admits to having had no strength to move away from disobedience except when God awakened them to His love. In the prayers, love is something God awakens.
 
-That awakening has its place on the road to God, which has four stages. The first two, polishing the self and emptying the heart, are the traveller's work, and emptying ends with the self, the last thing the traveller leaves behind. With the third stage, adornment, the work passes from the traveller to God. This chapter sets out what God gives the emptied heart in that stage, and how love, among His gifts, carries the traveller until even love is left at the door.
+That awakening has its place on the road to God, which has four stages. The first two, polishing the self and emptying the heart, are the traveller's work, and emptying ends with the self, the last thing the traveller leaves behind. With the third stage, adorning, the work passes from the traveller to God. This chapter sets out what God gives the emptied heart in that stage, and how love, among His gifts, carries the traveller until even love is left at the door.
 
 ::: {.words}
 *tahliya*: adornment, God's gifts to the emptied heart · *mahabba*: love, above all the love of God · *khawf*: fear of God · *zuhd*: renunciation of the world · *ʿibadat al-ahrar*: the worship of the free, who worship God for His own sake
@@ -23,7 +23,7 @@ That awakening has its place on the road to God, which has four stages. The firs
 :::: {.point}
 Once the heart is emptied, God adorns it with gifts no effort makes, briefly at first.
 
-1. Adornment (*tahliya*) is God's act on the soul, not the traveller's: insight, inspiration and a deeper understanding of the Qur'an (L07 ¶36); the base qualities give way to their opposites, "gnosis, wisdom, forbearance, humility, generosity, chastity and courage" [IS109].
+1. Adorning (*tahliya*) is God's act on the soul, not the traveller's: insight, inspiration and a deeper understanding of the Qur'an (L07 ¶36); the base qualities give way to their opposites, "gnosis, wisdom, forbearance, humility, generosity, chastity and courage" [IS109].
 2. The gifts reach everyone, but only a purified soul catches them: the mystics see "not because… they are chosen ones but because they have furbished their souls" (L07 ¶37); "a light by which he walks among the people" (Q 6:122).
 3. Story (prose): the Tehran preacher who stated a teaching and asked his listeners for the verse or hadith, sure there was one: knowledge given to a heart, as the Qur'an rewards those who do good (Q 12:22) (L10 ¶11–15). The rider kept: formal study still matters, and the two support each other (¶15–16).
 4. The gifts come briefly at first, "like flashes of lightning appearing and instantly vanishing" [LT48], and later stay (L15 ¶20–22, ¶41).
@@ -32,7 +32,7 @@ Once the heart is emptied, God adorns it with gifts no effort makes, briefly at 
 7. Therefore: God adorns the emptied heart with gifts no effort makes, briefly at first.
 ::::
 
-Adornment (*tahliya*) is God's act on the soul, not the traveller's. Once the self is polished and the heart emptied, the soul begins to take its adornment from the spiritual world, and God feeds it with what others cannot take in. The mystics name what comes: visions, inspirations (*ilham*), and a deeper understanding of the Qur'an. In Sheikh Bahmanpour's words, "It is Allah's act on the soul." Sayyid Haydar Amuli describes the change of character that comes with it. The soul loses its viler features, among them vanity, arrogance, and envy, and takes on the finer ones, "gnosis, wisdom, forbearance, humility, generosity, chastity and courage" [@inner_secrets, p. 109]. <!-- src: L07 ¶10, ¶36 -->
+Adorning (*tahliya*) is God's act on the soul, not the traveller's. Once the self is polished and the heart emptied, the soul begins to take its adornment from the spiritual world, and God feeds it with what others cannot take in. The mystics name what comes: visions, inspirations (*ilham*), and a deeper understanding of the Qur'an. In Sheikh Bahmanpour's words, "It is Allah's act on the soul." Sayyid Haydar Amuli describes the change of character that comes with it. The soul loses its viler features, among them vanity, arrogance, and envy, and takes on the finer ones, "gnosis, wisdom, forbearance, humility, generosity, chastity and courage" [@inner_secrets, p. 109]. <!-- src: L07 ¶10, ¶36 -->
 
 These gifts are not withheld from anyone; what differs is the heart that receives them. They are all around us, and only a purified soul can catch them. A mystic sees and hears what others cannot, "not because … they are chosen ones but because they have furbished their souls". The soul that was blind begins to see, and the soul that was deaf begins to hear. Surah al-Anʿam describes such a person. <!-- src: L07 ¶37, ¶39 -->
 
@@ -130,7 +130,7 @@ Love of this kind leaves nothing else standing in the heart. In *Lantern of the 
 Love of Allah is a fire which does not pass by anything without burning it up; the light of Allah does not come over something without illuminating it. [@lantern, p. 88]
 :::
 
-Later mystics repeat this saying in almost every book that speaks of the love of God. The same page of the Lantern says what the fire burns. When love of Allah takes possession of the servant's innermost being, "it empties him of every preoccupation except remembrance of Allah" [@lantern, p. 88]. The stage before adornment set out to clear the heart of every occupation other than God, and here love finishes that work from God's side. <!-- src: L12 ¶38; L07 ¶22 -->
+Later mystics repeat this saying in almost every book that speaks of the love of God. The same page of the Lantern says what the fire burns. When love of Allah takes possession of the servant's innermost being, "it empties him of every preoccupation except remembrance of Allah" [@lantern, p. 88]. The stage before adorning set out to clear the heart of every occupation other than God, and here love finishes that work from God's side. <!-- src: L12 ¶38; L07 ¶22 -->
 
 Love is therefore God's gift. The Imams asked for it in their prayers, and the worship that comes from it is the worship of the free.
 
@@ -152,7 +152,7 @@ Love carries the traveller a long way, but it remains a means. ʿAllama Tabataba
 
 While love is new, the traveller does not see this difference. Love is the traveller's own state, whereas the Beloved is God. A traveller who keeps looking at his own love is still looking at something of his own, and the love that carried him this far begins to stand between him and the One he loves.
 
-Murtada Mutahhari makes a related point with a story from Saʿdi's *Bustan*. The treasure chest of Sultan Mahmud breaks open in a narrow pass, and his riders fall on the pearls and corals while his friend Iyaz rides on after the king. Asked what booty he has brought, Iyaz says he has none; he preferred the king's service to treasure. Saʿdi draws the lesson: "If you look to your friend for his favors, / You are tied to yourself not to your friend" [@light, pp. 44–45]. The gifts of adornment, love among them, are favours of this kind. Holding on to them rather than to the Giver still ties the traveller to the self.
+Murtada Mutahhari makes a related point with a story from Saʿdi's *Bustan*. The treasure chest of Sultan Mahmud breaks open in a narrow pass, and his riders fall on the pearls and corals while his friend Iyaz rides on after the king. Asked what booty he has brought, Iyaz says he has none; he preferred the king's service to treasure. Saʿdi draws the lesson: "If you look to your friend for his favors, / You are tied to yourself not to your friend" [@light, pp. 44–45]. The gifts of adorning, love among them, are favours of this kind. Holding on to them rather than to the Giver still ties the traveller to the self.
 
 ::: {.box-reflect title="Reflection"}
 Imam Khomeini warns those who speak much of their love for God not to think too well of themselves. He then puts to them a question that any traveller can ask: "Ask your heart whether it is in search of God or whether it is in love with itself" [@forty_hadith, p. 89]. Think of one act of worship you look forward to. Is it God you are seeking in it, or the sweetness you find there?

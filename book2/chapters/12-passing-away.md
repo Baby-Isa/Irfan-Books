@@ -72,7 +72,7 @@ There, all authority belongs to Allah, the Real.
 
 That there is no authority but God's is something any believer can work out. A person can think about it for weeks and conclude that God created him, provides for him, and moves his hand. The traveller at this degree tastes it. The difference is that between a recipe and the dish. Reading the recipe, we can imagine how the dish will taste, whereas only the cooked dish gives the taste. <!-- src: L09 ¶57-59 -->
 
-The second degree is passing away in attributes. Wherever the traveller looks, even at the material world, he sees the attributes of God at work: His life, His knowledge, and His power. This is the lived truth of the words we say most often, there is no god but God (*la ilaha illa Allah*), because *Allah* is the name that gathers all His attributes. The Throne Verse opens on the attribute of life. <!-- src: L09 ¶60-61 -->
+The second degree is passing away in attributes. Wherever the traveller looks, even at the material world, he sees the attributes of God at work. Life, knowledge, and power are in everything around him, and all of them are His. This is the lived truth of the words we say most often, there is no god but God (*la ilaha illa Allah*), because *Allah* is the name that gathers all His attributes. The Throne Verse opens on the attribute of life. <!-- src: L09 ¶60-61 -->
 
 ::: {.ayah ref="2:255" words="1-7"}
 Allah—there is no god except Him—is the Living One, the All-sustainer.
@@ -148,5 +148,5 @@ In Imam ʿAli's line the world has not disappeared, and neither has the one who 
 Others have walked this far. Where did the road come from, and who walked it first?
 
 ::: {.box-try title="Try this"}
-Sheikh Bahmanpour asks his listeners to notice the word *Huwa*, "He", wherever it appears in the Qur'an, where it is used for God in a striking way. When you recite the surah in salah this week, stop for a moment on the word after "Say", *Huwa*. Recall the prayer Imam ʿAli (as) learned from Khidr on the night before Badr, which calls on God by this word, and let it point to Him alone before you go on to "Allah, the One".
+Sheikh Bahmanpour asks his listeners to notice the word *Huwa*, "He", wherever it appears in the Qur'an, which uses it for God in a striking way. When you recite Surah al-Ikhlas in salah this week, stop for a moment on the word after "Say", *Huwa*. Recall the prayer Imam ʿAli (as) learned from Khidr on the night before Badr, which calls on God by this word, and let it point to Him alone before you go on to "Allah, the One".
 :::
