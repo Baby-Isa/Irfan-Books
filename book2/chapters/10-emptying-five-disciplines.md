@@ -86,7 +86,7 @@ The day is full of drawn-out engagements, so the pure remembrance of God becomes
 They used to sleep a little during the night, and at dawns they would plead for forgiveness,
 :::
 
-Read together, a held tongue; a light stomach; and an hour awake before the day's engagements begin, each leave more of the heart's attention free for God. <!-- src: L08 ¶50, ¶72; L10 ¶19-20 -->
+Read together: a held tongue; a light stomach; and an hour awake before the day's engagements begin, each leave more of the heart's attention free for God. <!-- src: L08 ¶50, ¶72; L10 ¶19-20 -->
 
 The tongue, the stomach, and sleep are therefore the doors these three disciplines shut. What the world has already left inside the heart is the work of the other two.
 

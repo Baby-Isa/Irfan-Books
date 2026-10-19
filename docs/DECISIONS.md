@@ -319,3 +319,4 @@ The user could not see how the two parts, four stages, five disciplines and repe
 
 ## 2026-10-19: D51. Less mechanical prose (user)
 A blind judge rated the book's passages 54–78 for AI-likeness (anchor text 84; human controls 4), the approved exemplar as high as the new chapters (`reviews/ai/REPORT-2026-10-19.md`). The user chose line by line from sixteen examples (`reviews/ai/examples-2026-10-19.md`): yes to 1b (paraphrased), 2a, 3a, 3b, 5b, 6 (reworked), 7a, 7b, 8a, 8b; no to 1a, 2b, 4a, 4b, 5a. Rules in TONE 46 and LESSONS 33. Applied to Part Three; a sweep of the rest of Part Three is proposed for approval.
+- (user, 2026-10-19) A list of clause-sized items introduced at the start of a sentence takes a colon: "Read together: a held tongue; a light stomach; and an hour awake…, each leave more…".
