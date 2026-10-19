@@ -32,7 +32,9 @@ _Update at the end of every task. Keep it short. History lives in git and DECISI
 
 **2026-10-19, Part Three Gate A.** Proof ladders `docs/ladders/08`–`12.md` and briefs `docs/briefs/08`–`12-case.md` written from `docs/outline/part-3.md` and the L07–L12, L15 notes; key held quotations spot-checked in `sources/extracts/`. Changes from the outline are listed at the foot of each ladder (Ch 8 three sections; Ch 10 four; Ch 9 two story boxes, the told-to-stop story in prose; Ch 12 drops the Miʿraj prayer, the Hafiz line and `inner_secrets` p. 115's "gnostic annihilation"; Ch 12 chapter point "seeing only God" → "seeing God in all things", proposed). The user asked to approve the ladders before any prose: **no chapter drafted yet.**
 
-**Next:** the user's approval of the five ladders; then draft Ch 8–12 on them (pipeline in HANDOVER §3).
+**2026-10-19, ladders v2.** The user could not see how the two parts, four stages, five disciplines and repentance fit. Fable reviewed (`reviews/part3-framework-fable-2026-10-19.md`); ladders rebuilt as one stage per chapter: Ch 8 the map (four stages, two ours, two God's, in order, none dropped; table "The road at a glance"), Ch 9 Stage 1 polishing (repentance, law, people), Ch 10 Stage 2 emptying (the five disciplines are its tools), Ch 11 Stage 3 adornment (God's gifts, among them love), Ch 12 Stage 4 passing away and return. Chapter points for Ch 9–12 change accordingly (book chain lines 8–12 to be updated on approval).
+
+**Next:** the user's approval of ladders v2; then draft Ch 8–12 on them (pipeline in HANDOVER §3). No prose yet.
 
 ## Open questions for the user or lecturer
 1. The lecturer is M. S. Bahmanpour (from the slides). Confirm his preferred title and name format.
