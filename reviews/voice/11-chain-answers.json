@@ -1,0 +1,80 @@
+{
+  "sections": {
+    "1": {
+      "point": "Open with the Munajat line to show a love that is not a trade and not self-made, then say that this chapter is about what God gives the emptied heart in the stage of adorning, love included, until even love is left behind.",
+      "steps": [
+        "The prayer's declaration of love in the face of the fire is not a trader's calculation, so this love is not something the reciter made.",
+        "The same Munajat says where it comes from: God awakens it.",
+        "That awakening belongs to the third stage of the road (adorning), where the work passes to God; this chapter sets out what He gives, love among it, until love too is left at the door."
+      ]
+    },
+    "2": {
+      "point": "After the heart is emptied, God Himself adorns it with gifts (knowledge, insight, a light) that no effort can produce, and they come as brief flashes before they stay.",
+      "steps": [
+        "Adorning is God's act, not the traveller's; name what comes (visions, inspiration, Qur'anic understanding, change of character).",
+        "The gifts are withheld from no one; purification is what lets a soul catch them (Qur'an: the new life and the light).",
+        "The knowledge given this way is a reward for doing good and is put in the heart, not learned from books (Surah Yusuf).",
+        "The gifts come as momentary flashes at first and only later as an enduring state, and the order has a reason (the heart must widen).",
+        "Conclude: God adorns the emptied heart with gifts no effort makes, briefly at first."
+      ]
+    },
+    "3": {
+      "point": "Love is one of these gifts; because it is given, the Imams asked God for it; and worship that springs from love is the worship of the free, not of merchants or slaves.",
+      "steps": [
+        "Love cannot be made; God shows the heart something of Himself and the heart falls in love (Qur'an: God's love comes first).",
+        "Because it is given, the Imams asked for it (Duʿa Kumayl, the Whispered Prayer of the Lovers).",
+        "Imam ʿAli names three kinds of worship; the free worship out of thanks, love and God's worthiness, not for reward or from fear.",
+        "An example of this worship lived out (Rabiʿa and the torch).",
+        "Conclude: love is God's gift, the Imams asked for it, and worship from it is the worship of the free."
+      ]
+    },
+    "4": {
+      "point": "Love is only a means of travel; when the traveller nears the Beloved, even love must be set aside so that nothing but the Beloved remains.",
+      "steps": [
+        "A few stages on, the traveller sees that love is different from the Beloved and may hinder him (Tabatabaʾi).",
+        "Why: love is the traveller's own state, so looking at it is looking at something of his own, which ties him to the self.",
+        "Illustration: Saʿdi's Iyaz, who follows the king rather than the spilled treasure.",
+        "Conclude: even love is left at the door so that only the Beloved remains."
+      ]
+    }
+  },
+  "paragraphs": {
+    "¶1": {"label": "advance", "why": "Supplies the hook and the first step: the Munajat's love is no trade and is not something the reciter made."},
+    "¶2": {"label": "advance", "why": "Supplies the positive side of ¶1: the love comes from God, who awakens it. ¶3 builds on this."},
+    "¶3": {"label": "advance", "why": "Places the awakening in the stage of adorning, recalls the four stages in two sentences, and states what the chapter will establish, including the final turn that love is left at the door."},
+    "¶4": {"label": "advance", "why": "Supplies the section's first step: adorning is God's act, not the traveller's, and names what comes."},
+    "¶5": {"label": "advance", "why": "Supplies the second step: the gifts are withheld from no one and purification is what lets the soul catch them; it also sets up the verse."},
+    "¶6": {"label": "support", "why": "Reads the verse: the new life brings a light to walk by among people. ¶15 and ¶36 use 'a light to walk by'."},
+    "¶7": {"label": "support", "why": "Introduces the Surah Yusuf evidence that ¶8 reads; without it the verse and ¶8's rule hang in the air."},
+    "¶8": {"label": "advance", "why": "Supplies the step that the knowledge given is put in the heart by God and does not come from books, which is what 'no effort makes' rests on."},
+    "¶9": {"label": "support", "why": "The Tehran preacher is the concrete example of ¶8's claim (knowledge of the hadith without study). The second half, the caveat that formal learning still matters and that the two reinforce each other, is an aside the argument never uses and should go."},
+    "¶10": {"label": "advance", "why": "Supplies 'briefly at first': Ibn Sina's flashes becoming a blaze, with the reason for the order. This is the last step the point needs."},
+    "¶11": {"label": "aside", "why": "That the enduring light becomes the traveller's delight and its loss a sadness is not a step the point needs; ¶15 does not use it. It exists only to set up ¶12-13."},
+    "¶12": {"label": "aside", "why": "The Uways al-Qarani story shows that worship stops tiring the traveller, a consequence of the gift, not a step toward 'God adorns the emptied heart, briefly at first'. Delete ¶11-13 and ¶14-15 still read without a gap."},
+    "¶13": {"label": "aside", "why": "Explains the Uways story (the body follows the soul). It serves ¶12, which the point does not need."},
+    "¶14": {"label": "aside", "why": "That the gifts are not the goal and wonders prove nothing is a caution the section's point does not need and ¶15 does not use; 'the gifts were around us all along' repeats ¶5. It anticipates Section 4 and would sit better there."},
+    "¶15": {"label": "restate", "why": "Section conclusion summarising ¶4, ¶6 and ¶10."},
+    "¶16": {"label": "advance", "why": "Supplies the section's first step: love is a gift placed in the heart by God, who shows something of Himself."},
+    "¶17": {"label": "support", "why": "The two-lovers comparison explains how ¶16's showing produces love and sets up the verse; the remarks on capacity and the Prophet are extra but the paragraph is used."},
+    "¶18": {"label": "support", "why": "Reads the verse in the direction ¶16 needs: God's love comes first and the heart's answers it."},
+    "¶19": {"label": "advance", "why": "Supplies the second step: because love is given, the Imams asked for it; introduces Duʿa Kumayl."},
+    "¶20": {"label": "support", "why": "Reads the Kumayl quotation (separation worse than punishment), ties it back to the Munajat, and introduces the Whispered Prayer of the Lovers, the second instance of the Imams asking."},
+    "¶21": {"label": "aside", "why": "A one-line gloss on the Whispered Prayer quotation. No later sentence uses 'that sweetness' and the step (the Imams asked for love) is already supplied; it reads as an aphorism."},
+    "¶22": {"label": "aside", "why": "A history lesson: the early mystics' fear, renunciation and love, love becoming the victorious side, the Lantern's fear-hope-love sequence. The point (love is a gift, the Imams asked for it, worship from love is the worship of the free) needs none of it, and ¶24 starts without it."},
+    "¶23": {"label": "aside", "why": "A caveat that fear stays beside love, with the Kernel of the Kernels on the Imams' perfection. Raised and never used; nothing in ¶24-31 depends on it."},
+    "¶24": {"label": "advance", "why": "Supplies the third step's opening: worship from love is a different kind, and introduces Imam ʿAli's three kinds."},
+    "¶25": {"label": "advance", "why": "Supplies the link the point needs: the free worship from thanks, love and God's worthiness, not for price or from fear. The third reason and its second witness are more than the step requires but the step is here."},
+    "¶26": {"label": "restate", "why": "Repeats ¶25's three reasons and draws the contrast with reward and fear that ¶25 already drew."},
+    "¶27": {"label": "support", "why": "Introduces Rabiʿa as the lived example of the worship of the free that ¶28 completes. The remark that repentance is a gift is a side note."},
+    "¶28": {"label": "support", "why": "The torch and water story is the example that shows worship free of fear and hope, and the paragraph sets it beside Imam ʿAli's free worshippers, so the step uses it."},
+    "¶29": {"label": "aside", "why": "That love is a fire leaving nothing else standing is a further true remark about love, not a step toward the point; ¶31 does not use it."},
+    "¶30": {"label": "aside", "why": "That later mystics repeat the saying is a remark about reception; the link to the emptying of the previous stage is elegant but the point does not need it. Serves ¶29, which is itself an aside."},
+    "¶31": {"label": "restate", "why": "Section conclusion summarising ¶16, ¶19 and ¶25."},
+    "¶32": {"label": "advance", "why": "Supplies the section's first step from Tabatabaʾi: love is different from the Beloved and can become a hindrance, so the traveller turns to the Beloved alone."},
+    "¶33": {"label": "advance", "why": "Supplies the reason: love is the traveller's own state, so attending to it ties him to himself. ¶34 depends on this."},
+    "¶34": {"label": "support", "why": "Saʿdi's Iyaz illustrates ¶33 (looking to the friend for favours ties you to yourself) and the paragraph applies the lesson to the gifts of adorning."},
+    "¶35": {"label": "aside", "why": "A second illustration of attending to God alone. The first prayer repeats the content of ¶28's torch story; the second ('You are more than enough for me') adds nothing ¶32-34 have not supplied, and ¶36 reads without it."},
+    "¶36": {"label": "restate", "why": "Chapter conclusion summarising ¶15, ¶31 and ¶32."},
+    "¶37": {"label": "aside", "why": "A closing question the chapter does not answer; it adds no step and is not used."}
+  }
+}
