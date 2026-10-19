@@ -85,7 +85,7 @@ The third degree is passing away in essence. Here the traveller no longer sees e
 Say, ‘He is Allah, the One.
 :::
 
-Like the words of the first two degrees, *Huwa* is already on a believer's tongue. Sheikh Bahmanpour reports a hadith in which Imam ʿAli (as) is given a whole prayer built on it. Before the battle of Badr, he dreamt of Khidr, whom Musa followed in Surah al-Kahf [@forty_hadith, p. 508]. He asked Khidr to teach him a prayer he could repeat. Khidr taught him a short prayer that calls on God as *Huwa*, He, besides whom there is none. It is reported in the histories that on the day of Badr Imam ʿAli (as) was seen attacking from every side as he recited Surah al-Ikhlas and the words of this prayer. <!-- src: L09 ¶65 -->
+Like the words of the first two degrees, *Huwa* is already on a believer's tongue. Sheikh Bahmanpour reports a hadith in which Imam ʿAli (as) is given a whole prayer built on it. Before the battle of Badr, he dreamt of Khidr, whom Musa followed in Surah al-Kahf [@forty_hadith, p. 508]. He asked Khidr to teach him a prayer he could repeat. Khidr taught him a short prayer that calls on God as *Huwa*, He, besides whom there is none. The histories report that on the day of Badr Imam ʿAli (as) was seen attacking from every side as he recited Surah al-Ikhlas and the words of this prayer. <!-- src: L09 ¶65 -->
 
 The third degree closes the climb, and the prayer this book opened with asks for something close to it. In the Munajat Shaʿbaniyyah we ask God to light up the eyes of our hearts until they pierce the veils of light and reach the source of His grandeur. The sentence, which the Imams (as) placed on our tongues, does not stop at the veils.
 
