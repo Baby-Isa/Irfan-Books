@@ -42,37 +42,36 @@ The two words for this stage come from one pair of verses in Surah al-Rahman.
 Everyone on it is ephemeral, yet lasting is the majestic and munificent Face of your Lord.
 :::
 
-"Ephemeral" translates *fanin*, from the root of *fanaʾ*, passing away; "lasting" translates *yabqa*, from the root of *baqaʾ*, remaining. ʿAllama Tabatabaʾi's lectures read the Face of a thing as "that which manifests it", and the Face of God as His Names, through which every creature faces Him. All else passes away. The traveller who passes away from himself reaches "total annihilation (fana' kulli) and, thereafter, the station of life in God (baqa'), whereat eternal life becomes established for him" [@kernel, pp. 14–15].
+"Ephemeral" translates *fanin*, from the root of *fanaʾ*, passing away; "lasting" translates *yabqa*, from the root of *baqaʾ*, remaining. ʿAllama Tabatabaʾi's lectures read the Face of a thing as "that which manifests it", and the Face of God as His Names, through which every creature faces Him. Everyone on earth is ephemeral, as the verse says, and what lasts is the Face. The traveller who passes away from himself reaches "total annihilation (fana' kulli) and, thereafter, the station of life in God (baqa'), whereat eternal life becomes established for him" [@kernel, pp. 14–15].
 ::::
 
-What is lost in passing away is therefore the false picture of a self that stands apart from God. The soul remains, and so does the world around it. God remains God, and no creature merges with Him.
+What is lost in passing away is therefore the false picture of a self that stands apart from God. The soul and the world around it remain, and God remains God.
 
 ## Three degrees: in action, in attributes, in essence
 
 :::: {.point}
 Passing away comes in three degrees, each the lived truth of words we already say.
 
-1. Amuli quotes the gnostics: "The essence is veiled by the attributes and the attributes by the action", so the unveiling goes from the outermost veil inwards. *(Reader told: "three degrees, from the outermost".)*
+1. Amuli quotes a gnostic: "The essence is veiled by the attributes and the attributes by the action", so the unveiling goes from the outermost veil inwards. *(Reader told: "three degrees, from the outermost"; side by side, in a parenthesis: Tabatabaʾi counts four in the same order, the last being the unity of being.)*
     a. In action: the traveller sees that every act comes from God's power, "it is really not you who is seeing": the lived truth of *la hawla wa la quwwata illa billah*, tasted rather than thought, as a dish is tasted and not only read in a recipe; "There, all authority belongs to Allah, the Real" (Q 18:44).
     b. In attributes: wherever he looks he sees God's attributes, the truth of *la ilaha illa Allah*; "Allah—there is no god except Him—is the Living One, the All-sustainer" (Q 2:255).
     c. In essence: not even attributes, "just His glory, which is overshadowing everything", and only *Huwa*, "He"; "Say, 'He is Allah, the One'" (Q 112:1).
-2. Story: Imam ʿAli (as) dreams of Khidr before Badr and is taught a prayer that calls on God as *Huwa*; on the day of Badr he is seen fighting on every side, reciting Surah al-Ikhlas and these words (the Sheikh's report of a hadith).
-3. Side by side: Tabatabaʾi counts four degrees, adding the Names.
-4. Summit: the prologue's prayer asked that the eyes of our hearts pierce the veils of light; the Munajat goes on, "and let our souls get suspended by the glory of Your sanctity".
-5. Therefore: three degrees, each the lived truth of words we already say.
+2. Story: like the words of the first two degrees, *Huwa* is already on a believer's tongue. In a hadith the Sheikh reports, Imam ʿAli (as) dreams of Khidr before Badr and is taught a prayer that calls on God as *Huwa*; it is reported in the histories that on the day of Badr he was seen fighting on every side, reciting Surah al-Ikhlas and these words.
+3. Summit (the book's reading): the third degree closes the climb, and the prologue's prayer asks for something close to it; past the veils of light, the Munajat goes on, "and let our souls get suspended by the glory of Your sanctity".
+4. Therefore: three degrees, each the lived truth of words we already say.
 ::::
 
-Passing away does not come all at once. It comes in degrees, and their order follows the order of the veils. Sayyid Haydar Amuli quotes a gnostic: "The essence is veiled by the attributes and the attributes by the action" [@inner_secrets, p. 115]. The line names three layers, so the unveiling has three degrees. It runs from the outermost layer inwards, in action first, then in attributes, and last in essence. Let's take them in turn. Each makes words we already say into something the traveller sees.
+Passing away does not come all at once. It comes in degrees, and their order follows the order of the veils. Sayyid Haydar Amuli quotes a gnostic: "The essence is veiled by the attributes and the attributes by the action" [@inner_secrets, p. 115]. The line names three layers, so the unveiling has three degrees. It runs from the outermost layer inwards, in action first, then in attributes, and last in essence. (ʿAllama Tabatabaʾi counts four, adding a unity of the Names before the last [@light, pp. 107–108].) Let's take the three in turn. Each makes words we already say into something the traveller sees.
 
-The first degree is passing away in action. We think it is our eyes that see, whereas at this degree the traveller realises that "it is really not you who is seeing". When a hand moves, the power in it is God's, flowing into the hand, though the intention behind the act remains ours. This is the lived truth of words many of us repeat after the prayers: there is no movement and no power except through God (*la hawla wa la quwwata illa billah*). The traveller comes to the place a verse of Surah al-Kahf describes. <!-- src: L09 ¶52-54, ¶60 -->
+The first degree is passing away in action. We think it is our eyes that see, whereas at this degree the traveller realises that "it is really not you who is seeing". When a hand moves, the power in it is God's, flowing into the hand. The intention is ours, though the lectures call its origin one of the most complicated issues. This is the lived truth of a phrase many of us repeat after the prayers, that there is no movement and no power except through God (*la hawla wa la quwwata illa billah*). The traveller comes to the place a verse of Surah al-Kahf describes. <!-- src: L09 ¶52-54, ¶60 -->
 
 ::: {.ayah ref="18:44" words="1-4"}
 There, all authority belongs to Allah, the Real.
 :::
 
-That there is no authority but God's is something any believer can work out. A person can think about it for weeks and conclude that God created him, provides for him, and moves his hand. The traveller at this degree tastes it. The difference is that between a recipe and the dish. Reading the recipe, we can imagine how the dish will taste, whereas only the cooked dish gives the taste. <!-- src: L09 ¶57-59 -->
+That there is no authority but God's is something any believer can work out. A person can think about it for weeks and conclude that God created him and provides for him. The traveller at this degree tastes it. The difference is that between a recipe and the dish. Reading the recipe, we can imagine how the dish will taste, whereas only the cooked dish gives the taste. <!-- src: L09 ¶57-59 -->
 
-The second degree is passing away in attributes. Wherever the traveller looks, even at the material world, he sees the attributes of God at work. Life, knowledge, and power are in everything around him, and all of them are His. This is the lived truth of the words we say most often, there is no god but God (*la ilaha illa Allah*), because *Allah* is the name that gathers all His attributes. The Throne Verse opens on the attribute of life. <!-- src: L09 ¶60-61 -->
+The second degree is passing away in attributes. Wherever the traveller looks, even at the material world, he sees the attributes of God at work. Life, knowledge, and power are in everything around him, and all of them are His. This is the lived truth of words we say often, there is no god but God (*la ilaha illa Allah*), because *Allah* is the name that gathers all His attributes. The Throne Verse opens on the attribute of life. <!-- src: L09 ¶60-61 -->
 
 ::: {.ayah ref="2:255" words="1-7"}
 Allah—there is no god except Him—is the Living One, the All-sustainer.
@@ -80,25 +79,21 @@ Allah—there is no god except Him—is the Living One, the All-sustainer.
 
 In this verse life belongs to God, and whatever lives does so through Him. The same is true of movement, knowledge, power, and energy, wherever they appear. At this degree the traveller sees them as His wherever he looks. <!-- src: L09 ¶63 -->
 
-The third degree is passing away in essence. Here the traveller no longer sees even the attributes. In the lectures' words, there is "just His glory, which is overshadowing everything". What is left to him is one word, *Huwa*, "He". The Qur'an uses this pronoun for God, and it points to Him without naming anything beside Him. Surah al-Ikhlas opens on this word. <!-- src: L09 ¶64-66 -->
+The third degree is passing away in essence. Here the traveller no longer sees even the attributes. In the lectures' words, there is "just His glory, which is overshadowing everything". What is left to him is one word, *Huwa*, "He". The Qur'an uses this pronoun for God, and it points to Him without naming anything beside Him. In Surah al-Ikhlas it is the word after "Say". <!-- src: L09 ¶64-66 -->
 
 ::: {.ayah ref="112:1"}
 Say, ‘He is Allah, the One.
 :::
 
-Sheikh Bahmanpour reports a hadith that shows this word on the lips of Imam ʿAli (as). On the night before the battle of Badr, the Imam dreamt of Khidr, the servant of God whom Musa followed. He asked Khidr to teach him a prayer he could repeat. Khidr taught him a short prayer that calls on God as *Huwa*, He, besides whom there is none. On the day of Badr, the report goes on, Imam ʿAli (as) was seen attacking from every side, reciting Surah al-Ikhlas and the words of this prayer. <!-- src: L09 ¶65 -->
+Like the words of the first two degrees, *Huwa* is already on a believer's tongue. Sheikh Bahmanpour reports a hadith in which Imam ʿAli (as) is given a whole prayer built on it. Before the battle of Badr, he dreamt of Khidr, whom Musa followed in Surah al-Kahf [@forty_hadith, p. 508]. He asked Khidr to teach him a prayer he could repeat. Khidr taught him a short prayer that calls on God as *Huwa*, He, besides whom there is none. It is reported in the histories that on the day of Badr Imam ʿAli (as) was seen attacking from every side as he recited Surah al-Ikhlas and the words of this prayer. <!-- src: L09 ¶65 -->
 
-Where the lectures count three degrees, ʿAllama Tabatabaʾi counts four, adding a unity of the Names between the attributes and the essence. His order is the same, with God's actions first and His essence last [@light, pp. 107–108].
-
-At the last degree the traveller reaches what the line this book opened with asked for. In the Munajat Shaʿbaniyyah we ask God to light up the eyes of our hearts until they pierce the veils of light and reach the source of His grandeur. The sentence, which the Imams (as) placed on our tongues, does not end there.
+The third degree closes the climb, and the prayer this book opened with asks for something close to it. In the Munajat Shaʿbaniyyah we ask God to light up the eyes of our hearts until they pierce the veils of light and reach the source of His grandeur. The sentence, which the Imams (as) placed on our tongues, does not stop at the veils.
 
 ::: {.quote ar="وَتَصِيرَ أَرْوَاحُنَا مُعَلَّقَةً بِعِزِّ قُدْسِكَ" source="Munajat Shaʿbaniyyah"}
 and let our souls get suspended by the glory of Your sanctity. [@light, p. 165]
 :::
 
-Once the eyes of the heart have passed the veils, the prayer asks that our souls be suspended by the glory of God's holiness. A soul suspended in this way has not dissolved into what it sees. It is still there, held by that glory, and no longer turned on itself.
-
-Passing away thus comes in three degrees, in action, in attributes, and in essence. At each one, words the believer already says become what the traveller sees: no power except through God, no god but God, and He.
+Past the veils, the prayer asks that our souls be held by the glory of God's holiness. Each degree on the way there turns words the believer already says into what the traveller sees: in action, no power except through God; in attributes, no god but God; and in essence, He.
 
 ## Coming back, sober
 
@@ -109,44 +104,42 @@ Passing away is a beginning, not an end: the healthy outcome is to come back to 
 2. Not everyone comes back well. *(Reader told: "three ways, as principles, not names".)*
     a. Some stay lost, held for ever by what they saw.
     b. Some speak ecstatic words (*shath*) and say their duties are lifted, which is not acceptable, above all to the Shia position.
-    c. Some fall into licence, "whatever sin is done is done by God"; Tabatabaʾi lists the "claim of incarnation and identification with God, denial of being obligated to abide by religious injunctions and regarding everything lawful".
-3. The cause is rushing; the law, a guide, and a measured pace prevent it, as Chapters Six, Seven, Nine, and Ten set out. Bayazid's ecstatic sayings and Junayd's sober way in one line, with a pointer to Chapter Fourteen.
+    c. Some fall into licence, "whatever sin is done is done by God"; Tabatabaʾi warns of the "claim of incarnation and identification with God, denial of being obligated to abide by religious injunctions and regarding everything lawful", which he places earlier, at the stages of remembrance.
+3. Most who fall into licence got there by rushing; the law, a guide, and a measured pace keep the traveller on the way, as Chapters Six, Seven, Nine, and Ten set out. Bayazid's ecstatic sayings and Junayd's sober way in one line, with a pointer to Chapter Fourteen.
 4. The healthy outcome is separation after unification, sobriety after obliteration: grace comes "bringing him to himself… whereat he finds himself in the state of awakening (sahw)" (Khomeini).
 5. That sobriety is higher than the obliteration, not a step down (Mutahhari); the Imams (as) lived in it, combining unity and plurality and keeping the least of the laws (Tabatabaʾi).
-6. In that state neither veils the other: for us God is veiled by creation; in passing away creation is veiled by God; now "neither of them is veiled by the other"; Amuli, "the one who joins them is the one of true affirmation".
-7. Therefore (section and chapter): love ends in losing the false self before God's glory and in coming back sober, seeing God in all things while remaining oneself. Last line: Imam ʿAli (as), "I did not see a thing without beholding God with it, in it, before it, and after it".
+6. In that state neither veils the other: for us God is veiled by creation; in passing away creation is veiled by God; now "neither of them is veiled by the other"; Amuli's gnostic: seeing only unity leads to heresy, seeing only separation denies that God is the Absolute Actor, and the one who holds both has true affirmation. Both are ways of seeing, not a union of God and creature.
+7. Therefore (section and chapter): love ends in losing the false self before God's glory and in coming back sober, seeing God in all things while remaining oneself; for them creation is a mirror of His epiphany (Khomeini). Last line: Imam ʿAli (as), "I did not see a thing without beholding God with it, in it, before it, and after it".
 
 Close: "Others have walked this far. Where did the road come from, and who walked it first?" *(Try this box.)*
 ::::
 
-Passing away is the summit of the road, but not its end. Of the traveller who reaches it, Sheikh Bahmanpour says, "That's the beginning, that's not the end." Most mystics never reach this station. Those who do still face dangers, because nearness to God is not safety. Satan once stood near to God, in a place where pride had no room, and there he grew proud. He fell, defeated by nothing but his own self. <!-- src: L09 ¶20, ¶23 -->
+Passing away is the summit of the road, but not its end. Of the traveller who reaches it, Sheikh Bahmanpour says, "That's the beginning, that's not the end." Most mystics may never reach this station. Those who do still face dangers, because nearness to God is not safety. Satan once stood near to God, in a place where pride had no room, and there he grew proud. He fell, defeated by nothing but his own self. <!-- src: L09 ¶20, ¶23 -->
 
 Not everyone who passes away comes back well. The lectures describe three ways of going wrong. Let's take them as principles rather than as the stories of particular people.
 
 In the first, the traveller stays lost. Drawn to the divine light, he is held for ever by the beauty of God and does not come back to himself. Such mystics are a small minority. Souls differ in how they meet so great an encounter, as two people caught in the same accident may come out of it in different states. <!-- src: L09 ¶30-31 -->
 
-In the second, the traveller is held only for a while, and in that time he loses control of his tongue. He utters ecstatic sayings (*shath*), words in which he confuses himself with God. While he is out of his mind, he is not held to religious duties, like anyone who has lost his reason. Some mystics go further and say that duties are lifted for ever from one who reaches this station, even once he is in his right mind. The lectures hold this to be unacceptable, above all in the Shia understanding of mysticism, and in most of the Sunni tradition as well. <!-- src: L09 ¶38-42 -->
+In the second, the traveller is held only for a while, and in that time he loses control of his tongue. He utters ecstatic sayings (*shath*), words in which he confuses himself with God. While he is out of his mind, he is not held to religious duties, like anyone who has lost his reason. Some mystics go further and say that duties are lifted for ever from one who reaches this station, even once he is in his right mind. The lectures hold this to be unacceptable, above all in the Shia understanding of mysticism, and in most of Sunni mysticism as well. <!-- src: L09 ¶38-42 -->
 
-In the third, and the most dangerous, the traveller can no longer tell himself from his Lord, or his Lord from His creation. He falls into licence and says that "whatever sin is done is done by God". He has forgotten what the first degree taught: the power in an act is God's, whereas the intention is ours. ʿAllama Tabatabaʾi lists the same dangers among those on the road, including the "claim of incarnation and identification with God, denial of being obligated to abide by religious injunctions and regarding everything lawful" [@light, p. 102]. <!-- src: L09 ¶43, ¶53 -->
+In the third, and the most dangerous, the traveller can no longer tell himself from his Lord, or his Lord from His creation. He falls into licence and says that "whatever sin is done is done by God". ʿAllama Tabatabaʾi warns of the same dangers, the "claim of incarnation and identification with God, denial of being obligated to abide by religious injunctions and regarding everything lawful", though he places them earlier on the road, at the stages of remembrance [@light, p. 102]. <!-- src: L09 ¶43 -->
 
-All three dangers have one cause, which is rushing. Most mystics who fall into them have pushed themselves to this station in haste, through the wrong kind of practice. Their souls then grow out of proportion, like a body whose head grows huge while the rest stays small. A traveller who practises in a balanced way is raised to the station gradually. The law, a guide, and a measured pace keep him to that way. Chapters Six, Seven, Nine, and Ten set them out. The tradition remembers Bayazid Bistami for his ecstatic sayings and Junayd of Baghdad for the sober way; Chapter Fourteen returns to both [@light, pp. 25, 27]. <!-- src: L09 ¶44, ¶47-48; L07 ¶64 -->
+Most who fall into the worst of these dangers, licence, got there by rushing. They pushed themselves to this station in haste through the wrong kind of practice. Their souls then grew out of proportion, like a body whose head grows huge while the rest stays small. A traveller who practises in a balanced way is raised to the station gradually. The law, a guide, and a measured pace keep him on that way. Chapters Six, Seven, Nine, and Ten set them out. The tradition remembers Bayazid Bistami for his ecstatic sayings and Junayd of Baghdad for the sober way; Chapter Fourteen returns to both [@light, pp. 25, 27]. <!-- src: L09 ¶44, ¶47-48; L07 ¶64 -->
 
-A traveller who has walked at the right pace comes back well. The mystics liken passing away to intoxication (*sukr*). The healthy return they call sobriety after obliteration (*sahw baʿd al-mahw*), or separation after unification (*farq baʿd al-jamʿ*). In passing away the traveller seemed to be one with God. With every illusion gone, he gradually comes to tell himself apart from God, and God apart from His creation. Imam Khomeini describes the return as God's grace, which "comes to his aid, bringing him to himself and returning him to the domain of his own self, whereat he finds himself in the state of awakening (sahw)" [@forty_hadith, p. 515]. <!-- src: L09 ¶45, ¶50 -->
+A traveller who has walked at the right pace comes back well. The mystics liken passing away to intoxication (*sukr*). The healthy return they call sobriety after obliteration (*sahw baʿd al-mahw*), or separation after unification (*farq baʿd al-jamʿ*). The traveller who thought himself one with God in passing away gradually comes to tell himself apart from God, and God apart from His creation. Imam Khomeini describes the return as God's grace, which "comes to his aid, bringing him to himself and returning him to the domain of his own self, whereat he finds himself in the state of awakening (sahw)" [@forty_hadith, p. 515]. <!-- src: L09 ¶45, ¶50 -->
 
-This sobriety is not a step down. Murtada Mutahhari writes that the return to remaining (*baqaʾ*) is not "a retrogression from a higher state", and calls sobriety "loftier even than mahw and mahq", the effacement and obliteration of passing away [@light, p. 57]. The Imams (as) lived in it. ʿAllama Tabatabaʾi's lectures say that they reached "the station of subsistence after annihilation", a state "which combines the two realms of Unity and plurality", and that they never held back from "observance of the most minor of the laws" [@kernel, p. 60].
+This sobriety is not a step down. Murtada Mutahhari writes that the return to remaining (*baqaʾ*) is not "a retrogression from a higher state", and calls sobriety "loftier even than mahw and mahq" (the effacement and obliteration of passing away) [@light, p. 57]. The Imams (as) lived in it. ʿAllama Tabatabaʾi's lectures say that they reached "the station of subsistence after annihilation", a state "which combines the two realms of Unity and plurality", and that they never held back from "observance of the most minor of the laws" [@kernel, p. 60].
 
-In this sobriety neither God nor creation veils the other. For us, creation veils God from our sight, and we see the world without seeing Him. In passing away, God's glory veils creation, and the traveller sees only Him. In the return, in Sheikh Bahmanpour's words, "neither of them is veiled by the other". Sayyid Haydar Amuli quotes a gnostic on the same balance. Merging alone leads to heresy, whereas separation alone denies that God is the Absolute Actor. The gnostic tells the traveller to keep both, "for the one who joins them is the one of true affirmation" [@inner_secrets, p. 116]. <!-- src: L09 ¶46 -->
+In this sobriety neither God nor creation veils the other. For us, creation veils God from our sight, and we see the world without seeing Him. In passing away, God's glory veils creation, and the traveller sees only Him. In the return, in Sheikh Bahmanpour's words, "neither of them is veiled by the other". Sayyid Haydar Amuli quotes a gnostic on the same balance. Seeing only unity leads to heresy, whereas seeing only separation denies that God is the Absolute Actor. Both are ways of seeing and not a union of God and creature. The one who holds the two together, the gnostic says, has true affirmation [@inner_secrets, p. 116]. <!-- src: L09 ¶46 -->
 
-Passing away is therefore a beginning, and its healthy end is the return. Love carries the traveller to the loss of the false self before God's glory, and grace brings him back sober, seeing God in all things while remaining himself. Imam Khomeini cites a saying of Imam ʿAli (as) to show what creation becomes for such a person: no longer a veil that hides God, but a place where He is seen.
+Passing away is therefore a beginning, and its healthy end is the return. Love carries the traveller to the loss of the false self before God's glory, and grace brings him back sober, seeing God in all things while remaining himself. For us the many things of creation are a veil that hides God. Imam Khomeini writes that for those who have come back they are a mirror of His epiphany, and he shows it with a saying of Imam ʿAli (as) [@forty_hadith, pp. 515–516].
 
 ::: {.quote ar="[VERIFY: Arabic of Imam ʿAli's saying, Forty Hadith p. 516; the extract's Arabic is garbled]" source="Imam ʿAli (as)"}
 I did not see a thing without beholding God with it, in it, before it, and after it. [@forty_hadith, p. 516]
 :::
 
-In Imam ʿAli's line the world has not disappeared, and neither has the one who looks at it. Nothing in it hides God from his sight.
-
 Others have walked this far. Where did the road come from, and who walked it first?
 
 ::: {.box-try title="Try this"}
-Sheikh Bahmanpour asks his listeners to notice the word *Huwa*, "He", wherever it appears in the Qur'an, which uses it for God in a striking way. When you recite Surah al-Ikhlas in salah this week, stop for a moment on the word after "Say", *Huwa*. Recall the prayer Imam ʿAli (as) learned from Khidr on the night before Badr, which calls on God by this word, and let it point to Him alone before you go on to "Allah, the One".
+Sheikh Bahmanpour asks his listeners to notice the word *Huwa*, "He", wherever it appears in the Qur'an, which uses it for God in a striking way. When you recite Surah al-Ikhlas in salah this week, stop for a moment on the word after "Say", *Huwa*. Recall the prayer Imam ʿAli (as) learned from Khidr before Badr, which calls on God by this word, and let it point to Him alone before you go on to "Allah, the One".
 :::
