@@ -40,7 +40,11 @@ _Update at the end of every task. Keep it short. History lives in git and DECISI
 
 **2026-10-19, TONE 46 sweep of Part Three (D51).** The user's eleven approved edits applied; the rest of Ch 8–12 swept for the seven approved kinds only. Forty-two before → after edits in `reviews/ai/sweep-part3-2026-10-19.md` (every "before" occurs once in its file; lengths checked; every remaining "not" was checked against its transcript and the lecturer-raised ones are listed as kept). Chapters not edited; awaiting the user's line-by-line choices.
 
-**Next:** the user's read of Part Three (PDFs in `samples/`) and his choices on the sweep sheet.
+**2026-10-19, TONE 46 sweep of the prologue and Ch 1–3.** Twenty-four before → after edits in `reviews/ai/sweep-ch00-03-2026-10-19.md`, following the user's Part Three choices (kept: real-thought "not"s, story wording, restating openers, quotations in place; no "whereas", no trailing comma tails). Conservative on the exemplar (prologue 2, Ch 1 3); Ch 2 and Ch 3 nine each. Every "before" occurs once; every "not" in the four files is listed as cut or kept with its reason. Chapters not edited; awaiting the user's line-by-line choices.
+
+**2026-10-19, TONE 46 sweep of Ch 4–7.** Thirty-five before → after edits in `reviews/ai/sweep-ch04-07-2026-10-19.md` (Ch 4: 7, Ch 5: 10, Ch 6: 9, Ch 7: 9), following the user's Part Three choices. Eight "not"s cut; every other "not" in the four chapters is listed as kept with its reason. Every "before" occurs once; no "after" ends on a trailing comma phrase; the approved Ch 5 opening is untouched. Nine items carry a one-line "unsure" note. Chapters not edited; awaiting the user's line-by-line choices.
+
+**Next:** the user's read of Part Three (PDFs in `samples/`) and his choices on the three sweep sheets.
 
 ## Open questions for the user or lecturer
 1. The lecturer is M. S. Bahmanpour (from the slides). Confirm his preferred title and name format.
