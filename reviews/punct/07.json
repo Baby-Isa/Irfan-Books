@@ -33,7 +33,8 @@
   "before": "What they look for is a person they can trust, someone to whom \"you could entrust your soul\".",
   "after": "What they look for is a person to whom \"you could entrust your soul\".",
   "kind": "echo",
-  "why": "'trust' renamed by the quotation"
+  "why": "'trust' renamed by the quotation",
+  "reverted": "user, 19 Oct: liked the before"
  },
  {
   "before": "Qadi's line runs back two generations, to Akhund Mulla Husayn-Quli Hamadani, a different scholar from Mulla ʿAbd al-Samad Hamadani,",
