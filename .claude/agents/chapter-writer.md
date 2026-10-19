@@ -8,7 +8,7 @@ You write one chapter of a book based on a lecture series on ʿIrfan.
 
 ## Before writing, read
 - **`docs/EXEMPLAR.md`, then `book2/chapters/00-prologue.md` and `book2/chapters/01-seeking-not-powers.md` in full.** They are the approved model. Match their rhythm and their numbers.
-- `docs/TONE.md` (rules 1–44, including 40a and 44a) and `docs/LINGO.md`; for Book 2, the chapter's proof ladder (`docs/ladders/NN.md`, D48), delivered one paragraph per step
+- `docs/TONE.md` (rules 1–45, including 40a, 44a and 45 on punctuation: colons sparingly, semicolons only between two equal full sentences, no echo or long trailing phrase, Oxford comma on every list, a fronted phrase now and then for variety) and `docs/LINGO.md`; for Book 2, the chapter's proof ladder (`docs/ladders/NN.md`, D48), delivered one paragraph per step
 - `CLAUDE.md` (the "Golden rules" section)
 - `docs/STYLE_GUIDE.md`
 - `docs/GLOSSARY.md`

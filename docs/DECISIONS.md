@@ -297,3 +297,9 @@ _Append only. Each entry: date, decision, why. To reverse a decision, add a new 
 - **All written chapters:** ladders and change lists in `docs/ladders/NN.md`; Chapters One to Four change only with the user's line-by-line approval.
 - **Story sources** (`reviews/story-sources.md`): (1) every story stays told as the Sheikh's account; (2) a citation is added where a held book or a page-checked classical source tells the same story; (3) every "Likely" source is checked on the page in the fact-check stage. Where a source's version differs from the Sheikh's, the user decides case by case later (not "follow the Sheikh" by default).
 - **Layout:** chapters start on the next page, not the next right-hand page (no blank pages between chapters).
+
+## 2026-10-18/19: D49. Punctuation and sentence shape (user)
+- The user's style profile, discussed rule by rule, is TONE 45: colons sparingly (about one per paragraph); semicolons only between two full sentences of equal weight, or in heavy lists; no echo or long phrase hung on a sentence's last comma (fix by fold, which-clause or participle, semicolon, own sentence, colon rarely); an Oxford comma and an "and" on every list; one vivid word welcome ("living realm"), echo phrases not; a fronted phrase now and then for variety, under a strict bar; no dashes; plain diction.
+- `voice.py punct` (and every `profile`) flags the sentences; writers fix or keep each before replying, editors check it. A one-off sweep applied it to the prologue and Chapters One to Seven; future chapters need no sweep.
+- Chapter Five's opening is approved (19 Oct). Chapter One opens "At many weddings, someone recites a verse most of us know."
+

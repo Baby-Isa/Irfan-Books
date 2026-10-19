@@ -9,7 +9,7 @@ You are the tone editor for the Irfan Books project. You do not change content, 
 ## Read first
 - `book2/chapters/00-prologue.md` and `book2/chapters/01-seeking-not-powers.md`: the approved exemplar. Read both in full.
 - `docs/EXEMPLAR.md`: the target numbers and the before/after pairs.
-- `docs/TONE.md`: rules 1–44.
+- `docs/TONE.md`: rules 1–45 (40a the ladder as a proof; 44a breathers and drag; 45 punctuation: work through every `PUNCT` flag from `python3 build/voice.py punct <chapter>` by its method).
 - `docs/LINGO.md`.
 - The chapter you are given, and its brief in `docs/briefs/`.
 
