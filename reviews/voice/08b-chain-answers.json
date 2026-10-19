@@ -1,0 +1,66 @@
+{
+  "sections": {
+    "1": {
+      "point": "Open with the Near One, turn it into the question of what makes a person 'away' (their own deeds, as a veil), and announce that the chapter sets out the stages of a journey that covers no distance.",
+      "steps": [
+        "Contrast the journey measured in miles with the journey the prayer speaks of: God is near even to the one who is away.",
+        "If God is near, the distance is on our side; a second prayer names what stands in the way.",
+        "What stands in the way is our own wrong deeds, like a veil; the chapter will show why the journey covers no distance, what its four stages are and why they come in order."
+      ]
+    },
+    "2": {
+      "point": "Because God is already nearer than the jugular vein, the journey crosses no distance; it runs inward and consists of lifting veils that lie on our side.",
+      "steps": [
+        "The Qur'an says God is nearer to a person than their jugular vein.",
+        "So there is no distance to cross; the journey is inward wayfaring, a finding of what is already present.",
+        "The inward journey is the lifting of a veil over the heart that blocks the sight of God.",
+        "The veils are of two kinds: dark veils made by our own deeds, and veils of light that belong to our creatureliness, only the outer of which lift.",
+        "Either way the hindrance is inside us, so the journey removes veils rather than crossing distance."
+      ]
+    },
+    "3": {
+      "point": "The veils come off in four named stages, and they divide into two the traveller does (polishing, emptying) and two God does (adorning, passing away).",
+      "steps": [
+        "The mystics count four stages to the end of the first journey: polishing, emptying, adorning, passing away.",
+        "Polishing: the body and lower self are set right by repentance and strict keeping of the law.",
+        "Emptying: the heart is cleared of everything but God, using the five disciplines.",
+        "Adorning: God gives the purified heart gifts it could not make, including love.",
+        "Passing away: a glimpse of God's glory removes the sense of self.",
+        "The first two are the traveller's work; the last two are God's act on the prepared heart."
+      ]
+    },
+    "4": {
+      "point": "The four stages come in a fixed order because each depends on the one before, and an earlier stage is never abandoned when a later one begins.",
+      "steps": [
+        "Each stage needs the one before: no next step without the law; only a purified soul catches God's gifts; passing away comes when adorning is at its height.",
+        "No stage is dropped: polishing accompanies the mystic to the end, the Prophet was still told to keep vigil, and the law is kept more carefully after unveiling.",
+        "Therefore the stages are cumulative and ordered."
+      ]
+    }
+  },
+  "paragraphs": {
+    "¶1": {"label": "advance", "why": "The hook: a journey in miles against the journey the prayer names, and God as the Near One who is close even to the one who is away. First link of the opening."},
+    "¶2": {"label": "advance", "why": "Draws the question the opening needs (if God is near, what makes a person 'away'?) and introduces the prayer that will answer it."},
+    "¶3": {"label": "advance", "why": "Answers the question (our own wrong deeds, as a veil) and states what the chapter will establish: no distance, four stages, in order. Does the opening's job without recap beyond the one sentence."},
+    "¶4": {"label": "advance", "why": "States the section's first step, God is already near, and sets up the Qur'anic evidence for it."},
+    "¶5": {"label": "support", "why": "Glosses the displayed verse (nearer than the vein in one's own neck) so the reader draws the inference ¶4 asserted. Needed to make the verse carry the claim, but adds no step of its own; 'no distance to cross' is already in ¶4."},
+    "¶6": {"label": "advance", "why": "Supplies the next step: with no distance, the journey runs inward, and names it as wayfaring and finding ourselves. The etymology of suluk as 'conduct' is a side remark inside an otherwise needed paragraph."},
+    "¶7": {"label": "advance", "why": "Defines the inward journey as lifting a veil over the heart, the step everything after it depends on."},
+    "¶8": {"label": "advance", "why": "Short but functional: introduces the distinction between dark veils and veils of light that ¶9-¶10 fill in and that ¶11 and the next section rely on."},
+    "¶9": {"label": "advance", "why": "Dark veils: made by our own deeds, belonging to the lower self. Ties back to the Abu Hamza line from the opening and is what polishing in Section 3 works on."},
+    "¶10": {"label": "advance", "why": "Veils of light: not made by us, some never lift. Needed so that 'the veils inside us that can be lifted' in ¶11 and the end of the fourth stage make sense."},
+    "¶11": {"label": "restate", "why": "Its conclusion ('the journey therefore covers no distance; it removes the veils inside us') was stated in ¶4 and ¶7, and 'hindrance on our side' was already in ¶3 and ¶9. The lecture quotation is a new piece of support for a step already made; the paragraph's function is summary. The point is stated twice in the section (¶4 and ¶11)."},
+    "¶12": {"label": "advance", "why": "Supplies the frame the point needs: four stages to the end of the first journey, with their English names, and tells the reader this chapter only surveys them."},
+    "¶13": {"label": "advance", "why": "First stage, polishing: what is polished, how it begins and what it consists of. A step the point needs."},
+    "¶14": {"label": "advance", "why": "Second stage, emptying: the work moves to the heart, with the wine/evil-thoughts contrast showing why it is harder, and the five disciplines placed as its tools. A step the point needs."},
+    "¶15": {"label": "advance", "why": "Third stage, adorning: gifts the soul cannot make for itself, including love. Also quietly establishes that this stage is God's, which ¶17 makes explicit."},
+    "¶16": {"label": "advance", "why": "Fourth stage, passing away: a glimpse of glory removes the sense of self; coupled with remaining and a sober return. The Amuli quotation is extra testimony, but the paragraph supplies a needed step."},
+    "¶17": {"label": "advance", "why": "Makes the two-pair division explicit (two ours, two God's) with the lecture's food image and quotation. This is the second half of the section's point and nothing earlier had stated it outright."},
+    "¶18": {"label": "restate", "why": "Repeats ¶17 and the box verbatim in substance: four stages, two ours, two God's. Adds nothing; the conclusion has now been stated three times (¶17, box, ¶18)."},
+    "¶19": {"label": "advance", "why": "Supplies the first step of the point: the order is fixed because each stage needs the one before, with the lecture's evidence for each dependency."},
+    "¶20": {"label": "advance", "why": "Supplies the second step: no stage is dropped, with the lecture's statement about polishing, the Prophet's vigil, and the Chapter Six link. The 'wider point' sentence draws the cumulative conclusion."},
+    "¶21": {"label": "aside", "why": "That any believer can start on the road and that irfan proper begins at the second stage is true and sourced, but the point (order and no dropping) does not use it. Deleting it leaves ¶22 intact; ¶23 restates the 'any believer can start' idea itself and so does not depend on it."},
+    "¶22": {"label": "restate", "why": "A chapter-wide summary of all three section points (no distance, four stages in two pairs, ordered and cumulative). Every claim was made earlier; the mention of 'four journeys' is a new number but ¶12 and the box already said this is only the first journey."},
+    "¶23": {"label": "aside", "why": "A bridge to the next chapter rather than a link in this section's chain. Its first half repeats ¶21 (the law comes first, so any believer can begin); the remark about a teacher is new but unused; and it ends on a question the chapter does not answer. Cutting it costs the argument nothing."}
+  }
+}
