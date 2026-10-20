@@ -1,0 +1,149 @@
+[
+ {
+  "kind": "comma",
+  "where": "§ Opening, ¶1",
+  "before": "The lines just before it ask for pardon, promising to cling to God's forgiveness whatever sins are held against the one praying.",
+  "after": "The lines just before it ask for pardon and promise to cling to God's forgiveness whatever sins are held against the one praying.",
+  "note": "Fix 1 (join with \"and\"). Part Three list #39."
+ },
+ {
+  "kind": "comma",
+  "where": "§ What God gives the emptied heart, ¶1",
+  "before": "Adorning (*tahliya*) is, in Sheikh Bahmanpour's words, \"Allah's act on the soul\", not the traveller's.",
+  "after": "Adorning (*tahliya*) is, in Sheikh Bahmanpour's words, \"Allah's act on the soul\" rather than the traveller's.",
+  "note": "Fix 1 (folded). Part Three list #40, with \"rather than\" in place of \"and not\" (TONE 45/46). The contrast is the lecturer's (L07 ¶36)."
+ },
+ {
+  "kind": "comma",
+  "where": "§ What God gives the emptied heart, ¶6",
+  "before": "He would state a teaching and then ask his listeners for the hadith or the verse behind it, sure that one existed.",
+  "after": "He would state a teaching and then, sure that one existed, ask his listeners for the hadith or the verse behind it.",
+  "note": "Fix 3 (moved to the middle). Part Three list #41."
+ },
+ {
+  "kind": "comma",
+  "where": "§ What God gives the emptied heart, ¶9",
+  "before": "He answered that the night was not long to him but short, and he is also reported to have wished that his whole life were a single night, passed in one prostration to God.",
+  "after": "He answered that the night was not long to him but short, and he is also reported to have wished that his whole life were a single night passed in one prostration to God.",
+  "note": "Fix 1 (folded). Part Three list #42. Only the comma goes: the rest is your approved wording (examples 8b), and \"not long but short\" is Uways's own answer (L15 ¶42), so the NOT-BUT flag is left."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Love, the gift the Imams asked for, box \"Word Study: mahabba\"",
+  "before": "*Mahabba* is the Arabic word for love, and the love of God is one of the two things ʿirfan seeks, beside knowing Him.",
+  "after": "*Mahabba* is the Arabic word for love, and the love of God and the knowledge of Him are the two things ʿirfan seeks.",
+  "note": "Fix 1 (folded). Part Three list #43."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Love, the gift the Imams asked for, box \"Word Study: mahabba\"",
+  "before": "The Lovers of the Whispered Prayer are the *muhibbin*, \"those who love\", from the same root again.",
+  "after": "The Lovers of the Whispered Prayer are the *muhibbin*, \"those who love\", and the name comes from the same root again.",
+  "note": "Fix 1 (join with \"and\"). Part Three list #44."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Love, the gift the Imams asked for, ¶5",
+  "before": "*Lantern of the Path* puts fear first and hope next, with love following when \"the breeze of love stirs\" [@lantern, p. 58].",
+  "after": "*Lantern of the Path* puts fear first and hope next, and love follows when \"the breeze of love stirs\" [@lantern, p. 58].",
+  "note": "Fix 1 (join with \"and\"). Part Three list #45."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Love, the gift the Imams asked for, ¶6",
+  "before": "Worship that comes from love is a different kind of worship, the worship of the free (*ʿibadat al-ahrar*).",
+  "after": "Worship that comes from love is a different kind of worship, which the lectures call the worship of the free (*ʿibadat al-ahrar*).",
+  "note": "Fix 2 (which-clause). New in place of list #46, whose After made Imam ʿAli call love-worship by this name; in Nahj 3.222 the free worship to give thanks, and it is the lectures that link the name to love (L12 ¶60). The next sentence (\"Imam ʿAli (as) names three kinds…\") stays."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Even love is left at the door, ¶6",
+  "before": "He gives it knowledge, a deeper understanding of the Qur'an, and a light to walk by, in flashes at first and later to stay.",
+  "after": "He gives it knowledge, a deeper understanding of the Qur'an, and a light to walk by, which come in flashes at first and later stay.",
+  "note": "Fix 2 (which-clause). Part Three list #47."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Even love is left at the door, box \"Try this\"",
+  "before": "This week, read it once, slowly [@sahifa, pp. 656–657].",
+  "after": "This week, read it slowly from start to finish [@sahifa, pp. 656–657].",
+  "note": "Fix 3 (rewritten). Part Three list #48. A short tail that may read well as a pause; alternative: \"This week, read it once at a slow pace\"."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Even love is left at the door, box \"Try this\"",
+  "before": "As you read, notice how much of what it asks for is God's to give, such as a place among those \"purified through Thy affection and Thy love\", and \"whose breast Thou hast freed for Thy love\".",
+  "after": "As you read, notice how much of what it asks for is God's to give. It asks for a place among those \"purified through Thy affection and Thy love\" and \"whose breast Thou hast freed for Thy love\".",
+  "note": "Fix 4 (own sentence). Part Three list #49. Quotations unchanged."
+ },
+ {
+  "kind": "variation",
+  "where": "§ Love, the gift the Imams asked for, ¶1",
+  "before": "After the soul has been purified, love is placed in the heart by God.",
+  "after": "After the soul has been purified, God places love in the heart.",
+  "note": "God named as the actor; plainer active sentence (L07 ¶10)."
+ },
+ {
+  "kind": "variation",
+  "where": "§ Love, the gift the Imams asked for, ¶2",
+  "before": "The lectures do not cite it, but Surah al-Maʾida speaks of such a people.",
+  "after": "Surah al-Maʾida, which the lectures do not cite, speaks of such a people.",
+  "note": "Source named as the actor; drops the \"not…, but\" frame while keeping the disclosure that the verse is the book's addition."
+ },
+ {
+  "kind": "variation",
+  "where": "§ Love, the gift the Imams asked for, box \"Word Study: mahabba\"",
+  "before": "Read with the Munajat's line, the verse suggests to this book that the drawing begins on His side.",
+  "after": "This book reads the verse with the Munajat's line and takes the drawing to begin on His side.",
+  "note": "The book named as the actor in place of \"the verse suggests to this book\"; still marked as the book's reading."
+ },
+ {
+  "kind": "variation",
+  "where": "§ Love, the gift the Imams asked for, ¶9",
+  "before": "Then these two veils would disappear, and it would be clear who worships God out of love and not from fear of hell or hope of paradise.",
+  "after": "Then these two veils would disappear, and it would be clear who worships God out of love rather than from fear of hell or hope of paradise.",
+  "note": "\"and not\" turned into \"rather than\" (D53). Rabiʿa's point unchanged."
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Opening, ¶3",
+  "before": "This chapter sets out what God gives the emptied heart in that stage.",
+  "after": "",
+  "note": "signpost; label sentence"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ What God gives the emptied heart, ¶3",
+  "before": "The verse joins the new life to a light, and the one given it walks with that light among the people.",
+  "after": "",
+  "note": "restates the verse just quoted; abstract pairing"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ What God gives the emptied heart, ¶5",
+  "before": "The verse's last words state a general rule.",
+  "after": "",
+  "note": "label sentence announcing the next"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Love, the gift the Imams asked for, ¶3",
+  "before": "The duʿa treats separation from God as harder to bear than His punishment.",
+  "after": "",
+  "note": "label sentence; says what the quotation below says"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Love, the gift the Imams asked for, ¶5",
+  "before": "A heart that has tasted that sweetness wants nothing in God's place, and this love carries the traveller.",
+  "after": "",
+  "note": "bridge sentence; two ideas yoked by \"and\""
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Even love is left at the door, ¶2",
+  "before": "Love is the traveller's own state, whereas the Beloved is God.",
+  "after": "",
+  "note": "mirrored contrast; abstract nouns"
+ }
+]

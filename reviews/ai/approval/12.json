@@ -1,0 +1,191 @@
+[
+ {
+  "kind": "comma",
+  "where": "§ What is lost is the false self, ¶2",
+  "before": "What changes is the traveller's knowing, which is why the lectures call annihilation \"an epistemological issue\", meaning a matter of perception rather than of existence.",
+  "after": "What changes is the traveller's knowing, and the lectures call annihilation \"an epistemological issue\" because it is a matter of perception rather than of existence.",
+  "note": "Fix 1 (folded into a because-clause). New in place of list #50 (which split it in two); TONE 46 names this sentence under \"Don't\". L07 ¶59."
+ },
+ {
+  "kind": "comma",
+  "where": "§ What is lost is the false self, ¶3",
+  "before": "In Islamic mysticism, the lectures say, the individual goes on for ever, growing \"more expanded, more capable\".",
+  "after": "In Islamic mysticism, the lectures say, the individual goes on for ever and grows \"more expanded, more capable\".",
+  "note": "Fix 1 (join with \"and\"). Part Three list #51. Rest of the sentence is your approved sweep #34."
+ },
+ {
+  "kind": "comma",
+  "where": "§ What is lost is the false self, ¶4",
+  "before": "The lectures call such a merging impossible, and the claim to it shirk, or unbelief (*kufr*).",
+  "after": "The lectures call such a merging impossible, and the claim to it shirk or unbelief (*kufr*).",
+  "note": "Fix 1 (folded). Part Three list #52. The no-union claim is unchanged; L07 ¶60 says \"just a shirk or kufr\", so the two are alternatives and \"unbelief\" glosses kufr only."
+ },
+ {
+  "kind": "comma",
+  "where": "§ What is lost is the false self, box \"Word Study: fanaʾ and baqaʾ\"",
+  "before": "\"Ephemeral\" translates *fanin*, from the root of *fanaʾ*, annihilation; \"lasting\" translates *yabqa*, from the root of *baqaʾ*, remaining.",
+  "after": "\"Ephemeral\" translates *fanin*, which shares a root with *fanaʾ* (annihilation); \"lasting\" translates *yabqa*, which shares a root with *baqaʾ* (remaining).",
+  "note": "Fix 2 (which-clauses). Part Three list #53."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Three degrees: in action, in attributes, in essence, ¶1",
+  "before": "(ʿAllama Tabatabaʾi counts four, adding a unity of the Names before the last [@light, pp. 107–108].)",
+  "after": "(ʿAllama Tabatabaʾi counts four and adds a unity of the Names before the last [@light, pp. 107–108].)",
+  "note": "Fix 1 (join with \"and\"). Part Three list #54. (The parenthesis sat unchanged inside examples 6a.)"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Three degrees: in action, in attributes, in essence, ¶2",
+  "before": "When a hand moves, the power in it is God's, flowing into the hand.",
+  "after": "When a hand moves, the power that flows into it is God's.",
+  "note": "Fix 3 (moved into the middle). Part Three list #55."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Three degrees: in action, in attributes, in essence, ¶6",
+  "before": "What is left to him is one word, *Huwa*, \"He\".",
+  "after": "What is left to him is the one word *Huwa*, \"He\".",
+  "note": "Fix 1 (folded); \"He\" stays as the gloss. Part Three list #56."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Three degrees: in action, in attributes, in essence, ¶7",
+  "before": "Khidr taught him a short prayer that calls on God as *Huwa*, He, besides whom there is none.",
+  "after": "Khidr taught him a short prayer that calls on God as *Huwa*, He besides whom there is none.",
+  "note": "Fix 1 (folded). Part Three list #57."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Coming back, sober, ¶1",
+  "before": "He fell, defeated by nothing but his own self.",
+  "after": "He fell, and nothing but his own self defeated him.",
+  "note": "Fix 1 (join with \"and\"). Part Three list #58 (L09 ¶23)."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Coming back, sober, ¶3",
+  "before": "Souls differ in how they meet so great an encounter, as two people caught in the same accident may come out of it differently, one shaken for days and the other untouched.",
+  "after": "Souls differ in how they meet so great an encounter, just as one of two people caught in the same accident may be shaken for days while the other is untouched.",
+  "note": "Fix 3 (folded into the clause). Part Three list #59. The detail is your approved sweep #40 (L09 ¶31); only the tail changes."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Coming back, sober, ¶4",
+  "before": "He utters ecstatic sayings (*shath*), words in which he confuses himself with God.",
+  "after": "He utters ecstatic sayings (*shath*), in which he confuses himself with God.",
+  "note": "Fix 2 (which-clause). Part Three list #60."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Coming back, sober, ¶4",
+  "before": "While he is out of his mind, he is not held to religious duties, like anyone who has lost his reason.",
+  "after": "Like anyone who has lost his reason, he is not held to religious duties while he is out of his mind.",
+  "note": "Fix 3 (moved to the front). Part Three list #61."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Coming back, sober, ¶4",
+  "before": "The lectures hold this to be unacceptable, above all in the Shia understanding of mysticism, and in most of Sunni mysticism as well.",
+  "after": "The lectures hold this to be unacceptable above all in the Shia understanding of mysticism and in most of Sunni mysticism as well.",
+  "note": "Fix 1 (commas removed, order kept). New in place of list #62, which put Sunni mysticism first; L09 ¶41 puts the Shia position first."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Coming back, sober, ¶5",
+  "before": "ʿAllama Tabatabaʾi warns of the same dangers, the \"claim of incarnation and identification with God, denial of being obligated to abide by religious injunctions and regarding everything lawful\", though he places them earlier on the road, at the stages of remembrance [@light, p. 102].",
+  "after": "ʿAllama Tabatabaʾi warns of the same dangers, the \"claim of incarnation and identification with God, denial of being obligated to abide by religious injunctions and regarding everything lawful\", though he places them earlier on the road at the stages of remembrance [@light, p. 102].",
+  "note": "Fix 1 (folded). Part Three list #63. Quotation unchanged."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Coming back, sober, ¶6",
+  "before": "Their souls then grew out of proportion, like a body whose head grows huge while the rest stays small.",
+  "after": "Their souls then grew out of proportion like a body whose head grows huge while the rest stays small.",
+  "note": "Fix 1 (folded). Part Three list #64."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Coming back, sober, ¶10",
+  "before": "Love carries the traveller to the loss of the false self before God's glory, and grace brings him back sober, seeing God in all things while remaining himself.",
+  "after": "Love carries the traveller to the loss of the false self before God's glory, and grace brings him back sober, so that he sees God in all things while remaining himself.",
+  "note": "Fix 2 (a clause with its own verb). Part Three list #65. The chapter's point is unchanged."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Coming back, sober, box \"Try this\"",
+  "before": "When you recite Surah al-Ikhlas in salah this week, stop for a moment on the word after \"Say\", *Huwa*.",
+  "after": "When you recite Surah al-Ikhlas in salah this week, stop for a moment on the word *Huwa* after \"Say\".",
+  "note": "Fix 1 (folded). New in place of list #66 (\"which is *Huwa*\")."
+ },
+ {
+  "kind": "variation",
+  "where": "§ Three degrees: in action, in attributes, in essence, ¶3",
+  "before": "That there is no authority but God's is something any believer can work out.",
+  "after": "Any believer can work out that there is no authority but God's.",
+  "note": "Plain order in place of a that-clause subject; one fewer \"That…\" opener."
+ },
+ {
+  "kind": "variation",
+  "where": "§ Three degrees: in action, in attributes, in essence, ¶4",
+  "before": "This is the lived truth of words we say often, there is no god but God (*la ilaha illa Allah*), because *Allah* is the name that gathers all His attributes.",
+  "after": "This is the lived truth of words we say in every prayer, there is no god but God (*la ilaha illa Allah*), because *Allah* is the name that gathers all His attributes.",
+  "note": "One everyday particular (the tashahhud of every salah) for \"often\"; the \"This is…\" line is kept."
+ },
+ {
+  "kind": "variation",
+  "where": "§ Three degrees: in action, in attributes, in essence, ¶8",
+  "before": "The sentence, which the Imams (as) placed on our tongues, does not stop at the veils.",
+  "after": "The sentence, which the Imams (as) placed on our tongues, goes further still.",
+  "note": "Positive statement in place of a \"not\" no reader raised (TONE 46); avoids echoing \"Past the veils\" two lines on."
+ },
+ {
+  "kind": "variation",
+  "where": "§ Coming back, sober, ¶6",
+  "before": "The tradition remembers Bayazid Bistami for his ecstatic sayings and Junayd of Baghdad for the sober way; Chapter Fourteen returns to both [@light, pp. 25, 27].",
+  "after": "The tradition remembers Bayazid Bistami for his ecstatic sayings and Junayd of Baghdad for the sober way, and Chapter Fourteen returns to both [@light, pp. 25, 27].",
+  "note": "\"X; Y\" made one sentence: the second half is a next step, so \", and\" (TONE 45). Ranked most AI-like in the chapter."
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Opening, ¶2",
+  "before": "The mystics call this annihilation *fanaʾ*, and in every prostration the body takes its posture for a moment.",
+  "after": "",
+  "note": "two ideas yoked by \"and\"; abstract \"posture\""
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Opening, ¶2",
+  "before": "This chapter sets out what annihilation is: what is lost in losing the self, what is found in finding God, and how the traveller comes back.",
+  "after": "",
+  "note": "signpost; mirrored list"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ What is lost is the false self, ¶5",
+  "before": "This self is the last thing emptying leaves behind, and annihilation is where it falls.",
+  "after": "",
+  "note": "balanced, aphorism-like closer"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ What is lost is the false self, ¶6",
+  "before": "What is lost in annihilation is therefore the false picture of a self that stands apart from God.",
+  "after": "",
+  "note": "summing-up line repeating the section's own wording"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Three degrees: in action, in attributes, in essence, ¶1",
+  "before": "The line names three layers, so the unveiling has three degrees.",
+  "after": "",
+  "note": "label sentence; keep the count"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Three degrees: in action, in attributes, in essence, ¶9",
+  "before": "Past the veils, the prayer asks that our souls be held by the glory of God's holiness.",
+  "after": "",
+  "note": "restates the quotation just given"
+ }
+]

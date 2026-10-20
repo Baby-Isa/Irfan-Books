@@ -1,0 +1,100 @@
+[
+ {
+  "kind": "comma",
+  "where": "§ The fault is in the receiver, ¶2",
+  "before": "The Qur'an says where it lies, speaking of people who have every faculty and use none of them.",
+  "after": "In a verse about people who have every faculty and use none of them, the Qur'an says where it lies.",
+  "note": "fix 3 (phrase moved to the front; \"it\" still follows \"the fault\" closely)"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Some do see, ¶2",
+  "before": "The first group are the *ʿurafaʾ*, the plural of *ʿarif*.",
+  "after": "The first group are the *ʿurafaʾ* (the plural of *ʿarif*).",
+  "note": "fix 1 (gloss folded into brackets, TONE 42). Short term gloss; may stay as it is"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Some do see, ¶3",
+  "before": "A verse in Surah Al ʿImran goes further, giving them another name.",
+  "after": "A verse in Surah Al ʿImran goes further and gives them another name.",
+  "note": "fix 1 (join with \"and\")"
+ },
+ {
+  "kind": "comma",
+  "where": "§ What they are given, and why it is open to all, ¶5",
+  "before": "Its people live in the world without being soiled by it, rising above the worries that occupy everyone else.",
+  "after": "Its people live in the world without being soiled by it and rise above the worries that occupy everyone else.",
+  "note": "fix 1 (join with \"and\")"
+ },
+ {
+  "kind": "comma",
+  "where": "§ The aim is God, not powers, ¶4",
+  "before": "The great teachers of the Shia tradition make closely related points, each in his own words.",
+  "after": "Each of the great teachers of the Shia tradition makes a closely related point in his own words.",
+  "note": "fix 3 (\"each\" moved to the front); the reader is still told \"in his own words\""
+ },
+ {
+  "kind": "variation",
+  "where": "§ Some do see, ¶2",
+  "before": "The prophets and the Imams (as) are a class of their own; the ʿurafaʾ are ordinary believers who see more than the rest.",
+  "after": "While the prophets and the Imams (as) are a class of their own, the ʿurafaʾ are ordinary believers who see more than the rest.",
+  "note": "mirrored \"X; Y\" halves as one flowing sentence (D53, as approved for the friends of God)"
+ },
+ {
+  "kind": "variation",
+  "where": "§ What they are given, and why it is open to all, ¶9",
+  "before": "The first three ranks are beyond us; the fourth is a doorway.",
+  "after": "The first three ranks are beyond us, but the fourth is a doorway.",
+  "note": "mirrored \"X; Y\" halves joined; \"doorway\" still lands at the end and is picked up by the next paragraph"
+ },
+ {
+  "kind": "variation",
+  "where": "§ The aim is God, not powers, ¶6",
+  "before": "Murtada Mutahhari uses the same word as Sheikh Bahmanpour.",
+  "after": "Murtada Mutahhari uses the word *shirk* as Sheikh Bahmanpour does.",
+  "note": "stock attribution (TONE 46 Scaffolding); naming the word lets the attribution carry content"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Some do see, ¶2",
+  "before": "People can be divided into two groups: those whose souls work, and those whose souls do not.",
+  "after": "",
+  "note": "binary label with a colon; passive \"can be divided\""
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ The fault is in the receiver, ¶6",
+  "before": "A faculty that exists but has rusted can be repaired; one that is absent cannot be made fit for purpose.",
+  "after": "",
+  "note": "mirrored contrast; abstract \"fit for purpose\""
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Some do see, ¶3",
+  "before": "A heart trembles only at the mention of someone it has some experience of; a name means little to a person who does not know whom it names.",
+  "after": "",
+  "note": "mirrored halves saying one thing twice"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ The aim is God, not powers, ¶2",
+  "before": "This kind of mysticism must be held apart from ʿirfan.",
+  "after": "",
+  "note": "passive label sentence"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ What they are given, and why it is open to all, ¶5",
+  "before": "This good life (*hayat tayyiba*), the life the mystics seek, is a clean life.",
+  "after": "",
+  "note": "stacked appositives; definition label"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Seeking, and nothing else, box \"Word Study: ʿIrfan and maʿrifah\"",
+  "before": "\"Mystic\" is used of Christians, Hindus, and Buddhists alike; ʿarif is the Islamic word, and it makes a precise claim.",
+  "after": "",
+  "note": "mirrored contrast; vague \"a precise claim\""
+ }
+]

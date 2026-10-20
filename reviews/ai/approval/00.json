@@ -1,0 +1,72 @@
+[
+ {
+  "kind": "comma",
+  "where": "§ How the book is built, ¶4",
+  "before": "Part Three, *The Road* (Chapters Eight to Twelve), asks how the path is walked: through ordered stages, by repentance, discipline, and love, to the loss of the false self.",
+  "after": "Part Three, *The Road* (Chapters Eight to Twelve), asks how the path is walked: by repentance, discipline, and love, through ordered stages that end in the loss of the false self.",
+  "note": "fix 2 (a that-clause carries the end point). Unsure: the tail can also be read as the last of three steps (through, by, to)."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Where this book comes from, ¶1",
+  "before": "Wherever the Sheikh is quoted directly, the words are his own, from that series.",
+  "after": "Wherever the Sheikh is quoted directly, the words are his own and come from that series.",
+  "note": "fix 1 (join with \"and\")"
+ },
+ {
+  "kind": "comma",
+  "where": "§ What you can expect, ¶3",
+  "before": "Chapter Fourteen sets out their wider concerns, with the answers given to them.",
+  "after": "Chapter Fourteen sets out their wider concerns and the answers given to them.",
+  "note": "fix 1 (fold by removing the comma)"
+ },
+ {
+  "kind": "variation",
+  "where": "§ What you can expect, ¶3",
+  "before": "The inner path does not go around the law or rise above it; it is the law lived from the inside.",
+  "after": "Rather than going around the law or rising above it, the inner path is the law lived from the inside.",
+  "note": "mirrored \"not X; Y\" halves as one flowing sentence; the denial answers the wary scholars' fear named two sentences later, so it stays as \"rather than\""
+ },
+ {
+  "kind": "variation",
+  "where": "§ What you can expect, ¶3",
+  "before": "A fear that mysticism might do exactly that is one reason some scholars have been wary of ʿirfan.",
+  "after": "Some scholars have been wary of ʿirfan partly from a fear that mysticism might do exactly that.",
+  "note": "the actor named as subject in place of an abstract noun; \"their\" in the next sentence now points straight back to the scholars"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Where this book comes from, ¶2",
+  "before": "It draws on a wider literature as well: the words of the Imams in Nahj al-Balagha, al-Sahifa al-Sajjadiyya, and the supplications of the Mafatih; then the great Shia teachers of the path, from Sayyid Haydar Amuli in the fourteenth century to modern scholars such as Mirza Jawad Maliki Tabrizi, ʿAllama Tabatabaʾi, Imam Khomeini, and Ayatullah Mutahhari.",
+  "after": "",
+  "note": "catalogue after a colon; two heavy lists in one sentence"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ How the book is built, ¶6",
+  "before": "The friends of God return to people, with God; every soul returns to God.",
+  "after": "",
+  "note": "mirrored halves; compressed formula"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ What you can expect, ¶1",
+  "before": "The first concerns powers such as reading minds or foreseeing future events: ʿirfan is never pursued for their sake.",
+  "after": "",
+  "note": "list label with a colon joint (changed today by the scaffold sweep)"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ What is ʿirfan?, ¶4",
+  "before": "ʿIrfan is that knowing, and the training of the soul that makes it possible.",
+  "after": "",
+  "note": "definition label; abstract nouns"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ What is ʿirfan?, ¶5",
+  "before": "This book argues that this side of the religion is worth every believer's pursuit.",
+  "after": "",
+  "note": "thesis announcement (\"This book argues\"); abstract \"pursuit\""
+ }
+]
