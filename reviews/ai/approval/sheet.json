@@ -1,0 +1,2054 @@
+[
+ {
+  "kind": "comma",
+  "where": "§ How the book is built, ¶4",
+  "before": "Part Three, *The Road* (Chapters Eight to Twelve), asks how the path is walked: through ordered stages, by repentance, discipline, and love, to the loss of the false self.",
+  "after": "Part Three, *The Road* (Chapters Eight to Twelve), asks how the path is walked: through ordered stages and by repentance, discipline, and love, until the false self is lost.",
+  "note": "fix 2 (the end point becomes a clause with its own verb). Unsure: the tail can also be read as the last of three steps (through, by, to)",
+  "n": 1,
+  "ch": "00"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Where this book comes from, ¶1",
+  "before": "Wherever the Sheikh is quoted directly, the words are his own, from that series.",
+  "after": "Wherever the Sheikh is quoted directly, the words are his own and come from that series.",
+  "note": "fix 1 (join with \"and\")",
+  "n": 2,
+  "ch": "00"
+ },
+ {
+  "kind": "comma",
+  "where": "§ What you can expect, ¶3",
+  "before": "Chapter Fourteen sets out their wider concerns, with the answers given to them.",
+  "after": "Chapter Fourteen sets out their wider concerns and the answers given to them.",
+  "note": "fix 1 (fold by removing the comma)",
+  "n": 3,
+  "ch": "00"
+ },
+ {
+  "kind": "variation",
+  "where": "§ What you can expect, ¶3",
+  "before": "The inner path does not go around the law or rise above it; it is the law lived from the inside.",
+  "after": "Far from going around the law or rising above it, the inner path is the law lived from the inside.",
+  "note": "mirrored \"not X; Y\" halves as one flowing sentence; the denial answers the wary scholars' fear named two sentences later, so it stays as \"rather than\"",
+  "n": 4,
+  "ch": "00"
+ },
+ {
+  "kind": "variation",
+  "where": "§ What you can expect, ¶3",
+  "before": "A fear that mysticism might do exactly that is one reason some scholars have been wary of ʿirfan.",
+  "after": "Some scholars have been wary of ʿirfan partly from a fear that mysticism might do exactly that.",
+  "note": "the actor named as subject in place of an abstract noun; \"their\" in the next sentence now points straight back to the scholars",
+  "n": 5,
+  "ch": "00"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Where this book comes from, ¶2",
+  "before": "It draws on a wider literature as well: the words of the Imams in Nahj al-Balagha, al-Sahifa al-Sajjadiyya, and the supplications of the Mafatih; then the great Shia teachers of the path, from Sayyid Haydar Amuli in the fourteenth century to modern scholars such as Mirza Jawad Maliki Tabrizi, ʿAllama Tabatabaʾi, Imam Khomeini, and Ayatullah Mutahhari.",
+  "after": "",
+  "note": "catalogue after a colon; two heavy lists in one sentence",
+  "n": 6,
+  "ch": "00"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ How the book is built, ¶6",
+  "before": "The friends of God return to people, with God; every soul returns to God.",
+  "after": "",
+  "note": "mirrored halves; compressed formula",
+  "n": 7,
+  "ch": "00"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ What you can expect, ¶1",
+  "before": "The first concerns powers such as reading minds or foreseeing future events: ʿirfan is never pursued for their sake.",
+  "after": "",
+  "note": "list label with a colon joint (changed today by the scaffold sweep)",
+  "n": 8,
+  "ch": "00"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ What is ʿirfan?, ¶4",
+  "before": "ʿIrfan is that knowing, and the training of the soul that makes it possible.",
+  "after": "",
+  "note": "definition label; abstract nouns",
+  "n": 9,
+  "ch": "00"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ What is ʿirfan?, ¶5",
+  "before": "This book argues that this side of the religion is worth every believer's pursuit.",
+  "after": "",
+  "note": "thesis announcement (\"This book argues\"); abstract \"pursuit\"",
+  "n": 10,
+  "ch": "00"
+ },
+ {
+  "kind": "comma",
+  "where": "§ The fault is in the receiver, ¶1",
+  "before": "The Qur'an says where it lies, speaking of people who have every faculty and use none of them.",
+  "after": "In a verse about people who have every faculty and use none of them, the Qur'an says where it lies.",
+  "note": "fix 3 (phrase moved to the front; \"it\" still follows \"the fault\" closely)",
+  "n": 11,
+  "ch": "01"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Some do see, ¶1",
+  "before": "The first group are the *ʿurafaʾ*, the plural of *ʿarif*.",
+  "after": "The first group are the *ʿurafaʾ* (the plural of *ʿarif*).",
+  "note": "fix 1 (gloss folded into brackets, TONE 42). Short term gloss; may stay as it is",
+  "n": 12,
+  "ch": "01"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Some do see, ¶2",
+  "before": "A verse in Surah Al ʿImran goes further, giving them another name.",
+  "after": "A verse in Surah Al ʿImran goes further and gives them another name.",
+  "note": "fix 1 (join with \"and\")",
+  "n": 13,
+  "ch": "01"
+ },
+ {
+  "kind": "comma",
+  "where": "§ What they are given, and why it is open to all, ¶4",
+  "before": "Its people live in the world without being soiled by it, rising above the worries that occupy everyone else.",
+  "after": "Its people live in the world without being soiled by it and rise above the worries that occupy everyone else.",
+  "note": "fix 1 (join with \"and\")",
+  "n": 14,
+  "ch": "01"
+ },
+ {
+  "kind": "comma",
+  "where": "§ The aim is God, not powers, ¶3",
+  "before": "The great teachers of the Shia tradition make closely related points, each in his own words.",
+  "after": "Each of the great teachers of the Shia tradition makes a closely related point in his own words.",
+  "note": "fix 3 (\"each\" moved to the front); the reader is still told \"in his own words\"",
+  "n": 15,
+  "ch": "01"
+ },
+ {
+  "kind": "variation",
+  "where": "§ Some do see, ¶1",
+  "before": "The prophets and the Imams (as) are a class of their own; the ʿurafaʾ are ordinary believers who see more than the rest.",
+  "after": "While the prophets and the Imams (as) are a class of their own, the ʿurafaʾ are ordinary believers who see more than the rest.",
+  "note": "mirrored \"X; Y\" halves as one flowing sentence (D53, as approved for the friends of God)",
+  "n": 16,
+  "ch": "01"
+ },
+ {
+  "kind": "variation",
+  "where": "§ What they are given, and why it is open to all, ¶8",
+  "before": "The first three ranks are beyond us; the fourth is a doorway.",
+  "after": "The first three ranks are beyond us, but the fourth is a doorway.",
+  "note": "mirrored \"X; Y\" halves joined; \"doorway\" still lands at the end and is picked up by the next paragraph",
+  "n": 17,
+  "ch": "01"
+ },
+ {
+  "kind": "variation",
+  "where": "§ The aim is God, not powers, ¶5",
+  "before": "Murtada Mutahhari uses the same word as Sheikh Bahmanpour.",
+  "after": "Murtada Mutahhari uses the word *shirk* as Sheikh Bahmanpour does.",
+  "note": "stock attribution (TONE 46 Scaffolding); naming the word lets the attribution carry content",
+  "n": 18,
+  "ch": "01"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Some do see, ¶1",
+  "before": "People can be divided into two groups: those whose souls work, and those whose souls do not.",
+  "after": "",
+  "note": "binary label with a colon; passive \"can be divided\"",
+  "n": 19,
+  "ch": "01"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ The fault is in the receiver, ¶5",
+  "before": "A faculty that exists but has rusted can be repaired; one that is absent cannot be made fit for purpose.",
+  "after": "",
+  "note": "mirrored contrast; abstract \"fit for purpose\"",
+  "n": 20,
+  "ch": "01"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Some do see, ¶2",
+  "before": "A heart trembles only at the mention of someone it has some experience of; a name means little to a person who does not know whom it names.",
+  "after": "",
+  "note": "mirrored halves saying one thing twice",
+  "n": 21,
+  "ch": "01"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ The aim is God, not powers, ¶1",
+  "before": "This kind of mysticism must be held apart from ʿirfan.",
+  "after": "",
+  "note": "passive label sentence",
+  "n": 22,
+  "ch": "01"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ What they are given, and why it is open to all, ¶4",
+  "before": "This good life (*hayat tayyiba*), the life the mystics seek, is a clean life.",
+  "after": "",
+  "note": "stacked appositives; definition label",
+  "n": 23,
+  "ch": "01"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Seeking, and nothing else, box \"Word Study: ʿIrfan and maʿrifah\"",
+  "before": "\"Mystic\" is used of Christians, Hindus, and Buddhists alike; ʿarif is the Islamic word, and it makes a precise claim.",
+  "after": "",
+  "note": "mirrored contrast; vague \"a precise claim\"",
+  "n": 24,
+  "ch": "01"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Opening, ¶2",
+  "before": "It is knowing God directly, not only knowing about Him.",
+  "after": "It is knowing God directly and not only knowing about Him.",
+  "note": "fix 1 (join with \"and\"); the chapter's contrast is kept",
+  "n": 25,
+  "ch": "02"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Knowing about, and knowing, ¶5",
+  "before": "In the same way, the mystic's aim is to arrive at God, not to define Him.",
+  "after": "In the same way, the mystic's aim is to arrive at God and not to define Him.",
+  "note": "fix 1 (join with \"and\"); L02 ¶37",
+  "n": 26,
+  "ch": "02"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Where reason stops, ¶5",
+  "before": "The comparison with hunger shows how this knowledge is had, not how much is known.",
+  "after": "The comparison with hunger shows how this knowledge is had rather than how much is known.",
+  "note": "fix 1 (fold with \"rather than\")",
+  "n": 27,
+  "ch": "02"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Light in the heart, ¶7",
+  "before": "Knowledge of God is therefore a light given to a purified heart, not something gathered by study.",
+  "after": "Knowledge of God is therefore a light given to a purified heart and not something gathered by study.",
+  "note": "fix 1 (join with \"and\")",
+  "n": 28,
+  "ch": "02"
+ },
+ {
+  "kind": "comma",
+  "where": "§ The path is purification, ¶5",
+  "before": "Once the traveller has set out with a sincere intention, the first essential, he says, is knowledge of the rules of the shariʿa, learned from a jurist.",
+  "after": "Once the traveller has set out with a sincere intention, the first essential, he says, is knowledge of the rules of the shariʿa learned from a jurist.",
+  "note": "fix 1 (fold by removing the comma)",
+  "n": 29,
+  "ch": "02"
+ },
+ {
+  "kind": "comma",
+  "where": "§ The path is purification, ¶6",
+  "before": "Imam Khomeini gives learning its place, with a warning.",
+  "after": "Imam Khomeini gives learning its place but attaches a warning.",
+  "note": "fix 1 (join with \"but\")",
+  "n": 30,
+  "ch": "02"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Knowing by drawing near, ¶1",
+  "before": "They are brought near to God and know Him by presence: a veil is removed, rather than a definition learned.",
+  "after": "They are brought near to God and know Him by presence: a veil is removed rather than a definition learned.",
+  "note": "fix 1 (fold by removing the comma)",
+  "n": 31,
+  "ch": "02"
+ },
+ {
+  "kind": "comma",
+  "where": "§ The path is purification, box \"Story: The philosopher and the ʿarif\"",
+  "before": "Murtada Mutahhari records a meeting between Ibn Sina and Abu Saʿid ibn Abi al-Khayr, one of the most famous of all the ʿurafaʾ.",
+  "after": "Murtada Mutahhari records a meeting between Ibn Sina and Abu Saʿid ibn Abi al-Khayr, who was one of the most famous of all the ʿurafaʾ.",
+  "note": "fix 2 (a who-clause). Unsure: an identifying appositive in a story box; may stay",
+  "n": 32,
+  "ch": "02"
+ },
+ {
+  "kind": "variation",
+  "where": "§ Knowing about, and knowing, ¶3",
+  "before": "It does not come from outside and needs no concept to carry it; it is with the soul already.",
+  "after": "Instead of reaching us from outside, it is with the soul already, and it needs no concept to carry it.",
+  "note": "\"not X; Y\" as one flowing sentence; \"reaching us from outside\" echoes the definition of acquired knowledge, so the contrast is the definition's own",
+  "n": 33,
+  "ch": "02"
+ },
+ {
+  "kind": "variation",
+  "where": "§ Knowing about, and knowing, ¶5",
+  "before": "The two kinds of knowing aim at different things: acquired knowledge (*ʿilm*) aims at understanding, and knowledge by presence (*maʿrifah*) aims at arriving.",
+  "after": "Acquired knowledge (*ʿilm*) aims at understanding, whereas knowledge by presence (*maʿrifah*) aims at arriving.",
+  "note": "label clause and routine colon cut; a real contrast, so \"whereas\" (L02 ¶37)",
+  "n": 34,
+  "ch": "02"
+ },
+ {
+  "kind": "variation",
+  "where": "§ Knowing about, and knowing, ¶5",
+  "before": "A person does not try to understand their hunger; they arrive at it and feel it.",
+  "after": "Rather than trying to understand their hunger, a person arrives at it and feels it.",
+  "note": "mirrored \"not X; Y\" as one sentence with \"rather than\" (D53); the lecturer's own contrast, L02 ¶37",
+  "n": 35,
+  "ch": "02"
+ },
+ {
+  "kind": "variation",
+  "where": "§ The path is purification, ¶3",
+  "before": "This line says who receives that light: the one who follows God's path.",
+  "after": "Here the prayer names who receives that light: the one who follows God's path.",
+  "note": "the source named as the actor in place of a \"This\" opener; the colon reveal is kept",
+  "n": 36,
+  "ch": "02"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Knowing about, and knowing, ¶6",
+  "before": "The gnostic's witnessing is knowledge by presence, and the scholar's proofs are acquired knowledge.",
+  "after": "",
+  "note": "mirrored closer that labels the quotation",
+  "n": 37,
+  "ch": "02"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Opening, ¶2",
+  "before": "The Qur'an's invitation to more than the minimum is an invitation to know and love God.",
+  "after": "",
+  "note": "callback label; abstract nouns, \"invitation\" twice",
+  "n": 38,
+  "ch": "02"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Opening, ¶2",
+  "before": "This chapter sets out why knowing about God is not knowing Him, and how He comes to be known.",
+  "after": "",
+  "note": "signpost sentence",
+  "n": 39,
+  "ch": "02"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Light in the heart, ¶6",
+  "before": "In the verse, God's teaching follows on from wariness of Him.",
+  "after": "",
+  "note": "restates the sentence before the verse",
+  "n": 40,
+  "ch": "02"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ The path is purification, ¶2",
+  "before": "The waiting is the patience of a heart that has done its part and leaves the rest to God.",
+  "after": "",
+  "note": "abstract \"X is the Y of\"; near-aphorism",
+  "n": 41,
+  "ch": "02"
+ },
+ {
+  "kind": "comma",
+  "where": "§ opening, ¶2",
+  "before": "Other prayers we recite ask for the second, knowing God.",
+  "after": "Other prayers we recite ask for the second, which is to know God.",
+  "note": "fix 2",
+  "n": 42,
+  "ch": "03"
+ },
+ {
+  "kind": "comma",
+  "where": "§ To see, to love, to draw near, ¶3",
+  "before": "Duʿa ʿArafah says He has already lit that light in the hearts of His intimate servants, the friends of God (*awliyaʾ*).",
+  "after": "Duʿa ʿArafah says He has already lit that light in the hearts of the friends of God (*awliyaʾ*), whom it calls His intimate servants.",
+  "note": "fix 2; keeps the link to the quotation's \"intimate servants\" below",
+  "n": 43,
+  "ch": "03"
+ },
+ {
+  "kind": "comma",
+  "where": "§ To see, to love, to draw near, box \"Story: The companion who saw paradise\"",
+  "before": "A version in al-Kafi, quoted by Murtada Mutahhari, names him Harithah ibn Malik al-Ansari, a young man.",
+  "after": "In a version in al-Kafi, quoted by Murtada Mutahhari, he is a young man named Harithah ibn Malik al-Ansari.",
+  "note": "fix 3 (the tail moved into the sentence)",
+  "n": 44,
+  "ch": "03"
+ },
+ {
+  "kind": "comma",
+  "where": "§ A pupil reading above his level, box \"Word Study: duʿa and munajat\"",
+  "before": "The Qur'an, in his terms, is a \"Descending-Qur'an\", God's words to His servants. The supplications are an \"Ascending-Qur'an\", the words of His most distinguished servants rising towards Him [@journey, p. 43].",
+  "after": "The Qur'an, in his terms, is a \"Descending-Qur'an\", which brings God's words down to His servants. The supplications are an \"Ascending-Qur'an\", in which the words of His most distinguished servants rise towards Him [@journey, p. 43].",
+  "note": "fix 2, both halves of the pair; quoted terms unchanged",
+  "n": 45,
+  "ch": "03"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Prayers for ordinary nights, box \"History: the Mafatih and the Sahifa\"",
+  "before": "Al-Sahifa al-Sajjadiyya is far older. William Chittick calls it \"the oldest prayer manual in Islamic sources\", composed by Imam Zayn al-ʿAbidin (as).",
+  "after": "Al-Sahifa al-Sajjadiyya, composed by Imam Zayn al-ʿAbidin (as), is far older. William Chittick calls it \"the oldest prayer manual in Islamic sources\".",
+  "note": "fix 3 (the participle moved to the middle of the previous sentence)",
+  "n": 46,
+  "ch": "03"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Prayers for ordinary nights, box \"History: the Mafatih and the Sahifa\"",
+  "before": "They seem to have reached most Shia through ʿAllama Muhammad Baqir Majlisi, the compiler of *Bihar al-Anwar* [@sahifa, p. 9].",
+  "after": "They seem to have reached most Shia through ʿAllama Muhammad Baqir Majlisi, who compiled *Bihar al-Anwar* [@sahifa, p. 9].",
+  "note": "fix 2; unsure: a short identifying gloss that may read fine as it is",
+  "n": 47,
+  "ch": "03"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Prayers for ordinary nights, ¶6",
+  "before": "Sheikh Bahmanpour still recommends the Munajat to every listener, to be recited in Shaʿban as often as they can.",
+  "after": "Sheikh Bahmanpour still advises every listener to recite the Munajat in Shaʿban as often as they can.",
+  "note": "fix 1 (tail folded in)",
+  "n": 48,
+  "ch": "03"
+ },
+ {
+  "kind": "variation",
+  "where": "§ Cut off from all else, ¶2",
+  "before": "The Sheikh raises the question himself: is it good to cut off from everything else completely?",
+  "after": "The Sheikh himself asks whether it is good to cut off from everything else completely.",
+  "note": "routine colon before a question removed; the Sheikh as the actor",
+  "n": 49,
+  "ch": "03"
+ },
+ {
+  "kind": "variation",
+  "where": "§ Cut off from all else, ¶3",
+  "before": "The prayer asks that love of the world leave the heart. Duʿa ʿArafah, as given in the Mafatih, describes the same severance from God's side: He has already made it in the hearts of those He loves.",
+  "after": "Where Duʿa Abu Hamza asks that love of the world leave the heart, Duʿa ʿArafah, as given in the Mafatih, describes the same severance from God's side: He has already made it in the hearts of those He loves.",
+  "note": "mirrored halves (we ask / God has done) as one flowing \"Where…\" sentence; the first sentence only restated the quotation",
+  "n": 50,
+  "ch": "03"
+ },
+ {
+  "kind": "variation",
+  "where": "§ To see, to love, to draw near, ¶3",
+  "before": "It is the light the last chapter described, which God gives to a purified heart.",
+  "after": "The light it asks for is the one the last chapter described, which God gives to a purified heart.",
+  "note": "names what \"It\" is (TONE 46 Scaffolding)",
+  "n": 51,
+  "ch": "03"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ opening, ¶2",
+  "before": "This chapter shows that we already know these words.",
+  "after": "",
+  "note": "signpost label sentence",
+  "n": 52,
+  "ch": "03"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ To see, to love, to draw near, ¶2",
+  "before": "The difficulty is a real one, and people unfamiliar with the mystics' wording sometimes call such lines a mistake.",
+  "after": "",
+  "note": "label clause (\"The difficulty is a real one\"); stock concession",
+  "n": 53,
+  "ch": "03"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ To see, to love, to draw near, ¶7",
+  "before": "The request is for a heart whose own passion brings it near, and that heart is itself asked of God.",
+  "after": "",
+  "note": "restates the quotation; abstract, passive close",
+  "n": 54,
+  "ch": "03"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Prayers for ordinary nights, ¶6",
+  "before": "Maliki Tabrizi's view and this recommendation answer different questions: how far a reciter reaches, and who may begin.",
+  "after": "",
+  "note": "abstract nouns as subjects; label colon",
+  "n": 55,
+  "ch": "03"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ A pupil reading above his level, ¶4",
+  "before": "The Sheikh answers the difficulty with an honour: we have been allowed to recite these words, though they are not of our level.",
+  "after": "",
+  "note": "label opener plus colon reveal; abstract \"with an honour\" (a short quote from L01 ¶22, \"we have been honoured\", could carry his voice)",
+  "n": 56,
+  "ch": "03"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Words already on our lips, ¶1",
+  "before": "Access to these words is where an ordinary believer already stands on the path.",
+  "after": "",
+  "note": "abstract noun subject; position metaphor",
+  "n": 57,
+  "ch": "03"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Forgotten together, known together, ¶7",
+  "before": "That spirit is something God created, not God Himself.",
+  "after": "That spirit is something God created and not God Himself.",
+  "note": "fix 1 (comma removed, \"and\" joins); the theological \"not\" kept; unsure: a short tail that may read fine",
+  "n": 58,
+  "ch": "04"
+ },
+ {
+  "kind": "variation",
+  "where": "§ Forgotten together, known together, ¶7",
+  "before": "This does not make the soul a part of God.",
+  "after": "None of this makes the soul a part of God.",
+  "note": "weak pointer opener replaced (D53 pattern)",
+  "n": 59,
+  "ch": "04"
+ },
+ {
+  "kind": "variation",
+  "where": "§ Forgotten together, known together, box \"Word Study: Whoever knows himself\"",
+  "before": "Others take it as a promise: whoever comes to know his soul does come to know his Lord.",
+  "after": "Others take it as a promise that whoever comes to know his soul does come to know his Lord.",
+  "note": "mirrored \"Some…: / Others…:\" pair loosened; the paragraph had three colons",
+  "n": 60,
+  "ch": "04"
+ },
+ {
+  "kind": "variation",
+  "where": "§ opening, ¶3",
+  "before": "Our eyes and ears take in the world, but the soul is what understands what they bring.",
+  "after": "Our eyes take in the letters on this page, but the soul is what understands them.",
+  "note": "one small everyday particular for an abstract claim",
+  "n": 61,
+  "ch": "04"
+ },
+ {
+  "kind": "variation",
+  "where": "§ The human story is the soul's story, ¶2",
+  "before": "Success and failure, in these verses, turn on what is done with the soul. Whether a person purifies the soul or betrays it decides the outcome of their life.",
+  "after": "In these verses, whether a person purifies the soul or betrays it decides whether their life succeeds or fails.",
+  "note": "the two sentences said one thing; kept the one with the verse's own verbs",
+  "n": 62,
+  "ch": "04"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ opening, ¶5",
+  "before": "This chapter sets out why we must know ourselves to know our Lord, and how.",
+  "after": "",
+  "note": "signpost label sentence",
+  "n": 63,
+  "ch": "04"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ The human story is the soul's story, ¶3",
+  "before": "The Munajat's confession names the failure the surah describes, since a soul that has not been looked after is a soul that has not been purified.",
+  "after": "",
+  "note": "mirrored \"a soul that… is a soul that…\"; abstract nouns",
+  "n": 64,
+  "ch": "04"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Near already: lifting the veils, ¶6",
+  "before": "The depth of our own soul cannot be known, so a complete knowledge of its Lord is out of reach.",
+  "after": "",
+  "note": "passive; abstract nouns",
+  "n": 65,
+  "ch": "04"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ opening, ¶5",
+  "before": "The theory of ʿirfan therefore begins with the soul, since every other study is carried out with it.",
+  "after": "",
+  "note": "abstract subject; \"therefore… since\" scaffolding",
+  "n": 66,
+  "ch": "04"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Near already: lifting the veils, ¶1",
+  "before": "What it lacks is the perception of the One before whom it stands.",
+  "after": "",
+  "note": "abstract noun (\"the perception of\"); formal relative clause",
+  "n": 67,
+  "ch": "04"
+ },
+ {
+  "kind": "comma",
+  "where": "§ One world at three depths, ¶3",
+  "before": "These make up the first world, the material world (*ʿalam al-mulk*).",
+  "after": "These make up the first world, which is the material world (*ʿalam al-mulk*).",
+  "note": "fix 2; unsure: an ordinal-and-name gloss that may read fine as it is",
+  "n": 68,
+  "ch": "05"
+ },
+ {
+  "kind": "comma",
+  "where": "§ One world at three depths, ¶5",
+  "before": "The angels who live there are pure intellect, attached to nothing material.",
+  "after": "The angels who live there are pure intellect and attached to nothing material.",
+  "note": "fix 1",
+  "n": 69,
+  "ch": "05"
+ },
+ {
+  "kind": "comma",
+  "where": "§ One world at three depths, ¶6",
+  "before": "Creation therefore has three worlds that the soul mirrors, one for each of its ways of knowing.",
+  "after": "Creation therefore has three worlds that the soul mirrors.",
+  "note": "fix 5: the tail repeats ¶2 (\"Each way of knowing meets its own kind of thing\"); or fix 3: \"Creation therefore has one world for each of the soul's three ways of knowing, and the soul mirrors all three.\"",
+  "n": 70,
+  "ch": "05"
+ },
+ {
+  "kind": "comma",
+  "where": "§ One world at three depths, box \"Word Study: barzakh\"",
+  "before": "The Qur'an uses the word for the barrier God set between two seas that He merged, one sweet and one briny (Q 25:53).",
+  "after": "God merged two seas, one sweet and one briny, and the Qur'an uses the word for the barrier He set between them (Q 25:53).",
+  "note": "fix 3 (the tail moved to the middle)",
+  "n": 71,
+  "ch": "05"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Our deeds give the soul a form, ¶9",
+  "before": "If the light of the faithful is their own piety shining, then some rewards are the deeds themselves, made visible.",
+  "after": "If the light of the faithful is their own piety shining, then some rewards are the deeds themselves made visible.",
+  "note": "fix 1 (comma removed; the point note's own wording)",
+  "n": 72,
+  "ch": "05"
+ },
+ {
+  "kind": "comma",
+  "where": "§ The self can change its state, ¶4",
+  "before": "That questioning marks the second state, the self that blames itself (*nafs al-lawwama*).",
+  "after": "That questioning marks the second state, which the Qur'an names the self that blames itself (*nafs al-lawwama*).",
+  "note": "fix 2 (Q 75:2 has al-nafs al-lawwama)",
+  "n": 73,
+  "ch": "05"
+ },
+ {
+  "kind": "comma",
+  "where": "§ The self can change its state, ¶5",
+  "before": "A self that keeps up its self-blame comes in time to the third state, the self at peace (*nafs al-mutmaʾinna*). Surah al-Fajr calls this self back to its Lord (Q 89:27–28).",
+  "after": "A self that keeps up its self-blame comes in time to the third state, the self at peace (*nafs al-mutmaʾinna*), which Surah al-Fajr calls back to its Lord (Q 89:27–28).",
+  "note": "fix 2 (the next sentence becomes a which-clause on the tail)",
+  "n": 74,
+  "ch": "05"
+ },
+ {
+  "kind": "comma",
+  "where": "§ The self can change its state, ¶9",
+  "before": "In Arabic, the verse's word for finding rest comes from the same root as *mutmaʾinna*, the name of the self at peace (Q 13:28; 89:27).",
+  "after": "In Arabic, the verse's word for finding rest comes from the same root as *mutmaʾinna*, which names the self at peace (Q 13:28; 89:27).",
+  "note": "fix 2",
+  "n": 75,
+  "ch": "05"
+ },
+ {
+  "kind": "comma",
+  "where": "§ The self can change its state, ¶12",
+  "before": "The drive to begin is itself God's grace, the mercy that Surah Yusuf named.",
+  "after": "The drive to begin is itself God's grace, which Surah Yusuf called His mercy.",
+  "note": "fix 2",
+  "n": 76,
+  "ch": "05"
+ },
+ {
+  "kind": "variation",
+  "where": "§ A soul that crosses them, ¶1",
+  "before": "It therefore touches matter through the body and can enter the middle world.",
+  "after": "The soul therefore touches matter through the body and can enter the middle world.",
+  "note": "names what \"It\" is (after \"the world of images\", it could be read as that world)",
+  "n": 77,
+  "ch": "05"
+ },
+ {
+  "kind": "variation",
+  "where": "§ A soul that crosses them, ¶3",
+  "before": "This explains how a dream can show more than memory holds.",
+  "after": "A dream can therefore show more than memory holds.",
+  "note": "weak pointer opener (\"This explains\") replaced; the reason is the sentence before",
+  "n": 78,
+  "ch": "05"
+ },
+ {
+  "kind": "variation",
+  "where": "§ Our deeds give the soul a form, ¶8",
+  "before": "The lectures read this light as the shining of the pious themselves.",
+  "after": "In the lectures, this light is the shining of the pious themselves.",
+  "note": "stock attribution (\"read X as\") varied (TONE 46 Scaffolding)",
+  "n": 79,
+  "ch": "05"
+ },
+ {
+  "kind": "variation",
+  "where": "§ The self can change its state, ¶7",
+  "before": "The attitude is changed by acts already familiar to us.",
+  "after": "Acts already familiar to us can change that attitude.",
+  "note": "passive turned active; the acts as the actor",
+  "n": 80,
+  "ch": "05"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ One world at three depths, ¶1",
+  "before": "Let's start with a claim of the mystics: the human soul is the whole of creation in small; it is a compact copy of everything that exists.",
+  "after": "",
+  "note": "colon plus semicolon echo; the second half renames the first",
+  "n": 81,
+  "ch": "05"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ One world at three depths, box \"Word Study: barzakh\"",
+  "before": "The tradition joins the two uses: the middle world is called barzakh because it stands between matter and intellect, and it is where the dead are until the resurrection.",
+  "after": "",
+  "note": "abstract subject; summing-up label colon",
+  "n": 82,
+  "ch": "05"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Our deeds give the soul a form, ¶1",
+  "before": "The soul's movement between worlds sets it apart from the angels of the world of intellects.",
+  "after": "",
+  "note": "abstract noun subject (\"movement\"); label opener",
+  "n": 83,
+  "ch": "05"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ The self can change its state, ¶3",
+  "before": "The verse admits what this self does and names what overcomes it: the mercy of God.",
+  "after": "",
+  "note": "paired \"what… what…\" verbs; set-piece colon",
+  "n": 84,
+  "ch": "05"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ The self can change its state, ¶9",
+  "before": "The rest that remembrance brings is the rest of the third state.",
+  "after": "",
+  "note": "mirrored \"the rest… the rest\"; abstract",
+  "n": 85,
+  "ch": "05"
+ },
+ {
+  "kind": "comma",
+  "where": "Opening, ¶3",
+  "before": "The journey towards God is an inward one, worked out in the self.",
+  "after": "The journey towards God is inward and is worked out in the self.",
+  "note": "Fix 1 (joined with \"and\").",
+  "n": 86,
+  "ch": "06"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Shell, core, and kernel, ¶2",
+  "before": "The path leads in turn to the truth (*haqiqa*), the reality that is seen once the path has been walked.",
+  "after": "The path leads in turn to the truth (*haqiqa*), which is the reality seen once the path has been walked.",
+  "note": "Fix 2 (which-clause).",
+  "n": 87,
+  "ch": "06"
+ },
+ {
+  "kind": "comma",
+  "where": "§ The inner never cancels the outer, ¶2",
+  "before": "The lie is in the claim to be a true ʿarif, one who knows God.",
+  "after": "The lie is in the claim to be a true ʿarif who knows God.",
+  "note": "Fix 1 (folded; comma removed).",
+  "n": 88,
+  "ch": "06"
+ },
+ {
+  "kind": "comma",
+  "where": "§ The inner never cancels the outer, ¶7 (the wudu story)",
+  "before": "One day, as he was making his ritual ablution (*wudu*), his disciples suddenly fell into prostration, glorifying God.",
+  "after": "One day, as he was making his ritual ablution (*wudu*), his disciples suddenly fell into prostration and glorified God.",
+  "note": "Fix 1 (joined with \"and\").",
+  "n": 89,
+  "ch": "06"
+ },
+ {
+  "kind": "comma",
+  "where": "§ The first inner work, ¶1",
+  "before": "The path purifies the way we practise the law, giving each act more depth each time it is done.",
+  "after": "The path purifies the way we practise the law and gives each act more depth each time it is done.",
+  "note": "Fix 1 (joined with \"and\").",
+  "n": 90,
+  "ch": "06"
+ },
+ {
+  "kind": "comma",
+  "where": "§ To the last breath, ¶5",
+  "before": "Worship does have stages, and the *Kernel* finds one true sense in the talk of release, though not the sense its proponents intend.",
+  "after": "Worship does have stages, and the *Kernel* finds in the talk of release one true sense that its proponents do not intend.",
+  "note": "Fix 1 (folded). The proponents' contrast is kept.",
+  "n": 91,
+  "ch": "06"
+ },
+ {
+  "kind": "comma",
+  "where": "§ To the last breath, ¶5",
+  "before": "Acts of worship develop the soul, bringing its capacities \"from potentiality to actuality\" [@kernel, p. 30], that is, making real what was only possible.",
+  "after": "Acts of worship develop the soul and bring its capacities \"from potentiality to actuality\" [@kernel, p. 30], which means making real what was only possible.",
+  "note": "Fix 1 for the participle (\"and bring\"), fix 2 for the gloss (\"which means\").",
+  "n": 92,
+  "ch": "06"
+ },
+ {
+  "kind": "comma",
+  "where": "§ To the last breath, ¶9 (closing recap)",
+  "before": "Nothing inward stands in for the law, and the inner work begins inside it, with attention in prayer.",
+  "after": "Nothing inward stands in for the law, and the inner work begins inside it with attention in prayer.",
+  "note": "Fix 1 (folded; comma removed).",
+  "n": 93,
+  "ch": "06"
+ },
+ {
+  "kind": "comma",
+  "where": "Box \"Try this\"",
+  "before": "For one prayer each day this week, keep its time free, with nothing planned straight after it.",
+  "after": "For one prayer each day this week, keep its time free and plan nothing straight after it.",
+  "note": "Fix 1 (joined with \"and\").",
+  "n": 94,
+  "ch": "06"
+ },
+ {
+  "kind": "variation",
+  "where": "§ The inner never cancels the outer, ¶2",
+  "before": "The person works these wonders for their own desires, and what they do is not a wonder of the friends of God (*karama*) but magic (*sihr*).",
+  "after": "The person works these wonders for their own desires, and what they do is magic (*sihr*) rather than a wonder of the friends of God (*karama*).",
+  "note": "\"Not X but Y\" → \"rather than\" (D53). The lecturer's contrast is kept.",
+  "n": 95,
+  "ch": "06"
+ },
+ {
+  "kind": "variation",
+  "where": "§ The inner never cancels the outer, ¶8",
+  "before": "There the states a traveller passes through, and the lights that appear from time to time, are called \"a preliminary to an enduring condition\" [@kernel, p. 30].",
+  "after": "There Tabatabaʾi calls the states a traveller passes through, and the lights that appear from time to time, \"a preliminary to an enduring condition\" [@kernel, p. 30].",
+  "note": "Source named as the actor in place of the passive \"are called\".",
+  "n": 96,
+  "ch": "06"
+ },
+ {
+  "kind": "variation",
+  "where": "§ To the last breath, ¶5",
+  "before": "For a soul still growing towards its perfection, worship is the means of growth. For a soul that has reached perfection, worship is no longer for growth [@kernel, p. 30].",
+  "after": "Where a soul still growing towards its perfection finds in worship the means of growth, a soul that has reached perfection no longer worships to grow [@kernel, p. 30].",
+  "note": "Mirrored halves rewritten as one flowing sentence (the approved \"Where…\" shape).",
+  "n": 97,
+  "ch": "06"
+ },
+ {
+  "kind": "variation",
+  "where": "§ To the last breath, ¶5",
+  "before": "What changes on arrival is not the law but the reason for keeping it.",
+  "after": "What changes on arrival is the reason for keeping the law rather than the law itself.",
+  "note": "\"Not X but Y\" → \"rather than\" (D53). The proponents' contrast is kept.",
+  "n": 98,
+  "ch": "06"
+ },
+ {
+  "kind": "rephrase",
+  "where": "Opening, ¶4",
+  "before": "This chapter sets out why there is no path outside the law.",
+  "after": "",
+  "note": "Label sentence; announces the chapter.",
+  "n": 99,
+  "ch": "06"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Shell, core, and kernel, ¶1",
+  "before": "It is what the Prophet ﷺ taught us to do, and it is what most of us mean by practising the religion.",
+  "after": "",
+  "note": "Mirrored \"it is… it is\" halves; vague \"It\" opener.",
+  "n": 100,
+  "ch": "06"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ The inner never cancels the outer, ¶3",
+  "before": "The claim to know God fails without the law because of what the law does to the one who keeps it.",
+  "after": "",
+  "note": "Abstract label sentence announcing the next step.",
+  "n": 101,
+  "ch": "06"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ The first inner work, ¶5",
+  "before": "The question itself shows that the mind can be held, since a book holds it.",
+  "after": "",
+  "note": "Abstract; \"held… holds\" echo; reads as a logic step.",
+  "n": 102,
+  "ch": "06"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ To the last breath, ¶8",
+  "before": "The ʿurafaʾ describe it as four journeys: to God, in God, back from God to creation, and among creation.",
+  "after": "",
+  "note": "List label after a colon; ranked most machine-like.",
+  "n": 103,
+  "ch": "06"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ To the last breath, ¶8",
+  "before": "In the Sheikh's phrase, the last three are made \"by the haqq\", that is, through God, the Real, and not by the traveller's own strength.",
+  "after": "",
+  "note": "Stacked glosses; \"that is\" gloss plus a \"not\" tail.",
+  "n": 104,
+  "ch": "06"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Under the Imams, not in their place, ¶2",
+  "before": "Imam ʿAli (as) received it as the Prophet's heir, not as one learned companion among others.",
+  "after": "Imam ʿAli (as) received it as the Prophet's heir rather than as one learned companion among others.",
+  "note": "Fix 1 (folded with \"rather than\"). The orders' contrast is kept.",
+  "n": 105,
+  "ch": "07"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Teachers of recent generations, ¶3",
+  "before": "Akhund Hamadani and the teachers of Tabatabaʾi's line were scholars, several of them jurists.",
+  "after": "Akhund Hamadani and the teachers of Tabatabaʾi's line were scholars, and several of them were jurists.",
+  "note": "Fix 1 (joined with \"and\").",
+  "n": 106,
+  "ch": "07"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Teachers of recent generations, ¶4",
+  "before": "Set beside the Sheikh's point, the words name a line of teachers here, not a chain of authority beside the Imams.",
+  "after": "Set beside the Sheikh's point, the words name a line of teachers here rather than a chain of authority beside the Imams.",
+  "note": "Fix 1 (folded with \"rather than\").",
+  "n": 107,
+  "ch": "07"
+ },
+ {
+  "kind": "comma",
+  "where": "§ How to test a guide, ¶2",
+  "before": "Such powers become possible early on the road, at \"the beginning of spiritual vision\" [@light, p. 101].",
+  "after": "Such powers become possible as early as \"the beginning of spiritual vision\" [@light, p. 101].",
+  "note": "Fix 1 (folded; \"early on the road\" carried by \"as early as\").",
+  "n": 108,
+  "ch": "07"
+ },
+ {
+  "kind": "comma",
+  "where": "Box \"Who's Who: Mirza Jawad Maliki Tabrizi\"",
+  "before": "There he came to know Akhund Mulla Husayn-Quli Hamadani, and he spent fourteen years with him, learning ethics and mysticism.",
+  "after": "There he came to know Akhund Mulla Husayn-Quli Hamadani, and he spent fourteen years with him learning ethics and mysticism.",
+  "note": "Fix 1 (folded; comma removed).",
+  "n": 109,
+  "ch": "07"
+ },
+ {
+  "kind": "comma",
+  "where": "Box \"Who's Who: Mirza Jawad Maliki Tabrizi\"",
+  "before": "He died in 1925, and three years later his ethics class was resumed by Mirza Muhammad ʿAli Shahabadi, the teacher of Imam Khomeini.",
+  "after": "He died in 1925, and three years later Imam Khomeini's teacher, Mirza Muhammad ʿAli Shahabadi, resumed Maliki Tabrizi's ethics class.",
+  "note": "Fix 3 (moved to the middle; active voice; \"his\" named).",
+  "n": 110,
+  "ch": "07"
+ },
+ {
+  "kind": "comma",
+  "where": "§ How to test a guide, ¶8",
+  "before": "They are marks a traveller can watch for over time, in the company he keeps.",
+  "after": "They are marks a traveller can watch for over time in the company he keeps.",
+  "note": "Fix 1 (folded; comma removed).",
+  "n": 111,
+  "ch": "07"
+ },
+ {
+  "kind": "comma",
+  "where": "§ How to test a guide, ¶9 (closing recap)",
+  "before": "A true guide has walked the road himself and walks beside the traveller under the Imams (as), never in their place.",
+  "after": "A true guide has walked the road himself and walks beside the traveller under the Imams (as) and never in their place.",
+  "note": "Fix 1 (joined with \"and\").",
+  "n": 112,
+  "ch": "07"
+ },
+ {
+  "kind": "variation",
+  "where": "§ Why a traveller needs a companion, ¶5",
+  "before": "Of the general teacher he says: \"The necessity of referring to the general teacher is only at the beginning of wayfaring\" [@kernel, p. 80; @light, p. 100].",
+  "after": "The need to refer to the general teacher, he says, is \"only at the beginning of wayfaring\" [@kernel, p. 80; @light, p. 100].",
+  "note": "Stock attribution and routine colon gone; the quotation is shortened to its clean end, words unchanged.",
+  "n": 113,
+  "ch": "07"
+ },
+ {
+  "kind": "variation",
+  "where": "§ Under the Imams, not in their place, ¶6",
+  "before": "The company meant is inner, and not \"merely their outward company and comradeship\".",
+  "after": "Tabatabaʾi means an inner company, and not \"merely their outward company and comradeship\".",
+  "note": "Source named as the actor in place of the abstract subject.",
+  "n": 114,
+  "ch": "07"
+ },
+ {
+  "kind": "rephrase",
+  "where": "Opening, ¶2",
+  "before": "The law marks the boundary of that road, and the next question is who walks beside the traveller on it.",
+  "after": "",
+  "note": "Scaffold callback; \"the next question is\" label.",
+  "n": 115,
+  "ch": "07"
+ },
+ {
+  "kind": "rephrase",
+  "where": "Opening, ¶2",
+  "before": "This chapter sets out why finding a guide helps the traveller, and how to know a true guide once found.",
+  "after": "",
+  "note": "Label sentence; announces the chapter.",
+  "n": 116,
+  "ch": "07"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Why a traveller needs a companion, ¶7",
+  "before": "The three accounts place the need at different points, but they do not change what the guide is for: to read states the traveller has not yet passed through.",
+  "after": "",
+  "note": "Summing-up label; \"not X\" against no raised reading.",
+  "n": 117,
+  "ch": "07"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Under the Imams, not in their place, ¶4",
+  "before": "Consulting him is like consulting anyone knowledgeable, as a verse of Surah al-Nahl tells believers to do [@kernel, p. 80; @light, p. 100].",
+  "after": "",
+  "note": "Mirrored \"consulting… consulting\"; stock pointer to the verse.",
+  "n": 118,
+  "ch": "07"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Teachers of recent generations, ¶1",
+  "before": "The tradition can name teachers who walked this road in recent generations.",
+  "after": "",
+  "note": "Abstract subject (\"the tradition\"); restates the heading.",
+  "n": 119,
+  "ch": "07"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Teachers of recent generations, ¶1",
+  "before": "This is the same Mirza ʿAli Aqa Qadi who set beginners a year of the Musabbihat.",
+  "after": "",
+  "note": "Label sentence; \"This is the same\" callback.",
+  "n": 120,
+  "ch": "07"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Nearer than the jugular vein, ¶3",
+  "before": "The Arabic word for wayfaring also means a person's conduct, the way they carry themselves through life.",
+  "after": "The Arabic word for wayfaring also means a person's conduct, which is how they carry themselves through life.",
+  "note": "Fix 2 (which-clause). Reused from the Part Three list, #1.",
+  "n": 121,
+  "ch": "08"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Nearer than the jugular vein, ¶8",
+  "before": "Whatever the kind of veil, the hindrance lies on our side, not God's.",
+  "after": "Whatever the kind of veil, the hindrance lies on our side and not God's.",
+  "note": "Fix 1 (joined with \"and\"); the lecturer's \"not\" kept (L10 ¶21). Reused from the Part Three list, #2.",
+  "n": 122,
+  "ch": "08"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Nearer than the jugular vein, ¶8",
+  "before": "It removes the veils inside us that can be lifted, first the dark ones our deeds have made and then the outer veils of light.",
+  "after": "It removes the veils inside us that can be lifted. The dark ones our deeds have made go first, and the outer veils of light follow.",
+  "note": "Fix 4 (own sentence). Reused from the Part Three list, #3.",
+  "n": 123,
+  "ch": "08"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Four stages: two ours, two God's, ¶2",
+  "before": "The road begins with polishing (*tajliya*), from a word for burnishing something until it shines.",
+  "after": "The road begins with polishing (*tajliya*), which takes its name from a word for burnishing something until it shines.",
+  "note": "Fix 2 (which-clause). New item: the sentence's opening changed in today's scaffold sweep; the fix is the Part Three list's #4.",
+  "n": 124,
+  "ch": "08"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Four stages: two ours, two God's, ¶2",
+  "before": "The stage opens when a person wakes from heedlessness and repents, not only of sins but of taking everything for granted.",
+  "after": "The stage opens when a person wakes from heedlessness and repents not only of sins but of taking everything for granted.",
+  "note": "Fix 1 (folded; comma removed). Reused from the Part Three list, #5.",
+  "n": 125,
+  "ch": "08"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Four stages: two ours, two God's, ¶7 (after the table)",
+  "before": "Two are ours, polishing and emptying, and two are God's, adorning and annihilating.",
+  "after": "Polishing and emptying are the two that are ours, and adorning and annihilating are the two that are God's.",
+  "note": "Fix 3 (names moved to the front). Improves on the Part Three list's #6 (\"Polishing and emptying are ours, and adorning and annihilating are God's\"), which keeps no count and nearly repeats the closing paragraph's wording.",
+  "n": 126,
+  "ch": "08"
+ },
+ {
+  "kind": "comma",
+  "where": "§ In order, and none dropped, ¶2",
+  "before": "As Chapter Six showed, no station on the road releases the traveller from the law, and once the truth is unveiled the law is kept more carefully, not less.",
+  "after": "As Chapter Six showed, no station on the road releases the traveller from the law, and once the truth is unveiled the law is kept with more care rather than less.",
+  "note": "Fix 1 (folded with \"rather than\"). Improves on the Part Three list's #7 (\"all the more carefully\"): keeps the lecturer's contrast (L07 ¶21).",
+  "n": 127,
+  "ch": "08"
+ },
+ {
+  "kind": "comma",
+  "where": "Box \"History: A philosopher's ladder\"",
+  "before": "When these reach a certain degree, flashes of God's light descend on the traveller, \"momentary like flashes of lightning appearing and instantly vanishing\" [@light, p. 48].",
+  "after": "When these reach a certain degree, flashes of God's light, \"momentary like flashes of lightning appearing and instantly vanishing\", descend on the traveller [@light, p. 48].",
+  "note": "Fix 3 (moved to the middle). Reused from the Part Three list, #8.",
+  "n": 128,
+  "ch": "08"
+ },
+ {
+  "kind": "comma",
+  "where": "Box \"History: A philosopher's ladder\"",
+  "before": "Khwaja Nasir al-Din al-Tusi, commenting on the *Isharat*, counts nine stages in three groups of three, for the beginning, the way, and arrival [@light, p. 50].",
+  "after": "Khwaja Nasir al-Din al-Tusi, commenting on the *Isharat*, counts nine stages in three groups of three, which cover the beginning, the way, and arrival [@light, p. 50].",
+  "note": "Fix 2 (which-clause). Reused from the Part Three list, #9.",
+  "n": 129,
+  "ch": "08"
+ },
+ {
+  "kind": "comma",
+  "where": "§ In order, and none dropped, ¶4 (closing recap)",
+  "before": "Together they complete only the first of four journeys the mystics describe, from creation to God [@light, p. 49]; the return that follows belongs to Chapters Twelve and Sixteen.",
+  "after": "Together they complete only the first of four journeys the mystics describe, which runs from creation to God [@light, p. 49]; the return that follows belongs to Chapters Twelve and Sixteen.",
+  "note": "Fix 2 (which-clause). Reused from the Part Three list, #10 (borderline: the tail ends at a semicolon).",
+  "n": 130,
+  "ch": "08"
+ },
+ {
+  "kind": "comma",
+  "where": "Box \"Try this\"",
+  "before": "These are the surahs that open with God's glorification, among them al-Hadid, al-Hashr, al-Saff, al-Jumuʿa, and al-Taghabun.",
+  "after": "These are the surahs that open with God's glorification, and they include al-Hadid, al-Hashr, al-Saff, al-Jumuʿa, and al-Taghabun.",
+  "note": "Fix 1 (joined with \"and\"). Improves on the Part Three list's #11 (own sentence), by the preferred fix.",
+  "n": 131,
+  "ch": "08"
+ },
+ {
+  "kind": "variation",
+  "where": "§ Nearer than the jugular vein, ¶6",
+  "before": "This is what Duʿa Abu Hamza means when it says that God conceals Himself from no one unless their wrong deeds stand between them and Him.",
+  "after": "Duʿa Abu Hamza has these veils in mind when it says that God conceals Himself from no one unless their wrong deeds stand between them and Him.",
+  "note": "Source named as the actor in place of a \"This is what\" pointer.",
+  "n": 132,
+  "ch": "08"
+ },
+ {
+  "kind": "variation",
+  "where": "§ Four stages: two ours, two God's, ¶6",
+  "before": "Of adorning they say, \"It is Allah's act on the soul\", and add that it comes not directly but through the angels around us.",
+  "after": "Of adorning they say, \"It is Allah's act on the soul\", and add that it comes through the angels around us rather than directly.",
+  "note": "\"Not X but Y\" → \"rather than\" (D53).",
+  "n": 133,
+  "ch": "08"
+ },
+ {
+  "kind": "rephrase",
+  "where": "Opening, ¶3",
+  "before": "The journey to God removes what stands between, and it has an order of its own.",
+  "after": "",
+  "note": "Abstract (\"what stands between\"); two claims tacked together.",
+  "n": 134,
+  "ch": "08"
+ },
+ {
+  "kind": "rephrase",
+  "where": "Opening, ¶3",
+  "before": "This chapter sets out the stages of the journey: why it covers no distance, what its four stages are, and why they come in order.",
+  "after": "",
+  "note": "Label sentence; signpost with a list.",
+  "n": 135,
+  "ch": "08"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Nearer than the jugular vein, ¶3",
+  "before": "Its purpose is to see what is already around us: the presence of God and our own selves.",
+  "after": "",
+  "note": "Vague \"Its\" opener; abstract colon definition.",
+  "n": 136,
+  "ch": "08"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Four stages: two ours, two God's, ¶4",
+  "before": "No one can create it in themselves; God places it in a heart that has been purified.",
+  "after": "",
+  "note": "Mirrored \"X; Y\" halves; the lecturer's contrast (L07 ¶36) needs keeping.",
+  "n": 137,
+  "ch": "08"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ In order, and none dropped, ¶2",
+  "before": "This book draws a wider point from the lectures' words on polishing.",
+  "after": "",
+  "note": "Label sentence; repeats \"polishing\" from two sentences back.",
+  "n": 138,
+  "ch": "08"
+ },
+ {
+  "kind": "comma",
+  "where": "§ opening, ¶1",
+  "before": "After the daily prayer, many of us ask God's forgiveness (*istighfar*) with the word *astaghfirullah*, often by habit.",
+  "after": "After the daily prayer, many of us ask God's forgiveness (*istighfar*) with the word *astaghfirullah*, and often we say it by habit.",
+  "note": "Fix 1 (joined as a clause); reuses Part Three comma list #12, your own example. Alternative, fix 3: \"…ask God's forgiveness (*istighfar*), often by habit, with the word *astaghfirullah*.\"",
+  "n": 139,
+  "ch": "09"
+ },
+ {
+  "kind": "comma",
+  "where": "§ opening, ¶2",
+  "before": "Anyone can begin it, by repenting.",
+  "after": "Anyone can begin it by repenting.",
+  "note": "Fix 1 (folded); reuses Part Three comma list #13. Keep the comma if you want the pause for emphasis (TONE 45).",
+  "n": 140,
+  "ch": "09"
+ },
+ {
+  "kind": "comma",
+  "where": "§ opening, ¶2",
+  "before": "The law is kept strictly, starting with how we treat people.",
+  "after": "The law is kept strictly, and that begins with how we treat people.",
+  "note": "Fix 1; reuses Part Three comma list #14.",
+  "n": 141,
+  "ch": "09"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Anyone can begin, box \"Story: Fudayl the highwayman\"",
+  "before": "Fudayl was born in Samarqand, lived in Kufa, and died in Mecca in 187 AH, a contemporary of Imam al-Kazim (as) and Imam al-Rida (as).",
+  "after": "A contemporary of Imam al-Kazim (as) and Imam al-Rida (as), Fudayl was born in Samarqand, lived in Kufa, and died in Mecca in 187 AH.",
+  "note": "Fix 3 (fronted phrase; the reader already knows Fudayl from the sentence before, and it is the only fronted phrase in this section). Improves on Part Three list #15, which split it: \"…in 187 AH. He was a contemporary of Imam al-Kazim (as) and Imam al-Rida (as).\"",
+  "n": 142,
+  "ch": "09"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Anyone can begin, box \"Story: Fudayl the highwayman\"",
+  "before": "His repentance was sincere (*tawba nasuh*), and he became a great figure of the path, known for his fear of God and his weeping.",
+  "after": "His repentance was sincere (*tawba nasuh*), and he became a great figure of the path whose fear of God and weeping were well known.",
+  "note": "Fix 2 (whose-clause). Part Three list #16 only dropped the comma (\"…the path known for…\"), which lets \"known\" attach to \"the path\".",
+  "n": 143,
+  "ch": "09"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Anyone can begin, ¶8",
+  "before": "The sentence admits weakness and sin, and in the same breath claims the name of God's repentant servant, in words any believer can say, whatever lies behind them.",
+  "after": "The sentence admits weakness and sin, and in the same breath claims the name of God's repentant servant in words any believer can say, whatever lies behind them.",
+  "note": "Fix 1 (folded; the tail left, \"whatever lies behind them\", has its own verb); reuses Part Three comma list #17.",
+  "n": 144,
+  "ch": "09"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Steady, not fast, ¶4",
+  "before": "On someone's advice he began reciting Ziyarat ʿAshura every morning in full, with its hundred curses and hundred greetings.",
+  "after": "On someone's advice he began reciting, every morning, the whole of Ziyarat ʿAshura with its hundred curses and hundred greetings.",
+  "note": "Fix 3 with fix 1 (\"every morning\" moved to the middle, the tail folded in). Part Three list #18 moved the phrase but left \"in full every morning\" trailing.",
+  "n": 145,
+  "ch": "09"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Steady, not fast, ¶5",
+  "before": "Such a person gains great spiritual energy and then feels abandoned by their own soul, unable to carry it further.",
+  "after": "Such a person gains great spiritual energy and then feels abandoned by their own soul and unable to carry it further.",
+  "note": "Fix 1; reuses Part Three comma list #19, your own example.",
+  "n": 146,
+  "ch": "09"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Steady, not fast, ¶7",
+  "before": "A beginner full of zeal may take on every good practice at once and then tire of it, leaving the work incomplete.",
+  "after": "A beginner full of zeal may take on every good practice at once, then tire of it and leave the work incomplete.",
+  "note": "Fix 1; reuses Part Three comma list #20.",
+  "n": 147,
+  "ch": "09"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Steady, not fast, ¶8",
+  "before": "A steady pace still means setting out now, at whatever age.",
+  "after": "Whatever our age, a steady pace still means setting out now.",
+  "note": "Fix 3 (moved to the front); reuses Part Three comma list #21. You approved this sentence as example 7a (D51), before the weak-comma rule; keep it if the end weight on \"at whatever age\" is wanted.",
+  "n": 148,
+  "ch": "09"
+ },
+ {
+  "kind": "comma",
+  "where": "§ The law, starting with people, box \"Story: Hatim the Deaf\"",
+  "before": "Hatim al-Asamm was one of the great mystics of the early centuries, called the Luqman of this ummah.",
+  "after": "Hatim al-Asamm was one of the great mystics of the early centuries and was called the Luqman of this ummah.",
+  "note": "Fix 1; reuses Part Three comma list #22.",
+  "n": 149,
+  "ch": "09"
+ },
+ {
+  "kind": "comma",
+  "where": "§ The law, starting with people, ¶7",
+  "before": "The rest of the stage is the law, kept strictly.",
+  "after": "The rest of the stage is keeping the law strictly.",
+  "note": "Fix 1 (folded); reuses Part Three comma list #23.",
+  "n": 150,
+  "ch": "09"
+ },
+ {
+  "kind": "comma",
+  "where": "§ The law, starting with people, ¶7",
+  "before": "Its first demand is that the traveller put things right with people, down to sparing an ordinary person's embarrassment.",
+  "after": "Its first demand is that the traveller put things right with people, and this reaches down to sparing an ordinary person's embarrassment.",
+  "note": "Fix 1; reuses Part Three comma list #24.",
+  "n": 151,
+  "ch": "09"
+ },
+ {
+  "kind": "comma",
+  "where": "§ The law, starting with people, box \"Try this\"",
+  "before": "Then pray four rakʿas, two at a time like every recommended prayer, reciting in each Surah al-Fatiha once, Surah al-Tawhid three times, and Surahs al-Falaq and al-Nas once each.",
+  "after": "Then pray four rakʿas two at a time, as every recommended prayer is prayed. In each rakʿa recite Surah al-Fatiha once, Surah al-Tawhid three times, and Surahs al-Falaq and al-Nas once each.",
+  "note": "Fix 4 (its own sentence; five comma pieces become two sentences); reuses Part Three comma list #25.",
+  "n": 152,
+  "ch": "09"
+ },
+ {
+  "kind": "comma",
+  "where": "§ The law, starting with people, box \"Try this\"",
+  "before": "Afterwards say *astaghfirullah* one hundred times (the lectures give seventy and name al-Nas alone; the Mafatih's count is followed here), then *la hawla wa la quwwata illa billahil-ʿaliyyil-ʿazim*.",
+  "after": "Afterwards say *astaghfirullah* one hundred times (the lectures give seventy and name al-Nas alone; the Mafatih's count is followed here) and then *la hawla wa la quwwata illa billahil-ʿaliyyil-ʿazim*.",
+  "note": "Fix 1; reuses Part Three comma list #26.",
+  "n": 153,
+  "ch": "09"
+ },
+ {
+  "kind": "variation",
+  "where": "§ Anyone can begin, ¶4",
+  "before": "They allow that God may forgive them and admit them to jannah. The road to Him is another matter; in their eyes it belongs to people of a higher calibre.",
+  "after": "They allow that God may forgive them and admit them to jannah, but in their eyes the road to Him belongs to people of a higher calibre.",
+  "note": "Mirrored \"X; Y\" halves as one flowing sentence; the label \"is another matter\" goes, the contrast stays (L08 ¶16, ¶18). Top of the AI-likeness ranking for this chapter.",
+  "n": 154,
+  "ch": "09"
+ },
+ {
+  "kind": "variation",
+  "where": "§ Steady, not fast, ¶3",
+  "before": "A traveller may also arrive quickly at something and mistake it for the end of the road, which is why the right instruction matters.",
+  "after": "Another may arrive quickly at something and mistake it for the end of the road, which is why the right instruction matters.",
+  "note": "Two sentences in a row open \"A traveller…\"; the second now varies the opener. Small edit; drop it if you prefer the repetition.",
+  "n": 155,
+  "ch": "09"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ opening, ¶2",
+  "before": "This chapter sets out the first stage in full.",
+  "after": "",
+  "note": "signpost label sentence",
+  "n": 156,
+  "ch": "09"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ opening, ¶2",
+  "before": "Of the four stages Chapter Eight set out, the first is polishing (*tajliya*), and repentance opens it.",
+  "after": "",
+  "note": "list label (\"the first is…\") wrapped in a callback",
+  "n": 157,
+  "ch": "09"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Anyone can begin, ¶5",
+  "before": "It is an encouragement for the beginning of the road, so that no believer sets the road aside as meant for others.",
+  "after": "",
+  "note": "vague \"It\" opener; abstract noun; \"road\" twice",
+  "n": 158,
+  "ch": "09"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ The law, starting with people, ¶4",
+  "before": "Good behaviour also stands at the centre of the religion.",
+  "after": "",
+  "note": "abstract topic label that the Amuli quotation then repeats",
+  "n": 159,
+  "ch": "09"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ The law, starting with people, ¶2",
+  "before": "This first condition is good character and conduct (*husn al-khuluq*).",
+  "after": "",
+  "note": "label sentence closing the paragraph",
+  "n": 160,
+  "ch": "09"
+ },
+ {
+  "kind": "comma",
+  "where": "§ opening, ¶1",
+  "before": "These words come from the Munajat Shaʿbaniyyah, which many of us recite in the month of Shaʿban, on the threshold of Ramadan.",
+  "after": "These words come from the Munajat Shaʿbaniyyah, which many of us recite in the month of Shaʿban on the threshold of Ramadan.",
+  "note": "Fix 1 (folded); reuses Part Three comma list #27.",
+  "n": 161,
+  "ch": "10"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Where ʿirfan begins, ¶5",
+  "before": "What makes the five the tools of emptying is their target, the heart.",
+  "after": "What makes the five the tools of emptying is that they aim at the heart.",
+  "note": "Fix 1 (folded into a clause). Part Three list #29 had \"…is that their target is the heart\"; this avoids repeating \"their target\" from the opening's \"because their target is the heart\".",
+  "n": 162,
+  "ch": "10"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Silence, hunger, and the night, ¶3",
+  "before": "Silence and hunger give the strength to block it; they also open the way to watchfulness of God (*muraqaba*), the sense that He is present and sees us.",
+  "after": "Silence and hunger give the strength to block it. They also open the way to watchfulness of God (*muraqaba*), which is the sense that He is present and sees us.",
+  "note": "Fix 2 (which-clause), as Part Three list #30; the semicolon also becomes a full stop, since the second half is a next step (TONE 45, SEMI-FRAGMENT flag).",
+  "n": 163,
+  "ch": "10"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Seclusion and remembrance, ¶1",
+  "before": "The Sufi orders differ over it, some asking beginners for forty days of retreat and others advising against it.",
+  "after": "Some Sufi orders ask beginners for forty days of retreat, and others advise against it.",
+  "note": "Fix 5 (\"differ over it\" only repeats what the two halves show); this is Part Three list #31's alternative. You accepted the current wording in the Part Three sweep (#21) before the weak-comma rule.",
+  "n": 164,
+  "ch": "10"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Seclusion and remembrance, ¶1",
+  "before": "Some seclusion of the body may help, as in the retreat in the mosque (*iʿtikaf*) that the Prophet ﷺ kept in the last ten days of Ramadan.",
+  "after": "Some seclusion of the body may help; the Prophet ﷺ kept a retreat in the mosque (*iʿtikaf*) in the last ten days of Ramadan.",
+  "note": "Fix 4 (semicolon, since the second half illustrates the first); reuses Part Three comma list #32. Borderline: the tail has a verb only inside its relative clause.",
+  "n": 165,
+  "ch": "10"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Seclusion and remembrance, ¶1",
+  "before": "We can read seclusion of the heart as Ibn Sina's first step, separating the heart from what diverts it.",
+  "after": "We can read seclusion of the heart as Ibn Sina's first step, which separates the heart from what diverts it.",
+  "note": "Fix 2; reuses Part Three comma list #33.",
+  "n": 166,
+  "ch": "10"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Seclusion and remembrance, ¶3",
+  "before": "His whole life was lived among them, with his family, his companions, and his battles.",
+  "after": "He lived among them all his life, with his family and companions, and fought his battles alongside them.",
+  "note": "Fix 1 (the tail becomes a clause with its own verb; L10 ¶51 \"lots of connections… many battles\"). Replaces Part Three list #34 (\"His whole life, from his family and companions to his battles, was lived among them\"), which reads awkwardly. The rest of this paragraph stays as you kept it (example 2b).",
+  "n": 167,
+  "ch": "10"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Seclusion and remembrance, ¶5",
+  "before": "For the mystic its effect is real and present, not only a reward stored up for the next world.",
+  "after": "For the mystic, beyond the reward stored up for the next world, its effect is real and present.",
+  "note": "Fix 3 (moved to the middle). Part Three list #35's \"rather than a reward\" would drop \"only\" and deny the reward; \"beyond\" keeps the lecture's both-and (L07 ¶25).",
+  "n": 168,
+  "ch": "10"
+ },
+ {
+  "kind": "comma",
+  "where": "§ A medicine, measured to the patient, ¶6",
+  "before": "Each of the five is taken in a dose measured to the person, small at first and kept up for a year or more.",
+  "after": "Each of the five is taken in a dose measured to the person, which starts small and is kept up for a year or more.",
+  "note": "Fix 2; reuses Part Three comma list #36.",
+  "n": 169,
+  "ch": "10"
+ },
+ {
+  "kind": "comma",
+  "where": "§ A medicine, measured to the patient, ¶7",
+  "before": "\nEmptying ends at the self, the last thing left behind.",
+  "after": "\nEmptying ends at the self, which is the last thing it leaves behind.",
+  "note": "Fix 2; reuses Part Three comma list #37. The prose hand-off only (the Before starts at the paragraph break, because the same sentence also stands in the point note's approved \"Close:\" line; change that too if they should match).",
+  "n": 170,
+  "ch": "10"
+ },
+ {
+  "kind": "comma",
+  "where": "§ A medicine, measured to the patient, box \"Try this\"",
+  "before": "Say each phrase to God, not as a routine to get through.",
+  "after": "Say each phrase to God rather than as a routine to get through.",
+  "note": "Fix 1 (folded with \"rather than\"). Part Three list #38 had \"…to God and not as a routine…\".",
+  "n": 171,
+  "ch": "10"
+ },
+ {
+  "kind": "variation",
+  "where": "§ opening, ¶2",
+  "before": "The lectures call the five disciplines instruments of the whole journey. This book reads them as the tools of its second stage, emptying, because their target is the heart.",
+  "after": "Where the lectures call the five disciplines instruments of the whole journey, this book reads them as the tools of its second stage, emptying, because their target is the heart.",
+  "note": "Mirrored pair as one flowing sentence, the pattern you approved in Ch 1 (\"Where other people look at the surface…\"); the contrast between the lectures and the book's reading is real (D50).",
+  "n": 172,
+  "ch": "10"
+ },
+ {
+  "kind": "variation",
+  "where": "§ A medicine, measured to the patient, ¶2",
+  "before": "The answer is set by what the person can carry, and not by straining to imitate the Prophet ﷺ, whose practice called for a personality like his.",
+  "after": "The answer is set by what the person can carry rather than by straining to imitate the Prophet ﷺ, whose practice called for a personality like his.",
+  "note": "\"Not X\" contrast → \"rather than\" (D53); the lecturer raises the point (L10 ¶24–25), so the contrast stays.",
+  "n": 173,
+  "ch": "10"
+ },
+ {
+  "kind": "variation",
+  "where": "§ A medicine, measured to the patient, ¶3",
+  "before": "The same holds for the body. Fifteen minutes in prostration tires our limbs because we are not yet used to it.",
+  "after": "The body also needs time to grow used to the practice, and until it does, fifteen minutes in prostration tires our limbs.",
+  "note": "Weak pointer opener (\"The same holds for…\") replaced; one sentence carries the point (L15 ¶42).",
+  "n": 174,
+  "ch": "10"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ opening, ¶2",
+  "before": "This chapter sets out emptying, its five disciplines, and how much of each to take.",
+  "after": "",
+  "note": "signpost label sentence",
+  "n": 175,
+  "ch": "10"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Where ʿirfan begins, ¶5",
+  "before": "The lectures tie remembrance to emptying, and this book places all five there.",
+  "after": "",
+  "note": "bookkeeping attribution; mirrored halves",
+  "n": 176,
+  "ch": "10"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Silence, hunger, and the night, ¶6",
+  "before": "The day is full of drawn-out engagements, so the pure remembrance of God becomes possible at night.",
+  "after": "",
+  "note": "loose \"so\" logic; echoes the verse just quoted",
+  "n": 177,
+  "ch": "10"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Silence, hunger, and the night, ¶6",
+  "before": "Rising in the middle of the night also shows how seriously a person holds their faith, and a command the Prophet ﷺ was given is an example for the rest of us.",
+  "after": "",
+  "note": "two unrelated halves joined by \"and\"; abstract",
+  "n": 178,
+  "ch": "10"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Seclusion and remembrance, ¶7",
+  "before": "That favour is present everywhere and at every moment, and constant remembrance is how a person comes to receive it.",
+  "after": "",
+  "note": "abstract nouns; balanced closer",
+  "n": 179,
+  "ch": "10"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ A medicine, measured to the patient, box \"Try this\"",
+  "before": "It is the minimum of the frequent remembrance the Qur'an asks for.",
+  "after": "",
+  "note": "label closer to the Try-this box",
+  "n": 180,
+  "ch": "10"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Opening, ¶1",
+  "before": "The lines just before it ask for pardon, promising to cling to God's forgiveness whatever sins are held against the one praying.",
+  "after": "The lines just before it ask for pardon and promise to cling to God's forgiveness whatever sins are held against the one praying.",
+  "note": "Fix 1 (join with \"and\"). Part Three list #39.",
+  "n": 181,
+  "ch": "11"
+ },
+ {
+  "kind": "comma",
+  "where": "§ What God gives the emptied heart, ¶1",
+  "before": "Adorning (*tahliya*) is, in Sheikh Bahmanpour's words, \"Allah's act on the soul\", not the traveller's.",
+  "after": "Adorning (*tahliya*) is, in Sheikh Bahmanpour's words, \"Allah's act on the soul\" rather than the traveller's.",
+  "note": "Fix 1 (folded). Part Three list #40, with \"rather than\" in place of \"and not\" (TONE 45/46). The contrast is the lecturer's (L07 ¶36).",
+  "n": 182,
+  "ch": "11"
+ },
+ {
+  "kind": "comma",
+  "where": "§ What God gives the emptied heart, ¶6",
+  "before": "He would state a teaching and then ask his listeners for the hadith or the verse behind it, sure that one existed.",
+  "after": "He would state a teaching and then, sure that one existed, ask his listeners for the hadith or the verse behind it.",
+  "note": "Fix 3 (moved to the middle). Part Three list #41.",
+  "n": 183,
+  "ch": "11"
+ },
+ {
+  "kind": "comma",
+  "where": "§ What God gives the emptied heart, ¶9",
+  "before": "He answered that the night was not long to him but short, and he is also reported to have wished that his whole life were a single night, passed in one prostration to God.",
+  "after": "He answered that the night was not long to him but short, and he is also reported to have wished that his whole life were a single night passed in one prostration to God.",
+  "note": "Fix 1 (folded). Part Three list #42. Only the comma goes: the rest is your approved wording (examples 8b), and \"not long but short\" is Uways's own answer (L15 ¶42), so the NOT-BUT flag is left.",
+  "n": 184,
+  "ch": "11"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Love, the gift the Imams asked for, box \"Word Study: mahabba\"",
+  "before": "*Mahabba* is the Arabic word for love, and the love of God is one of the two things ʿirfan seeks, beside knowing Him.",
+  "after": "*Mahabba* is the Arabic word for love, and the love of God and the knowledge of Him are the two things ʿirfan seeks.",
+  "note": "Fix 1 (folded). Part Three list #43.",
+  "n": 185,
+  "ch": "11"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Love, the gift the Imams asked for, box \"Word Study: mahabba\"",
+  "before": "The Lovers of the Whispered Prayer are the *muhibbin*, \"those who love\", from the same root again.",
+  "after": "The Lovers of the Whispered Prayer are the *muhibbin*, \"those who love\", and the name comes from the same root again.",
+  "note": "Fix 1 (join with \"and\"). Part Three list #44.",
+  "n": 186,
+  "ch": "11"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Love, the gift the Imams asked for, ¶5",
+  "before": "*Lantern of the Path* puts fear first and hope next, with love following when \"the breeze of love stirs\" [@lantern, p. 58].",
+  "after": "*Lantern of the Path* puts fear first and hope next, and love follows when \"the breeze of love stirs\" [@lantern, p. 58].",
+  "note": "Fix 1 (join with \"and\"). Part Three list #45.",
+  "n": 187,
+  "ch": "11"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Love, the gift the Imams asked for, ¶6",
+  "before": "Worship that comes from love is a different kind of worship, the worship of the free (*ʿibadat al-ahrar*).",
+  "after": "Worship that comes from love is a different kind of worship, which the lectures call the worship of the free (*ʿibadat al-ahrar*).",
+  "note": "Fix 2 (which-clause). New in place of list #46, whose After made Imam ʿAli call love-worship by this name; in Nahj 3.222 the free worship to give thanks, and it is the lectures that link the name to love (L12 ¶60). The next sentence (\"Imam ʿAli (as) names three kinds…\") stays.",
+  "n": 188,
+  "ch": "11"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Even love is left at the door, ¶6",
+  "before": "He gives it knowledge, a deeper understanding of the Qur'an, and a light to walk by, in flashes at first and later to stay.",
+  "after": "He gives it knowledge, a deeper understanding of the Qur'an, and a light to walk by, which come in flashes at first and later stay.",
+  "note": "Fix 2 (which-clause). Part Three list #47.",
+  "n": 189,
+  "ch": "11"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Even love is left at the door, box \"Try this\"",
+  "before": "This week, read it once, slowly [@sahifa, pp. 656–657].",
+  "after": "This week, read it slowly from start to finish [@sahifa, pp. 656–657].",
+  "note": "Fix 3 (rewritten). Part Three list #48. A short tail that may read well as a pause; alternative: \"This week, read it once at a slow pace\".",
+  "n": 190,
+  "ch": "11"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Even love is left at the door, box \"Try this\"",
+  "before": "As you read, notice how much of what it asks for is God's to give, such as a place among those \"purified through Thy affection and Thy love\", and \"whose breast Thou hast freed for Thy love\".",
+  "after": "As you read, notice how much of what it asks for is God's to give. It asks for a place among those \"purified through Thy affection and Thy love\" and \"whose breast Thou hast freed for Thy love\".",
+  "note": "Fix 4 (own sentence). Part Three list #49. Quotations unchanged.",
+  "n": 191,
+  "ch": "11"
+ },
+ {
+  "kind": "variation",
+  "where": "§ Love, the gift the Imams asked for, ¶1",
+  "before": "After the soul has been purified, love is placed in the heart by God.",
+  "after": "After the soul has been purified, God places love in the heart.",
+  "note": "God named as the actor; plainer active sentence (L07 ¶10).",
+  "n": 192,
+  "ch": "11"
+ },
+ {
+  "kind": "variation",
+  "where": "§ Love, the gift the Imams asked for, ¶2",
+  "before": "The lectures do not cite it, but Surah al-Maʾida speaks of such a people.",
+  "after": "Surah al-Maʾida, which the lectures do not cite, speaks of such a people.",
+  "note": "Source named as the actor; drops the \"not…, but\" frame while keeping the disclosure that the verse is the book's addition.",
+  "n": 193,
+  "ch": "11"
+ },
+ {
+  "kind": "variation",
+  "where": "§ Love, the gift the Imams asked for, box \"Word Study: mahabba\"",
+  "before": "Read with the Munajat's line, the verse suggests to this book that the drawing begins on His side.",
+  "after": "This book reads the verse with the Munajat's line and takes the drawing to begin on His side.",
+  "note": "The book named as the actor in place of \"the verse suggests to this book\"; still marked as the book's reading.",
+  "n": 194,
+  "ch": "11"
+ },
+ {
+  "kind": "variation",
+  "where": "§ Love, the gift the Imams asked for, ¶9",
+  "before": "Then these two veils would disappear, and it would be clear who worships God out of love and not from fear of hell or hope of paradise.",
+  "after": "Then these two veils would disappear, and it would be clear who worships God out of love rather than from fear of hell or hope of paradise.",
+  "note": "\"and not\" turned into \"rather than\" (D53). Rabiʿa's point unchanged.",
+  "n": 195,
+  "ch": "11"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Opening, ¶3",
+  "before": "This chapter sets out what God gives the emptied heart in that stage.",
+  "after": "",
+  "note": "signpost; label sentence",
+  "n": 196,
+  "ch": "11"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ What God gives the emptied heart, ¶3",
+  "before": "The verse joins the new life to a light, and the one given it walks with that light among the people.",
+  "after": "",
+  "note": "restates the verse just quoted; abstract pairing",
+  "n": 197,
+  "ch": "11"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ What God gives the emptied heart, ¶5",
+  "before": "The verse's last words state a general rule.",
+  "after": "",
+  "note": "label sentence announcing the next",
+  "n": 198,
+  "ch": "11"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Love, the gift the Imams asked for, ¶3",
+  "before": "The duʿa treats separation from God as harder to bear than His punishment.",
+  "after": "",
+  "note": "label sentence; says what the quotation below says",
+  "n": 199,
+  "ch": "11"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Love, the gift the Imams asked for, ¶5",
+  "before": "A heart that has tasted that sweetness wants nothing in God's place, and this love carries the traveller.",
+  "after": "",
+  "note": "bridge sentence; two ideas yoked by \"and\"",
+  "n": 200,
+  "ch": "11"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Even love is left at the door, ¶2",
+  "before": "Love is the traveller's own state, whereas the Beloved is God.",
+  "after": "",
+  "note": "mirrored contrast; abstract nouns",
+  "n": 201,
+  "ch": "11"
+ },
+ {
+  "kind": "comma",
+  "where": "§ What is lost is the false self, ¶2",
+  "before": "What changes is the traveller's knowing, which is why the lectures call annihilation \"an epistemological issue\", meaning a matter of perception rather than of existence.",
+  "after": "What changes is the traveller's knowing, and the lectures call annihilation \"an epistemological issue\" because it is a matter of perception rather than of existence.",
+  "note": "Fix 1 (folded into a because-clause). New in place of list #50 (which split it in two); TONE 46 names this sentence under \"Don't\". L07 ¶59.",
+  "n": 202,
+  "ch": "12"
+ },
+ {
+  "kind": "comma",
+  "where": "§ What is lost is the false self, ¶3",
+  "before": "In Islamic mysticism, the lectures say, the individual goes on for ever, growing \"more expanded, more capable\".",
+  "after": "In Islamic mysticism, the lectures say, the individual goes on for ever and grows \"more expanded, more capable\".",
+  "note": "Fix 1 (join with \"and\"). Part Three list #51. Rest of the sentence is your approved sweep #34.",
+  "n": 203,
+  "ch": "12"
+ },
+ {
+  "kind": "comma",
+  "where": "§ What is lost is the false self, ¶4",
+  "before": "The lectures call such a merging impossible, and the claim to it shirk, or unbelief (*kufr*).",
+  "after": "The lectures call such a merging impossible, and the claim to it shirk or unbelief (*kufr*).",
+  "note": "Fix 1 (folded). Part Three list #52. The no-union claim is unchanged; L07 ¶60 says \"just a shirk or kufr\", so the two are alternatives and \"unbelief\" glosses kufr only.",
+  "n": 204,
+  "ch": "12"
+ },
+ {
+  "kind": "comma",
+  "where": "§ What is lost is the false self, box \"Word Study: fanaʾ and baqaʾ\"",
+  "before": "\"Ephemeral\" translates *fanin*, from the root of *fanaʾ*, annihilation; \"lasting\" translates *yabqa*, from the root of *baqaʾ*, remaining.",
+  "after": "\"Ephemeral\" translates *fanin*, which shares a root with *fanaʾ* (annihilation); \"lasting\" translates *yabqa*, which shares a root with *baqaʾ* (remaining).",
+  "note": "Fix 2 (which-clauses). Part Three list #53.",
+  "n": 205,
+  "ch": "12"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Three degrees: in action, in attributes, in essence, ¶1",
+  "before": "(ʿAllama Tabatabaʾi counts four, adding a unity of the Names before the last [@light, pp. 107–108].)",
+  "after": "(ʿAllama Tabatabaʾi counts four and adds a unity of the Names before the last [@light, pp. 107–108].)",
+  "note": "Fix 1 (join with \"and\"). Part Three list #54. (The parenthesis sat unchanged inside examples 6a.)",
+  "n": 206,
+  "ch": "12"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Three degrees: in action, in attributes, in essence, ¶2",
+  "before": "When a hand moves, the power in it is God's, flowing into the hand.",
+  "after": "When a hand moves, the power that flows into it is God's.",
+  "note": "Fix 3 (moved into the middle). Part Three list #55.",
+  "n": 207,
+  "ch": "12"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Three degrees: in action, in attributes, in essence, ¶6",
+  "before": "What is left to him is one word, *Huwa*, \"He\".",
+  "after": "What is left to him is the one word *Huwa*, \"He\".",
+  "note": "Fix 1 (folded); \"He\" stays as the gloss. Part Three list #56.",
+  "n": 208,
+  "ch": "12"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Three degrees: in action, in attributes, in essence, ¶7",
+  "before": "Khidr taught him a short prayer that calls on God as *Huwa*, He, besides whom there is none.",
+  "after": "Khidr taught him a short prayer that calls on God as *Huwa*, He besides whom there is none.",
+  "note": "Fix 1 (folded). Part Three list #57.",
+  "n": 209,
+  "ch": "12"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Coming back, sober, ¶1",
+  "before": "He fell, defeated by nothing but his own self.",
+  "after": "He fell, and nothing but his own self defeated him.",
+  "note": "Fix 1 (join with \"and\"). Part Three list #58 (L09 ¶23).",
+  "n": 210,
+  "ch": "12"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Coming back, sober, ¶3",
+  "before": "Souls differ in how they meet so great an encounter, as two people caught in the same accident may come out of it differently, one shaken for days and the other untouched.",
+  "after": "Souls differ in how they meet so great an encounter, just as one of two people caught in the same accident may be shaken for days while the other is untouched.",
+  "note": "Fix 3 (folded into the clause). Part Three list #59. The detail is your approved sweep #40 (L09 ¶31); only the tail changes.",
+  "n": 211,
+  "ch": "12"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Coming back, sober, ¶4",
+  "before": "He utters ecstatic sayings (*shath*), words in which he confuses himself with God.",
+  "after": "He utters ecstatic sayings (*shath*), in which he confuses himself with God.",
+  "note": "Fix 2 (which-clause). Part Three list #60.",
+  "n": 212,
+  "ch": "12"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Coming back, sober, ¶4",
+  "before": "While he is out of his mind, he is not held to religious duties, like anyone who has lost his reason.",
+  "after": "Like anyone who has lost his reason, he is not held to religious duties while he is out of his mind.",
+  "note": "Fix 3 (moved to the front). Part Three list #61.",
+  "n": 213,
+  "ch": "12"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Coming back, sober, ¶4",
+  "before": "The lectures hold this to be unacceptable, above all in the Shia understanding of mysticism, and in most of Sunni mysticism as well.",
+  "after": "The lectures hold this to be unacceptable above all in the Shia understanding of mysticism and in most of Sunni mysticism as well.",
+  "note": "Fix 1 (commas removed, order kept). New in place of list #62, which put Sunni mysticism first; L09 ¶41 puts the Shia position first.",
+  "n": 214,
+  "ch": "12"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Coming back, sober, ¶5",
+  "before": "ʿAllama Tabatabaʾi warns of the same dangers, the \"claim of incarnation and identification with God, denial of being obligated to abide by religious injunctions and regarding everything lawful\", though he places them earlier on the road, at the stages of remembrance [@light, p. 102].",
+  "after": "ʿAllama Tabatabaʾi warns of the same dangers, the \"claim of incarnation and identification with God, denial of being obligated to abide by religious injunctions and regarding everything lawful\", though he places them earlier on the road at the stages of remembrance [@light, p. 102].",
+  "note": "Fix 1 (folded). Part Three list #63. Quotation unchanged.",
+  "n": 215,
+  "ch": "12"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Coming back, sober, ¶6",
+  "before": "Their souls then grew out of proportion, like a body whose head grows huge while the rest stays small.",
+  "after": "Their souls then grew out of proportion like a body whose head grows huge while the rest stays small.",
+  "note": "Fix 1 (folded). Part Three list #64.",
+  "n": 216,
+  "ch": "12"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Coming back, sober, ¶10",
+  "before": "Love carries the traveller to the loss of the false self before God's glory, and grace brings him back sober, seeing God in all things while remaining himself.",
+  "after": "Love carries the traveller to the loss of the false self before God's glory, and grace brings him back sober, so that he sees God in all things while remaining himself.",
+  "note": "Fix 2 (a clause with its own verb). Part Three list #65. The chapter's point is unchanged.",
+  "n": 217,
+  "ch": "12"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Coming back, sober, box \"Try this\"",
+  "before": "When you recite Surah al-Ikhlas in salah this week, stop for a moment on the word after \"Say\", *Huwa*.",
+  "after": "When you recite Surah al-Ikhlas in salah this week, stop for a moment on the word *Huwa* after \"Say\".",
+  "note": "Fix 1 (folded). New in place of list #66 (\"which is *Huwa*\").",
+  "n": 218,
+  "ch": "12"
+ },
+ {
+  "kind": "variation",
+  "where": "§ Three degrees: in action, in attributes, in essence, ¶3",
+  "before": "That there is no authority but God's is something any believer can work out.",
+  "after": "Any believer can work out that there is no authority but God's.",
+  "note": "Plain order in place of a that-clause subject; one fewer \"That…\" opener.",
+  "n": 219,
+  "ch": "12"
+ },
+ {
+  "kind": "variation",
+  "where": "§ Three degrees: in action, in attributes, in essence, ¶4",
+  "before": "This is the lived truth of words we say often, there is no god but God (*la ilaha illa Allah*), because *Allah* is the name that gathers all His attributes.",
+  "after": "This is the lived truth of words we say in every prayer, there is no god but God (*la ilaha illa Allah*), because *Allah* is the name that gathers all His attributes.",
+  "note": "One everyday particular (the tashahhud of every salah) for \"often\"; the \"This is…\" line is kept.",
+  "n": 220,
+  "ch": "12"
+ },
+ {
+  "kind": "variation",
+  "where": "§ Three degrees: in action, in attributes, in essence, ¶8",
+  "before": "The sentence, which the Imams (as) placed on our tongues, does not stop at the veils.",
+  "after": "The sentence, which the Imams (as) placed on our tongues, goes further still.",
+  "note": "Positive statement in place of a \"not\" no reader raised (TONE 46); avoids echoing \"Past the veils\" two lines on.",
+  "n": 221,
+  "ch": "12"
+ },
+ {
+  "kind": "variation",
+  "where": "§ Coming back, sober, ¶6",
+  "before": "The tradition remembers Bayazid Bistami for his ecstatic sayings and Junayd of Baghdad for the sober way; Chapter Fourteen returns to both [@light, pp. 25, 27].",
+  "after": "The tradition remembers Bayazid Bistami for his ecstatic sayings and Junayd of Baghdad for the sober way, and Chapter Fourteen returns to both [@light, pp. 25, 27].",
+  "note": "\"X; Y\" made one sentence: the second half is a next step, so \", and\" (TONE 45). Ranked most AI-like in the chapter.",
+  "n": 222,
+  "ch": "12"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Opening, ¶2",
+  "before": "The mystics call this annihilation *fanaʾ*, and in every prostration the body takes its posture for a moment.",
+  "after": "",
+  "note": "two ideas yoked by \"and\"; abstract \"posture\"",
+  "n": 223,
+  "ch": "12"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Opening, ¶2",
+  "before": "This chapter sets out what annihilation is: what is lost in losing the self, what is found in finding God, and how the traveller comes back.",
+  "after": "",
+  "note": "signpost; mirrored list",
+  "n": 224,
+  "ch": "12"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ What is lost is the false self, ¶5",
+  "before": "This self is the last thing emptying leaves behind, and annihilation is where it falls.",
+  "after": "",
+  "note": "balanced, aphorism-like closer",
+  "n": 225,
+  "ch": "12"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ What is lost is the false self, ¶6",
+  "before": "What is lost in annihilation is therefore the false picture of a self that stands apart from God.",
+  "after": "",
+  "note": "summing-up line repeating the section's own wording",
+  "n": 226,
+  "ch": "12"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Three degrees: in action, in attributes, in essence, ¶1",
+  "before": "The line names three layers, so the unveiling has three degrees.",
+  "after": "",
+  "note": "label sentence; keep the count",
+  "n": 227,
+  "ch": "12"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Three degrees: in action, in attributes, in essence, ¶9",
+  "before": "Past the veils, the prayer asks that our souls be held by the glory of God's holiness.",
+  "after": "",
+  "note": "restates the quotation just given",
+  "n": 228,
+  "ch": "12"
+ }
+]

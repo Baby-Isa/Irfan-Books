@@ -32,13 +32,16 @@ for j in sorted(glob.glob("reviews/ai/approval/[0-9][0-9].json")):
                 out.append(f"**{n}.**{where} {it['before']}  \n*Why:* {it.get('note','')}\n")
             else:
                 note = f"  \n*Note:* {it['note']}" if it.get("note") else ""
-                out.append(f"**{n}.**{where}  \n**Before:** {it['before']}  \n**After:** {it['after']}{note}\n")
+                out.append(f"**{n}.**{where}  \n**Before:** {it['before'].strip()}  \n**After:** {it['after'].strip()}{note}\n")
+sp = ", ".join(str(i['n']) for i in items_all if i['kind']=='rephrase' and re.match(r'This chapter (sets out|shows)', i['before']))
 counts = {k: sum(1 for i in items_all if i["kind"] == k) for k in ORDER}
 head = f"""# Approval sheet: weak commas, variation edits, and sentences for your voice (2026-10-20)
 
 Every chapter, after today's scaffold softening (logs in `reviews/ai/scaffold-sweep-NN-2026-10-20.md`). {n} items: {counts['comma']} weak final commas, {counts['variation']} variation edits, {counts['rephrase']} sentences for you to rephrase. No sentence appears twice. Nothing here is applied yet.
 
 **How to answer:** list the numbers you accept ("yes 1–12, 15"), the ones to keep as they are ("no 13, 14"), and your own wording for any item ("27: …"). For the rephrase items, give your wording or "keep".
+
+**One pattern, one answer:** the chapter signpost "This chapter sets out…" recurs among the rephrase items ({sp}). One answer can cover them all ("keep all signposts", or a wording to model the rest on).
 """
 open("reviews/ai/approval/SHEET-2026-10-20.md", "w").write(head + "".join(out))
 json.dump(items_all, open("reviews/ai/approval/sheet.json", "w"), ensure_ascii=False, indent=1)
