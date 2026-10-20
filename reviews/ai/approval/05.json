@@ -73,8 +73,8 @@
   "kind": "variation",
   "where": "§ A soul that crosses them, ¶3",
   "before": "This explains how a dream can show more than memory holds.",
-  "after": "Because the soul touches the world of images, a dream can show more than memory holds.",
-  "note": "weak pointer opener (\"This explains\") replaced by the reason itself"
+  "after": "A dream can therefore show more than memory holds.",
+  "note": "weak pointer opener (\"This explains\") replaced; the reason is the sentence before"
  },
  {
   "kind": "variation",
