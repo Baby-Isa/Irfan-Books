@@ -206,9 +206,39 @@ WH = ("whether", "how", "what", "why", "when", "where", "which", "who", "to", "t
 
 
 def _clean(s):
+    s = re.sub(r"<!--.*?-->", "", s)
     s = re.sub(r"\[@[^\]]*\]", "", s)
     s = re.sub(r'"[^"]*"|“[^”]*”', '"…"', s)
     return re.sub(r"\s+", " ", s).strip()
+
+
+AUX = set("is are was were be been being has have had does do did can could will would may might must shall should am".split())
+TAIL_OK = re.compile(r"^(which|whose|who|whom|where|when|while|and|or|but|nor|so|yet|as|if|though|although|because|since|until|unless|whereas|for|then|"
+                     r"i|we|you|he|she|it|they|there|this|that|these|those)\b", re.I)
+SAYS = re.compile(r"\b(say|says|said|writes|wrote|notes|adds|asks|explains|puts it|recalls|reports)\s*$", re.I)
+
+
+try:                                   # part-of-speech tags make the tail check precise; data in ~/nltk_data
+    import nltk
+    nltk.pos_tag(["test"])
+except Exception:                      # pragma: no cover
+    nltk = None
+
+
+def _weak_tail(tail):
+    """A tail of two or more words with no verb of its own (before any relative clause), e.g.
+    ", heedless of a God who is near", ", often by habit", ", holding that…". Lists and attributions pass."""
+    w = tail.split()
+    if len(w) < 2 or TAIL_OK.match(tail) or SAYS.search(tail) or tail.startswith('"'):
+        return False
+    lead = re.split(r"\b(?:who|which|that|whose|where|when|whom)\b", tail, maxsplit=1)[0]
+    if any(x in AUX for x in lead.lower().split()):
+        return False
+    if nltk:
+        tags = [t for _, t in nltk.pos_tag(re.findall(r"[\wʿʾ'-]+", lead))]
+        if any(t in ("VBD", "VBZ", "VBP", "MD") for t in tags):
+            return False               # the tail is a clause with its own verb ("…, saw his face")
+    return True
 
 
 def punct_flags(paras):
@@ -231,6 +261,8 @@ def punct_flags(paras):
                         (len(tw) >= 5 and re.match(r"^(the|his|her|its|their|our|this|that|these|those)\b", tail, re.I)
                          and not re.match(r"^(the|this|that)\s+\w+\s+(is|are|was|were|has|have)\b", tail, re.I)):
                     out.append(("TAIL", raw))      # a long verbless phrase hung on the last comma
+                elif tw and _weak_tail(tail):
+                    out.append(("TAIL-COMMA", raw))  # user, 2026-10-19: no sentence ends on ", <phrase with no verb of its own>"
             for semi in [m.start() for m in re.finditer(";", body)]:
                 if body.count(";") >= 2:
                     break                          # a heavy list: semicolons are right there
