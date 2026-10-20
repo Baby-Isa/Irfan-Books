@@ -126,7 +126,7 @@ The verse speaks of the meeting with God (*liqaʾ Allah*). Every soul will take 
 
 What is seen at that meeting is the soul, and the soul is a reflection of God. Seeing it is therefore seeing a reflection of God, and not God Himself. The verse still calls it a meeting with Him. On that day the soul perceives the presence it has always stood in. The believer perceives God's mercy and reward, whereas the unbeliever perceives His justice.
 
-Even then, the soul cannot encompass God. The depth of our own soul cannot be known, so a complete knowledge of its Lord is out of reach. As the lectures put it, "You can get some understanding but knowing Him completely … is impossible." Imam Khomeini sets a similar limit for the seeker. Those who hold that the meeting with God is open to the seeker, he writes, do not mean that it is permissible "to fathom the mystery of the Divine Essence", or that the Essence can be encompassed in knowledge by presence [@forty_hadith, p. 398].
+Even then, the soul cannot encompass God. The depth of our own soul cannot be known, so a complete knowledge of its Lord is out of reach. As the lectures put it, "You can get some understanding but knowing Him completely … is impossible." Imam Khomeini places the limit at the Divine Essence. Those who hold that the meeting with God is open to the seeker, he writes, do not mean that it is permissible "to fathom the mystery of the Divine Essence", or that the Essence can be encompassed in knowledge by presence [@forty_hadith, p. 398].
 
 ::: {.box-story title="Story: Musa asks to see God"}
 Sheikh Bahmanpour points briefly to the Prophet Musa (as) for a limit on perceiving God. The scene he has in mind is told in the Qur'an, in Surah al-Aʿraf. Musa comes to the meeting God appointed for him, and his Lord speaks to him. Musa asks, "My Lord, show [Yourself] to me, that I may look at You!" God answers, "You shall not see Me" ([لَن تَرَىٰنِي]{lang=ar}), and tells him to look at the mountain instead: if it stays in its place, Musa will see Him. God discloses Himself to the mountain and levels it, and Musa falls down in a swoon (Q 7:143). In the Sheikh's words, "There is a degree of perception which could not be attained by this body", and that is what Musa was asking for.
@@ -138,9 +138,9 @@ What a soul perceives of God at that meeting depends on what it perceives of Him
 But whoever has been blind in this [world], will be blind in the Hereafter, and [even] more astray from the [right] way.
 :::
 
-The seeker therefore begins lifting the veils in this life. There is a second reason not to wait: the journey every soul makes through death is longer and harder than the one a seeker takes by choice. In the Sheikh's account, the many methods the mystics have devised all aim solely at removing the veil that covers the heart.
+The seeker therefore begins lifting the veils in this life. Death gives a second reason not to wait, since the journey every soul makes through it is longer and harder than the one a seeker takes by choice. In the Sheikh's account, the many methods the mystics have devised all aim solely at removing the veil that covers the heart.
 
-Mirza Jawad Maliki Tabrizi describes what the seeker finds when the self is uncovered. The one given God's grace can "remove the material curtain from his spirit and self" and see the self's reality. For him, this knowledge of the self is the meaning of Imam ʿAli's (as) saying that whoever knows himself knows his Lord [@journey, p. 125].
+Mirza Jawad Maliki Tabrizi writes that the one given God's grace can "remove the material curtain from his spirit and self" and see the self's reality. For him, this knowledge of the self is the meaning of Imam ʿAli's (as) saying that whoever knows himself knows his Lord [@journey, p. 125].
 
 The way to God therefore runs through knowing and purifying our own self. God is already near and reflected in the soul, and the veil that keeps us from Him lies over the soul itself.
 

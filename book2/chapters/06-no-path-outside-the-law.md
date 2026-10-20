@@ -37,13 +37,13 @@ The path and the truth are the inside of the law, so they are reached only throu
 8. Therefore each depth is reached only through the one before: the path and the truth only through the law. *(Kubra's ship, sea and pearl.)*
 ::::
 
-Let's start with the three words the ʿurafaʾ use for the depths of the religion. The first is the law (*shariʿa*): how and when to pray and to fast, and what each act needs before it is valid. It is what the Prophet ﷺ taught us to do, and it is what most of us mean by practising the religion.
+Of the three words the ʿurafaʾ use for the depths of the religion, let's start with the law (*shariʿa*): how and when to pray and to fast, and what each act needs before it is valid. It is what the Prophet ﷺ taught us to do, and it is what most of us mean by practising the religion.
 
 The law is not kept for its own sake. We pray and fast to draw near to God, and the way from the law to that nearness is called the path (*tariqa*). The path leads in turn to the truth (*haqiqa*), the reality that is seen once the path has been walked.
 
 The path is not a second set of acts beside the law. Suppose we prayed beside the Prophet ﷺ and copied every movement he made. A jurist would rule both prayers valid, having checked the form of each: the standing, the bowing, and the words. The outward form of an act is all a jurist can judge, and both forms were the same.
 
-What a jurist cannot judge is what passed in the heart. Imam Khomeini draws the same line: "there is no necessary relation between the (legal) validity of ʿibadah and its acceptability" [@forty_hadith, p. 293]. An act of worship can be valid in law and still not be accepted, because acceptance turns on what the jurist cannot see. The Prophet's prayer and ours would differ in the inward way each was performed, and that inward way is the path. The outward frame of the act is still the law. What the Prophet saw through such a prayer is the truth.
+What a jurist cannot judge is what passed in the heart. In Imam Khomeini's words, "there is no necessary relation between the (legal) validity of ʿibadah and its acceptability" [@forty_hadith, p. 293]. An act of worship can be valid in law and still not be accepted, because acceptance turns on what the jurist cannot see. The Prophet's prayer and ours would differ in the inward way each was performed, and that inward way is the path. The outward frame of the act is still the law. What the Prophet saw through such a prayer is the truth.
 
 A saying attributed to the Prophet ﷺ puts the three in one line. "The shariʿah is my words, tariqah my actions, haqiqah my states" [@inner_secrets, p. 32]. His words tell us what to do. His actions show how it is done from within, and his states are what he saw by doing it.
 
@@ -79,11 +79,11 @@ If the truth is reached only through the law, someone who claims the truth while
 Three words name wonders that can look alike. A miracle (*muʿjiza*) is worked only by a prophet, by God's permission. A *karama* (plural *karamat*) is a wonder at the hands of someone close to God, or of someone who has found the spiritual power of the soul. Sheikh Bahmanpour describes it as worked through the strength of the human soul. Magic (*sihr*) produces effects that can look the same by other means, usually with the help of the jinn. Such a feat can look the same whoever performs it. Kubra's test therefore looks past the feat to the person's keeping of the law, and one abandoned command of God marks the feat as magic.
 :::
 
-The claim to know God fails without the law because of what the law does to the one who keeps it. Ayatullah Muhammad Bahari, an Iranian ʿarif, set out the order. Jurisprudence, he taught, is "an introductory means" to purifying one's character. Good character, in turn, is the way into knowledge of God's oneness (*tawhid*).
+The claim to know God fails without the law because of what the law does to the one who keeps it. For Ayatullah Muhammad Bahari, an Iranian ʿarif, jurisprudence is "an introductory means" to purifying one's character. Good character, in turn, is the way into knowledge of God's oneness (*tawhid*).
 
 Each link in that order needs the one before it. Theology can be learned in a classroom, but the reality of God cannot. It is found only through purifying the self, so without good character there is no knowledge of God. Without the law lived in oneself there is no good character. Some travellers claim to be ʿarifs with no further need of the law, as if it were meant only for ordinary people. On this chain of reasoning, they have broken its first link.
 
-Imam Khomeini reaches the same conclusion through the image of light: "Without adhering to the apparent teachings of Islam it is not possible that the light of the Divine Knowledge could descend upon his heart" [@forty_hadith, p. 35]. Knowledge of God comes to the heart as a light, and a heart that has set the law aside is not made ready to receive it.
+Imam Khomeini adds the image of light: "Without adhering to the apparent teachings of Islam it is not possible that the light of the Divine Knowledge could descend upon his heart" [@forty_hadith, p. 35]. Knowledge of God comes to the heart as a light, and a heart that has set the law aside is not made ready to receive it.
 
 What does come without the law is easily mistaken for that light. Sheikh Bahmanpour, recalling a remark of ʿAllama Tabatabaʾi's, warns that anyone of any belief will find something if they go forty days on less and less food. The knowledge of God is so unfamiliar to us that whatever is found is taken for God.
 
@@ -141,7 +141,7 @@ The proof is the Prophet ﷺ. Though he was the noblest of all creation, he kept
 
 The *Kernel*'s test is close to Kubra's. Anyone who claims to be a wayfarer while departing from the law even slightly is to be considered a hypocrite. The only allowance is for a lapse that comes from error, from an excuse, or from forgetfulness [@kernel, p. 30].
 
-Imam Khomeini goes further. A person to whom the truth has been unveiled, he writes, acts "with greater observance of the manifest forms of religion" [@forty_hadith, p. 35]. He rejects the claim of release, the view that once inner excellences are gained the outward forms are no longer obligatory, as "a mistaken conception born of ignorance about the stages of worship" [@forty_hadith, p. 35].
+A person to whom the truth has been unveiled, Imam Khomeini writes, acts "with greater observance of the manifest forms of religion" [@forty_hadith, p. 35]. He rejects the claim of release, the view that once inner excellences are gained the outward forms are no longer obligatory, as "a mistaken conception born of ignorance about the stages of worship" [@forty_hadith, p. 35].
 
 Worship does have stages, and the *Kernel* finds one true sense in the talk of release, though not the sense its proponents intend. Acts of worship develop the soul, bringing its capacities "from potentiality to actuality" [@kernel, p. 30], that is, making real what was only possible. For a soul still growing towards its perfection, worship is the means of growth. For a soul that has reached perfection, worship is no longer for growth [@kernel, p. 30]. What changes on arrival is not the law but the reason for keeping it.
 

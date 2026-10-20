@@ -75,9 +75,9 @@ The soul has a share in each of these worlds because it stands between the spiri
 
 For now, the body holds almost all of the soul's attention, so the soul lives in the material world and the deeper worlds pass unnoticed. That hold loosens at three times: in sleep, at death, and in watchfulness. Taking them one at a time shows where the soul goes when the hold loosens.
 
-The first is sleep. When we sleep, the soul attends less to the body. With the senses at rest, it can touch the world of images. It does not leave the body completely. If it did, we would be dead. This explains how a dream can show more than memory holds. A person may dream of something that later happens, and memory cannot show the future. Time works differently in the middle world. The soul has seen there the counterpart of an event that has not yet happened here.
+Sleep is the first, and it comes every night. When we sleep, the soul attends less to the body. With the senses at rest, it can touch the world of images. It does not leave the body completely. If it did, we would be dead. This explains how a dream can show more than memory holds. A person may dream of something that later happens, and memory cannot show the future. Time works differently in the middle world. The soul has seen there the counterpart of an event that has not yet happened here.
 
-The second is death, which the Qur'an sets beside sleep. Surah al-Zumar names the two together.
+Death comes second, and Surah al-Zumar names it together with sleep.
 
 ::: {.ayah ref="39:42" words="1-10"}
 Allah takes the souls at the time of their death, and those who have not died, in their sleep.
@@ -87,7 +87,7 @@ In both, the verse says, God takes the soul. The difference is one of degree. Mo
 
 At death the soul lets go of the body completely. Shomali writes that it then "belongs to another body which has the qualities of a material body like shape and size without the mass" [@self_knowledge, p. 76]. This second body is the image body (*badan mithali*). "The body is not carrying the soul but the soul is carrying the body," Sheikh Bahmanpour says. When the appointed time comes, the soul sets the body down. It does not go on without a body, because a soul cannot be without one. It goes on in the image body, which was with us all along, unseen in another dimension.
 
-The third is watchfulness (*muraqaba*): keeping the heart's attention on God while we are awake. A person who turns their attention to God until they forget the body does on purpose what sleep does. They can then see into the middle world as one sees in a dream. ʿAllama Tabatabaʾi said that the more he kept up his muraqaba, the more distinctly he saw into that world. Such moments come to the mystics as an opportunity from God and not as a power to use. Only the Imams (as), the lectures add, can pass between the worlds whenever they wish.
+Watchfulness (*muraqaba*), the third, means keeping the heart's attention on God while we are awake. A person who turns their attention to God until they forget the body does on purpose what sleep does. They can then see into the middle world as one sees in a dream. ʿAllama Tabatabaʾi said that the more he kept up his muraqaba, the more distinctly he saw into that world. Such moments come to the mystics as an opportunity from God and not as a power to use. Only the Imams (as), the lectures add, can pass between the worlds whenever they wish.
 
 ::: {.box-story title="Story: Qadi meets himself"}
 *Kernel of the Kernels*, the record of ʿAllama Tabatabaʾi's lectures on the path, describes what may come to a traveller who keeps up muraqaba. Lights appear, at first like flashes of lightning, and "these lights belong to the class of entities of the realm of Barzakh". In the early stages the traveller may see his own soul in bodily form: "he might see himself standing before himself." Tabatabaʾi then recalls his own teacher, Mirza ʿAli Aqa Qadi, who used to say: "One day emerging from the room into the veranda, I saw myself standing silent by my side. I looked very carefully at my face, and observed a mole on it. On returning to my room when I looked into the mirror, I saw that there was a mole on my face that I had not noticed until then" [@kernel, p. 17].
@@ -125,7 +125,7 @@ Some of that shaping shows on the face. A face can show faith or its absence to 
 
 The form the soul has when it leaves this world is the form it keeps in the next, as Imam Khomeini writes in his *Forty Hadith*. Beside the body that everyone can see, each person has "another form and a different face of him, which is heavenly and invisible, which is determined by the qualities of his soul and his inner nature" [@forty_hadith, p. 41]. The same page names the moment that settles it: "in whichever state one's soul departs from the body, it assumes a form suited to it in the next world also" [@forty_hadith, p. 41].
 
-The Qur'an points the same way. Surah al-Nabaʾ describes people coming forth on the Last Day.
+The Qur'an points the same way in Surah al-Nabaʾ, which describes people coming forth on the Last Day.
 
 ::: {.ayah ref="78:18"}
 the day the Trumpet will be blown, and you will come in groups,
@@ -176,7 +176,7 @@ the [carnal] soul indeed prompts [men] to evil, except inasmuch as my Lord has m
 
 The verse admits what this self does and names what overcomes it: the mercy of God. Worry binds the soul to the body as much as pleasure does, whether it is thought given to our own employment, our children's futures, or other wider concerns. Worry keeps the soul occupied with the body and stops it rising towards God.
 
-After giving in, the self may remember what it did and ask why. This is the second state, the self that blames itself (*nafs al-lawwama*). Its self-blame is a hopeful sign, because it shows that we hold values that matter more to us than the pleasure we gave in to. Surah al-Qiyama swears by it.
+After giving in, the self may remember what it did and ask why. That questioning marks the second state, the self that blames itself (*nafs al-lawwama*). Its self-blame is a hopeful sign, because it shows that we hold values that matter more to us than the pleasure we gave in to. Surah al-Qiyama swears by it.
 
 ::: {.ayah ref="75:2"}
 And I swear by the self-critical soul!
@@ -192,7 +192,7 @@ Murtada Mutahhari writes that the ʿurafaʾ "have different words for the human 
 
 The attitude is changed by acts already familiar to us. Two of them show how this works: the remembrance of God, and fasting with the night prayer.
 
-The first is the remembrance of God (*dhikr*), which the lectures describe as refreshing and reviving the soul. Surah al-Raʿd names what it gives.
+The lectures describe the first, the remembrance of God (*dhikr*), as refreshing and reviving the soul. Surah al-Raʿd names what it gives.
 
 ::: {.ayah ref="13:28" words="7-11"}
 Behold! The hearts find rest in Allah's remembrance!
@@ -200,7 +200,7 @@ Behold! The hearts find rest in Allah's remembrance!
 
 In Arabic, the verse's word for finding rest comes from the same root as *mutmaʾinna*, the name of the self at peace (Q 13:28; 89:27). The rest that remembrance brings is the rest of the third state.
 
-The second is fasting, with the night prayer beside it. Both loosen the body's hold on the soul, as sleep and watchfulness do. It is that hold that makes the self command to evil. The soul manages the body, down to digesting a meal, so a fasting body asks less of it. In Ramadan God pours down His light everywhere. The soul of the one who fasts is less taken up with the body, and it takes in that light without knowing it. The night prayer (*salat al-layl*) likewise helps the soul free itself from the body and see the light.
+The second, fasting with the night prayer beside it, loosens the body's hold on the soul, as sleep and watchfulness do. It is that hold that makes the self command to evil. The soul manages the body, down to digesting a meal, so a fasting body asks less of it. In Ramadan God pours down His light everywhere. The soul of the one who fasts is less taken up with the body, and it takes in that light without knowing it. The night prayer (*salat al-layl*) likewise helps the soul free itself from the body and see the light.
 
 A change made this way lasts, because the soul takes on habits quickly. Trained to worry about the body, it worries about the body. Trained to care for higher things, it comes to care for them and to see the light. In the lectures' image, the soul is like a fine elastic thing. It can be held in the palm of a hand or stretched to the size of the universe, and which of the two it becomes depends on what we do with it. It has been entrusted to us for a short time. Whatever we do with it, Sheikh Bahmanpour says, "would remain with us forever".
 
