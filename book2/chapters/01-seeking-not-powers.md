@@ -33,7 +33,7 @@ Let's start with what nobody disputes. A believer who prays, fasts, pays what is
 Someone once came to the Prophet ﷺ and said that they had no eagerness for the night prayer (*salat al-layl*), the recommended fasts, and the like. They asked whether they would go to jannah if they prayed the five daily prayers, fasted in Ramadan, paid their zakat, and went on hajj once. The Prophet said yes. Sheikh Bahmanpour opens his first lecture with this story and draws his question from the Prophet's answer: if the obligatory acts are enough for jannah, why take on the hard work of ʿirfan?
 :::
 
-Some jurists and activists go further, and this point of contention delineates those who reject ʿirfan from those who seek it. This book is a guide for the latter. Their claim is that the obligatory acts make up the whole of the religion, and that anything beyond them is not grounded in evidence but in mystical fancies.
+Some jurists and activists go further, and this point of contention delineates those who reject ʿirfan from those who seek it, with this book being a guide for the latter. Those jurists' claim is that the obligatory acts make up the whole of the religion, and that anything beyond them is not grounded in evidence but in mystical fancies.
 
 The Qur'an answers this narrow view a few lines after the wedding verse, pointing in Surah al-Rum to three further sets of signs: the creation of the heavens and the earth, with the variety of our languages and colours; our sleep and our work; and the lightning and the rain that revives the dead earth (Q 30:22–24). Like the wedding verse, each of them ends by naming the people the sign is for.
 
