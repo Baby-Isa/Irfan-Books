@@ -1,20 +1,38 @@
 # Written form <TAB> respelling the voice is given instead.
 # Applied to a copy of the text right before synthesis only; the scripts
 # and the EPUB keep the real spelling. Matching is whole-word and
-# case-insensitive, and longer entries are applied first so a phrase wins
-# over a word inside it. Respellings were chosen by checking Kokoro's
-# phonemizer output (IPA) for each candidate, the same way as the
-# daily-news-briefing repo's PRONUNCIATION_FIXES.
+# case-insensitive (a hyphen counts as a word boundary, an apostrophe does
+# not), and longer entries are applied first so a phrase wins over a word
+# inside it. Respellings were chosen by checking Kokoro's phonemizer
+# output (IPA) for each candidate, the same way as the daily-news-briefing
+# repo's PRONUNCIATION_FIXES.
+#
+# Phrases
 Adab al-Salat	Aadaab as-Salaat
+Adab as-Salat	Aadaab as-Salaat
 hudur al-qalb	hoo-door al-qalb
 Ahl al-Bayt	Ah-lul Bayt
-al-Fatiha	al-Faa-tiha
-Fatiha	Faa-tiha
-al-Baqir	al-Baa-qir
-al-Sadiq	as-Saa-diq
-Ja'fari	Jaa-fari
+Wa Ali Muhammad	wa Aali Muhammad
+Zayn al-Abidin	Zayn al-Aabideen
+takbirat al-ihram	tak-beerat al-ee-raam
+# Names
 Amuli	Aa-moo-lee
 Zurarah	Zoo-rah-rah
+al-Baqir	al-Baa-qir
+al-Sadiq	as-Saa-diq
+al-Sajjad	as-Saj-jaad
+al-Saduq	as-Sa-dooq
+Tawus	Taa-woos
+Malaki	Ma-la-kee
+Labid	La-beed
+Bilal	Bee-laal
+Mu'adh	Mu-aaz
+Karbala	Kar-ba-laa
+Hafiz	Haa-fiz
+# Terms
+Ja'fari	Jaa-fari
+al-Fatiha	al-Faa-tiha
+Fatiha	Faa-tiha
 mi'raj	mee-raaj
 qunut	qoo-noot
 sujud	soo-jood
@@ -28,3 +46,74 @@ waswas	was-was
 adhan	azaan
 iqamah	ee-qaa-mah
 takbir	tak-beer
+takbirs	tak-beers
+takhlis	takh-leess
+taharah	ta-haa-rah
+tahur	ta-hoor
+ihram	ee-raam
+qudsi	qood-see
+yaqin	ya-qeen
+tayammum	ta-yam-mum
+siwak	si-waak
+Tawhid	Taw-heed
+al-Ikhlas	al-Ikh-laas
+Ikhlas	Ikh-laas
+qiyam	qee-yaam
+niyyah	niy-yah
+fitrah	fit-rah
+turbah	toor-bah
+ta'qib	ta-qeeb
+tasbih	tas-beeh
+taslim	tas-leem
+# Arabic of the prayer, word by word
+bismillah	Bis-millaah
+Bismillahir-Rahmanir-Rahim	Bis-milla-hir Rahmaa-nir Raheem
+Ar-Rahmanir-Rahim	Ar-Rahmaa-nir Raheem
+Rahim	Raheem
+bi	bee
+bihamdih	bee-hamdih
+qul	qool
+huwa	hoo-wa
+a'udhu	a-oo-zoo
+shaytanir-rajim	shay-taa-neer ra-jeem
+Ihdinas-siratal-mustaqim	Ihdi-nas si-raa-tal mus-ta-qeem
+Siratal-ladhina	Si-raa-tal la-thee-na
+Ghayril-maghdubi	ghay-ril magh-doo-bee
+dallin	daal-leen
+Malik	Maa-lik
+Maliki	Maa-liki
+nasta'in	nasta-een
+'alamin	aa-la-meen
+'azimi	azeemi
+'azim	azeem
+'Aliyy	Aa-lee
+a'la	a-laa
+Rabbi	Rab-bee
+din	deen
+Salamun	Sa-laa-mun
+hiya	hee-ya
+kufuwan	koo-foo-wan
+hawlillahi	hawlil-laa-hee
+quwwatihi	qoo-wa-tihee
+aqumu	a-qoo-moo
+aq'ud	aq-ood
+'ibadillahis-salihin	ee-baa-dil-laa-his saa-lee-heen
+ash-hadu	ash-ha-du
+khayril-'amal	khay-ril amal
+Muhammadin	Moo-ham-madin
+Muhammadan	Mu-ham-madan
+fi	fee
+qurbatan	qoor-ba-tan
+# More names and common words
+Husayn	Hu-sayn
+Musa	Moo-saa
+Qum	Qom
+Qur'an	Qoor-aan
+surah	soo-rah
+surahs	soo-rahs
+Rabi'	Ra-bee
+al-Qayyum	al-Qay-yoom
+al-Mahmud	al-Mah-mood
+Baha'i	Ba-haa-ee
+Jabir	Jaa-bir
+du'a	doo-aa

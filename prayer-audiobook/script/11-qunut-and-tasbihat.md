@@ -12,7 +12,7 @@ One is a moment of asking. The other is a moment of praising. Let us take them i
 
 First, the *qunut*.
 
-The word means something like standing devoutly before God. Outwardly, it is simple. In the second unit, after the recitation and before the bow, you raise your hands in front of your face, palms open and turned upwards, and you make a supplication. Any supplication. It is recommended, not obligatory, though Imam Khomeini, in the Disciplines of the Prayer, says it is not something one should neglect, and that some scholars even held it to be obligatory.
+Outwardly, it is simple. In the second unit, after the recitation and before the bow, you raise your hands in front of your face, palms open and turned upwards, and you make a supplication. Any supplication. It is recommended, not obligatory, though Imam Khomeini, in the Disciplines of the Prayer, says it is not something one should neglect, and that some scholars even held it to be obligatory.
 
 He also says that the supplication may be in any language, Arabic or not, though Arabic is better. So if, in the *qunut*, your heart wants to speak to God in English, it may.
 
@@ -38,9 +38,9 @@ But Imam Khomeini's real advice is not about which words. It is about what we as
 
 He says that the *qunut* is a moment when God opens the door of supplication to His servant in a special way. So the servant should take care what he brings to that door. He should ask for knowledge of God, for intimacy with Him, for the door of nearness to be opened. And then he says, quite bluntly, that in such a state, to talk about the stomach and worldly matters is a shortcoming and a loss.
 
-That may sound severe. We all have worries we want to bring to God. But think of it this way. You have been granted an audience with the King. You have a minute. Would you spend it asking for a sandwich?
+That may sound severe. We all have worries we want to bring to God. But think of it this way. You have been granted an audience with the King. You have a minute. Would you spend it talking about the weather?
 
-The Lantern of the Path, in its chapter on supplication, says something that softens this and deepens it at the same time. It quotes God saying, in a sacred tradition: if anyone is distracted from asking Me by his remembrance of Me, I will give him better than what I give to those who ask.
+The Lantern of the Path, in its chapter on supplication, says something that softens this and deepens it at the same time. It relates that the Prophet reported God as saying: if anyone is distracted from asking Me by his remembrance of Me, I will give him better than what I give to those who ask.
 
 So you can bring your worries. But you may find that when your heart is really turned towards Him, the list grows shorter. And that is no loss.
 
@@ -50,11 +50,11 @@ Now the inner meaning of the *qunut*, and here Imam Khomeini becomes very tender
 
 He says the *qunut* is giving up everything other than God, and turning completely towards Him, and holding out the empty hand of need to the One who needs nothing.
 
-Then he addresses the reader directly, almost like a parent. Dear one, he says, now that you are far from your homeland, cut off from good company, held captive in this dark house full of trouble, do not spin around yourself like a silkworm.
+Then he addresses the reader directly, almost like a parent. Dear one, he says, now that you are far from your homeland, cut off from the company of the free, held captive in this dark house full of trouble, do not spin around yourself like a silkworm.
 
 The silkworm spins its thread round and round itself, until it is shut inside a cocoon of its own making. That is what we do when all our prayers are about ourselves. Our needs, our plans, our anxieties, wound tighter and tighter.
 
-And he goes on. God has kneaded your nature with the light of knowledge and the fire of love. Do not put that fire out with the dust and ashes of this low world.
+And he goes on. God has mixed into your nature the light of knowledge and the fire of love. Do not put that fire out with the dust and ashes of this low world.
 
 And then comes the hope. If you turn your attention to your original home, he says, and ask God to let you be devoted to Him, and lay out before Him, from your heart, how weak and helpless you are and how much you feel the separation, then perhaps help will reach you from the unseen. For it is His habit to be generous, and His custom to do good.
 
@@ -90,7 +90,7 @@ And he adds that the highest knowledge of those who truly know God is to know th
 
 *Wal-hamdu lillah*. And praise be to God.
 
-Imam Khomeini says that this is why the four glorifications can take the place of *al-Fatiha*, which also begins with praise. All praise belongs to God, because every good thing anywhere comes from Him. And he says something here that I find freeing. When we really see this, he says, we are taken out from under the burden of being indebted to creatures. Every kindness anyone has shown you was, at its root, His kindness. You can thank people, and you should. But your heart does not have to bow to them.
+Imam Khomeini notes that in these units the glorifications take the place of *al-Fatiha*, the surah that begins with praise. All praise belongs to God, because every good thing anywhere comes from Him. And he says something here that I find freeing. When we really see this, he says, we are taken out from under the burden of being indebted to creatures. Every kindness anyone has shown you was, at its root, His kindness. You can thank people, and you should. But your heart does not have to bow to them.
 
 *Wa la ilaha illallah*. And there is no god but God.
 
@@ -104,13 +104,13 @@ And then, at the end, having glorified and praised and declared His oneness, we 
 
 Why say them three times?
 
-Imam Khomeini says, in another place in the Disciplines of the Prayer, that repetition with a calm heart is how the heart learns to speak. At first, he says, we teach the heart the words, slowly and quietly, the way one teaches a child. Then, gradually, the tongue of the heart begins to speak by itself, and the outer tongue follows it.
+Imam Khomeini says, in another place in the Disciplines of the Prayer, that repetition with a calm heart is how the heart learns to speak. At first, he says, we teach the heart the words, slowly and quietly, the way one teaches someone who cannot yet speak. Then, gradually, the tongue of the heart begins to speak by itself, and the outer tongue follows it.
 
 He quotes Imam al-Sadiq from the Lantern of the Path. Let your heart be the qiblah of your tongue. Do not move your tongue unless your heart gives the order.
 
 And of the four glorifications in particular, he says that by repeating them, the heart is clothed in the garment of remembrance, and takes off its own old garment, which is the garment of distance from God.
 
-There is one more thing worth knowing as you say these words. Sayyid Haydar Amuli, in Inner Secrets of the Path, reminds us of the Qur'an's words. There is not a single thing but glorifies Him with His praise, but you do not understand their glorification. And Imam Khomeini, in his Forty Hadith, says that this glorifying by all things is real, even in plants and in what we think of as lifeless things. Someone whose inner eye was open, he says, would hear the whole chorus.
+There is one more thing worth knowing as you say these words. Sayyid Haydar Amuli, in Inner Secrets of the Path, reminds us of the Qur'an's words. There is not a single thing but glorifies Him with His praise, but you do not understand their glorification. And Imam Khomeini, in his Forty Hadith, says that this glorifying by all things is real, even in plants and in what we think of as lifeless things. Someone whose inner eye was open, he says, would witness the whole chorus.
 
 So when you say *subhan Allah* in the third unit of your prayer, you are not alone. You are adding one small voice to a song that every tree and every stone is already singing.
 

@@ -122,7 +122,7 @@ Imam Khomeini, in the Disciplines of the Prayer, quotes a sacred hadith in which
 
 So these words, as you rise, are a kind of answer. You praised Him in *al-Fatiha*. You praised Him again in the bow, *wa bihamdih*. And now you stand and say: He heard.
 
-Sayyid Haydar Amuli says something similar. He says that the fruit of glorifying God in the bow, after you have seen your own humility and need, is that you can stand upright again. And then the words, God hears the one who praises Him, mean that you witness God hearing everything. Above all, the words addressed to Him. He hears the one who prays, Amuli says, just as the one who prays hears Him. And he quotes one of the Imams, who said: I would repeat the verse until I heard it from the One who said it.
+Sayyid Haydar Amuli says something similar. He says that the fruit of glorifying God in the bow, after you have seen your own humility and need, is that you can stand upright again. And then the words, God hears the one who praises Him, mean that you witness God hearing everything. Above all, the words addressed to Him. He hears the one who prays, Amuli says, just as the one who prays hears Him. And he recalls the saying we met in the track on *al-Fatiha*: I would repeat the verse until I heard it from the One who said it.
 
 Imam Khomeini adds one more thing about the rising, which is very fine. He says that the important discipline here is to turn the heart completely towards God, and to stop paying attention to oneself. Even, he says, to one's own humility.
 

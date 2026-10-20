@@ -118,9 +118,7 @@ That is the qiblah. Turning away from everything that sets, towards the One who 
 
 ---
 
-Imam al-Sadiq, in the Lantern of the Path, tells us what to do with the heart at this moment. When you face the qiblah, he says, give up hope in this world and everything in it, and in what people are busy with. Empty your heart of everything that distracts you from God. See His greatness with your innermost being. And remember that you will stand before Him.
-
-And then he says: Stand on the foot of fear and hope.
+Imam al-Sadiq, in the Lantern of the Path, has words about what to do with the heart as you face the qiblah. We will come to them properly when we stand for the prayer, two tracks from now.
 
 There is a passage in Sayyid Haydar Amuli that makes the qiblah almost tender. He is quoting one of the mystics, explaining why we must not turn away from the qiblah during the prayer. It is when we turn away, he says, that Satan slips in and steals the heart. And then he adds: if the lover were truly paying attention, he would never turn his face from the qiblah anyway.
 
