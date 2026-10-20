@@ -4,8 +4,10 @@ D52 softening applied to `book2/chapters/12-annihilating.md` ("Annihilating: los
 
 Checks: `voice.py punct` adds no TAIL-COMMA, TAIL or NOT-BUT flag; `voice.py profile` verdict PASS before and after.
 
-1. **Before:** ʿAllama Tabatabaʾi says the same of the world around the traveller: "this does not mean that everything in the material world loses its existence.
-   **After:** ʿAllama Tabatabaʾi adds what the traveller sees in the world around him: "this does not mean that everything in the material world loses its existence.
+Left alone: "In the first, the traveller stays lost." (it follows the count directly); "Taken in turn, each of the three degrees…" (user-approved, TONE 46); the recipe-and-dish lines and "nearness to God is not safety" (sweep #36, #38 kept); every "not" that guards annihilation from union (not nirvana, nor does the traveller become God, not a union of God and creature).
+
+1. **Before:** ʿAllama Tabatabaʾi says the same of the world around the traveller: "this does not mean that everything in the material world loses its existence. Actually, the devotee sees unity in plurality" [@light, p. 63].
+   **After:** ʿAllama Tabatabaʾi adds what the traveller sees in the world around him: "this does not mean that everything in the material world loses its existence. Actually, the devotee sees unity in plurality" [@light, p. 63].
    _Kind:_ stock attribution ("says the same"), now "adds" with content
 
 2. **Before:** The first degree is annihilation in action.
@@ -32,6 +34,6 @@ Checks: `voice.py punct` adds no TAIL-COMMA, TAIL or NOT-BUT flag; `voice.py pro
    **After:** A gnostic whom Sayyid Haydar Amuli quotes warns against each way of seeing on its own.
    _Kind:_ stock attribution ("on the same balance"); now carries the content
 
-8. **Before:** Imam Khomeini writes that for those who have come back they are a mirror of His epiphany, and he shows it with a saying of Imam ʿAli (as) [@forty_hadith, pp.
-   **After:** Imam Khomeini writes that for those who have come back the same things are a mirror of His epiphany, and he shows it with a saying of Imam ʿAli (as) [@forty_hadith, pp.
+8. **Before:** Imam Khomeini writes that for those who have come back they are a mirror of His epiphany, and he shows it with a saying of Imam ʿAli (as) [@forty_hadith, pp. 515–516].
+   **After:** Imam Khomeini writes that for those who have come back the same things are a mirror of His epiphany, and he shows it with a saying of Imam ʿAli (as) [@forty_hadith, pp. 515–516].
    _Kind:_ ambiguous "they" (could read as those who have come back); referent named

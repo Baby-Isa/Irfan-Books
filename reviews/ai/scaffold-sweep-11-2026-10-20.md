@@ -4,6 +4,8 @@ D52 softening applied to `book2/chapters/11-adorning-love.md` ("Adorning: love a
 
 Checks: `voice.py punct` adds no TAIL-COMMA, TAIL or NOT-BUT flag; `voice.py profile` verdict PASS before and after.
 
+Left alone as the user's choice: "The lecture offers a simple comparison." (sweep #30 rejected). The roadmap lines ("The first two, polishing the self and emptying the heart, are the traveller's work.") were left as already natural.
+
 1. **Before:** Sheikh Bahmanpour explains how it comes. God "shows the face of Himself" to people, and what they see is so lovely that they can think of nothing else.
    **After:** In Sheikh Bahmanpour's account, love comes when God "shows the face of Himself" to people, and what they see is so lovely that they can think of nothing else.
    _Kind:_ announcing label ("explains how it comes") with an unclear "it"; attribution carries the content
