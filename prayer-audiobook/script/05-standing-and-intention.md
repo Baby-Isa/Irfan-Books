@@ -38,7 +38,7 @@ Now, what should the heart be doing while the body stands?
 
 Imam Khomeini says this. Consider yourself in the presence of God. See the whole world as His presence, and yourself as one of the company gathered there, standing before Him. And before the prayer starts, take a moment to let the heart understand how important this is.
 
-Then he gives some advice I did not expect. He says, look at how the Imams of the Ahl al-Bayt stood before God. Not just their names, he says, or the dates of their births and deaths. Look at how they prayed. And he gives us some narrations, which I will share with you.
+He also gives some advice I did not expect. Look at how the Imams of the Ahl al-Bayt stood before God. Not just their names, he says, or the dates of their births and deaths. Look at how they prayed. And he gives us some narrations, which I will share with you.
 
 Imam al-Sadiq, peace be upon him, said that whenever his grandfather, Imam Ali ibn al-Husayn, Zayn al-Abidin, stood for the prayer, his face would turn pale.
 
@@ -68,7 +68,7 @@ When you face the qiblah, despair of this world, and of what it contains, and of
 
 Despair of this world. That sounds hard at first. But it does not mean despair in the ordinary sense. It means, for these few minutes, stop expecting anything from it. The shopping, the meeting, the message you are waiting for. None of it can give you what you have come here for. So let go of it, at the edge of the prayer mat.
 
-Imam Khomeini, commenting on this passage, says these instructions are for people like us. The veiled. The ones who cannot hold God and the world in the heart at the same time. So for us, he says, the way is to turn from the world when we face the qiblah, and to empty the heart of whatever takes its attention from God.
+Imam Khomeini, commenting on this passage, says these instructions are for people like us. The veiled. The ones who cannot hold God and the world in the heart at the same time.
 
 And then he explains the last line. Stand at the foot of fear and hope. When we look at our own weakness and laziness and need, and at God's greatness, we feel fear and awe. And when we look at His mercy, His kindness and His boundless generosity, we feel hope.
 
@@ -78,7 +78,7 @@ I like to think of it this way. You stand on two feet. Let one be fear, and the 
 
 Now, the intention.
 
-Imam Khomeini begins with a definition. The intention, he says, is simply the decision to do something. And it is present in every voluntary act. You cannot do anything on purpose without it. Even if you are not thinking about it in detail, it is there, and it is what moves you.
+Imam Khomeini begins with a definition. The intention, he says, is simply the decision to do something. And it is present in every voluntary act. You cannot do anything on purpose without it.
 
 That leads him to one of his sharpest passages. He says that the whisperings of Satan about the intention may be the most ridiculous and the strangest of all. Because it is impossible to pray without an intention, even if you tried. And yet some people spend a long time, at every prayer, trying to make their intention firm.
 
@@ -94,9 +94,9 @@ So the intention is not something to wrestle with. You already have it. You are 
 
 The Lantern of the Path has a chapter on intention too. Imam al-Sadiq says that the one with a sincere intention is the one with a sound heart. And he quotes the Prophet. The intention of the believer is better than his action. And, actions are by intentions, and everyone will have what he intended.
 
-Then the Imam says something subtle. The intention comes from the heart, according to how pure its knowledge is. And it changes as faith changes. Sometimes it is strong. Sometimes it is weak. So the question is not whether you have an intention. You do. The question is how pure it is.
+The intention comes from the heart, according to how pure its knowledge is. And it changes as faith changes. Sometimes it is strong. Sometimes it is weak. So the question is not whether you have an intention. You do. The question is how pure it is.
 
-And he ends with a portrait of the person of sincere intention that I love. He is often uncomfortable with himself, he says, struggling with his own desires. And yet people find ease at his hand.
+And he ends with a portrait of the person of sincere intention. He is often uncomfortable with himself, he says, struggling with his own desires. And yet people find ease at his hand.
 
 ---
 
