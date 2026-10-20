@@ -8,7 +8,7 @@ chapter: 1
 There are indeed signs in that for a people who reflect.
 :::
 
-At many weddings, someone recites a verse most of us know. In Surah al-Rum, God says that He created spouses for us from among ourselves "that you may take comfort in them", and that He ordained "affection and mercy" between husband and wife (Q 30:21). The verse ends with the words above: this is a sign for a people who reflect. Whether a person sees it depends on something in the person doing the looking. That something, and why it is worth seeking more than the minimum, is what this chapter sets out.
+At many weddings, someone recites a verse most of us know. In Surah al-Rum, God says that He created spouses for us from among ourselves "that you may take comfort in them", and that He ordained "affection and mercy" between husband and wife (Q 30:21). The verse ends with the words above: this is a sign for a people who reflect. The sign is there for everyone, yet, as with beauty, seeing it lies in the eye of the beholder. It depends on something inside the person doing the looking. That something, and why it is worth seeking above and beyond the minimum, is what this chapter sets out to explore.
 
 ::: {.words}
 *ʿIrfan*: knowing God from close · *maʿrifah*: knowledge of God · *ʿarif* (plural *ʿurafaʾ*): one who knows God · *muqarrabun*: those brought near to God · *awliyaʾ Allah*: the friends of God · *shirk*: setting up a partner beside God
@@ -33,7 +33,7 @@ Let's start with what nobody disputes. A believer who prays, fasts, pays what is
 Someone once came to the Prophet ﷺ and said that they had no eagerness for the night prayer (*salat al-layl*), the recommended fasts, and the like. They asked whether they would go to jannah if they prayed the five daily prayers, fasted in Ramadan, paid their zakat, and went on hajj once. The Prophet said yes. Sheikh Bahmanpour opens his first lecture with this story and draws his question from the Prophet's answer: if the obligatory acts are enough for jannah, why take on the hard work of ʿirfan?
 :::
 
-Some jurists and activists go further, and here this book parts company with them. They hold that the obligatory acts are the whole of the religion, and that anything beyond them is made up by the whims and wishes of certain mystics.
+Some jurists and activists go further. They hold that the obligatory acts are the whole of the religion, and that anything beyond them has no basis in the evidence and is made up by the whims and wishes of certain mystics. This is the point that divides those who reject ʿirfan from those who seek it, and this book is written as a guide for the seekers.
 
 The Qur'an answers this narrow view a few lines after the wedding verse, pointing in Surah al-Rum to three further sets of signs: the creation of the heavens and the earth, with the variety of our languages and colours; our sleep and our work; and the lightning and the rain that revives the dead earth (Q 30:22–24). Like the wedding verse, each of them ends by naming the people the sign is for.
 
