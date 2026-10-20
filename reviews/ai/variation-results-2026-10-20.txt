@@ -1,0 +1,26 @@
+group                                   n     mean       sd       cv    short     long     band     mono meandiff     lag1   commas zero_com      the     top5     semi    colon lastshor
+HUMAN Mutahhari (Light)               235     19.5     12.3     0.63       12       11       49       31     12.0     0.11     0.87       50       13       37     0.03     0.15       40
+HUMAN Tabatabaʾi (Kernel)              97     33.2     18.3     0.55        4       40       29       31     19.2     0.04     1.82       27        6       30     0.04      0.2       25
+HUMAN Khomeini (Forty Hadith)         152     24.5     18.2     0.74       12       21       42       33     15.5     0.19     1.37       41       10       29     0.01     0.14       50
+HUMAN Amuli (Inner Secrets)            96     50.4     40.5      0.8        2       53       17       19     41.6     0.01     2.67       25       11       58     0.73     0.32       75
+AI raw drafts Ch 8-12                 463     17.8      7.7     0.43       12        2       56       31      9.6    -0.18     1.22       31       24       42     0.03     0.05       22
+Ch 1 first draft (7 Oct)              445     15.3      9.4     0.62       25        5       47       28      9.4     0.11     0.89       48       26       43     0.05     0.27       33
+Ch 1 approved (12 Oct)                128     17.5      9.1     0.52       14        3       53       28     11.3    -0.22        1       41       22       41     0.15     0.19       25
+Ch 1 today                            118     17.6      9.5     0.54       16        4       53       29     10.8    -0.13     1.03       38       21       42     0.13     0.16       21
+Ch 3 today (GPTZero: mixed)            79     15.8      6.6     0.41       11        0       59       33      7.8    -0.09     0.86       41       37       58      0.0     0.11       16
+Part Three today                      570     16.9      7.5     0.44       12        2       58       30      9.0    -0.13     1.08       34       25       40     0.03     0.04       17
+Prologue                               62     18.8      9.1     0.48        5        5       56       33     10.0     -0.1     1.32       35       24       58      0.1     0.13       37
+Anchor (Linus+AI)                      20     10.4      6.9     0.67       50        0       25       42      7.5    -0.23      0.5       70       30       65      0.0      0.1        0
+
+HUMAN Mutahhari (Light)          quoted words  53%   abstract nouns/100w  3.5   capitalised names/100w  8.4
+HUMAN Tabatabaʾi (Kernel)        quoted words   6%   abstract nouns/100w  3.7   capitalised names/100w  5.2
+HUMAN Khomeini (Forty Hadith)    quoted words   4%   abstract nouns/100w  5.7   capitalised names/100w  5.8
+HUMAN Amuli (Inner Secrets)      quoted words   0%   abstract nouns/100w  4.8   capitalised names/100w  9.3
+AI raw drafts Ch 8-12            quoted words  20%   abstract nouns/100w  2.8   capitalised names/100w  5.8
+Ch 1 first draft (7 Oct)         quoted words  14%   abstract nouns/100w  2.4   capitalised names/100w  6.8
+Ch 1 approved (12 Oct)           quoted words   9%   abstract nouns/100w  1.8   capitalised names/100w  6.3
+Ch 1 today                       quoted words   7%   abstract nouns/100w  1.8   capitalised names/100w  5.6
+Ch 3 today (GPTZero: mixed)      quoted words   4%   abstract nouns/100w  1.5   capitalised names/100w  9.9
+Part Three today                 quoted words  16%   abstract nouns/100w  2.7   capitalised names/100w  6.0
+Prologue                         quoted words   1%   abstract nouns/100w  2.6   capitalised names/100w 11.3
+Anchor (Linus+AI)                quoted words   0%   abstract nouns/100w  1.0   capitalised names/100w  0.0
