@@ -58,13 +58,15 @@ This good life (hayat tayyiba), the life the mystics seek, is a clean life. Its 
 
 The third gift is peace, promised in the verse of Surah Yunus that names the friends of God.
 
+For the muqarrabun, who have no fear and do not grieve, the terms are entirely different from those of ordinary believers.
+
 None of this would matter to an ordinary reader if it were reserved for prophets. Surah al-Nisaʾ answers that concern.
 
 Sheikh Bahmanpour reads this verse as naming four ranks of those God has blessed: the prophets; the truthful (siddiqin); the shuhadaʾ, which the translation used here renders "martyrs" and which he takes as "the witnesses"; and the righteous (salihin). The first three ranks are beyond us; the fourth is a doorway. The salihin are those able to receive this favour, and from among them God chooses the truthful and the prophets. The way in is righteous action, as the verse on the good life also says.
 
 That doorway is open to people like us. It is difficult, but we are made for it. We call ourselves human beings, yet, in the Sheikh's words, "we are not yet human beings": we begin with the capacity to become human in the full sense that the prophets are, and God wants us to reach it.
 
-(8550 characters)
+(8674 characters; identical to the 1C you scanned)
 
 ## 1E. After
 
