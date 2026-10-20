@@ -10,7 +10,7 @@ The Mafatih recommends reading Surah al-Kahf on Fridays [@mafatih, pp. 84–85].
 Moses said to him, ‘May I follow you for the purpose that you teach me some of the probity you have been taught?’
 :::
 
-In this verse a prophet to whom God spoke directly (Q 4:164) asks to be taught. His long search shows how much time and effort a seeker must be ready to give. Travellers on the road to God can look for the same kind of help. The law marks the boundary of that road, and the next question is who walks beside the traveller on it. This chapter sets out why finding a guide helps the traveller, and how to know a true guide once found.
+In this verse a prophet to whom God spoke directly (Q 4:164) asks to be taught. His search, which he was ready to take as far as the meeting place of the two seas, shows how much time and effort a seeker must be ready to give. Travellers on the road to God can look for the same kind of help. The law marks the boundary of that road, and the next question is who walks beside the traveller on it. This chapter sets out why finding a guide helps the traveller, and how to know a true guide once found.
 
 ::: {.words}
 *shaykh*: a spiritual master · *murid*: a disciple · *silsila*: a chain of masters traced back to the Prophet ﷺ · *wali* (plural *awliyaʾ*): a friend of God · *wusul*: arrival at the goal of the road
@@ -97,7 +97,7 @@ Shia can name guides of this kind in recent generations, in a line that belonged
 
 If Shia travellers find an instructor for themselves, there must be instructors to find. The tradition can name teachers who walked this road in recent generations. ʿAllama Tabatabaʾi named his own teacher: "My preceptor was the late Haji Mirza Ali Agha Qazi" [@light, p. 106]. This is the same Mirza ʿAli Aqa Qadi who set beginners a year of the Musabbihat. Under him Tabatabaʾi travelled the path [@kernel, p. 8].
 
-Qadi's line runs back two generations, to Akhund Mulla Husayn-Quli Hamadani, a different scholar from Mulla ʿAbd al-Samad Hamadani, who saw the law, the path, and the truth in one prayer. Akhund Hamadani had been one of the outstanding pupils of the jurist Shaykh Murtada Ansari before he became a guide [@light, p. 106; @kernel, p. 89]. He trained several pupils who became guides in turn, among them Qadi's teacher and Imam Khomeini's first formal teacher in gnosis and ethics [@light, p. 106; @forty_hadith, p. 8]. The box below tells how Akhund Hamadani was himself trained.
+Qadi's line runs back two generations, to Akhund Mulla Husayn-Quli Hamadani, a different scholar from Mulla ʿAbd al-Samad Hamadani, who saw the law, the path, and the truth in one prayer. Akhund Hamadani had been one of the outstanding pupils of the jurist Shaykh Murtada Ansari before he became a guide [@light, p. 106; @kernel, p. 89]. He trained several pupils who became guides in turn, among them Qadi's teacher and Imam Khomeini's first formal teacher in gnosis and ethics [@light, p. 106; @forty_hadith, p. 8], and the box below tells how Akhund Hamadani was himself trained.
 
 Akhund Hamadani and the teachers of Tabatabaʾi's line were scholars, several of them jurists. Of the many Sufi orders, Tabatabaʾi grants that two or three are Shia [@kernel, pp. 87–88]. His own line belonged to none of them: "we belong to none of these orders and follow the directions of the late Akhund, who had nothing to do with these orders" [@light, p. 105].
 
@@ -127,7 +127,7 @@ A guide who breaks the law is ruled out; a true one is shown by long company and
 Close: "Once a guide is found, what does the road itself look like?"
 ::::
 
-A line of true teachers does not make every teacher who claims a place in it true, so a guide must be tested. The question is whether he has walked the road himself. His learning cannot answer it. A teacher's writing or study does not show whether he has made the journey.
+A line of true teachers does not make every teacher who claims a place in it true, so a guide must be tested. The question is whether he has walked the road himself. His learning cannot answer it, since what a teacher has written or studied does not show whether he has made the journey.
 
 Wonders cannot answer it either. Tabatabaʾi's lectures list what cannot show that a person has reached the goal of the road (*wusul*): "extraordinary feats, knowledge of hidden things, of private thoughts of persons, passing over fire and water", and knowledge of the past and the future [@kernel, p. 81]. Such powers become possible early on the road, at "the beginning of spiritual vision" [@light, p. 101]. Yet "there is a very great distance between this point and the frontiers of wusul and perfection" [@kernel, p. 81]. A wonder may come from someone who sees what others do not, but it does not make him a friend of God (*wali*): such feats are "not a sign of anybody's being a favorite of Allah" [@light, p. 101].
 

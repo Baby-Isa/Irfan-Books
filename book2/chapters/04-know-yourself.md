@@ -10,7 +10,7 @@ In the month of Shaʿban, many of us recite the Munajat Shaʿbaniyyah. One of it
 I have been unjust to my soul for I have not looked after it. [@light, p. 163; @duas_munajat_shabaniyah, §32]
 :::
 
-The prayer offers these words as a "confession of my sins" [@light, p. 163]. They also say something about the soul. It was given into our care (Q 5:105), and it can be neglected.
+The prayer offers these words as a "confession of my sins" [@light, p. 163]. They also say something about the soul: it was given into our care (Q 5:105), and it can be neglected.
 
 The soul deserves that care because everything we know, we know with it. Our eyes and ears take in the world, but the soul is what understands what they bring. In Sheikh Bahmanpour's words, the soul is "the means to understand and to learn".
 
@@ -71,7 +71,7 @@ The verse calls such people transgressors. Sheikh Bahmanpour counts most of us, 
 
 The mystics find the cure in the same verse. If forgetting God makes us forget the soul, remembering God (*dhikr*) turns our attention back to it. The return comes in stages. A person first turns back to the self and sees that it must have a Creator. Fuller knowledge of the soul comes later, as the remembrance of God deepens.
 
-Where remembering God brings the soul back, losing the soul takes faith with it. Surah al-Anʿam says so.
+Where remembering God brings the soul back, losing the soul takes faith with it, as Surah al-Anʿam says.
 
 ::: {.ayah ref="6:20" words="8-"}
 Those who have ruined their souls will not have faith.
@@ -114,7 +114,7 @@ Close: "If the way to God runs through the self, how deep does the self go?"
 
 Looking within does not mean going anywhere, because God is already near. In Sheikh Bahmanpour's words, "We are actually in His presence at the moment. However, He is not in our presence." The soul stands before God now. What it lacks is the perception of the One before whom it stands.
 
-Reaching God therefore covers no distance. The journey to Him is a sharpening of the heart's sight, not a movement from one place to another. What stands between the soul and Him is a veil over the heart (*hijab*, plural *hujub*). Coming near to God (*qurb*) means having such a veil removed, and purification is what removes it. The Munajat Shaʿbaniyyah asks that the eyes of our hearts penetrate even the veils of light [@light, p. 165]. Chapter Eight sets out these veils and the stages in which they are lifted.
+Reaching God therefore covers no distance; the journey to Him is a sharpening of the heart's sight, not a movement from one place to another. What stands between the soul and Him is a veil over the heart (*hijab*, plural *hujub*). Coming near to God (*qurb*) means having such a veil removed, and purification is what removes it. The Munajat Shaʿbaniyyah asks that the eyes of our hearts penetrate even the veils of light [@light, p. 165]. Chapter Eight sets out these veils and the stages in which they are lifted.
 
 At the meeting with God that the Qur'an promises, the veils will one day come off for every soul. Surah al-Anʿam warns those who deny that meeting.
 
@@ -132,7 +132,7 @@ Even then, the soul cannot encompass God. The depth of our own soul cannot be kn
 Sheikh Bahmanpour points briefly to the Prophet Musa (as) for a limit on perceiving God. The scene he has in mind is told in the Qur'an, in Surah al-Aʿraf. Musa comes to the meeting God appointed for him, and his Lord speaks to him. Musa asks, "My Lord, show [Yourself] to me, that I may look at You!" God answers, "You shall not see Me" ([لَن تَرَىٰنِي]{lang=ar}), and tells him to look at the mountain instead: if it stays in its place, Musa will see Him. God discloses Himself to the mountain and levels it, and Musa falls down in a swoon (Q 7:143). In the Sheikh's words, "There is a degree of perception which could not be attained by this body", and that is what Musa was asking for.
 :::
 
-What a soul perceives of God at that meeting depends on what it perceives of Him now. In the lectures' words, "whoever is completely blind in this world is completely blind in the other world." The Qur'an uses the same image.
+What a soul perceives of God at that meeting depends on what it perceives of Him now. In the lectures' words, "whoever is completely blind in this world is completely blind in the other world", and the Qur'an uses the same image.
 
 ::: {.ayah ref="17:72"}
 But whoever has been blind in this [world], will be blind in the Hereafter, and [even] more astray from the [right] way.

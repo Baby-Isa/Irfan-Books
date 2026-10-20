@@ -33,7 +33,7 @@ The Munajat Shaʿbaniyyah asks to be cut off from everything before it asks to s
 My Lord, grant me complete severance of my relations with everything else [@light, p. 165; @duas_munajat_shabaniyah, §104]
 :::
 
-The Munajat asks for this severance (*inqitaʿ*) in full. Taken at its word, the request could sound like a call to leave family, work, and society behind. The Sheikh raises the question himself: is it good to cut off from everything else completely? His answer is "in the heart yes". Duʿa Abu Hamza al-Thumali, recited on the nights of Ramadan, names what is to be cut away from the heart.
+The Munajat asks for this severance (*inqitaʿ*) in full. Taken at its word, the request could sound like a call to leave family, work, and society behind. The Sheikh raises the question himself: is it good to cut off from everything else completely? His answer is yes, "in the heart". Duʿa Abu Hamza al-Thumali, recited on the nights of Ramadan, names what is to be cut away from the heart.
 
 ::: {.quote ar="سَيِّدِي أَخْرِجْ حُبَّ ٱلدُّنْيَا مِنْ قَلْبِي" source="Duʿa Abu Hamza al-Thumali"}
 O my Master, (please) expel love for the world out of my heart [@duas_ramadan_dua_abu_hamza_thumali, §384]
@@ -67,7 +67,7 @@ A heart cleared of everything but God is free for Him. The prayers go on to ask 
 
 The first is sight. The Munajat asks God to light the eyes of the heart so that they look at Him and pass even through the veils of light. Yet the Qur'an says that sight cannot perceive God (Q 6:103). The difficulty is a real one, and people unfamiliar with the mystics' wording sometimes call such lines a mistake.
 
-The prayer does not ask for the eyes in our heads. It asks for the eyes of the heart. Our physical eyes work perfectly well, and still we miss God's signs, because the inner faculty behind them is blind. The prayer asks God to light that faculty. It is the light the last chapter described, which God gives to a purified heart. Duʿa ʿArafah says He has already lit that light in the hearts of His intimate servants, the friends of God (*awliyaʾ*).
+The prayer asks not for the eyes in our heads but for the eyes of the heart. Our physical eyes work perfectly well, and still we miss God's signs, because the inner faculty behind them is blind. The prayer asks God to light that faculty. It is the light the last chapter described, which God gives to a purified heart. Duʿa ʿArafah says He has already lit that light in the hearts of His intimate servants, the friends of God (*awliyaʾ*).
 
 ::: {.quote ar="أَنْتَ ٱلَّذِي أَشْرَقْتَ ٱلأَنْوَارَ فِي قُلُوبِ أَوْلِيَائِكَ" source="Duʿa ʿArafah"}
 It is You Who have lit the illuminations in the hearts of Your intimate servants [@duas_dua_arafah_imam_husain, §781]
@@ -91,7 +91,7 @@ The third request is nearness, and the Munajat makes it earlier in the same pray
 My Lord, provide me with a heart, the passion of which may bring it near You [@light, p. 165; @duas_munajat_shabaniyah, §82]
 :::
 
-The request is for a heart whose own passion brings it near, and that heart is itself asked of God. The Whispered Prayer of the Lovers is one of fifteen whispered prayers printed with al-Sahifa al-Sajjadiyya. It asks for a place among those God has chosen for His nearness.
+The request is for a heart whose own passion brings it near, and that heart is itself asked of God. The Whispered Prayer of the Lovers, one of fifteen whispered prayers printed with al-Sahifa al-Sajjadiyya, asks for a place among those God has chosen for His nearness.
 
 ::: {.quote ar="[VERIFY: Arabic of Sahifa, Whispered Prayer of the Lovers]" source="Whispered Prayer of the Lovers"}
 My God, place us with him whom Thou hast chosen for Thy nearness and Thy friendship, … granted gazing upon Thy face [@sahifa, p. 656]
@@ -142,13 +142,13 @@ These prayers are set on nights we already keep, so anyone may begin them.
 5. Therefore anyone may begin these prayers: what we have is access to their words, not attainment. *(Last sentence of step 4's paragraph.)*
 ::::
 
-The invitation to recite these words reaches us through a book most believers already own. Four of the prayers quoted in this chapter are in the Mafatih al-Jinan, which sets each of them on a night or a day in the believer's year.
+The invitation to recite these words reaches us through the Mafatih al-Jinan, which most believers already own. Four of the prayers quoted in this chapter are in it, each set on a night or a day in the believer's year.
 
-The Munajat Shaʿbaniyyah is listed among the acts of the month of Shaʿban. The Mafatih reports it as the prayer Imam ʿAli (as) and the other Imams used to say in that month [@mafatih, p. 243]. It adds that it is "advisable to say it with presence of heart all the time" [@mafatih, p. 245]. The full text, in Arabic and English, is given in the Appendix.
+The Munajat Shaʿbaniyyah is listed among the acts of the month of Shaʿban, and the Mafatih reports it as the prayer Imam ʿAli (as) and the other Imams used to say in that month [@mafatih, p. 243]. It adds that it is "advisable to say it with presence of heart all the time" [@mafatih, p. 245]. The full text, in Arabic and English, is given in the Appendix.
 
 The other prayers have their own times. Duʿa Kumayl belongs to Thursday evenings and to the night of mid-Shaʿban [@mafatih, p. 129]. Duʿa ʿArafah is the prayer of Imam al-Husayn (as) on the Day of ʿArafah [@mafatih, p. 374]. Duʿa Abu Hamza al-Thumali belongs to Ramadan, when Imam Zayn al-ʿAbidin (as) said it in the last hour of each night [@mafatih, p. 282]. Maliki Tabrizi tells the traveller not to forget it, and to say it every night or every other night, as his mood and situation allow [@journey, p. 111].
 
-Said on nights we keep, these words become familiar. Imam Khomeini could count on that familiarity. "You are already familiar with the words used in Imams' supplications," he told his listeners, before reading them lines from the Shaʿbaniyyah [@light, p. 156].
+Said on nights we keep, these words become familiar, and Imam Khomeini could count on that familiarity. "You are already familiar with the words used in Imams' supplications," he told his listeners, before reading them lines from the Shaʿbaniyyah [@light, p. 156].
 
 ::: {.box-history title="History: the Mafatih and the Sahifa"}
 The prayers in this chapter reach ordinary believers through two books. The *Mafatih al-Jinan* ("Keys to the Heavens") gathers the supplications of the Imams, the words to be recited at particular times, and the forms for visiting the Imams' shrines. Its compiler, Shaykh ʿAbbas Qummi, was a scholar of vast learning who died in Najaf in 1359/1940 [@journey, p. 112]. Al-Sahifa al-Sajjadiyya is far older. William Chittick calls it "the oldest prayer manual in Islamic sources", composed by Imam Zayn al-ʿAbidin (as). Shia tradition ranks it behind only the Qur'an and Nahj al-Balagha [@sahifa, p. 7]. The fourth Imam died in Medina in 95/713–4, or a year earlier [@sahifa, p. 8]. The fifteen whispered prayers, the Whispered Prayer of the Lovers among them, were added to several modern editions of the Sahifa. They seem to have reached most Shia through ʿAllama Muhammad Baqir Majlisi, the compiler of *Bihar al-Anwar* [@sahifa, p. 9].

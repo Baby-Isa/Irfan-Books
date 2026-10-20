@@ -36,7 +36,7 @@ Creation has three worlds, one inside another, and none of them is far away.
 
 Let's start with a claim of the mystics: the human soul is the whole of creation in small; it is a compact copy of everything that exists. If that is so, we can use the soul as a map of creation. Each kind of thing the soul holds has its counterpart in creation on a larger scale, and each such kind makes up a world of its own. By looking at the kinds of thing the soul holds, we can learn the kinds of world that creation holds.
 
-The soul holds three kinds of thing, because it knows in three ways: through the senses, through the imagination, and through the intellect. Each way of knowing meets its own kind of thing. Taking them one at a time shows the three worlds.
+The soul holds three kinds of thing, because it knows in three ways: through the senses, through the imagination, and through the intellect. Each way of knowing meets its own kind of thing, and taking them one at a time shows the three worlds.
 
 The senses meet things made of matter: things with weight that take up space, such as a table, a hand, or the rain. These make up the first world, the material world (*ʿalam al-mulk*). Because our senses witness it, it is also called the witnessed world. The other two worlds are called unseen.
 
@@ -48,7 +48,7 @@ Creation therefore has three worlds that the soul mirrors, one for each of its w
 
 These three worlds are not places we travel to. In Sheikh Bahmanpour's words, the world of images "is another dimension of the same world in which we are living", and so is the world of intellects. The two deeper worlds are unseen not because they are far away but because the ordinary eye does not perceive them without training. The unseen worlds surround this one, but in depth and not in distance: each is a deeper dimension of the world we are in now.
 
-Imam ʿAli (as) described this world as lying inside the hereafter when a Christian churchman came to him with questions. One of them, as the lectures tell it, was whether the hereafter lies inside this world, or this world inside the hereafter. Imam ʿAli (as) answered that this world lies inside the hereafter: this world is limited, and the hereafter encompasses it. The lectures set the answer beside a verse that says hell, which belongs to the hereafter, surrounds the faithless (Q 9:49). If this world lies inside the hereafter, the hereafter is not somewhere else. It surrounds this world now, like an envelope.
+Imam ʿAli (as) described this world as lying inside the hereafter when a Christian churchman came to him with questions. One of them, as the lectures tell it, was whether the hereafter lies inside this world, or this world inside the hereafter. Imam ʿAli (as) answered that this world lies inside the hereafter: this world is limited, and the hereafter encompasses it. The lectures set the answer beside a verse that says hell, which belongs to the hereafter, surrounds the faithless (Q 9:49). If this world lies inside the hereafter, the hereafter surrounds this world now, like an envelope.
 
 The soul mirrors three worlds, then, one inside another, and together they make one reality. The senses meet matter, the imagination meets the world of images, and the intellect grasps pure meaning. Each world lies deeper than the one before, and none of them is far away.
 
@@ -87,13 +87,13 @@ In both, the verse says, God takes the soul. The difference is one of degree. Mo
 
 At death the soul lets go of the body completely. Shomali writes that it then "belongs to another body which has the qualities of a material body like shape and size without the mass" [@self_knowledge, p. 76]. This second body is the image body (*badan mithali*). "The body is not carrying the soul but the soul is carrying the body," Sheikh Bahmanpour says. When the appointed time comes, the soul sets the body down. It does not go on without a body, because a soul cannot be without one. It goes on in the image body, which was with us all along, unseen in another dimension.
 
-The third is watchfulness (*muraqaba*): keeping the heart's attention on God. It happens while we are awake. A person who turns their attention to God until they forget the body does on purpose what sleep does. They can then see into the middle world as one sees in a dream. ʿAllama Tabatabaʾi said that the more he kept up his muraqaba, the more distinctly he saw into that world. Such moments come to the mystics as an opportunity from God and not as a power to use. Only the Imams (as), the lectures add, can pass between the worlds whenever they wish.
+The third is watchfulness (*muraqaba*): keeping the heart's attention on God while we are awake. A person who turns their attention to God until they forget the body does on purpose what sleep does. They can then see into the middle world as one sees in a dream. ʿAllama Tabatabaʾi said that the more he kept up his muraqaba, the more distinctly he saw into that world. Such moments come to the mystics as an opportunity from God and not as a power to use. Only the Imams (as), the lectures add, can pass between the worlds whenever they wish.
 
 ::: {.box-story title="Story: Qadi meets himself"}
 *Kernel of the Kernels*, the record of ʿAllama Tabatabaʾi's lectures on the path, describes what may come to a traveller who keeps up muraqaba. Lights appear, at first like flashes of lightning, and "these lights belong to the class of entities of the realm of Barzakh". In the early stages the traveller may see his own soul in bodily form: "he might see himself standing before himself." Tabatabaʾi then recalls his own teacher, Mirza ʿAli Aqa Qadi, who used to say: "One day emerging from the room into the veranda, I saw myself standing silent by my side. I looked very carefully at my face, and observed a mole on it. On returning to my room when I looked into the mirror, I saw that there was a mole on my face that I had not noticed until then" [@kernel, p. 17].
 :::
 
-Sleep, death, and watchfulness are three ways of loosening one hold. In sleep the hold slackens for a night, and in watchfulness a person loosens it on purpose. At death it lets go entirely. Each time, the soul reaches the world of images, and at death it stays there.
+Sleep, death, and watchfulness are three ways of loosening one hold. In sleep the hold slackens for a night, in watchfulness a person loosens it on purpose, and at death it lets go entirely. Each time, the soul reaches the world of images, and at death it stays there.
 
 This changes the picture at the graveside. The dead are in barzakh, which is the world of images; it is the middle world the soul enters when the hold of the body loosens. That world is not a distant room. It is a deeper dimension of the world we are living in, so the dead have gone deeper into our world, not away from it.
 
@@ -121,7 +121,7 @@ The human soul has no known place of this kind. It can move and change, and no o
 
 What shapes such a soul is what it does, and above all what it does again and again. Shomali takes the example of lying. A child telling a first lie feels uneasy and later remorseful. With repetition "the soul becomes inured to the effects" [@self_knowledge, p. 20], until lying costs little effort. The act has become a habit, and the habit has become part of the soul.
 
-Some of that shaping shows on the face. A face can show faith or its absence to those with eyes to see it. In this world, though, the change is slow and small, and it does not deform the body. The image body is far more sensitive. Sin deforms it and piety makes it shine.
+Some of that shaping shows on the face. A face can show faith or its absence to those with eyes to see it. In this world, though, the change is slow and small, and it does not deform the body. The image body is far more sensitive: sin deforms it and piety makes it shine.
 
 The form the soul has when it leaves this world is the form it keeps in the next, as Imam Khomeini writes in his *Forty Hadith*. Beside the body that everyone can see, each person has "another form and a different face of him, which is heavenly and invisible, which is determined by the qualities of his soul and his inner nature" [@forty_hadith, p. 41]. The same page names the moment that settles it: "in whichever state one's soul departs from the body, it assumes a form suited to it in the next world also" [@forty_hadith, p. 41].
 
@@ -174,7 +174,7 @@ The lowest is the self that commands to evil (*nafs al-ammara*). In it the bodil
 the [carnal] soul indeed prompts [men] to evil, except inasmuch as my Lord has mercy.
 :::
 
-The verse admits what this self does and names what overcomes it: the mercy of God. The pull of this self is not only towards pleasure. Worry also binds the soul to the body, whether it is thought given to our own employment, our children's futures, or other wider concerns. Worry keeps the soul occupied with the body and stops it rising towards God.
+The verse admits what this self does and names what overcomes it: the mercy of God. Worry binds the soul to the body as much as pleasure does, whether it is thought given to our own employment, our children's futures, or other wider concerns. Worry keeps the soul occupied with the body and stops it rising towards God.
 
 After giving in, the self may remember what it did and ask why. This is the second state, the self that blames itself (*nafs al-lawwama*). Its self-blame is a hopeful sign, because it shows that we hold values that matter more to us than the pleasure we gave in to. Surah al-Qiyama swears by it.
 

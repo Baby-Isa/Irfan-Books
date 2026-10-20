@@ -58,7 +58,7 @@ Reason cannot reach God Himself, so He must be known by presence, within the sou
 
 Acquired knowledge is the work of reason (*ʿaql*), the faculty by which we understand and argue. Reason has a limit. When we know a thing, we know its attributes: its colour, its size, and what it does. Every description says that it is brown, square, or useful, and none says what the "it" is. Ibn Sina, the master of philosophy, granted this. The reality of things, he held, is beyond the reach of human reason.
 
-If reason cannot reach what the things around us are, it falls still further short of God. God has no colour or size for the mind to take hold of. Imam ʿAli (as) speaks to this at the opening of the first oration in *Nahj al-Balagha*, where he praises God.
+If reason cannot reach what the things around us are, it falls still further short of God, who has no colour or size for the mind to take hold of. Imam ʿAli (as) speaks to this at the opening of the first oration in *Nahj al-Balagha*, where he praises God.
 
 ::: {.quote ar="لا يدركه بعد الهمم ولا يناله غوص الفطن" source="Nahj al-Balagha"}
 Soaring thoughts cannot reach him and deep minds cannot fathom him. [@nahj, 1.1.1]
@@ -66,7 +66,7 @@ Soaring thoughts cannot reach him and deep minds cannot fathom him. [@nahj, 1.1.
 
 The two images can be read as reason at its widest range and reason at its deepest, and Imam ʿAli says that neither reaches God. The next sentence of the oration continues: God "cannot be described, for he is beyond the limits of demarcated boundaries" [@nahj, 1.1.1]. A definition draws a line round its object, and there is no line to draw round God.
 
-Reason still has work it can do. It can argue that God exists, and it can say what He is not: God cannot be an object, and He is not in one place and absent from another. All of this is knowledge about God. Apart from the proof that He exists, the rest is negative knowledge, in which each statement says what God is not, rather than saying what He is.
+Reason can still argue that God exists, and it can say what He is not: God cannot be an object, and He is not in one place and absent from another. All of this is knowledge about God. Apart from the proof that He exists, the rest is negative knowledge, in which each statement says what God is not, rather than saying what He is.
 
 ʿIrfan asks for the positive side. We cannot know God's essence. What ʿirfan seeks is His attributes, known positively: God as the Merciful, the Compassionate, and the Forgiving. The names can be learned from a book. To know God as Merciful from within, as a hungry person knows their hunger, is knowledge by presence. Mulla Sadra held that knowledge by presence is the only way to know the reality of anything, and the only way to know God. The comparison with hunger shows how this knowledge is had, not how much is known. It has degrees, and in Sheikh Bahmanpour's words, "the more you know, the more bewildered you will become".
 
@@ -114,7 +114,7 @@ Be wary of Allah and Allah will teach you.
 
 In the verse, God's teaching follows on from wariness of Him. In the same way, the light comes to the hearts of the pure, and darkness covers the impure.
 
-Knowledge of God is therefore a light given to a purified heart, not something gathered by study. A knowledge given to the heart also travels differently. The knowledge of books passes from mind to mouth, through language, whereas the knowledge of the ʿurafaʾ passes "from heart to heart", in the Sheikh's words. Receiving it directly from God is possible but difficult, and one usually has to start through someone else. Chapter Seven describes the guide.
+Knowledge of God is therefore a light given to a purified heart, not something gathered by study. A knowledge given to the heart also travels differently. The knowledge of books passes from mind to mouth, through language, whereas the knowledge of the ʿurafaʾ passes "from heart to heart", in the Sheikh's words. Receiving it directly from God is possible but difficult, so one usually has to start through someone else, and Chapter Seven describes that guide.
 
 ::: {.box-story title="Story: A thousand doors of knowledge"}
 We know how knowledge passes from one mind to another, and Sheikh Bahmanpour traces the route. The speaker has an image in mind, and the body turns it into speech. The speech travels through the listener's nervous system and raises an image in the listener's mind. Of knowledge passing from one heart to another we have no such experience. He then recalls a report from Imam ʿAli (as): when the Prophet ﷺ was on his deathbed, a thousand doors of knowledge opened to Imam ʿAli's heart, and from each door a thousand more. In the Sheikh's telling, this knowledge did not come through language. It passed from heart to heart, and it is the kind of knowledge the ʿurafaʾ have.

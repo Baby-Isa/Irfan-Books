@@ -183,7 +183,7 @@ The third gift is peace, promised in the verse of Surah Yunus that names the fri
 Look! The friends of Allah will indeed have no fear nor will they grieve
 :::
 
-For the muqarrabun, the terms are entirely different from those of ordinary believers.
+For the muqarrabun, who have no fear and do not grieve, the terms are entirely different from those of ordinary believers.
 
 None of this would matter to an ordinary reader if it were reserved for prophets. Surah al-Nisaʾ answers that concern.
 
