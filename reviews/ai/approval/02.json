@@ -8,42 +8,42 @@
  },
  {
   "kind": "comma",
-  "where": "§ Knowing about, and knowing, ¶6",
+  "where": "§ Knowing about, and knowing, ¶5",
   "before": "In the same way, the mystic's aim is to arrive at God, not to define Him.",
   "after": "In the same way, the mystic's aim is to arrive at God and not to define Him.",
   "note": "fix 1 (join with \"and\"); L02 ¶37"
  },
  {
   "kind": "comma",
-  "where": "§ Where reason stops, ¶6",
+  "where": "§ Where reason stops, ¶5",
   "before": "The comparison with hunger shows how this knowledge is had, not how much is known.",
   "after": "The comparison with hunger shows how this knowledge is had rather than how much is known.",
   "note": "fix 1 (fold with \"rather than\")"
  },
  {
   "kind": "comma",
-  "where": "§ Light in the heart, ¶8",
+  "where": "§ Light in the heart, ¶7",
   "before": "Knowledge of God is therefore a light given to a purified heart, not something gathered by study.",
   "after": "Knowledge of God is therefore a light given to a purified heart and not something gathered by study.",
   "note": "fix 1 (join with \"and\")"
  },
  {
   "kind": "comma",
-  "where": "§ The path is purification, ¶6",
+  "where": "§ The path is purification, ¶5",
   "before": "Once the traveller has set out with a sincere intention, the first essential, he says, is knowledge of the rules of the shariʿa, learned from a jurist.",
   "after": "Once the traveller has set out with a sincere intention, the first essential, he says, is knowledge of the rules of the shariʿa learned from a jurist.",
   "note": "fix 1 (fold by removing the comma)"
  },
  {
   "kind": "comma",
-  "where": "§ The path is purification, ¶7",
+  "where": "§ The path is purification, ¶6",
   "before": "Imam Khomeini gives learning its place, with a warning.",
   "after": "Imam Khomeini gives learning its place but attaches a warning.",
   "note": "fix 1 (join with \"but\")"
  },
  {
   "kind": "comma",
-  "where": "§ Knowing by drawing near, ¶3",
+  "where": "§ Knowing by drawing near, ¶1",
   "before": "They are brought near to God and know Him by presence: a veil is removed, rather than a definition learned.",
   "after": "They are brought near to God and know Him by presence: a veil is removed rather than a definition learned.",
   "note": "fix 1 (fold by removing the comma)"
@@ -57,35 +57,35 @@
  },
  {
   "kind": "variation",
-  "where": "§ Knowing about, and knowing, ¶4",
+  "where": "§ Knowing about, and knowing, ¶3",
   "before": "It does not come from outside and needs no concept to carry it; it is with the soul already.",
   "after": "Instead of reaching us from outside, it is with the soul already, and it needs no concept to carry it.",
   "note": "\"not X; Y\" as one flowing sentence; \"reaching us from outside\" echoes the definition of acquired knowledge, so the contrast is the definition's own"
  },
  {
   "kind": "variation",
-  "where": "§ Knowing about, and knowing, ¶6",
+  "where": "§ Knowing about, and knowing, ¶5",
   "before": "The two kinds of knowing aim at different things: acquired knowledge (*ʿilm*) aims at understanding, and knowledge by presence (*maʿrifah*) aims at arriving.",
   "after": "Acquired knowledge (*ʿilm*) aims at understanding, whereas knowledge by presence (*maʿrifah*) aims at arriving.",
   "note": "label clause and routine colon cut; a real contrast, so \"whereas\" (L02 ¶37)"
  },
  {
   "kind": "variation",
-  "where": "§ Knowing about, and knowing, ¶6",
+  "where": "§ Knowing about, and knowing, ¶5",
   "before": "A person does not try to understand their hunger; they arrive at it and feel it.",
   "after": "Rather than trying to understand their hunger, a person arrives at it and feels it.",
   "note": "mirrored \"not X; Y\" as one sentence with \"rather than\" (D53); the lecturer's own contrast, L02 ¶37"
  },
  {
   "kind": "variation",
-  "where": "§ The path is purification, ¶4",
+  "where": "§ The path is purification, ¶3",
   "before": "This line says who receives that light: the one who follows God's path.",
   "after": "Here the prayer names who receives that light: the one who follows God's path.",
   "note": "the source named as the actor in place of a \"This\" opener; the colon reveal is kept"
  },
  {
   "kind": "rephrase",
-  "where": "§ Knowing about, and knowing, ¶7",
+  "where": "§ Knowing about, and knowing, ¶6",
   "before": "The gnostic's witnessing is knowledge by presence, and the scholar's proofs are acquired knowledge.",
   "after": "",
   "note": "mirrored closer that labels the quotation"
@@ -106,14 +106,14 @@
  },
  {
   "kind": "rephrase",
-  "where": "§ Light in the heart, ¶7",
+  "where": "§ Light in the heart, ¶6",
   "before": "In the verse, God's teaching follows on from wariness of Him.",
   "after": "",
   "note": "restates the sentence before the verse"
  },
  {
   "kind": "rephrase",
-  "where": "§ The path is purification, ¶3",
+  "where": "§ The path is purification, ¶2",
   "before": "The waiting is the patience of a heart that has done its part and leaves the rest to God.",
   "after": "",
   "note": "abstract \"X is the Y of\"; near-aphorism"

@@ -1,0 +1,72 @@
+[
+ {
+  "kind": "comma",
+  "where": "§ Forgotten together, known together, ¶7",
+  "before": "That spirit is something God created, not God Himself.",
+  "after": "That spirit is something God created and not God Himself.",
+  "note": "fix 1 (comma removed, \"and\" joins); the theological \"not\" kept; unsure: a short tail that may read fine"
+ },
+ {
+  "kind": "variation",
+  "where": "§ Forgotten together, known together, ¶7",
+  "before": "This does not make the soul a part of God.",
+  "after": "None of this makes the soul a part of God.",
+  "note": "weak pointer opener replaced (D53 pattern)"
+ },
+ {
+  "kind": "variation",
+  "where": "§ Forgotten together, known together, box \"Word Study: Whoever knows himself\"",
+  "before": "Others take it as a promise: whoever comes to know his soul does come to know his Lord.",
+  "after": "Others take it as a promise that whoever comes to know his soul does come to know his Lord.",
+  "note": "mirrored \"Some…: / Others…:\" pair loosened; the paragraph had three colons"
+ },
+ {
+  "kind": "variation",
+  "where": "§ opening, ¶3",
+  "before": "Our eyes and ears take in the world, but the soul is what understands what they bring.",
+  "after": "Our eyes take in the letters on this page, but the soul is what understands them.",
+  "note": "one small everyday particular for an abstract claim"
+ },
+ {
+  "kind": "variation",
+  "where": "§ The human story is the soul's story, ¶2",
+  "before": "Success and failure, in these verses, turn on what is done with the soul. Whether a person purifies the soul or betrays it decides the outcome of their life.",
+  "after": "In these verses, whether a person purifies the soul or betrays it decides whether their life succeeds or fails.",
+  "note": "the two sentences said one thing; kept the one with the verse's own verbs"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ opening, ¶5",
+  "before": "This chapter sets out why we must know ourselves to know our Lord, and how.",
+  "after": "",
+  "note": "signpost label sentence"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ The human story is the soul's story, ¶3",
+  "before": "The Munajat's confession names the failure the surah describes, since a soul that has not been looked after is a soul that has not been purified.",
+  "after": "",
+  "note": "mirrored \"a soul that… is a soul that…\"; abstract nouns"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Near already: lifting the veils, ¶6",
+  "before": "The depth of our own soul cannot be known, so a complete knowledge of its Lord is out of reach.",
+  "after": "",
+  "note": "passive; abstract nouns"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ opening, ¶5",
+  "before": "The theory of ʿirfan therefore begins with the soul, since every other study is carried out with it.",
+  "after": "",
+  "note": "abstract subject; \"therefore… since\" scaffolding"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Near already: lifting the veils, ¶1",
+  "before": "What it lacks is the perception of the One before whom it stands.",
+  "after": "",
+  "note": "abstract noun (\"the perception of\"); formal relative clause"
+ }
+]

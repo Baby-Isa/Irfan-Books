@@ -1,0 +1,114 @@
+[
+ {
+  "kind": "comma",
+  "where": "§ opening, ¶2",
+  "before": "Other prayers we recite ask for the second, knowing God.",
+  "after": "Other prayers we recite ask for the second, which is to know God.",
+  "note": "fix 2"
+ },
+ {
+  "kind": "comma",
+  "where": "§ To see, to love, to draw near, ¶3",
+  "before": "Duʿa ʿArafah says He has already lit that light in the hearts of His intimate servants, the friends of God (*awliyaʾ*).",
+  "after": "Duʿa ʿArafah says He has already lit that light in the hearts of the friends of God (*awliyaʾ*), whom it calls His intimate servants.",
+  "note": "fix 2; keeps the link to the quotation's \"intimate servants\" below"
+ },
+ {
+  "kind": "comma",
+  "where": "§ To see, to love, to draw near, box \"Story: The companion who saw paradise\"",
+  "before": "A version in al-Kafi, quoted by Murtada Mutahhari, names him Harithah ibn Malik al-Ansari, a young man.",
+  "after": "In a version in al-Kafi, quoted by Murtada Mutahhari, he is a young man named Harithah ibn Malik al-Ansari.",
+  "note": "fix 3 (the tail moved into the sentence)"
+ },
+ {
+  "kind": "comma",
+  "where": "§ A pupil reading above his level, box \"Word Study: duʿa and munajat\"",
+  "before": "The Qur'an, in his terms, is a \"Descending-Qur'an\", God's words to His servants. The supplications are an \"Ascending-Qur'an\", the words of His most distinguished servants rising towards Him [@journey, p. 43].",
+  "after": "The Qur'an, in his terms, is a \"Descending-Qur'an\", which brings God's words down to His servants. The supplications are an \"Ascending-Qur'an\", in which the words of His most distinguished servants rise towards Him [@journey, p. 43].",
+  "note": "fix 2, both halves of the pair; quoted terms unchanged"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Prayers for ordinary nights, box \"History: the Mafatih and the Sahifa\"",
+  "before": "Al-Sahifa al-Sajjadiyya is far older. William Chittick calls it \"the oldest prayer manual in Islamic sources\", composed by Imam Zayn al-ʿAbidin (as).",
+  "after": "Al-Sahifa al-Sajjadiyya, composed by Imam Zayn al-ʿAbidin (as), is far older. William Chittick calls it \"the oldest prayer manual in Islamic sources\".",
+  "note": "fix 3 (the participle moved to the middle of the previous sentence)"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Prayers for ordinary nights, box \"History: the Mafatih and the Sahifa\"",
+  "before": "They seem to have reached most Shia through ʿAllama Muhammad Baqir Majlisi, the compiler of *Bihar al-Anwar* [@sahifa, p. 9].",
+  "after": "They seem to have reached most Shia through ʿAllama Muhammad Baqir Majlisi, who compiled *Bihar al-Anwar* [@sahifa, p. 9].",
+  "note": "fix 2; unsure: a short identifying gloss that may read fine as it is"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Prayers for ordinary nights, ¶6",
+  "before": "Sheikh Bahmanpour still recommends the Munajat to every listener, to be recited in Shaʿban as often as they can.",
+  "after": "Sheikh Bahmanpour still advises every listener to recite the Munajat in Shaʿban as often as they can.",
+  "note": "fix 1 (tail folded in)"
+ },
+ {
+  "kind": "variation",
+  "where": "§ Cut off from all else, ¶2",
+  "before": "The Sheikh raises the question himself: is it good to cut off from everything else completely?",
+  "after": "The Sheikh himself asks whether it is good to cut off from everything else completely.",
+  "note": "routine colon before a question removed; the Sheikh as the actor"
+ },
+ {
+  "kind": "variation",
+  "where": "§ Cut off from all else, ¶3",
+  "before": "The prayer asks that love of the world leave the heart. Duʿa ʿArafah, as given in the Mafatih, describes the same severance from God's side: He has already made it in the hearts of those He loves.",
+  "after": "Where Duʿa Abu Hamza asks that love of the world leave the heart, Duʿa ʿArafah, as given in the Mafatih, describes the same severance from God's side: He has already made it in the hearts of those He loves.",
+  "note": "mirrored halves (we ask / God has done) as one flowing \"Where…\" sentence; the first sentence only restated the quotation"
+ },
+ {
+  "kind": "variation",
+  "where": "§ To see, to love, to draw near, ¶3",
+  "before": "It is the light the last chapter described, which God gives to a purified heart.",
+  "after": "The light it asks for is the one the last chapter described, which God gives to a purified heart.",
+  "note": "names what \"It\" is (TONE 46 Scaffolding)"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ opening, ¶2",
+  "before": "This chapter shows that we already know these words.",
+  "after": "",
+  "note": "signpost label sentence"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ To see, to love, to draw near, ¶2",
+  "before": "The difficulty is a real one, and people unfamiliar with the mystics' wording sometimes call such lines a mistake.",
+  "after": "",
+  "note": "label clause (\"The difficulty is a real one\"); stock concession"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ To see, to love, to draw near, ¶7",
+  "before": "The request is for a heart whose own passion brings it near, and that heart is itself asked of God.",
+  "after": "",
+  "note": "restates the quotation; abstract, passive close"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Prayers for ordinary nights, ¶6",
+  "before": "Maliki Tabrizi's view and this recommendation answer different questions: how far a reciter reaches, and who may begin.",
+  "after": "",
+  "note": "abstract nouns as subjects; label colon"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ A pupil reading above his level, ¶4",
+  "before": "The Sheikh answers the difficulty with an honour: we have been allowed to recite these words, though they are not of our level.",
+  "after": "",
+  "note": "label opener plus colon reveal; abstract \"with an honour\" (a short quote from L01 ¶22, \"we have been honoured\", could carry his voice)"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Words already on our lips, ¶1",
+  "before": "Access to these words is where an ordinary believer already stands on the path.",
+  "after": "",
+  "note": "abstract noun subject; position metaphor"
+ }
+]

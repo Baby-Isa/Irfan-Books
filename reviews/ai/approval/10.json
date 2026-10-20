@@ -1,0 +1,142 @@
+[
+ {
+  "kind": "comma",
+  "where": "§ opening, ¶1",
+  "before": "These words come from the Munajat Shaʿbaniyyah, which many of us recite in the month of Shaʿban, on the threshold of Ramadan.",
+  "after": "These words come from the Munajat Shaʿbaniyyah, which many of us recite in the month of Shaʿban on the threshold of Ramadan.",
+  "note": "Fix 1 (folded); reuses Part Three comma list #27."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Where ʿirfan begins, ¶5",
+  "before": "What makes the five the tools of emptying is their target, the heart.",
+  "after": "What makes the five the tools of emptying is that they aim at the heart.",
+  "note": "Fix 1 (folded into a clause). Part Three list #29 had \"…is that their target is the heart\"; this avoids repeating \"their target\" from the opening's \"because their target is the heart\"."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Silence, hunger, and the night, ¶3",
+  "before": "Silence and hunger give the strength to block it; they also open the way to watchfulness of God (*muraqaba*), the sense that He is present and sees us.",
+  "after": "Silence and hunger give the strength to block it. They also open the way to watchfulness of God (*muraqaba*), which is the sense that He is present and sees us.",
+  "note": "Fix 2 (which-clause), as Part Three list #30; the semicolon also becomes a full stop, since the second half is a next step (TONE 45, SEMI-FRAGMENT flag)."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Seclusion and remembrance, ¶1",
+  "before": "The Sufi orders differ over it, some asking beginners for forty days of retreat and others advising against it.",
+  "after": "Some Sufi orders ask beginners for forty days of retreat, and others advise against it.",
+  "note": "Fix 5 (\"differ over it\" only repeats what the two halves show); this is Part Three list #31's alternative. You accepted the current wording in the Part Three sweep (#21) before the weak-comma rule."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Seclusion and remembrance, ¶1",
+  "before": "Some seclusion of the body may help, as in the retreat in the mosque (*iʿtikaf*) that the Prophet ﷺ kept in the last ten days of Ramadan.",
+  "after": "Some seclusion of the body may help; the Prophet ﷺ kept a retreat in the mosque (*iʿtikaf*) in the last ten days of Ramadan.",
+  "note": "Fix 4 (semicolon, since the second half illustrates the first); reuses Part Three comma list #32. Borderline: the tail has a verb only inside its relative clause."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Seclusion and remembrance, ¶1",
+  "before": "We can read seclusion of the heart as Ibn Sina's first step, separating the heart from what diverts it.",
+  "after": "We can read seclusion of the heart as Ibn Sina's first step, which separates the heart from what diverts it.",
+  "note": "Fix 2; reuses Part Three comma list #33."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Seclusion and remembrance, ¶3",
+  "before": "His whole life was lived among them, with his family, his companions, and his battles.",
+  "after": "He lived among them all his life, with his family and companions, and fought his battles alongside them.",
+  "note": "Fix 1 (the tail becomes a clause with its own verb; L10 ¶51 \"lots of connections… many battles\"). Replaces Part Three list #34 (\"His whole life, from his family and companions to his battles, was lived among them\"), which reads awkwardly. The rest of this paragraph stays as you kept it (example 2b)."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Seclusion and remembrance, ¶5",
+  "before": "For the mystic its effect is real and present, not only a reward stored up for the next world.",
+  "after": "For the mystic, beyond the reward stored up for the next world, its effect is real and present.",
+  "note": "Fix 3 (moved to the middle). Part Three list #35's \"rather than a reward\" would drop \"only\" and deny the reward; \"beyond\" keeps the lecture's both-and (L07 ¶25)."
+ },
+ {
+  "kind": "comma",
+  "where": "§ A medicine, measured to the patient, ¶6",
+  "before": "Each of the five is taken in a dose measured to the person, small at first and kept up for a year or more.",
+  "after": "Each of the five is taken in a dose measured to the person, which starts small and is kept up for a year or more.",
+  "note": "Fix 2; reuses Part Three comma list #36."
+ },
+ {
+  "kind": "comma",
+  "where": "§ A medicine, measured to the patient, ¶7",
+  "before": "\nEmptying ends at the self, the last thing left behind.",
+  "after": "\nEmptying ends at the self, which is the last thing it leaves behind.",
+  "note": "Fix 2; reuses Part Three comma list #37. The prose hand-off only (the Before starts at the paragraph break, because the same sentence also stands in the point note's approved \"Close:\" line; change that too if they should match)."
+ },
+ {
+  "kind": "comma",
+  "where": "§ A medicine, measured to the patient, box \"Try this\"",
+  "before": "Say each phrase to God, not as a routine to get through.",
+  "after": "Say each phrase to God rather than as a routine to get through.",
+  "note": "Fix 1 (folded with \"rather than\"). Part Three list #38 had \"…to God and not as a routine…\"."
+ },
+ {
+  "kind": "variation",
+  "where": "§ opening, ¶2",
+  "before": "The lectures call the five disciplines instruments of the whole journey. This book reads them as the tools of its second stage, emptying, because their target is the heart.",
+  "after": "Where the lectures call the five disciplines instruments of the whole journey, this book reads them as the tools of its second stage, emptying, because their target is the heart.",
+  "note": "Mirrored pair as one flowing sentence, the pattern you approved in Ch 1 (\"Where other people look at the surface…\"); the contrast between the lectures and the book's reading is real (D50)."
+ },
+ {
+  "kind": "variation",
+  "where": "§ A medicine, measured to the patient, ¶2",
+  "before": "The answer is set by what the person can carry, and not by straining to imitate the Prophet ﷺ, whose practice called for a personality like his.",
+  "after": "The answer is set by what the person can carry rather than by straining to imitate the Prophet ﷺ, whose practice called for a personality like his.",
+  "note": "\"Not X\" contrast → \"rather than\" (D53); the lecturer raises the point (L10 ¶24–25), so the contrast stays."
+ },
+ {
+  "kind": "variation",
+  "where": "§ A medicine, measured to the patient, ¶3",
+  "before": "The same holds for the body. Fifteen minutes in prostration tires our limbs because we are not yet used to it.",
+  "after": "The body also needs time to grow used to the practice, and until it does, fifteen minutes in prostration tires our limbs.",
+  "note": "Weak pointer opener (\"The same holds for…\") replaced; one sentence carries the point (L15 ¶42)."
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ opening, ¶2",
+  "before": "This chapter sets out emptying, its five disciplines, and how much of each to take.",
+  "after": "",
+  "note": "signpost label sentence"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Where ʿirfan begins, ¶5",
+  "before": "The lectures tie remembrance to emptying, and this book places all five there.",
+  "after": "",
+  "note": "bookkeeping attribution; mirrored halves"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Silence, hunger, and the night, ¶6",
+  "before": "The day is full of drawn-out engagements, so the pure remembrance of God becomes possible at night.",
+  "after": "",
+  "note": "loose \"so\" logic; echoes the verse just quoted"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Silence, hunger, and the night, ¶6",
+  "before": "Rising in the middle of the night also shows how seriously a person holds their faith, and a command the Prophet ﷺ was given is an example for the rest of us.",
+  "after": "",
+  "note": "two unrelated halves joined by \"and\"; abstract"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Seclusion and remembrance, ¶7",
+  "before": "That favour is present everywhere and at every moment, and constant remembrance is how a person comes to receive it.",
+  "after": "",
+  "note": "abstract nouns; balanced closer"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ A medicine, measured to the patient, box \"Try this\"",
+  "before": "It is the minimum of the frequent remembrance the Qur'an asks for.",
+  "after": "",
+  "note": "label closer to the Try-this box"
+ }
+]

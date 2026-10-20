@@ -1,0 +1,128 @@
+[
+ {
+  "kind": "comma",
+  "where": "§ One world at three depths, ¶3",
+  "before": "These make up the first world, the material world (*ʿalam al-mulk*).",
+  "after": "These make up the first world, which is the material world (*ʿalam al-mulk*).",
+  "note": "fix 2; unsure: an ordinal-and-name gloss that may read fine as it is"
+ },
+ {
+  "kind": "comma",
+  "where": "§ One world at three depths, ¶5",
+  "before": "The angels who live there are pure intellect, attached to nothing material.",
+  "after": "The angels who live there are pure intellect and attached to nothing material.",
+  "note": "fix 1"
+ },
+ {
+  "kind": "comma",
+  "where": "§ One world at three depths, ¶6",
+  "before": "Creation therefore has three worlds that the soul mirrors, one for each of its ways of knowing.",
+  "after": "Creation therefore has three worlds that the soul mirrors.",
+  "note": "fix 5: the tail repeats ¶2 (\"Each way of knowing meets its own kind of thing\"); or fix 3: \"Creation therefore has one world for each of the soul's three ways of knowing, and the soul mirrors all three.\""
+ },
+ {
+  "kind": "comma",
+  "where": "§ One world at three depths, box \"Word Study: barzakh\"",
+  "before": "The Qur'an uses the word for the barrier God set between two seas that He merged, one sweet and one briny (Q 25:53).",
+  "after": "God merged two seas, one sweet and one briny, and the Qur'an uses the word for the barrier He set between them (Q 25:53).",
+  "note": "fix 3 (the tail moved to the middle)"
+ },
+ {
+  "kind": "comma",
+  "where": "§ Our deeds give the soul a form, ¶9",
+  "before": "If the light of the faithful is their own piety shining, then some rewards are the deeds themselves, made visible.",
+  "after": "If the light of the faithful is their own piety shining, then some rewards are the deeds themselves made visible.",
+  "note": "fix 1 (comma removed; the point note's own wording)"
+ },
+ {
+  "kind": "comma",
+  "where": "§ The self can change its state, ¶4",
+  "before": "That questioning marks the second state, the self that blames itself (*nafs al-lawwama*).",
+  "after": "That questioning marks the second state, which the Qur'an names the self that blames itself (*nafs al-lawwama*).",
+  "note": "fix 2 (Q 75:2 has al-nafs al-lawwama)"
+ },
+ {
+  "kind": "comma",
+  "where": "§ The self can change its state, ¶5",
+  "before": "A self that keeps up its self-blame comes in time to the third state, the self at peace (*nafs al-mutmaʾinna*). Surah al-Fajr calls this self back to its Lord (Q 89:27–28).",
+  "after": "A self that keeps up its self-blame comes in time to the third state, the self at peace (*nafs al-mutmaʾinna*), which Surah al-Fajr calls back to its Lord (Q 89:27–28).",
+  "note": "fix 2 (the next sentence becomes a which-clause on the tail)"
+ },
+ {
+  "kind": "comma",
+  "where": "§ The self can change its state, ¶9",
+  "before": "In Arabic, the verse's word for finding rest comes from the same root as *mutmaʾinna*, the name of the self at peace (Q 13:28; 89:27).",
+  "after": "In Arabic, the verse's word for finding rest comes from the same root as *mutmaʾinna*, which names the self at peace (Q 13:28; 89:27).",
+  "note": "fix 2"
+ },
+ {
+  "kind": "comma",
+  "where": "§ The self can change its state, ¶12",
+  "before": "The drive to begin is itself God's grace, the mercy that Surah Yusuf named.",
+  "after": "The drive to begin is itself God's grace, which Surah Yusuf called His mercy.",
+  "note": "fix 2"
+ },
+ {
+  "kind": "variation",
+  "where": "§ A soul that crosses them, ¶1",
+  "before": "It therefore touches matter through the body and can enter the middle world.",
+  "after": "The soul therefore touches matter through the body and can enter the middle world.",
+  "note": "names what \"It\" is (after \"the world of images\", it could be read as that world)"
+ },
+ {
+  "kind": "variation",
+  "where": "§ A soul that crosses them, ¶3",
+  "before": "This explains how a dream can show more than memory holds.",
+  "after": "Because the soul touches the world of images, a dream can show more than memory holds.",
+  "note": "weak pointer opener (\"This explains\") replaced by the reason itself"
+ },
+ {
+  "kind": "variation",
+  "where": "§ Our deeds give the soul a form, ¶8",
+  "before": "The lectures read this light as the shining of the pious themselves.",
+  "after": "In the lectures, this light is the shining of the pious themselves.",
+  "note": "stock attribution (\"read X as\") varied (TONE 46 Scaffolding)"
+ },
+ {
+  "kind": "variation",
+  "where": "§ The self can change its state, ¶7",
+  "before": "The attitude is changed by acts already familiar to us.",
+  "after": "Acts already familiar to us can change that attitude.",
+  "note": "passive turned active; the acts as the actor"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ One world at three depths, ¶1",
+  "before": "Let's start with a claim of the mystics: the human soul is the whole of creation in small; it is a compact copy of everything that exists.",
+  "after": "",
+  "note": "colon plus semicolon echo; the second half renames the first"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ One world at three depths, box \"Word Study: barzakh\"",
+  "before": "The tradition joins the two uses: the middle world is called barzakh because it stands between matter and intellect, and it is where the dead are until the resurrection.",
+  "after": "",
+  "note": "abstract subject; summing-up label colon"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Our deeds give the soul a form, ¶1",
+  "before": "The soul's movement between worlds sets it apart from the angels of the world of intellects.",
+  "after": "",
+  "note": "abstract noun subject (\"movement\"); label opener"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ The self can change its state, ¶3",
+  "before": "The verse admits what this self does and names what overcomes it: the mercy of God.",
+  "after": "",
+  "note": "paired \"what… what…\" verbs; set-piece colon"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ The self can change its state, ¶9",
+  "before": "The rest that remembrance brings is the rest of the third state.",
+  "after": "",
+  "note": "mirrored \"the rest… the rest\"; abstract"
+ }
+]

@@ -1,0 +1,156 @@
+[
+ {
+  "kind": "comma",
+  "where": "§ opening, ¶1",
+  "before": "After the daily prayer, many of us ask God's forgiveness (*istighfar*) with the word *astaghfirullah*, often by habit.",
+  "after": "After the daily prayer, many of us ask God's forgiveness (*istighfar*) with the word *astaghfirullah*, and often we say it by habit.",
+  "note": "Fix 1 (joined as a clause); reuses Part Three comma list #12, your own example. Alternative, fix 3: \"…ask God's forgiveness (*istighfar*), often by habit, with the word *astaghfirullah*.\""
+ },
+ {
+  "kind": "comma",
+  "where": "§ opening, ¶2",
+  "before": "Anyone can begin it, by repenting.",
+  "after": "Anyone can begin it by repenting.",
+  "note": "Fix 1 (folded); reuses Part Three comma list #13. Keep the comma if you want the pause for emphasis (TONE 45)."
+ },
+ {
+  "kind": "comma",
+  "where": "§ opening, ¶2",
+  "before": "The law is kept strictly, starting with how we treat people.",
+  "after": "The law is kept strictly, and that begins with how we treat people.",
+  "note": "Fix 1; reuses Part Three comma list #14."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Anyone can begin, box \"Story: Fudayl the highwayman\"",
+  "before": "Fudayl was born in Samarqand, lived in Kufa, and died in Mecca in 187 AH, a contemporary of Imam al-Kazim (as) and Imam al-Rida (as).",
+  "after": "A contemporary of Imam al-Kazim (as) and Imam al-Rida (as), Fudayl was born in Samarqand, lived in Kufa, and died in Mecca in 187 AH.",
+  "note": "Fix 3 (fronted phrase; the reader already knows Fudayl from the sentence before, and it is the only fronted phrase in this section). Improves on Part Three list #15, which split it: \"…in 187 AH. He was a contemporary of Imam al-Kazim (as) and Imam al-Rida (as).\""
+ },
+ {
+  "kind": "comma",
+  "where": "§ Anyone can begin, box \"Story: Fudayl the highwayman\"",
+  "before": "His repentance was sincere (*tawba nasuh*), and he became a great figure of the path, known for his fear of God and his weeping.",
+  "after": "His repentance was sincere (*tawba nasuh*), and he became a great figure of the path whose fear of God and weeping were well known.",
+  "note": "Fix 2 (whose-clause). Part Three list #16 only dropped the comma (\"…the path known for…\"), which lets \"known\" attach to \"the path\"."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Anyone can begin, ¶8",
+  "before": "The sentence admits weakness and sin, and in the same breath claims the name of God's repentant servant, in words any believer can say, whatever lies behind them.",
+  "after": "The sentence admits weakness and sin, and in the same breath claims the name of God's repentant servant in words any believer can say, whatever lies behind them.",
+  "note": "Fix 1 (folded; the tail left, \"whatever lies behind them\", has its own verb); reuses Part Three comma list #17."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Steady, not fast, ¶4",
+  "before": "On someone's advice he began reciting Ziyarat ʿAshura every morning in full, with its hundred curses and hundred greetings.",
+  "after": "On someone's advice he began reciting, every morning, the whole of Ziyarat ʿAshura with its hundred curses and hundred greetings.",
+  "note": "Fix 3 with fix 1 (\"every morning\" moved to the middle, the tail folded in). Part Three list #18 moved the phrase but left \"in full every morning\" trailing."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Steady, not fast, ¶5",
+  "before": "Such a person gains great spiritual energy and then feels abandoned by their own soul, unable to carry it further.",
+  "after": "Such a person gains great spiritual energy and then feels abandoned by their own soul and unable to carry it further.",
+  "note": "Fix 1; reuses Part Three comma list #19, your own example."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Steady, not fast, ¶7",
+  "before": "A beginner full of zeal may take on every good practice at once and then tire of it, leaving the work incomplete.",
+  "after": "A beginner full of zeal may take on every good practice at once, then tire of it and leave the work incomplete.",
+  "note": "Fix 1; reuses Part Three comma list #20."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Steady, not fast, ¶8",
+  "before": "A steady pace still means setting out now, at whatever age.",
+  "after": "Whatever our age, a steady pace still means setting out now.",
+  "note": "Fix 3 (moved to the front); reuses Part Three comma list #21. You approved this sentence as example 7a (D51), before the weak-comma rule; keep it if the end weight on \"at whatever age\" is wanted."
+ },
+ {
+  "kind": "comma",
+  "where": "§ The law, starting with people, box \"Story: Hatim the Deaf\"",
+  "before": "Hatim al-Asamm was one of the great mystics of the early centuries, called the Luqman of this ummah.",
+  "after": "Hatim al-Asamm was one of the great mystics of the early centuries and was called the Luqman of this ummah.",
+  "note": "Fix 1; reuses Part Three comma list #22."
+ },
+ {
+  "kind": "comma",
+  "where": "§ The law, starting with people, ¶7",
+  "before": "The rest of the stage is the law, kept strictly.",
+  "after": "The rest of the stage is keeping the law strictly.",
+  "note": "Fix 1 (folded); reuses Part Three comma list #23."
+ },
+ {
+  "kind": "comma",
+  "where": "§ The law, starting with people, ¶7",
+  "before": "Its first demand is that the traveller put things right with people, down to sparing an ordinary person's embarrassment.",
+  "after": "Its first demand is that the traveller put things right with people, and this reaches down to sparing an ordinary person's embarrassment.",
+  "note": "Fix 1; reuses Part Three comma list #24."
+ },
+ {
+  "kind": "comma",
+  "where": "§ The law, starting with people, box \"Try this\"",
+  "before": "Then pray four rakʿas, two at a time like every recommended prayer, reciting in each Surah al-Fatiha once, Surah al-Tawhid three times, and Surahs al-Falaq and al-Nas once each.",
+  "after": "Then pray four rakʿas two at a time, as every recommended prayer is prayed. In each rakʿa recite Surah al-Fatiha once, Surah al-Tawhid three times, and Surahs al-Falaq and al-Nas once each.",
+  "note": "Fix 4 (its own sentence; five comma pieces become two sentences); reuses Part Three comma list #25."
+ },
+ {
+  "kind": "comma",
+  "where": "§ The law, starting with people, box \"Try this\"",
+  "before": "Afterwards say *astaghfirullah* one hundred times (the lectures give seventy and name al-Nas alone; the Mafatih's count is followed here), then *la hawla wa la quwwata illa billahil-ʿaliyyil-ʿazim*.",
+  "after": "Afterwards say *astaghfirullah* one hundred times (the lectures give seventy and name al-Nas alone; the Mafatih's count is followed here) and then *la hawla wa la quwwata illa billahil-ʿaliyyil-ʿazim*.",
+  "note": "Fix 1; reuses Part Three comma list #26."
+ },
+ {
+  "kind": "variation",
+  "where": "§ Anyone can begin, ¶4",
+  "before": "They allow that God may forgive them and admit them to jannah. The road to Him is another matter; in their eyes it belongs to people of a higher calibre.",
+  "after": "They allow that God may forgive them and admit them to jannah, but in their eyes the road to Him belongs to people of a higher calibre.",
+  "note": "Mirrored \"X; Y\" halves as one flowing sentence; the label \"is another matter\" goes, the contrast stays (L08 ¶16, ¶18). Top of the AI-likeness ranking for this chapter."
+ },
+ {
+  "kind": "variation",
+  "where": "§ Steady, not fast, ¶3",
+  "before": "A traveller may also arrive quickly at something and mistake it for the end of the road, which is why the right instruction matters.",
+  "after": "Another may arrive quickly at something and mistake it for the end of the road, which is why the right instruction matters.",
+  "note": "Two sentences in a row open \"A traveller…\"; the second now varies the opener. Small edit; drop it if you prefer the repetition."
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ opening, ¶2",
+  "before": "This chapter sets out the first stage in full.",
+  "after": "",
+  "note": "signpost label sentence"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ opening, ¶2",
+  "before": "Of the four stages Chapter Eight set out, the first is polishing (*tajliya*), and repentance opens it.",
+  "after": "",
+  "note": "list label (\"the first is…\") wrapped in a callback"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Anyone can begin, ¶5",
+  "before": "It is an encouragement for the beginning of the road, so that no believer sets the road aside as meant for others.",
+  "after": "",
+  "note": "vague \"It\" opener; abstract noun; \"road\" twice"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ The law, starting with people, ¶4",
+  "before": "Good behaviour also stands at the centre of the religion.",
+  "after": "",
+  "note": "abstract topic label that the Amuli quotation then repeats"
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ The law, starting with people, ¶2",
+  "before": "This first condition is good character and conduct (*husn al-khuluq*).",
+  "after": "",
+  "note": "label sentence closing the paragraph"
+ }
+]

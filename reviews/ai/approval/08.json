@@ -1,0 +1,128 @@
+[
+ {
+  "kind": "comma",
+  "where": "§ Nearer than the jugular vein, ¶3",
+  "before": "The Arabic word for wayfaring also means a person's conduct, the way they carry themselves through life.",
+  "after": "The Arabic word for wayfaring also means a person's conduct, which is how they carry themselves through life.",
+  "note": "Fix 2 (which-clause). Reused from the Part Three list, #1."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Nearer than the jugular vein, ¶8",
+  "before": "Whatever the kind of veil, the hindrance lies on our side, not God's.",
+  "after": "Whatever the kind of veil, the hindrance lies on our side and not God's.",
+  "note": "Fix 1 (joined with \"and\"); the lecturer's \"not\" kept (L10 ¶21). Reused from the Part Three list, #2."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Nearer than the jugular vein, ¶8",
+  "before": "It removes the veils inside us that can be lifted, first the dark ones our deeds have made and then the outer veils of light.",
+  "after": "It removes the veils inside us that can be lifted. The dark ones our deeds have made go first, and the outer veils of light follow.",
+  "note": "Fix 4 (own sentence). Reused from the Part Three list, #3."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Four stages: two ours, two God's, ¶2",
+  "before": "The road begins with polishing (*tajliya*), from a word for burnishing something until it shines.",
+  "after": "The road begins with polishing (*tajliya*), which takes its name from a word for burnishing something until it shines.",
+  "note": "Fix 2 (which-clause). New item: the sentence's opening changed in today's scaffold sweep; the fix is the Part Three list's #4."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Four stages: two ours, two God's, ¶2",
+  "before": "The stage opens when a person wakes from heedlessness and repents, not only of sins but of taking everything for granted.",
+  "after": "The stage opens when a person wakes from heedlessness and repents not only of sins but of taking everything for granted.",
+  "note": "Fix 1 (folded; comma removed). Reused from the Part Three list, #5."
+ },
+ {
+  "kind": "comma",
+  "where": "§ Four stages: two ours, two God's, ¶7 (after the table)",
+  "before": "Two are ours, polishing and emptying, and two are God's, adorning and annihilating.",
+  "after": "Polishing and emptying are the two that are ours, and adorning and annihilating are the two that are God's.",
+  "note": "Fix 3 (names moved to the front). Improves on the Part Three list's #6 (\"Polishing and emptying are ours, and adorning and annihilating are God's\"), which keeps no count and nearly repeats the closing paragraph's wording."
+ },
+ {
+  "kind": "comma",
+  "where": "§ In order, and none dropped, ¶2",
+  "before": "As Chapter Six showed, no station on the road releases the traveller from the law, and once the truth is unveiled the law is kept more carefully, not less.",
+  "after": "As Chapter Six showed, no station on the road releases the traveller from the law, and once the truth is unveiled the law is kept with more care rather than less.",
+  "note": "Fix 1 (folded with \"rather than\"). Improves on the Part Three list's #7 (\"all the more carefully\"): keeps the lecturer's contrast (L07 ¶21)."
+ },
+ {
+  "kind": "comma",
+  "where": "Box \"History: A philosopher's ladder\"",
+  "before": "When these reach a certain degree, flashes of God's light descend on the traveller, \"momentary like flashes of lightning appearing and instantly vanishing\" [@light, p. 48].",
+  "after": "When these reach a certain degree, flashes of God's light, \"momentary like flashes of lightning appearing and instantly vanishing\", descend on the traveller [@light, p. 48].",
+  "note": "Fix 3 (moved to the middle). Reused from the Part Three list, #8."
+ },
+ {
+  "kind": "comma",
+  "where": "Box \"History: A philosopher's ladder\"",
+  "before": "Khwaja Nasir al-Din al-Tusi, commenting on the *Isharat*, counts nine stages in three groups of three, for the beginning, the way, and arrival [@light, p. 50].",
+  "after": "Khwaja Nasir al-Din al-Tusi, commenting on the *Isharat*, counts nine stages in three groups of three, which cover the beginning, the way, and arrival [@light, p. 50].",
+  "note": "Fix 2 (which-clause). Reused from the Part Three list, #9."
+ },
+ {
+  "kind": "comma",
+  "where": "§ In order, and none dropped, ¶4 (closing recap)",
+  "before": "Together they complete only the first of four journeys the mystics describe, from creation to God [@light, p. 49]; the return that follows belongs to Chapters Twelve and Sixteen.",
+  "after": "Together they complete only the first of four journeys the mystics describe, which runs from creation to God [@light, p. 49]; the return that follows belongs to Chapters Twelve and Sixteen.",
+  "note": "Fix 2 (which-clause). Reused from the Part Three list, #10 (borderline: the tail ends at a semicolon)."
+ },
+ {
+  "kind": "comma",
+  "where": "Box \"Try this\"",
+  "before": "These are the surahs that open with God's glorification, among them al-Hadid, al-Hashr, al-Saff, al-Jumuʿa, and al-Taghabun.",
+  "after": "These are the surahs that open with God's glorification, and they include al-Hadid, al-Hashr, al-Saff, al-Jumuʿa, and al-Taghabun.",
+  "note": "Fix 1 (joined with \"and\"). Improves on the Part Three list's #11 (own sentence), by the preferred fix."
+ },
+ {
+  "kind": "variation",
+  "where": "§ Nearer than the jugular vein, ¶6",
+  "before": "This is what Duʿa Abu Hamza means when it says that God conceals Himself from no one unless their wrong deeds stand between them and Him.",
+  "after": "Duʿa Abu Hamza has these veils in mind when it says that God conceals Himself from no one unless their wrong deeds stand between them and Him.",
+  "note": "Source named as the actor in place of a \"This is what\" pointer."
+ },
+ {
+  "kind": "variation",
+  "where": "§ Four stages: two ours, two God's, ¶6",
+  "before": "Of adorning they say, \"It is Allah's act on the soul\", and add that it comes not directly but through the angels around us.",
+  "after": "Of adorning they say, \"It is Allah's act on the soul\", and add that it comes through the angels around us rather than directly.",
+  "note": "\"Not X but Y\" → \"rather than\" (D53)."
+ },
+ {
+  "kind": "rephrase",
+  "where": "Opening, ¶3",
+  "before": "The journey to God removes what stands between, and it has an order of its own.",
+  "after": "",
+  "note": "Abstract (\"what stands between\"); two claims tacked together."
+ },
+ {
+  "kind": "rephrase",
+  "where": "Opening, ¶3",
+  "before": "This chapter sets out the stages of the journey: why it covers no distance, what its four stages are, and why they come in order.",
+  "after": "",
+  "note": "Label sentence; signpost with a list."
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Nearer than the jugular vein, ¶3",
+  "before": "Its purpose is to see what is already around us: the presence of God and our own selves.",
+  "after": "",
+  "note": "Vague \"Its\" opener; abstract colon definition."
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ Four stages: two ours, two God's, ¶4",
+  "before": "No one can create it in themselves; God places it in a heart that has been purified.",
+  "after": "",
+  "note": "Mirrored \"X; Y\" halves; the lecturer's contrast (L07 ¶36) needs keeping."
+ },
+ {
+  "kind": "rephrase",
+  "where": "§ In order, and none dropped, ¶2",
+  "before": "This book draws a wider point from the lectures' words on polishing.",
+  "after": "",
+  "note": "Label sentence; repeats \"polishing\" from two sentences back."
+ }
+]
