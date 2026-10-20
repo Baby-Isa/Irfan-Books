@@ -1,0 +1,30 @@
+# Written form <TAB> respelling the voice is given instead.
+# Applied to a copy of the text right before synthesis only; the scripts
+# and the EPUB keep the real spelling. Matching is whole-word and
+# case-insensitive, and longer entries are applied first so a phrase wins
+# over a word inside it. Respellings were chosen by checking Kokoro's
+# phonemizer output (IPA) for each candidate, the same way as the
+# daily-news-briefing repo's PRONUNCIATION_FIXES.
+Adab al-Salat	Aadaab as-Salaat
+hudur al-qalb	hoo-door al-qalb
+Ahl al-Bayt	Ah-lul Bayt
+al-Fatiha	al-Faa-tiha
+Fatiha	Faa-tiha
+al-Baqir	al-Baa-qir
+al-Sadiq	as-Saa-diq
+Ja'fari	Jaa-fari
+Amuli	Aa-moo-lee
+Zurarah	Zoo-rah-rah
+mi'raj	mee-raaj
+qunut	qoo-noot
+sujud	soo-jood
+ruku'	rookoo
+ruku	rookoo
+tashahhud	tashah-hood
+salam	sa-laam
+tariqah	ta-ree-qah
+haqiqah	ha-qee-qah
+waswas	was-was
+adhan	azaan
+iqamah	ee-qaa-mah
+takbir	tak-beer
