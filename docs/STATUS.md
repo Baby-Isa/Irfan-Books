@@ -44,7 +44,9 @@ _Update at the end of every task. Keep it short. History lives in git and DECISI
 
 **2026-10-19, TONE 46 sweep of Ch 4–7.** Thirty-five before → after edits in `reviews/ai/sweep-ch04-07-2026-10-19.md` (Ch 4: 7, Ch 5: 10, Ch 6: 9, Ch 7: 9), following the user's Part Three choices. Eight "not"s cut; every other "not" in the four chapters is listed as kept with its reason. Every "before" occurs once; no "after" ends on a trailing comma phrase; the approved Ch 5 opening is untouched. Nine items carry a one-line "unsure" note. Chapters not edited; awaiting the user's line-by-line choices.
 
-**Next:** the user's read of Part Three (PDFs in `samples/`) and his choices on the three sweep sheets.
+**2026-10-20, weak final commas, Part Three (plan `reviews/punct/tail-comma-plan-2026-10-19.md`, step 4).** Sixty-six before → after fixes in `reviews/punct/tail-comma-part3-2026-10-20.md` (Ch 8: 11, Ch 9: 15, Ch 10: 12, Ch 11: 11, Ch 12: 17), from the `voice.py punct` TAIL-COMMA/TAIL flags plus a read of all prose and boxes; 15 tool flags dropped as false positives and listed. Fixes follow the user's menu (join with "and"/fold 32, which-clause 15, move 10, own sentence 8, cut 1); no dashes, no new tails, no run over four comma pieces; two semicolon-end cases marked borderline. Every "before" occurs once in its file (#37 also sits in a point note, noted). Chapters not edited; awaiting the user's line-by-line choices.
+
+**Next:** the user's read of Part Three (PDFs in `samples/`), his choices on the three sweep sheets, and his choices on the Part Three tail-comma list (then Parts One and Two).
 
 ## Open questions for the user or lecturer
 1. The lecturer is M. S. Bahmanpour (from the slides). Confirm his preferred title and name format.
