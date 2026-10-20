@@ -67,7 +67,7 @@ The finer questions of ʿirfan remain an ongoing conversation among our *ʿulama
 Three guiding principles frame the book: ʿirfan is not sought for powers; it needs no sect or order beside the Imam; and it never steps outside the shariʿa. By the end, a reader should be able to say what ʿirfan is and begin to practise it alongside the wajibat.
 :::
 
-Three guiding principles frame the discussions in the chapters that follow. The first is that ʿirfan is never pursued for the sake of powers, such as reading minds or foreseeing future events. Sheikh Bahmanpour and the wider literature agree on this, as Chapter One shows.
+Three guiding principles frame the discussions in the chapters that follow. The first concerns powers such as reading minds or foreseeing future events: ʿirfan is never pursued for their sake. As Chapter One shows, Sheikh Bahmanpour and the wider literature both hold to this principle.
 
 The second is that there is no separate sect or order through which ʿirfan must be gained. Shia ʿirfan has no institution of authority beside the Imam. How this position differs from that of the Sufi orders is explored in Chapter Fifteen.
 

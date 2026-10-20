@@ -65,7 +65,7 @@ The prayers then ask for what ʿirfan seeks: to see God with the heart, to love 
 
 A heart cleared of everything but God is free for Him. The prayers go on to ask for three things: to see God with the heart, to love Him, and to come near Him.
 
-The first is sight. The Munajat asks God to light the eyes of the heart so that they look at Him and pass even through the veils of light. Yet the Qur'an says that sight cannot perceive God (Q 6:103). The difficulty is a real one, and people unfamiliar with the mystics' wording sometimes call such lines a mistake.
+Sight comes first, in the Munajat's request that God light the eyes of the heart so that they look at Him and pass even through the veils of light. Yet the Qur'an says that sight cannot perceive God (Q 6:103). The difficulty is a real one, and people unfamiliar with the mystics' wording sometimes call such lines a mistake.
 
 The prayer does not ask for the eyes in our heads. It asks for the eyes of the heart. Our physical eyes work perfectly well, and still we miss God's signs, because the inner faculty behind them is blind. The prayer asks God to light that faculty. It is the light the last chapter described, which God gives to a purified heart. Duʿa ʿArafah says He has already lit that light in the hearts of His intimate servants, the friends of God (*awliyaʾ*).
 
@@ -77,15 +77,15 @@ It is You Who have lit the illuminations in the hearts of Your intimate servants
 The Prophet ﷺ once asked one of his companions how he was. The companion answered that he could see people's places in paradise, and the Prophet accepted what he said. Sheikh Bahmanpour tells this to show that the companion was not set apart from the others. He had purified his soul, and anyone who goes through that purification can see what others cannot. A version in al-Kafi, quoted by Murtada Mutahhari, names him Harithah ibn Malik al-Ansari, a young man. In it the Prophet turns to his companions and says, "This is a man whose heart has been illuminated with the light of faith by God" [@light, p. 19]. It is the light Duʿa ʿArafah says God has lit in the hearts of His friends.
 :::
 
-The second request is love. The Munajat asks for a place among God's friends, and it defines that place by love.
+The Munajat makes the second request, for love, when it asks for a place among God's friends and defines that place by love.
 
 ::: {.quote ar="إِلٰهِي أَقِمْنِي فِي أَهْلِ وِلايَتِكَ مُقَامَ مَنْ رَجَا ٱلزِّيَادَةَ مِنْ مَحَبَّتِكَ" source="Munajat Shaʿbaniyyah"}
 My Lord, place me among Your friends in the position of one who hopes for an increase in Your love. [@light, p. 165; @duas_munajat_shabaniyah, §92–93]
 :::
 
-The Sheikh reads the friendship asked for here (*wilaya*) as having two parts. One is maʿrifah: understanding God, looking at Him, and knowing Him. The other is love for Him. The love never stops, and the knowing keeps growing. These are the two things ʿirfan seeks, and both are in one line of the Munajat.
+For the Sheikh, the friendship asked for here (*wilaya*) has two parts. One is maʿrifah: understanding God, looking at Him, and knowing Him. The other is love for Him. The love never stops, and the knowing keeps growing. These are the two things ʿirfan seeks, and both are in one line of the Munajat.
 
-The third request is nearness, and the Munajat makes it earlier in the same prayer.
+The third request, nearness, comes earlier in the same prayer.
 
 ::: {.quote ar="إِلٰهِي هَبْ لِي قَلْباً يُدْنِيهِ مِنْكَ شَوْقُهُ" source="Munajat Shaʿbaniyyah"}
 My Lord, provide me with a heart, the passion of which may bring it near You [@light, p. 165; @duas_munajat_shabaniyah, §82]
@@ -112,7 +112,7 @@ Words above our level are still ours to say, as an honour and as a plea from nee
 4. Therefore: words above our level are still ours to say. *(Lands within step 3's paragraph: "a reciter may say them".)*
 ::::
 
-Requests this high raise a difficulty, which Sheikh Bahmanpour puts plainly. These words come from the peak of understanding and longing, from those brought near to God, yet ordinary believers are told to recite them. He compares it to telling a primary school boy to read university books.
+Requests this high raise a difficulty, which Sheikh Bahmanpour puts plainly. These words come from the peak of understanding and longing, from those brought near to God, yet ordinary believers are told to recite them. He likens their position to that of a primary school boy told to read university books.
 
 Part of the answer is in the prayers themselves, which speak from need. Duʿa ʿArafah comes to God with nothing to offer but its need of Him.
 
@@ -122,7 +122,7 @@ Here I am begging You by my need for You. [@duas_dua_arafah_imam_husain, §689]
 
 Need is the only plea in this line, and the Munajat line at the head of Part One goes further. There the reciter admits to having had no strength to move away from disobedience "except when You awakened me to Your love" [@light, p. 164], so even the turning towards God is His doing.
 
-The Sheikh's answer to the difficulty is that we have been honoured to be allowed to recite these words, though they are not of our level. The prayers' own pleas from need fit that answer. They claim no level, so a reciter may say them without understanding many of their meanings. If the reciter is sincere, God may grant the request, and what the Imams wanted, He granted them.
+The Sheikh answers the difficulty with an honour: we have been allowed to recite these words, though they are not of our level. The prayers' own pleas from need fit that answer. They claim no level, so a reciter may say them without understanding many of their meanings. If the reciter is sincere, God may grant the request, and what the Imams wanted, He granted them.
 
 ::: {.box-word title="Word Study: duʿa and munajat"}
 *Duʿa* is the general word for supplication: any request addressed to God, in any words. A *munajat* is a duʿa spoken as a private conversation with God. The Mafatih's English calls the Munajat Shaʿbaniyyah a "confidential prayer" [@mafatih, p. 243], and William Chittick translates the fifteen munajat printed with the Sahifa as "whispered prayers" [@sahifa, p. 9]. Mirza Jawad Maliki Tabrizi suggests why the Imams' supplications reach further than their other words. In their narrations, he writes, they spoke with people, whereas in their supplications they spoke with God, and the level of speech depends on the understanding of the one addressed. The Qur'an, in his terms, is a "Descending-Qur'an", God's words to His servants. The supplications are an "Ascending-Qur'an", the words of His most distinguished servants rising towards Him [@journey, p. 43].
@@ -156,7 +156,7 @@ The prayers in this chapter reach ordinary believers through two books. The *Maf
 
 Reciting the words is not the same as comprehending what they describe. Maliki Tabrizi sees the supplications as a servant's own words rising to God. That, he writes, "is not accepted and comprehended by any one, except a small number of believers who are thoroughly familiar and enlightened" [@journey, p. 43].
 
-Sheikh Bahmanpour still recommends the Munajat to every listener, to be recited in Shaʿban as often as they can. The two positions answer different questions: how far a reciter reaches, and who may begin. This chapter claims only that anyone may begin these prayers, with access to their words rather than attainment of what they ask for.
+Sheikh Bahmanpour still recommends the Munajat to every listener, to be recited in Shaʿban as often as they can. Maliki Tabrizi's view and this recommendation answer different questions: how far a reciter reaches, and who may begin. This chapter claims only that anyone may begin these prayers, with access to their words rather than attainment of what they ask for.
 
 ## Words already on our lips
 
