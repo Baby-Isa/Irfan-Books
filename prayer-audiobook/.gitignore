@@ -1,3 +1,4 @@
 models/
 audio/
 *.epub
+__pycache__/
