@@ -66,7 +66,7 @@ Most of us, the devout included, do not perceive those signs.
 
 An invitation addressed to those who reflect, know, listen, and reason implies that many people do none of these things. This is not limited to the careless. Most pious people, even those careful about the shariʿa, do not find a sign in these verses. Looking at the variety of languages and colours, we are more likely to see a reason for division than a sign of God.
 
-We have heard these verses many times, and we accept that there are signs in them because the Qur'an says so; yet accepting that a sign exists is not the same as perceiving it. The Qur'an describes the gap in one verse.
+We have heard these verses many times and, as the Sheikh puts it, accept them out of obedience: "you say there are signs, so there are signs." Accepting that a sign exists is still not the same as perceiving it, and the Qur'an describes that gap in a single verse.
 
 ::: {.ayah ref="12:105"}
 How many a sign there is in the heavens and the earth that they pass by while they are disregardful of it!
@@ -130,7 +130,7 @@ A heart trembles only at the mention of someone it has some experience of; a nam
 Allah … bears witness that there is no god except Him, and [so do] the angels and those who possess knowledge.
 :::
 
-For Sheikh Bahmanpour, "those who possess knowledge" is another name for the ʿurafaʾ. Every Muslim knows that there is no god but Allah. Our knowledge of *tawhid*, God's oneness, is still not the knowledge of those who witness it. Tawhid is simple to say and hard to grasp; the intellect alone cannot reach its depths, and only the awakened soul can. Surah Fatir describes the same people by what they feel.
+For Sheikh Bahmanpour, "those who possess knowledge" is another name for the ʿurafaʾ. Every Muslim knows that there is no god but Allah and says so in every prayer, yet our knowledge of *tawhid*, God's oneness, is not the knowledge of those who witness it. Tawhid is simple to say and hard to grasp, and its depths are reached by the awakened soul rather than by the intellect alone. Surah Fatir describes the same people by what they feel.
 
 ::: {.ayah ref="35:28" words="8-13"}
 Only those of Allah's servants having knowledge fear Him.
@@ -144,7 +144,7 @@ In Surah Yunus they are the *awliyaʾ Allah*, the friends of God (Q 10:62). Imam
 God's special devotees are those who perceive the world's reality when others are deceived by her appearance. They occupy themselves with what is coming when others occupy themselves with the present. [@nahj, 3.403]
 :::
 
-Other people look at the surface of the world; the friends of God look at what lies inside it. This does not mean turning away from the world. There is nothing wrong with pursuing material wealth in this life; the trouble is being solely occupied with it. The friends of God have families, friends, and a place in society, as we do. They think not about themselves but about God, and in their hearts they are cut off from everything else.
+Where other people look at the surface of the world, the friends of God look at what lies inside it. None of this means turning away from the world. There is nothing wrong with being rich, so long as the wealth does not take up the heart, and the friends of God have families, friends, and a place in society, as we do. Their thoughts are on God rather than on themselves, and in their hearts they are cut off from everything else.
 
 ## What they are given, and why it is open to all
 
@@ -195,7 +195,7 @@ In this verse the Sheikh finds four ranks of those God has blessed: the prophets
 
 That doorway is open to people like us. It is difficult, but we are made for it. We call ourselves human beings, yet, in the Sheikh's words, "we are not yet human beings": we begin with the capacity to become human in the full sense that the prophets are, and God wants us to reach it.
 
-This is the case for pursuing ʿirfan. The Qur'an invites more than the minimum, and what stands in the way is a faculty in us that can be repaired. On the other side of that repair lie nearness to God, a good life, and freedom from fear and grief. That rank is open to any believer who obeys God and the Prophet and acts righteously.
+This is the case for pursuing ʿirfan. The Qur'an invites more than the minimum, and what stands in the way is a faculty in us that can be repaired. On the other side of that repair lie nearness to God, a good life, and freedom from fear and grief. Surah al-Nisaʾ opens that rank to any believer who obeys God and the Prophet and acts righteously.
 
 ## The aim is God, not powers
 

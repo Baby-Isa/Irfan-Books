@@ -291,3 +291,12 @@ From the user's choices on sixteen before/after edits (`reviews/ai/examples-2026
 - **Vary attributions** and let them carry content: "and Mohammad Ali Shomali adds that…"; "For Sheikh Bahmanpour, X is another name for…"; "In this verse the Sheikh finds four ranks…".
 - **Name what "them" or "this" is** whenever it is not obvious: "The Qur'an answers this narrow view…", not "The Qur'an answers them…".
 - Cut "not X but Y" constructions the user did not ask for (edit #18 in Ch 3 reverted).
+
+**Variation (user, 2026-10-20; D53).** From the user's choices on seven Chapter One examples:
+- **Rewrite mirrored "X; Y" halves** as one flowing sentence: "Other people look at the surface of the world; the friends of God look at what lies inside it." → "Where other people look at the surface of the world, the friends of God look at what lies inside it."
+- **"Not X but Y" → "rather than"**: "They think not about themselves but about God" → "Their thoughts are on God rather than on themselves".
+- **Make an abstract claim real with one small everyday particular**: "Every Muslim knows that there is no god but Allah and says so in every prayer".
+- **Name the source as the actor** where an abstract subject sits: "That rank is open to…" → "Surah al-Nisaʾ opens that rank to…".
+- **Quote the Sheikh only over a high bar**: a short, clean line that carries what a paraphrase loses (his voice, or the reader's own attitude), in a paragraph already about him: "as the Sheikh puts it, accept them out of obedience: "you say there are signs, so there are signs."" Never to replace a good sentence of ours.
+- **Let rhythm follow the thought**: long sentences may run two or three together where the thought runs on; no strict short/long alternation; open fewer sentences with The/This/That/It.
+- **Keep:** a short sentence that lands a point; a colon reveal the paragraph builds to; a "This is…" line that sums up well. **Never** merge sentences only to lengthen the rhythm, never create a weak final comma when joining, never replace one word with a list of particulars, no "Taken together" signposts, no reused images.

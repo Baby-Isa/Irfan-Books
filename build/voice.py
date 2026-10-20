@@ -263,6 +263,8 @@ def punct_flags(paras):
                     out.append(("TAIL", raw))      # a long verbless phrase hung on the last comma
                 elif tw and _weak_tail(tail):
                     out.append(("TAIL-COMMA", raw))  # user, 2026-10-19: no sentence ends on ", <phrase with no verb of its own>"
+            if re.search(r"\bnot\b[^,;.]{2,60}?\bbut\b", body) and not re.search(r"\bnot only\b", body):
+                out.append(("NOT-BUT", raw))      # user, 2026-10-20: "They think not about X but about Y" -> "rather than"
             for semi in [m.start() for m in re.finditer(";", body)]:
                 if body.count(";") >= 2:
                     break                          # a heavy list: semicolons are right there
@@ -381,6 +383,12 @@ def profile(specs):
         lp = f["longest paragraph"]
         mark = "  OFF" if lp > LONGEST else ("  long" if lp > 110 else "")
         print(f"   {'longest paragraph':28} {lp:8.0f} {'≤110':>9}{mark}")
+        lens = [len(words(x)) for _, p in paras for x in sentences(p)]
+        if len(lens) > 2:
+            opens = sum(bool(re.match(r'["“]?(The|This|That|These|It)\b', x)) for _, p in paras for x in sentences(p))
+            print(f"   Variation (info, D53): sentence-length SD {st.pstdev(lens):.1f} (exemplar-era Book 2 6.6–9.5; human translations 12+); "
+                  f"lag-1 {st.correlation(lens[:-1], lens[1:]):+.2f} (below -0.1 = predictable short/long alternation); "
+                  f"The/This/That/It openers {100 * opens / len(lens):.0f}% (human 6–13%)")
         print(f"   Function-word Delta: median {st.median(ds):.2f} over {len(ds)} chunks; "
               f"{over}/{len(ds)} chunks beyond the exemplar's 90th percentile ({d90:.2f}).")
         hits = lingo_hits(paras)
