@@ -67,7 +67,7 @@ A heart cleared of everything but God is free for Him. The prayers go on to ask 
 
 The first is sight. The Munajat asks God to light the eyes of the heart so that they look at Him and pass even through the veils of light. Yet the Qur'an says that sight cannot perceive God (Q 6:103). The difficulty is a real one, and people unfamiliar with the mystics' wording sometimes call such lines a mistake.
 
-The prayer asks not for the eyes in our heads but for the eyes of the heart. Our physical eyes work perfectly well, and still we miss God's signs, because the inner faculty behind them is blind. The prayer asks God to light that faculty. It is the light the last chapter described, which God gives to a purified heart. Duʿa ʿArafah says He has already lit that light in the hearts of His intimate servants, the friends of God (*awliyaʾ*).
+The prayer does not ask for the eyes in our heads. It asks for the eyes of the heart. Our physical eyes work perfectly well, and still we miss God's signs, because the inner faculty behind them is blind. The prayer asks God to light that faculty. It is the light the last chapter described, which God gives to a purified heart. Duʿa ʿArafah says He has already lit that light in the hearts of His intimate servants, the friends of God (*awliyaʾ*).
 
 ::: {.quote ar="أَنْتَ ٱلَّذِي أَشْرَقْتَ ٱلأَنْوَارَ فِي قُلُوبِ أَوْلِيَائِكَ" source="Duʿa ʿArafah"}
 It is You Who have lit the illuminations in the hearts of Your intimate servants [@duas_dua_arafah_imam_husain, §781]

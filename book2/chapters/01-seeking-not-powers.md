@@ -27,15 +27,15 @@ The obligations save, but the Qur'an asks for more: to reflect on, know, listen 
 6. Therefore: the obligations save, but the Qur'an asks for more.
 ::::
 
-Let's start with two claims. The first is that a believer who prays, fasts, pays what is due, and goes on hajj can hope for *jannah*, provided they do what is *wajib* and avoid what is forbidden. This claim is not contested. Sheikh Bahmanpour accepts it as fair for ordinary believers. Mohammad Ali Shomali makes the same point, describing the obligatory rules of fiqh as "the minimally necessary conditions of human perfection" [@self_knowledge, p. 17].
+Let's start with what nobody disputes. A believer who prays, fasts, pays what is due, and goes on hajj can hope for *jannah*, provided they do what is *wajib* and avoid what is forbidden. Sheikh Bahmanpour accepts this as fair for ordinary believers, and Mohammad Ali Shomali adds that the obligatory rules of fiqh are "the minimally necessary conditions of human perfection" [@self_knowledge, p. 17].
 
 ::: {.box-story title="Story: What was enough for jannah"}
 Someone once came to the Prophet ﷺ and said that they had no eagerness for the night prayer (*salat al-layl*), the recommended fasts, and the like. They asked whether they would go to jannah if they prayed the five daily prayers, fasted in Ramadan, paid their zakat, and went on hajj once. The Prophet said yes. Sheikh Bahmanpour opens his first lecture with this story and draws his question from the Prophet's answer: if the obligatory acts are enough for jannah, why take on the hard work of ʿirfan?
 :::
 
-The second claim goes further, and it is the one this book disputes. Some jurists and activists hold that the obligatory acts are the whole of the religion, and that anything beyond them is made up by the whims and wishes of certain mystics.
+Some jurists and activists go further, and here this book parts company with them. They hold that the obligatory acts are the whole of the religion, and that anything beyond them is made up by the whims and wishes of certain mystics.
 
-To see why there is more than the obligations, let's turn to the Qur'an and read on from the verse this chapter began with. Surah al-Rum names three more sets of signs: the creation of the heavens and the earth, with the variety of our languages and colours; our sleep and our work; and the lightning and the rain that revives the dead earth (Q 30:22–24). Each verse ends as the first did, by saying who the sign is for.
+The Qur'an answers this narrow view a few lines after the wedding verse, pointing in Surah al-Rum to three further sets of signs: the creation of the heavens and the earth, with the variety of our languages and colours; our sleep and our work; and the lightning and the rain that revives the dead earth (Q 30:22–24). Like the wedding verse, each of them ends by naming the people the sign is for.
 
 ::: {.ayah ref="30:22" words="9-"}
 There are indeed signs in that for those who know.
@@ -98,9 +98,9 @@ Cattle see and hear perfectly well, so the comparison cannot be about the senses
 
 Sheikh Bahmanpour compares this faculty to a machine. The ear catches the sound, but "there is something inside which doesn't catch it. There is a machine inside which is [rusted]." That machine is the soul. It has to be repaired before it can catch the signals of God. This is the whole subject in one sentence: mysticism is about making the soul hear, see, and reflect. It is not easy, and it requires a great deal of training.
 
-Placing the fault in the receiver has two consequences. The first is that the problem is not a shortage of evidence. God is not withholding signs; we are failing to receive them.
+If the fault lies in the receiver, two things follow. One is that we have never lacked evidence; the signs are there, and we have failed to receive them.
 
-The second is that the problem can be solved. A faculty that exists but has rusted can be repaired; one that is absent cannot be made fit for purpose. The *Kernel of the Kernels*, a record of ʿAllama Tabatabaʾi's early lectures on the path, opens by saying that the pull towards the unseen is "part of the innate instincts of the human being" [@kernel, p. 4]. The longing for God, and the faculty that perceives Him, are part of how we are made.
+The other, more hopeful, is that the problem can be solved. A faculty that exists but has rusted can be repaired; one that is absent cannot be made fit for purpose. The *Kernel of the Kernels*, a record of ʿAllama Tabatabaʾi's early lectures on the path, opens by saying that the pull towards the unseen is "part of the innate instincts of the human being" [@kernel, p. 4]. The longing for God, and the faculty that perceives Him, are part of how we are made.
 
 Repair is only the start. Once the inner faculty begins to work, a journey begins that, in the Sheikh's words, "has a beginning and no end".
 
@@ -118,7 +118,7 @@ If the faculty can be repaired, some have repaired it: the Qur'an describes beli
 3. Therefore: in some believers the faculty works.
 ::::
 
-If the faculty can be repaired, there should be people in whom it already works. The Qur'an describes them in four ways. People can be divided into two groups: those whose souls work, and those whose souls do not. The first group are the *ʿurafaʾ*, the plural of *ʿarif*. The prophets and the Imams (as) are a class of their own; the ʿurafaʾ are ordinary believers who see more than the rest. The first description of them is in Surah al-Anfal.
+If the faculty can be repaired, there should be people in whom it already works. The Qur'an describes them in four verses. People can be divided into two groups: those whose souls work, and those whose souls do not. The first group are the *ʿurafaʾ*, the plural of *ʿarif*. The prophets and the Imams (as) are a class of their own; the ʿurafaʾ are ordinary believers who see more than the rest. Surah al-Anfal gives the first of these descriptions.
 
 ::: {.ayah ref="8:2" words="1-8"}
 The faithful are only those whose hearts tremble [with awe] when Allah is mentioned,
@@ -130,7 +130,7 @@ A heart trembles only at the mention of someone it has some experience of; a nam
 Allah … bears witness that there is no god except Him, and [so do] the angels and those who possess knowledge.
 :::
 
-Sheikh Bahmanpour reads "those who possess knowledge" as another name for the ʿurafaʾ. Every Muslim knows that there is no god but Allah. Our knowledge of *tawhid*, God's oneness, is still not the knowledge of those who witness it. Tawhid is simple to say and hard to grasp; the intellect alone cannot reach its depths, and only the awakened soul can. Surah Fatir describes the same people by what they feel.
+For Sheikh Bahmanpour, "those who possess knowledge" is another name for the ʿurafaʾ. Every Muslim knows that there is no god but Allah. Our knowledge of *tawhid*, God's oneness, is still not the knowledge of those who witness it. Tawhid is simple to say and hard to grasp; the intellect alone cannot reach its depths, and only the awakened soul can. Surah Fatir describes the same people by what they feel.
 
 ::: {.ayah ref="35:28" words="8-13"}
 Only those of Allah's servants having knowledge fear Him.
@@ -138,7 +138,7 @@ Only those of Allah's servants having knowledge fear Him.
 
 Most of us fear Allah's punishment. The people of this verse fear Him with a fear that is not about punishment at all.
 
-Surah Yunus gives them another name: the *awliyaʾ Allah*, the friends of God (Q 10:62). Imam ʿAli (as) describes what these friends see that others miss.
+In Surah Yunus they are the *awliyaʾ Allah*, the friends of God (Q 10:62). Imam ʿAli (as) describes what these friends see that others miss.
 
 ::: {.quote ar="[VERIFY: Arabic of Nahj 3.403 from Qutbuddin p. 810]" source="Nahj al-Balagha"}
 God's special devotees are those who perceive the world's reality when others are deceived by her appearance. They occupy themselves with what is coming when others occupy themselves with the present. [@nahj, 3.403]
@@ -161,7 +161,7 @@ What they are given is worth having, and their rank is open to every believer.
 5. Therefore: what they have is worth having, and within our reach.
 ::::
 
-The Qur'an names three things these people receive. The first is nearness: Surah al-Waqiʿa sorts people on the Last Day, and at the top it places the Foremost Ones.
+Of the three gifts the Qur'an names for these people, nearness comes first. Surah al-Waqiʿa sorts people on the Last Day, and at the top it places the Foremost Ones.
 
 ::: {.ayah ref="56:10-11"}
 And the Foremost Ones are the foremost ones: they are the ones brought near [to Allah],
@@ -169,7 +169,7 @@ And the Foremost Ones are the foremost ones: they are the ones brought near [to 
 
 The Arabic for "brought near" is *muqarrabun*. God is not far from anyone. Being brought near means that a veil between the person and God has been removed, so that they understand far more.
 
-The second gift is a different kind of life, promised in Surah al-Nahl to whoever acts righteously, man or woman, while having faith.
+Surah al-Nahl promises the second, a different kind of life, to whoever acts righteously, man or woman, while having faith.
 
 ::: {.ayah ref="16:97" words="1-12"}
 Whoever acts righteously, [whether] male or female, should he be faithful, We shall revive him with a good life
@@ -177,7 +177,7 @@ Whoever acts righteously, [whether] male or female, should he be faithful, We sh
 
 This good life (*hayat tayyiba*), the life the mystics seek, is a clean life. Its people live in the world without being soiled by it, rising above the worries that occupy everyone else.
 
-The third gift is peace, promised in the verse of Surah Yunus that names the friends of God.
+The third, peace, is promised in the verse of Surah Yunus that names the friends of God.
 
 ::: {.ayah ref="10:62"}
 Look! The friends of Allah will indeed have no fear nor will they grieve
@@ -191,7 +191,7 @@ None of this would matter to an ordinary reader if it were reserved for prophets
 Whoever obeys Allah and the Apostle—they are with those whom Allah has blessed, including the prophets and the truthful, the martyrs and the righteous, and excellent companions are they!
 :::
 
-Sheikh Bahmanpour reads this verse as naming four ranks of those God has blessed: the prophets; the truthful (*siddiqin*); the *shuhadaʾ*, which the translation used here renders "martyrs" and which he takes as "the witnesses"; and the righteous (*salihin*). The first three ranks are beyond us; the fourth is a doorway. The salihin are those able to receive this favour, and from among them God chooses the truthful and the prophets. The way in is righteous action, as the verse on the good life also says.
+In this verse the Sheikh finds four ranks of those God has blessed: the prophets; the truthful (*siddiqin*); the *shuhadaʾ*, which the translation used here renders "martyrs" and which he takes as "the witnesses"; and the righteous (*salihin*). The first three ranks are beyond us; the fourth is a doorway. The salihin are those able to receive this favour, and from among them God chooses the truthful and the prophets. The way in is righteous action, as the verse on the good life also says.
 
 That doorway is open to people like us. It is difficult, but we are made for it. We call ourselves human beings, yet, in the Sheikh's words, "we are not yet human beings": we begin with the capacity to become human in the full sense that the prophets are, and God wants us to reach it.
 
