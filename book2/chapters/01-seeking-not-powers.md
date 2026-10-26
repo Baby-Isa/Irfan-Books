@@ -118,7 +118,7 @@ If the faculty can be repaired, some have repaired it: the Qur'an describes beli
 3. Therefore: in some believers the faculty works.
 ::::
 
-If the faculty can be repaired, there should be people in whom it already works. The Qur'an describes them in four verses. Perhaps the simplest way humans can divide themselves is also the most revealing, separating those with a working soul and those with a broken one. The first group are the *ʿurafaʾ* (the plural of *ʿarif*). While the prophets and the Imams (as) are a class of their own, the ʿurafaʾ are ordinary believers who see more than the rest. Surah al-Anfal gives the first of these descriptions.
+If the faculty can be repaired, there should be people in whom it already works. The Qur'an describes them in four verses. Perhaps the simplest way humans can divide themselves is also the most revealing, separating those with a working soul and those with a broken one. The first are the *ʿurafaʾ* (the plural of *ʿarif*). While the prophets and the Imams (as) are a class of their own, the ʿurafaʾ are ordinary believers who see more than the rest. Surah al-Anfal gives the first of these descriptions.
 
 ::: {.ayah ref="8:2" words="1-8"}
 The faithful are only those whose hearts tremble [with awe] when Allah is mentioned,
