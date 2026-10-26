@@ -88,7 +88,7 @@ Since the signs are plain and we miss them, the fault is a faculty in us; it has
 5. Repair only starts a journey with "a beginning and no end". *(Breather, kept by the user.)*
 ::::
 
-If the signs are present and plain, and yet we still pass them by, the fault is on our side. The Qur'an says where it lies, speaking of people who have every faculty and use none of them.
+If the signs are present and plain, and yet we still pass them by, the fault is on our side. Of those who possess every faculty and yet use none of them, the Qur'an makes clear their fault.
 
 ::: {.ayah ref="7:179" words="8-27"}
 they have hearts with which they do not understand, they have eyes with which they do not see, they have ears with which they do not hear. They are like cattle; indeed, they are more astray.
@@ -100,7 +100,7 @@ Sheikh Bahmanpour compares this faculty to a machine. The ear catches the sound,
 
 If the fault lies in the receiver, two things follow. One is that we have never lacked evidence; the signs are there, and we have failed to receive them.
 
-The other, more hopeful, is that the problem can be solved. A faculty that exists but has rusted can be repaired; one that is absent cannot be made fit for purpose. The *Kernel of the Kernels*, a record of ʿAllama Tabatabaʾi's early lectures on the path, opens by saying that the pull towards the unseen is "part of the innate instincts of the human being" [@kernel, p. 4]. The longing for God, and the faculty that perceives Him, are part of how we are made.
+The other, more hopeful, is that the problem can be solved. A faculty that exists but has rusted gives us the solace of knowing that rust can be abrased, whereas a faculty that is absent can never be made present. The *Kernel of the Kernels*, a record of ʿAllama Tabatabaʾi's early lectures on the path, opens by saying that the pull towards the unseen is "part of the innate instincts of the human being" [@kernel, p. 4]. The longing for God, and the faculty that perceives Him, are part of how we are made.
 
 Repair is only the start. Once the inner faculty begins to work, a journey begins that, in the Sheikh's words, "has a beginning and no end".
 
@@ -118,13 +118,13 @@ If the faculty can be repaired, some have repaired it: the Qur'an describes beli
 3. Therefore: in some believers the faculty works.
 ::::
 
-If the faculty can be repaired, there should be people in whom it already works. The Qur'an describes them in four verses. People can be divided into two groups: those whose souls work, and those whose souls do not. The first group are the *ʿurafaʾ*, the plural of *ʿarif*. The prophets and the Imams (as) are a class of their own; the ʿurafaʾ are ordinary believers who see more than the rest. Surah al-Anfal gives the first of these descriptions.
+If the faculty can be repaired, there should be people in whom it already works. The Qur'an describes them in four verses. Perhaps the simplest way humans can divide themselves is also the most revealing, separating those with a working soul and those with a broken one. The first group are the *ʿurafaʾ* (the plural of *ʿarif*). While the prophets and the Imams (as) are a class of their own, the ʿurafaʾ are ordinary believers who see more than the rest. Surah al-Anfal gives the first of these descriptions.
 
 ::: {.ayah ref="8:2" words="1-8"}
 The faithful are only those whose hearts tremble [with awe] when Allah is mentioned,
 :::
 
-A heart trembles only at the mention of someone it has some experience of; a name means little to a person who does not know whom it names. The believers of this verse are thus the believers who know Allah. A verse in Surah Al ʿImran goes further, giving them another name.
+A heart does not dwell on what it does not know, and much less can it feel what it has not felt; only from intimate experience can a heart tremble with true knowledge. The believers of this verse are thus the believers who know Allah. A verse in Surah Al ʿImran goes further and gives them another name.
 
 ::: {.ayah ref="3:18" words="1-10"}
 Allah … bears witness that there is no god except Him, and [so do] the angels and those who possess knowledge.
@@ -175,7 +175,7 @@ Surah al-Nahl promises the second, a different kind of life, to whoever acts rig
 Whoever acts righteously, [whether] male or female, should he be faithful, We shall revive him with a good life
 :::
 
-This good life (*hayat tayyiba*), the life the mystics seek, is a clean life. Its people live in the world without being soiled by it, rising above the worries that occupy everyone else.
+This good and clean life (*hayat tayyiba*) is the life that mystics seek. Its people live in the world without being soiled by it, rising above the worries that occupy everyone else.
 
 The third, peace, is promised in the verse of Surah Yunus that names the friends of God.
 
@@ -191,7 +191,7 @@ None of this would matter to an ordinary reader if it were reserved for prophets
 Whoever obeys Allah and the Apostle—they are with those whom Allah has blessed, including the prophets and the truthful, the martyrs and the righteous, and excellent companions are they!
 :::
 
-In this verse the Sheikh finds four ranks of those God has blessed: the prophets; the truthful (*siddiqin*); the *shuhadaʾ*, which the translation used here renders "martyrs" and which he takes as "the witnesses"; and the righteous (*salihin*). The first three ranks are beyond us; the fourth is a doorway. The salihin are those able to receive this favour, and from among them God chooses the truthful and the prophets. The way in is righteous action, as the verse on the good life also says.
+In this verse the Sheikh finds four ranks of those God has blessed: the prophets; the truthful (*siddiqin*); the *shuhadaʾ*, which the translation used here renders "martyrs" and which he takes as "the witnesses"; and the righteous (*salihin*). The first three ranks are beyond us, but the fourth is a doorway. The salihin are those able to receive this favour, and from among them God chooses the truthful and the prophets. The way in is righteous action, as the verse on the good life also says.
 
 That doorway is open to people like us. It is difficult, but we are made for it. We call ourselves human beings, yet, in the Sheikh's words, "we are not yet human beings": we begin with the capacity to become human in the full sense that the prophets are, and God wants us to reach it.
 
@@ -211,11 +211,11 @@ The repair is training the soul, and that training must aim at God alone, never 
 4. Therefore: the scholars differ in emphasis but agree that the aim is God alone, not powers. *(Short closing paragraph, kept by the user.)*
 ::::
 
-Pursuing ʿirfan means training the soul, and soul-training is not unique to Islam. People take up the inner life for different reasons. Some train the soul in an attempt to gain power: to be in two places at once, to see the future or the past, or to master the hidden world of the soul. This kind of mysticism must be held apart from ʿirfan. Islamic mysticism is about catching the signs of Allah: becoming sensitive to them, and learning to hear and see.
+Pursuing ʿirfan means training the soul, and soul-training is not unique to Islam. People take up the inner life for different reasons. Some train the soul in an attempt to gain power: to be in two places at once, to see the future or the past, or to master the hidden world of the soul. Such attempts are folly and not in the spirit of a genuine pursuit of ʿirfan. Islamic mysticism is about catching the signs of Allah: becoming sensitive to them, and learning to hear and see.
 
 Sheikh Bahmanpour ends his first lecture more strongly. ʿIrfan, he says, is not about gaining power over the soul to work the wonders of the saints (*karamat*) or the miracles of the prophets (*muʿjizat*). Such powers are *shirk*: the sin of setting up a partner beside God.
 
-The great teachers of the Shia tradition make closely related points, each in his own words. ʿAllama Tabatabaʾi tells the traveller that he "has no right to seek occult experiences and miraculous qualities", nor to perform austerities or recite invocations to gain powers such as crossing great distances in a moment or reading the thoughts of others. Whoever does so "does not move on the path of the Beloved's pleasure and his worship is not for the sake of God". It is his own self that he worships, "though he may not admit it by word of mouth" [@kernel, pp. 28–29].
+Each in their own words, the great teachers of the Shia tradition make closely related points. ʿAllama Tabatabaʾi tells the traveller that he "has no right to seek occult experiences and miraculous qualities", nor to perform austerities or recite invocations to gain powers such as crossing great distances in a moment or reading the thoughts of others. Whoever does so "does not move on the path of the Beloved's pleasure and his worship is not for the sake of God". It is his own self that he worships, "though he may not admit it by word of mouth" [@kernel, pp. 28–29].
 
 ::: {.box-who title="Who's Who: ʿAllama Tabatabaʾi"}
 Sayyid Muhammad Husayn Tabatabaʾi is best known as the author of *al-Mizan*, a commentary on the Qur'an in twenty volumes [@self_knowledge, p. 30]. His student Sayyid Muhammad Husayn Husayni Tihrani describes him as having flown "with the two wings of knowledge and action". He travelled the path in both philosophy and gnosis under the guidance of the gnostic Mirza ʿAli Aqa Qadi, and after years of philosophical argument he "came to settle down at the sacred threshold of the Qur'an" [@kernel, p. 8]. *Kernel of the Kernels* (*Lubb al-Lubab*) is Tihrani's record of the lectures on ethics and gnosis that Tabatabaʾi gave to students in Qum in 1949–50 [@kernel, p. 9]. He also wrote the preface to *Light Within Me* [@light, p. 4], from which several quotations in this chapter come.
@@ -223,7 +223,7 @@ Sayyid Muhammad Husayn Tabatabaʾi is best known as the author of *al-Mizan*, a 
 
 Imam Khomeini reports the test his teacher Ayatullah Shahabadi used: the measure of true spiritual effort is how much selfishness is in it. If a traveller's "spiritual exercises are meant for acquiring powers for worldly ends, his efforts are rendered invalid" [@forty_hadith, p. 61].
 
-Murtada Mutahhari uses the same word as Sheikh Bahmanpour. The ʿurafaʾ, he writes, consider it "a kind of shirk (polytheism) for one's goal in life and particularly in worship to be something other than God Himself", and he recalls Imam ʿAli (as) saying that he worshipped God not from fear of His Fire or desire for His Paradise but because he found Him worthy of worship [@light, p. 44].
+Murtada Mutahhari echoes the Sheikh's words, again using the word *shirk*. The ʿurafaʾ, he writes, consider it "a kind of shirk (polytheism) for one's goal in life and particularly in worship to be something other than God Himself", and he recalls Imam ʿAli (as) saying that he worshipped God not from fear of His Fire or desire for His Paradise but because he found Him worthy of worship [@light, p. 44].
 
 The scholars differ in emphasis but agree that powers are not the aim. Mutahhari also explains why seeking them would be shirk: the goal has become something other than God.
 
@@ -241,7 +241,7 @@ Close: "If the aim is to know and love God, what kind of knowing is that?"
 With powers set aside, what remains is the definition Sheikh Bahmanpour gives at the end of his first lecture: ʿirfan "is actually seeking and nothing else". It seeks the knowledge of God (*maʿrifah*) and the love of God (*mahabba*).
 
 ::: {.box-word title="Word Study: ʿIrfan and maʿrifah"}
-*ʿIrfan*, *maʿrifah*, *ʿarif* and its plural *ʿurafaʾ* belong to one family of words about knowing. An ʿarif, as Sheikh Bahmanpour puts it, is "someone who knows". "Mystic" is used of Christians, Hindus, and Buddhists alike; ʿarif is the Islamic word, and it makes a precise claim. Murtada Mutahhari draws the line. The philosopher wants a correct picture of the world in his mind. The ʿarif "wishes to reach the very kernel and reality of existence, God, to become connected to it and witness it" [@light, p. 12]. *Lantern of the Path*, attributed to Imam al-Sadiq (as), says that there is no way to God except through knowledge [@lantern, p. 9]. What kind of knowledge that is, and how it differs from what we learn from books, is the subject of Chapter Two.
+*ʿIrfan*, *maʿrifah*, *ʿarif* and its plural *ʿurafaʾ* belong to one family of words about knowing. An ʿarif, as Sheikh Bahmanpour puts it, is "someone who knows". "Mystic" is used of Christians, Hindus, and Buddhists alike; ʿarif is the Islamic word, and it means something more distinct. Murtada Mutahhari draws the line. The philosopher wants a correct picture of the world in his mind. The ʿarif "wishes to reach the very kernel and reality of existence, God, to become connected to it and witness it" [@light, p. 12]. *Lantern of the Path*, attributed to Imam al-Sadiq (as), says that there is no way to God except through knowledge [@lantern, p. 9]. What kind of knowledge that is, and how it differs from what we learn from books, is the subject of Chapter Two.
 :::
 
 ʿIrfan is therefore worth pursuing: it is the training of the soul to perceive and love God, open to every believer, and sought for God alone.
