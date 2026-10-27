@@ -22,7 +22,7 @@ The ʿarif knows God by presence, not by definition.
     b. It works by defining, and to define a thing is to limit it.
     c. Knowledge by presence is already with the soul, as our self and our hunger are.
     d. It is complete: nothing of the hunger is missed, and even a false hunger is felt as real.
-2. The mystics seek knowledge by presence: to arrive at God, not to define Him, because a definition draws a limit and God has none.
+2. The mystics seek knowledge by presence: to arrive at God, as a fasting person arrives at hunger. (That a definition limits God is shown in §1 step 1b and in "Where reason stops".)
 3. Imam Khomeini records the same line between two kinds of people: the ʿarif knows God by witnessing, which is knowledge by presence; the scholar by proofs, which is acquired knowledge.
 4. Therefore: the ʿarif knows God by presence, not by definition. *(Word Study box.)*
 ::::
@@ -31,11 +31,11 @@ Let's start with the two kinds of knowing. The first is acquired knowledge (*ʿi
 
 Acquired knowledge works by defining its object. To understand a thing, we sort it into a category and mark where it ends and something else begins. The Arabic word for a definition (*hadd*) also means a limit: to define a thing is to limit it. The old definition of a human being as "the rational animal" works by drawing a line around us.
 
-The second kind is knowledge by presence (*ʿilm al-huduri*). It does not come from outside and needs no concept to carry it; it is with the soul already. The plainest case is our knowledge of our own self. Hunger is another, and so are pain and anxiety. Anxiety has a cause outside us, yet the feeling itself arises inside the soul.
+The second kind is knowledge by presence (*ʿilm al-huduri*). It does not come from outside and needs no concept to be understood; it is already with the soul. The clearest case of knowledge by presence is knowing that you exist. Nobody teaches you that, you don't reason your way to it, and you can't be wrong about it. You simply know it from the inside. Hunger, pain, and anxiety are further examples known in the same way. These emotions may have external causes, but the feelings themselves arise inside us.
 
 Knowledge by presence is complete. When the body is hungry, the soul knows it at once and without effort, and nothing of the hunger is missed. The hunger may even be false, and yet what is felt is real. A person may be wrong to think that their body needs food. They cannot be wrong that they feel hungry.
 
-Knowledge by presence is what the mystics are after. Sheikh Bahmanpour defines mysticism as the urge to reach out to the infinite through knowledge by presence. Acquired knowledge (*ʿilm*) aims at understanding, whereas knowledge by presence (*maʿrifah*) aims at arriving. A person during the meal of iftar cannot understand hunger as sharply as they will understand it during the next day's fast, despite having spent most of their day hungry. There is no substitute for arriving in that moment. In this way, mystics seek to arrive at God. In the same way, the mystic's aim is to arrive at God, not to define Him. A definition draws a limit, and God has none.
+Knowledge by presence is what the mystics are after. Sheikh Bahmanpour defines mysticism as the urge to reach out to the infinite through knowledge by presence. Acquired knowledge (*ʿilm*) aims at understanding, whereas knowledge by presence (*maʿrifah*) aims at arriving. A person during the meal of iftar cannot understand hunger as sharply as they will understand it during the next day's fast, despite having spent most of their day hungry. There is no substitute for arriving in that moment. In this way, mystics seek to arrive at God.
 
 Imam Khomeini records a view that divides people by these two kinds of knowing. On this view, a gnostic of God (an ʿarif) "knows God through direct witnessing", while a scholar of God "attains the knowledge of God through philosophical proofs" [@forty_hadith, p. 542]. The gnostic's witnessing is knowledge by presence, and the scholar's proofs are acquired knowledge.
 
