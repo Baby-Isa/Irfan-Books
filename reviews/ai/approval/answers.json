@@ -100,5 +100,37 @@
  },
  "34": {
   "d": "after"
+ },
+ "25": {
+  "d": "own",
+  "before_override": "The Qur'an's invitation to more than the minimum is an invitation to know and love God. That knowing is like the fasting person's knowledge of hunger. It is knowing God directly, not only knowing about Him. This chapter sets out why knowing about God is not knowing Him, and how He comes to be known.",
+  "text": "The Qur'an's invitation to more than the minimum is an invitation to knowing God like a fasting person knows hunger: intimately and undoubtedly. This chapter defines the difference between knowing God and knowing about God, and then explores how He comes to be known."
+ },
+ "38": {
+  "d": "before",
+  "note": "covered by 25"
+ },
+ "39": {
+  "d": "before",
+  "note": "covered by 25"
+ },
+ "27": {
+  "d": "own",
+  "before_override": "The comparison with hunger shows how this knowledge is had, not how much is known. It has degrees, and in Sheikh Bahmanpour's words, \"the more you know, the more bewildered you will become\".",
+  "text": "The comparison with hunger is an example of this knowledge's attainment and not its extent. As the Sheikh puts it frankly, \"the more you know, the more bewildered you will become\"."
+ },
+ "30": {
+  "d": "own",
+  "before_override": "Imam Khomeini gives learning its place, with a warning. A learning that does not bring faith with it, he writes, \"is the greatest of veils\", yet \"one has to approach a veil in order to tear it into shreds\".",
+  "text": "Imam Khomeini caveats the prominent position of learning with a warning, writing that \"a learning that does not bring faith with it is the greatest of veils\". Yet the veil cannot be avoided, only passed through: \"one has to approach a veil in order to tear it into shreds\"."
+ },
+ "31": {
+  "d": "own",
+  "before_override": "They are brought near to God and know Him by presence: a veil is removed, rather than a definition learned. Their knowing is present to the soul, as hunger is present to the one who fasts.",
+  "text": "Their nearness to God comes as the veils of the heart are unravelled: an action and a process that cannot be substituted by learning a definition. The knowing of the ʿurafaʾ is as present to their souls as hunger is to the one who fasts."
+ },
+ "35": {
+  "d": "own",
+  "text": "A person during the meal of iftar cannot understand hunger as sharply as they will understand it during the next day's fast, despite having spent most of their day hungry. There is no substitute for arriving in that moment. In this way, mystics seek to arrive at God."
  }
 }
