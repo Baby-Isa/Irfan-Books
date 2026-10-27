@@ -140,5 +140,13 @@
  "33": {
   "d": "own",
   "text": "(applied directly, user's wording 2026-10-27)"
+ },
+ "28": {
+  "d": "own",
+  "text": "(section rewritten, approved 2026-10-27)"
+ },
+ "40": {
+  "d": "before",
+  "note": "covered by 28 rewrite"
  }
 }

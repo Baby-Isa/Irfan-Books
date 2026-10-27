@@ -31,7 +31,7 @@ Let's start with the two kinds of knowing. The first is acquired knowledge (*ʿi
 
 Acquired knowledge works by defining its object. To understand a thing, we sort it into a category and mark where it ends and something else begins. The Arabic word for a definition (*hadd*) also means a limit: to define a thing is to limit it. The old definition of a human being as "the rational animal" works by drawing a line around us.
 
-The second kind is knowledge by presence (*ʿilm al-huduri*). It does not come from outside and needs no concept to be understood; it is already with the soul. The clearest case of knowledge by presence is knowing that you exist. Nobody teaches you that, you don't reason your way to it, and you can't be wrong about it. You simply know it from the inside. Hunger, pain, and anxiety are further examples known in the same way. These emotions may have external causes, but the feelings themselves arise inside us.
+The second kind is knowledge by presence (*ʿilm al-huduri*). It does not come from outside and needs no concept to be understood; it is already with the soul. The clearest case of knowledge by presence is knowing that you exist. Nobody teaches you that, you don't reason your way to it, and you can't be wrong about it. You simply know it from the inside. Hunger, pain, and anxiety are further examples known in the same way. Each may have an external cause, but the feeling itself arises inside us.
 
 Knowledge by presence is complete. When the body is hungry, the soul knows it at once and without effort, and nothing of the hunger is missed. The hunger may even be false, and yet what is felt is real. A person may be wrong to think that their body needs food. They cannot be wrong that they feel hungry.
 
@@ -79,42 +79,44 @@ Mulla Sadra died in 1050/1640 [@light, p. 40]. In Sheikh Bahmanpour's account, I
 ## Light in the heart
 
 :::: {.point}
-Knowledge of God is a light God gives to a purified heart, not something gathered by study.
+Knowledge of God is a light God gives to a purified heart, and study cannot gather it.
 
-1. Knowledge that reason cannot produce must be given; a hadith says God gives it, as a light cast in the heart.
-2. Learning is gathered from outside, whereas the light is placed in the heart by God.
-3. "Whomever He wills" could mean God picks some hearts and passes over others; the Sheikh reads it through Surah al-Nur (Q 24:35).
-4. God's light is everywhere and held back from no heart, so what keeps a heart dark is that it is closed.
-5. Opening the heart is purifying it, and once the soul is purified, God's teaching follows as His gift (Imam Khomeini; Q 2:282).
-6. The verse puts wariness of God first and His teaching second: the light comes to the hearts of the pure.
-7. Therefore: knowledge of God is a light given to a purified heart, not gathered by study. *(Story box: A thousand doors of knowledge, D47, shows such knowledge passing heart to heart.)*
+1. Knowledge that reason cannot produce must be given; a hadith says God gives it, as a light cast into the heart.
+2. Learning is gathered from outside, whereas the light is cast in by God.
+3. "Whomever He wills" raises a question: does God pick some hearts and pass over others? The Sheikh answers from Surah al-Nur (Q 24:35).
+4. God's light is everywhere; what keeps a heart dark is that it is closed, so the fault lies in the receiver (L03 ¶20).
+5. The light is still God's to give: He guides whom He wishes and chooses those He loves (Q 24:35; L03 ¶47), so the traveller purifies the heart in hope.
+6. Purity lets the light in: wariness of God purifies the soul and connects it to the higher realm, and divine teaching follows; the impure soul receives veils (Imam Khomeini, Forty Hadith p. 331; Q 2:282).
+7. Therefore: knowledge of God is a light given to a purified heart, and study cannot gather it. *(Story box: A thousand doors of knowledge, D47, shows such knowledge passing heart to heart.)*
 ::::
 
-A knowledge that analysis cannot produce must be given. A hadith that Imam Khomeini quotes in his *Forty Hadith* says who gives it.
+A knowledge that reason cannot produce has to be given. A hadith that Imam Khomeini quotes in his *Forty Hadith* says who gives it.
 
 ::: {.quote ar="[VERIFY: Arabic of the hadith from Forty Hadith p. 331]" source="Hadith"}
 Knowledge is not extensive learning. Rather, it is a light that God casts in the heart of whomever He wills. [@forty_hadith, p. 331]
 :::
 
-The hadith sets the two kinds of knowing side by side. Extensive learning is acquired knowledge, gathered from outside, whereas the light is not gathered at all: God places it in the heart.
+The hadith sets the two kinds of knowing side by side. Extensive learning is acquired knowledge, which we gather from outside, whereas the light is cast into the heart by God.
 
-The words "whomever He wills" can be read as saying that God chooses some hearts for His light and passes over others. For the light itself, Sheikh Bahmanpour turns to a verse of Surah al-Nur.
+The words "whomever He wills" raise a question: does God choose some hearts for His light and pass over others? Sheikh Bahmanpour answers from the opening of the Verse of Light in Surah al-Nur.
 
 ::: {.ayah ref="24:35" words="1-4"}
 Allah is the Light of the heavens and the earth.
 :::
 
-Allah's light is everywhere, in the heavens and in the earth, and He is with us wherever we are. In the Sheikh's account, nothing is held back on God's side, and He does not pick out some hearts to light and pass over others. The same verse goes on, "Allah guides to His Light whomever He wishes", and the lectures also say that God chooses those He loves. God holds back His light from no heart, so what keeps a heart dark is that it is closed. Those He chooses are those He loves, and the traveller opens the heart in the hope of being among them.
+If God is the light of the heavens and the earth, His light fills everything, and He is with us wherever we are. "The light is everywhere," the Sheikh says, and what keeps a heart dark is that the heart is closed. Wayfaring is the work of opening it "so that the light shines in you". As with the signs in Chapter One, the fault lies in the receiver.
 
-Opening the heart is purifying it, and Imam Khomeini explains what follows once that is done. When the soul is purified, he writes, divine teaching follows, "for there is no niggardliness in the higher realms, which are bounteous by necessity" [@forty_hadith, p. 331]. The teaching remains God's gift, and the purified heart waits for it. Imam Khomeini grounds this in a verse of Surah al-Baqarah that links God's teaching to wariness of Him.
+None of this takes the light out of God's hands. The same verse goes on, "Allah guides to His Light whomever He wishes", and the lectures add that God chooses those He loves. Opening the heart is the traveller's part, but the light that enters it is still God's to give. The traveller therefore purifies the heart in the hope of being among those He loves.
+
+Imam Khomeini explains why purity lets the light in. A soul connected to the higher realm, he writes, receives true knowledge. A soul connected to the lower realm receives "obscuring veils". The link with the higher sources "is strengthened through the purification of the soul" [@forty_hadith, p. 331], and he grounds this in a verse of Surah al-Baqarah.
 
 ::: {.ayah ref="2:282" words="121-124"}
 Be wary of Allah and Allah will teach you.
 :::
 
-In the verse, God's teaching follows on from wariness of Him. In the same way, the light comes to the hearts of the pure, and darkness covers the impure.
+The verse puts wariness of God first and His teaching second, because wariness, in Imam Khomeini's words, "purifies the soul and connects it to the invisible sacred realm". Divine teaching follows, "for there is no niggardliness in the higher realms, which are bounteous by necessity" [@forty_hadith, p. 331]. The pure heart receives the light, and the impure heart, by its own doing, stays veiled.
 
-Knowledge of God is therefore a light given to a purified heart, not something gathered by study. A knowledge given to the heart also travels differently. The knowledge of books passes from mind to mouth, through language, whereas the knowledge of the ʿurafaʾ passes "from heart to heart", in the Sheikh's words. Receiving it directly from God is possible but difficult, so one usually has to start through someone else, and Chapter Seven describes that guide.
+Knowledge of God is therefore a light given to a purified heart, and study cannot gather it. A knowledge given to the heart also travels differently. The knowledge of books passes from mind to mouth, through language, whereas the knowledge of the ʿurafaʾ passes "from heart to heart", in the Sheikh's words. Receiving it directly from God is possible but difficult, so one usually has to start through someone else, and Chapter Seven describes that guide.
 
 ::: {.box-story title="Story: A thousand doors of knowledge"}
 We know how knowledge passes from one mind to another, and Sheikh Bahmanpour traces the route. The speaker has an image in mind, and the body turns it into speech. The speech travels through the listener's nervous system and raises an image in the listener's mind. Of knowledge passing from one heart to another we have no such experience. He then recalls a report from Imam ʿAli (as): when the Prophet ﷺ was on his deathbed, a thousand doors of knowledge opened to Imam ʿAli's heart, and from each door a thousand more. In the Sheikh's telling, this knowledge did not come through language. It passed from heart to heart, and it is the kind of knowledge the ʿurafaʾ have.
