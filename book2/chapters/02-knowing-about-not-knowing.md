@@ -37,7 +37,7 @@ Knowledge by presence is complete. When the body is hungry, the soul knows it at
 
 Knowledge by presence is what the mystics are after. Sheikh Bahmanpour defines mysticism as the urge to reach out to the infinite through knowledge by presence. Acquired knowledge (*ʿilm*) aims at understanding, whereas knowledge by presence (*maʿrifah*) aims at arriving. A person during the meal of iftar cannot understand hunger as sharply as they will understand it during the next day's fast, despite having spent most of their day hungry. There is no substitute for arriving in that moment. In this way, mystics seek to arrive at God.
 
-Imam Khomeini records a view that divides people by these two kinds of knowing. On this view, a gnostic of God (an ʿarif) "knows God through direct witnessing", while a scholar of God "attains the knowledge of God through philosophical proofs" [@forty_hadith, p. 542]. The gnostic's witnessing is knowledge by presence, and the scholar's proofs are acquired knowledge.
+Imam Khomeini describes the scholar and the ʿarif in distinct terms, with each earning their own label; the scholar is the one who acquires knowledge and thereby "attains the knowledge of God through philosophical proofs", whereas the ʿarif is the one who gains knowledge through presence and so "knows God through direct witnessing" [@forty_hadith, p. 542].
 
 ::: {.box-word title="Word Study: ʿIlm al-husuli and ʿilm al-huduri"}
 *Husul* means acquiring or obtaining, whereas *hudur* means presence. In acquired knowledge (*ʿilm al-husuli*), what reaches the mind is a concept or an image of the thing, while the thing itself stays outside. In knowledge by presence (*ʿilm al-huduri*), the thing known is itself present to the soul, as our own self, our hunger, and our pain are present. The phrase Imam Khomeini uses for the gnostic's witnessing, *mushahada huduriyya* (witnessing by presence), comes from the same root. Sheikh Bahmanpour notes that the religious texts use *ʿilm* and *maʿrifah* for the same thing, whereas Imam Khomeini writes of "an evident difference" between *ʿirfan* and *ʿilm* [@forty_hadith, p. 542]. This book keeps the two apart to make the two kinds of knowing easier to see. Chapter One's Word Study noted that there is no way to God except through knowledge, and left open what type of knowledge it refers to. If *maʿrifah* is arriving, as this chapter describes it, that knowledge is knowledge by presence.
@@ -137,13 +137,13 @@ The path to knowing God is purification, which study serves but cannot replace.
 
 If the light is everywhere and the heart is closed, the path to knowing God is the opening of the heart. Two Arabic words mark the difference between this path and study. Knowledge learned at a university or a seminary comes through thought (*fikr*): we think, put things together, analyse, and find out. Knowledge of God comes through wayfaring (*suluk*), the path to purity.
 
-Wayfaring has two parts, and the Sheikh names both: "You purify yourself and then wait for Allah to put the light in your heart." The light is not absent while the heart waits. The waiting is the patience of a heart that has done its part and leaves the rest to God. The Munajat Shaʿbaniyyah ties the light to the path in one line.
+Wayfaring has two parts, and the Sheikh names both: "You purify yourself and then wait for Allah to put the light in your heart." The light is not absent while the heart waits, and the waiting is the patience of a heart that has done its part and leaves the rest to God. The Munajat Shaʿbaniyyah ties the light to the path in one line.
 
 ::: {.quote ar="إِنَّ مَنِ ٱنْتَهَجَ بِكَ لَمُسْتَنِيرٌ" source="Munajat Shaʿbaniyyah"}
 One who follows Your path is enlightened. [@light, p. 165; @duas_munajat_shabaniyah, §88]
 :::
 
-The same prayer asks, in the line this book opened with, for the eyes of the heart to be lit until they reach the source of God's grandeur. This line says who receives that light: the one who follows God's path.
+The same prayer asks, in the line this book opened with, for the eyes of the heart to be lit until they reach the source of God's grandeur. Here the prayer names who receives that light: the one who follows God's path.
 
 Following that path begins with the shariʿa. Its first step is to polish the soul by doing whatever the Prophet ﷺ has asked. Without this there is no maʿrifah. The Qur'an calls the believers to answer Allah and the Apostle when he summons them to what will give them life (Q 8:24). That life comes when a person follows the Prophet completely.
 

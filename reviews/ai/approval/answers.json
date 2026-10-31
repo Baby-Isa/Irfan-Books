@@ -148,5 +148,18 @@
  "40": {
   "d": "before",
   "note": "covered by 28 rewrite"
+ },
+ "36": {
+  "d": "after"
+ },
+ "37": {
+  "d": "own",
+  "before_override": "Imam Khomeini records a view that divides people by these two kinds of knowing. On this view, a gnostic of God (an ʿarif) \"knows God through direct witnessing\", while a scholar of God \"attains the knowledge of God through philosophical proofs\" [@forty_hadith, p. 542]. The gnostic's witnessing is knowledge by presence, and the scholar's proofs are acquired knowledge.",
+  "text": "Imam Khomeini describes the scholar and the ʿarif in distinct terms, with each earning their own label; the scholar is the one who acquires knowledge and thereby \"attains the knowledge of God through philosophical proofs\", whereas the ʿarif is the one who gains knowledge through presence and so \"knows God through direct witnessing\" [@forty_hadith, p. 542]."
+ },
+ "41": {
+  "d": "own",
+  "before_override": "The light is not absent while the heart waits. The waiting is the patience of a heart that has done its part and leaves the rest to God.",
+  "text": "The light is not absent while the heart waits, and the waiting is the patience of a heart that has done its part and leaves the rest to God."
  }
 }
