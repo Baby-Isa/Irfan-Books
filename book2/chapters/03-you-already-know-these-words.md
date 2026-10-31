@@ -136,7 +136,7 @@ These prayers are set on nights we already keep, so anyone may begin them.
 1. The invitation to say them reaches us through a book most believers own: four of the prayers are in the Mafatih, each set on a night or a day. *(Reader told: "each of them on a night or a day".)*
     a. The Munajat Shaʿbaniyyah belongs to Shaʿban, said by the Imams, to be said "with presence of heart".
     b. Duʿa Kumayl, Duʿa ʿArafah and Duʿa Abu Hamza have their own nights and days.
-2. Said on nights we keep, the words become familiar (Imam Khomeini). *(History box: the Mafatih and the Sahifa.)*
+2. Said on nights we keep, the words become familiar (Ayatullah Khomeini). *(History box: the Mafatih and the Sahifa.)*
 3. Reciting is not comprehending: few grasp their depth (Maliki Tabrizi).
 4. The Sheikh still recommends the Munajat to every listener: the two answer different questions, how far a reciter reaches and who may begin.
 5. Therefore anyone may begin these prayers: what we have is access to their words, not attainment. *(Last sentence of step 4's paragraph.)*
@@ -148,7 +148,7 @@ The Munajat Shaʿbaniyyah is listed among the acts of the month of Shaʿban, and
 
 The other prayers have their own times. Duʿa Kumayl belongs to Thursday evenings and to the night of mid-Shaʿban [@mafatih, p. 129]. Duʿa ʿArafah is the prayer of Imam al-Husayn (as) on the Day of ʿArafah [@mafatih, p. 374]. Duʿa Abu Hamza al-Thumali belongs to Ramadan, when Imam Zayn al-ʿAbidin (as) said it in the last hour of each night [@mafatih, p. 282]. Maliki Tabrizi tells the traveller not to forget it, and to say it every night or every other night, as his mood and situation allow [@journey, p. 111].
 
-Said on nights we keep, these words become familiar, and Imam Khomeini could count on that familiarity. "You are already familiar with the words used in Imams' supplications," he told his listeners, before reading them lines from the Shaʿbaniyyah [@light, p. 156].
+Said on nights we keep, these words become familiar, and Ayatullah Khomeini could count on that familiarity. "You are already familiar with the words used in Imams' supplications," he told his listeners, before reading them lines from the Shaʿbaniyyah [@light, p. 156].
 
 ::: {.box-history title="History: the Mafatih and the Sahifa"}
 The prayers in this chapter reach ordinary believers through two books. The *Mafatih al-Jinan* ("Keys to the Heavens") gathers the supplications of the Imams, the words to be recited at particular times, and the forms for visiting the Imams' shrines. Its compiler, Shaykh ʿAbbas Qummi, was a scholar of vast learning who died in Najaf in 1359/1940 [@journey, p. 112]. Al-Sahifa al-Sajjadiyya is far older. William Chittick calls it "the oldest prayer manual in Islamic sources", composed by Imam Zayn al-ʿAbidin (as). Shia tradition ranks it behind only the Qur'an and Nahj al-Balagha [@sahifa, p. 7]. The fourth Imam died in Medina in 95/713–4, or a year earlier [@sahifa, p. 8]. The fifteen whispered prayers, the Whispered Prayer of the Lovers among them, were added to several modern editions of the Sahifa. They seem to have reached most Shia through ʿAllama Muhammad Baqir Majlisi, the compiler of *Bihar al-Anwar* [@sahifa, p. 9].

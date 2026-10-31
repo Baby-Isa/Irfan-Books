@@ -29,7 +29,7 @@ The road begins with repentance, and repentance is open to anyone after any sin.
 6. Therefore: anyone can begin, with the words the Munajat gives: "I am Your powerless sinning slave and Your repentant bondman".
 ::::
 
-Setting out takes two moves. The first is to wake up, since we have been living as if asleep and heedless of a God who is near. Then comes repentance, which the mystics call the first and most important step of the road. In *Forty Hadith*, Imam Khomeini has repentance follow the heart's waking: when the heart "awakes from its slumber of negligence, this state of awakening is followed by that of repentance" [@forty_hadith, p. 249]. <!-- src: L08 ¶10 -->
+Setting out takes two moves. The first is to wake up, since we have been living as if asleep and heedless of a God who is near. Then comes repentance, which the mystics call the first and most important step of the road. In *Forty Hadith*, Ayatullah Khomeini has repentance follow the heart's waking: when the heart "awakes from its slumber of negligence, this state of awakening is followed by that of repentance" [@forty_hadith, p. 249]. <!-- src: L08 ¶10 -->
 
 Repentance (*tawba*) in this sense reaches further than sins. It is, in Sheikh Bahmanpour's words, "repenting from our casualness towards the Lord". We repent from taking everything for granted, from wasting our lives, and from not heeding the presence of God. No one is punished for these things. *Lantern of the Path*, attributed to Imam al-Sadiq (as), sets this repentance beside the familiar kind: "the repentance of the elite is for being occupied with anything other than Allah, and the repentance of the common people is for wrong actions" [@lantern, p. 48]. <!-- src: L08 ¶10 -->
 
@@ -53,7 +53,7 @@ Say [that Allah declares,] ‘O My servants who have committed excesses against 
 
 Sheikh Bahmanpour finds more than real sins in "who have committed excesses against their own souls". The phrase also fits those who have wasted much of the capacity in their souls and now despair of moving on the path. The verse tells them not to despair, because God forgives all sins. It is an encouragement for the beginning of the road, so that no believer sets the road aside as meant for others. <!-- src: L08 ¶16-18 -->
 
-Sincere repentance brings more than forgiveness. In *Forty Hadith*, Imam Khomeini cites Imam al-Sadiq (as): when a servant turns to God with sincere repentance, "God loves him and covers him (i.e. his sins) in the world and the Hereafter" [@forty_hadith, p. 249]. *Lantern of the Path* says what it does to the heart, which God created pure and clean. "When the pure heart turns grey by being fed on heedlessness and vexation, it is polished by the burnish of repentance and cleaned by the water of regret" [@lantern, p. 59]. This is the polishing that gives the first stage its name.
+Sincere repentance brings more than forgiveness. In *Forty Hadith*, Ayatullah Khomeini cites Imam al-Sadiq (as): when a servant turns to God with sincere repentance, "God loves him and covers him (i.e. his sins) in the world and the Hereafter" [@forty_hadith, p. 249]. *Lantern of the Path* says what it does to the heart, which God created pure and clean. "When the pure heart turns grey by being fed on heedlessness and vexation, it is polished by the burnish of repentance and cleaned by the water of regret" [@lantern, p. 59]. This is the polishing that gives the first stage its name.
 
 Anyone can therefore begin, and the Munajat Shaʿbaniyyah gives the words to begin with. Near its end, the one praying comes before God as sinner and penitent at once.
 
@@ -73,7 +73,7 @@ Repentance is kept up at a steady pace: not rushed, and not put off.
 3. Because the self fights back, rushing is dangerous: the Sheikh warns of "the dangers of rushing things forward" and asks for the pace the Imams advised (L08 ¶26–27).
 4. Story (prose, unnamed): a young man in Tehran recited Ziyarat ʿAshura daily until light showed in his face; an elder told his father to stop him: "you need to have basis. You are rushing" (L08 ¶24–27).
 5. Imam al-Sadiq (as) gives the same pace: faith has ten degrees, so "pull him up to you gently"; "Too much enthusiasm in the beginning leads to too little interest in the end".
-6. Not rushing is not putting off: age makes the road harder, "but it is not impossible" (L08 ¶19–22); Imam Khomeini presses harder, "do not postpone the task of reform to old age", since "the springtime for tawbah is the time of youth"; all agree sooner is easier.
+6. Not rushing is not putting off: age makes the road harder, "but it is not impossible" (L08 ¶19–22); Ayatullah Khomeini presses harder, "do not postpone the task of reform to old age", since "the springtime for tawbah is the time of youth"; all agree sooner is easier.
 7. Therefore: repentance is kept up at a steady pace, not rushed and not put off.
 ::::
 
@@ -91,7 +91,7 @@ Imam al-Sadiq (as) asked for this gradual climb when he told ʿAbd al-ʿAziz al-
 
 ʿAllama Tabatabaʾi draws from this hadith the traveller's rule of moderation. A beginner full of zeal may take on every good practice at once and then tire of it, leaving the work incomplete. In his words, "Too much enthusiasm in the beginning leads to too little interest in the end" [@light, p. 89].
 
-A steady pace still means setting out now, at whatever age. Some older believers conclude that the road is closed to them, which the lectures count as despair of God's mercy too. With age the road does become harder, as energy and capacity diminish, yet "it is not impossible", because age limits a person's ability and not the mercy of God. Imam Khomeini presses harder: "do not postpone the task of reform to old age" [@light, p. 127], since youth is "the springtime for tawbah" [@forty_hadith, p. 250]. Both agree that the sooner the road is begun, the easier it is. <!-- src: L08 ¶19-22 -->
+A steady pace still means setting out now, at whatever age. Some older believers conclude that the road is closed to them, which the lectures count as despair of God's mercy too. With age the road does become harder, as energy and capacity diminish, yet "it is not impossible", because age limits a person's ability and not the mercy of God. Ayatullah Khomeini presses harder: "do not postpone the task of reform to old age" [@light, p. 127], since youth is "the springtime for tawbah" [@forty_hadith, p. 250]. Both agree that the sooner the road is begun, the easier it is. <!-- src: L08 ¶19-22 -->
 
 Repentance is therefore kept up at a steady pace. It is renewed whenever the traveller falls and taken no faster than the self can bear, and it is not put off to old age, which only makes it harder.
 

@@ -23,7 +23,7 @@ The ʿarif knows God by presence, not by definition.
     c. Knowledge by presence is already with the soul, as our self and our hunger are.
     d. It is complete: nothing of the hunger is missed, and even a false hunger is felt as real.
 2. The mystics seek knowledge by presence: to arrive at God, as a fasting person arrives at hunger. (That a definition limits God is shown in §1 step 1b and in "Where reason stops".)
-3. Imam Khomeini records the same line between two kinds of people: the ʿarif knows God by witnessing, which is knowledge by presence; the scholar by proofs, which is acquired knowledge.
+3. Ayatullah Khomeini records the same line between two kinds of people: the ʿarif knows God by witnessing, which is knowledge by presence; the scholar by proofs, which is acquired knowledge.
 4. Therefore: the ʿarif knows God by presence, not by definition. *(Word Study box.)*
 ::::
 
@@ -31,16 +31,16 @@ Let's start with the two kinds of knowing. The first is acquired knowledge (*ʿi
 
 Acquired knowledge works by defining its object. To understand a thing, we sort it into a category and mark where it ends and something else begins. The Arabic word for a definition (*hadd*) also means a limit: to define a thing is to limit it. The old definition of a human being as "the rational animal" works by drawing a line around us.
 
-The second kind is knowledge by presence (*ʿilm al-huduri*). It does not come from outside and needs no concept to be understood; it is already with the soul. The clearest case of knowledge by presence is knowing that you exist. Nobody teaches you that, you don't reason your way to it, and you can't be wrong about it. You simply know it from the inside. Hunger, pain, and anxiety are further examples known in the same way. Each may have an external cause, but the feeling itself arises inside us.
+The second kind is knowledge by presence (*ʿilm al-huduri*). It does not come from outside and needs no concept to be understood; it is already with the soul. The clearest case of knowledge by presence is knowing that we exist. Nobody teaches us that, we don't reason our way to it, and we can't be wrong about it. We simply know it from the inside. Hunger, pain, and anxiety are further examples known in the same way. Each may have an external cause, but the feeling itself arises inside us.
 
 Knowledge by presence is complete. When the body is hungry, the soul knows it at once and without effort, and nothing of the hunger is missed. The hunger may even be false, and yet what is felt is real. A person may be wrong to think that their body needs food. They cannot be wrong that they feel hungry.
 
 Knowledge by presence is what the mystics are after. Sheikh Bahmanpour defines mysticism as the urge to reach out to the infinite through knowledge by presence. Acquired knowledge (*ʿilm*) aims at understanding, whereas knowledge by presence (*maʿrifah*) aims at arriving. A person during the meal of iftar cannot understand hunger as sharply as they will understand it during the next day's fast, despite having spent most of their day hungry. There is no substitute for arriving in that moment. In this way, mystics seek to arrive at God.
 
-Imam Khomeini describes the scholar and the ʿarif in distinct terms, with each earning their own label; the scholar is the one who acquires knowledge and thereby "attains the knowledge of God through philosophical proofs", whereas the ʿarif is the one who gains knowledge through presence and so "knows God through direct witnessing" [@forty_hadith, p. 542].
+Ayatullah Khomeini describes the scholar and the ʿarif in distinct terms, with each earning their own label; the scholar is the one who acquires knowledge and thereby "attains the knowledge of God through philosophical proofs", whereas the ʿarif is the one who gains knowledge through presence and so "knows God through direct witnessing" [@forty_hadith, p. 542].
 
 ::: {.box-word title="Word Study: ʿIlm al-husuli and ʿilm al-huduri"}
-*Husul* means acquiring or obtaining, whereas *hudur* means presence. In acquired knowledge (*ʿilm al-husuli*), what reaches the mind is a concept or an image of the thing, while the thing itself stays outside. In knowledge by presence (*ʿilm al-huduri*), the thing known is itself present to the soul, as our own self, our hunger, and our pain are present. The phrase Imam Khomeini uses for the gnostic's witnessing, *mushahada huduriyya* (witnessing by presence), comes from the same root. Sheikh Bahmanpour notes that the religious texts use *ʿilm* and *maʿrifah* for the same thing, whereas Imam Khomeini writes of "an evident difference" between *ʿirfan* and *ʿilm* [@forty_hadith, p. 542]. This book keeps the two apart to make the two kinds of knowing easier to see. Chapter One's Word Study noted that there is no way to God except through knowledge, and left open what type of knowledge it refers to. If *maʿrifah* is arriving, as this chapter describes it, that knowledge is knowledge by presence.
+*Husul* means acquiring or obtaining, whereas *hudur* means presence. In acquired knowledge (*ʿilm al-husuli*), what reaches the mind is a concept or an image of the thing, while the thing itself stays outside. In knowledge by presence (*ʿilm al-huduri*), the thing known is itself present to the soul, as our own self, our hunger, and our pain are present. The phrase Ayatullah Khomeini uses for the gnostic's witnessing, *mushahada huduriyya* (witnessing by presence), comes from the same root. Sheikh Bahmanpour notes that the religious texts use *ʿilm* and *maʿrifah* for the same thing, whereas Ayatullah Khomeini writes of "an evident difference" between *ʿirfan* and *ʿilm* [@forty_hadith, p. 542]. This book keeps the two apart to make the two kinds of knowing easier to see. Chapter One's Word Study noted that there is no way to God except through knowledge, and left open what type of knowledge it refers to. If *maʿrifah* is arriving, as this chapter describes it, that knowledge is knowledge by presence.
 :::
 
 ## Where reason stops
@@ -86,11 +86,11 @@ Knowledge of God is a light God gives to a purified heart, and study cannot gath
 3. "Whomever He wills" raises a question: does God pick some hearts and pass over others? The Sheikh answers from Surah al-Nur (Q 24:35).
 4. God's light is everywhere; what keeps a heart dark is that it is closed, so the fault lies in the receiver (L03 ¶20).
 5. The light is still God's to give: He guides whom He wishes and chooses those He loves (Q 24:35; L03 ¶47), so the traveller purifies the heart in hope.
-6. Purity lets the light in: wariness of God purifies the soul and connects it to the higher realm, and divine teaching follows; the impure soul receives veils (Imam Khomeini, Forty Hadith p. 331; Q 2:282).
+6. Purity lets the light in: wariness of God purifies the soul and connects it to the higher realm, and divine teaching follows; the impure soul receives veils (Ayatullah Khomeini, Forty Hadith p. 331; Q 2:282).
 7. Therefore: knowledge of God is a light given to a purified heart, and study cannot gather it. *(Story box: A thousand doors of knowledge, D47, shows such knowledge passing heart to heart.)*
 ::::
 
-A knowledge that reason cannot produce has to be given. A hadith that Imam Khomeini quotes in his *Forty Hadith* says who gives it.
+A knowledge that reason cannot produce has to be given. A hadith that Ayatullah Khomeini quotes in his *Forty Hadith* says who gives it.
 
 ::: {.quote ar="[VERIFY: Arabic of the hadith from Forty Hadith p. 331]" source="Hadith"}
 Knowledge is not extensive learning. Rather, it is a light that God casts in the heart of whomever He wills. [@forty_hadith, p. 331]
@@ -108,13 +108,13 @@ If God is the light of the heavens and the earth, His light fills everything, an
 
 None of this takes the light out of God's hands. The same verse goes on, "Allah guides to His Light whomever He wishes", and the lectures add that God chooses those He loves. Opening the heart is the traveller's part, but the light that enters it is still God's to give. The traveller therefore purifies the heart in the hope of being among those He loves.
 
-Imam Khomeini explains why purity lets the light in. A soul connected to the higher realm, he writes, receives true knowledge. A soul connected to the lower realm receives "obscuring veils". The link with the higher sources "is strengthened through the purification of the soul" [@forty_hadith, p. 331], and he grounds this in a verse of Surah al-Baqarah.
+Ayatullah Khomeini explains why purity lets the light in. A soul connected to the higher realm, he writes, receives true knowledge. A soul connected to the lower realm receives "obscuring veils". The link with the higher sources "is strengthened through the purification of the soul" [@forty_hadith, p. 331], and he grounds this in a verse of Surah al-Baqarah.
 
 ::: {.ayah ref="2:282" words="121-124"}
 Be wary of Allah and Allah will teach you.
 :::
 
-The verse puts wariness of God first and His teaching second, because wariness, in Imam Khomeini's words, "purifies the soul and connects it to the invisible sacred realm". Divine teaching follows, "for there is no niggardliness in the higher realms, which are bounteous by necessity" [@forty_hadith, p. 331]. The pure heart receives the light, and the impure heart, by its own doing, stays veiled.
+The verse puts wariness of God first and His teaching second, because wariness, in Ayatullah Khomeini's words, "purifies the soul and connects it to the invisible sacred realm". Divine teaching follows, "for there is no niggardliness in the higher realms, which are bounteous by necessity" [@forty_hadith, p. 331]. The pure heart receives the light, and the impure heart, by its own doing, stays veiled.
 
 Knowledge of God is therefore a light given to a purified heart, and study cannot gather it. A knowledge given to the heart also travels differently. The knowledge of books passes from mind to mouth, through language, whereas the knowledge of the ʿurafaʾ passes "from heart to heart", in the Sheikh's words. Receiving it directly from God is possible but difficult, so one usually has to start through someone else, and Chapter Seven describes that guide.
 
@@ -149,7 +149,7 @@ Following that path begins with the shariʿa. Its first step is to polish the so
 
 Practice depends on knowing what to practise, and this is where study comes in. ʿAllama Tabatabaʾi, in the lectures recorded in *Kernel of the Kernels*, gives study an early place. Once the traveller has set out with a sincere intention, he says the first essential step is knowledge of shariʿa rules learned from a jurist. The traveller puts that knowledge into practice and persists until conviction and gnosis (*maʿrifah*) grow by degrees, "for knowledge gives birth to action and action in turn brings knowledge" [@kernel, p. 56].
 
-Imam Khomeini caveats the prominent position of learning with a warning, writing that "a learning that does not bring faith with it is the greatest of veils". Yet the veil cannot be avoided, only passed through: "one has to approach a veil in order to tear it into shreds". He adds that the sciences are "seeds of (spiritual) experience". He allows that high stations can be reached without them, but calls this unusual [@forty_hadith, p. 403]. Without the polishing of the soul, in the Sheikh's words, there is no maʿrifah. Study can serve purification, but it cannot replace it.
+Ayatullah Khomeini caveats the prominent position of learning with a warning, writing that "a learning that does not bring faith with it is the greatest of veils". Yet the veil cannot be avoided, only passed through: "one has to approach a veil in order to tear it into shreds". He adds that the sciences are "seeds of (spiritual) experience". He allows that high stations can be reached without them, but calls this unusual [@forty_hadith, p. 403]. Without the polishing of the soul, in the Sheikh's words, there is no maʿrifah. Study can serve purification, but it cannot replace it.
 
 ::: {.box-story title="Story: The philosopher and the ʿarif"}
 Murtada Mutahhari records a meeting between Ibn Sina and Abu Saʿid ibn Abi al-Khayr, the latter being one of the most famous of all the ʿurafaʾ. Abu Saʿid was preaching on the necessity of deeds, and on obedience and disobedience to God. Ibn Sina answered him with a quatrain (a poem of four lines). Wherever God's favour and grace are found, it ran, "Let the not-done be like the done, the done like the not-done." The verse leaned on God's forgiveness in place of deeds. Abu Saʿid replied at once with a quatrain of his own, which ends: "Do not rely on forgiveness, for never / Was the not-done like the done, the done like the not-done" [@light, p. 29]. In Sheikh Bahmanpour's account, Ibn Sina later wrote to Abu Saʿid asking to learn from him. Mutahhari, who calls Ibn Sina "mainly a philosopher, not a mystic", notes that "especially towards the end of his life he developed mystic inclinations" [@light, p. 42].

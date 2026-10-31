@@ -333,3 +333,6 @@ The variation analysis (`reviews/ai/REPORT-2026-10-19.md` round 6) proposed five
 - **New writing** follows these from now on. For chapters already written, every change goes to the user as a before/after for approval.
 - `voice.py profile` now prints sentence-length spread, lag-1 alternation and The/This/That/It openers as information (not a gate), and `punct` flags NOT-BUT.
 - Ch 1's read-twice share is now 9.4% (cap 9%) because of the user-approved longer sentences (tawhid, friends of God); left as approved.
+
+## 2026-10-31: D54. "Ayatullah Khomeini" (user)
+Book 2 names him "Ayatullah Khomeini" throughout (was "Imam Khomeini"), spelled with the book's "Ayatullah" as for Mutahhari and Shahabadi. Quotations and citations are unchanged.

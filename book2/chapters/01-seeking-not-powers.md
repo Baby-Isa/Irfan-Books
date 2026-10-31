@@ -51,7 +51,7 @@ There are indeed signs in that for people who exercise their reason.
 
 Four times in a row, the Qur'an makes the same point. The signs are all around us: in marriage, in the people we meet, in sleep, in work, and in the weather. Yet they are for those who reflect, know, listen, and reason. This reflecting, knowing, listening, and reasoning is what the Qur'an asks of us beyond the minimum.
 
-For the avoidance of doubt, this invitation from the Qur'an is not an invitation to circumvent the law or to abandon the prescribed wajibat. Imam Khomeini insists that a genuine seeker's devotion "is within the bounds of the Shari'ah" [@forty_hadith, p. 61]. Within those bounds, the Qur'an is just as insistent: it invites us to more than the obligatory acts.
+For the avoidance of doubt, this invitation from the Qur'an is not an invitation to circumvent the law or to abandon the prescribed wajibat. Ayatullah Khomeini insists that a genuine seeker's devotion "is within the bounds of the Shari'ah" [@forty_hadith, p. 61]. Within those bounds, the Qur'an is just as insistent: it invites us to more than the obligatory acts.
 
 ## Signs most people miss
 
@@ -221,7 +221,7 @@ Each in their own words, the great teachers of the Shia tradition make closely r
 Sayyid Muhammad Husayn Tabatabaʾi is best known as the author of *al-Mizan*, a commentary on the Qur'an in twenty volumes [@self_knowledge, p. 30]. His student Sayyid Muhammad Husayn Husayni Tihrani describes him as having flown "with the two wings of knowledge and action". He travelled the path in both philosophy and gnosis under the guidance of the gnostic Mirza ʿAli Aqa Qadi, and after years of philosophical argument he "came to settle down at the sacred threshold of the Qur'an" [@kernel, p. 8]. *Kernel of the Kernels* (*Lubb al-Lubab*) is Tihrani's record of the lectures on ethics and gnosis that Tabatabaʾi gave to students in Qum in 1949–50 [@kernel, p. 9]. He also wrote the preface to *Light Within Me* [@light, p. 4], from which several quotations in this chapter come.
 :::
 
-Imam Khomeini reports the test his teacher Ayatullah Shahabadi used: the measure of true spiritual effort is how much selfishness is in it. If a traveller's "spiritual exercises are meant for acquiring powers for worldly ends, his efforts are rendered invalid" [@forty_hadith, p. 61].
+Ayatullah Khomeini reports the test his teacher Ayatullah Shahabadi used: the measure of true spiritual effort is how much selfishness is in it. If a traveller's "spiritual exercises are meant for acquiring powers for worldly ends, his efforts are rendered invalid" [@forty_hadith, p. 61].
 
 Murtada Mutahhari echoes the Sheikh's words, again using the word *shirk*. The ʿurafaʾ, he writes, consider it "a kind of shirk (polytheism) for one's goal in life and particularly in worship to be something other than God Himself", and he recalls Imam ʿAli (as) saying that he worshipped God not from fear of His Fire or desire for His Paradise but because he found Him worthy of worship [@light, p. 44].
 

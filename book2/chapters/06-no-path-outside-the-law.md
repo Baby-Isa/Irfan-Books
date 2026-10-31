@@ -43,7 +43,7 @@ The law is not kept for its own sake. We pray and fast to draw near to God, and 
 
 The path is not a second set of acts beside the law. Suppose we prayed beside the Prophet ﷺ and copied every movement he made. A jurist would rule both prayers valid, having checked the form of each: the standing, the bowing, and the words. The outward form of an act is all a jurist can judge, and both forms were the same.
 
-What a jurist cannot judge is what passed in the heart. In Imam Khomeini's words, "there is no necessary relation between the (legal) validity of ʿibadah and its acceptability" [@forty_hadith, p. 293]. An act of worship can be valid in law and still not be accepted, because acceptance turns on what the jurist cannot see. The Prophet's prayer and ours would differ in the inward way each was performed, and that inward way is the path. The outward frame of the act is still the law. What the Prophet saw through such a prayer is the truth.
+What a jurist cannot judge is what passed in the heart. In Ayatullah Khomeini's words, "there is no necessary relation between the (legal) validity of ʿibadah and its acceptability" [@forty_hadith, p. 293]. An act of worship can be valid in law and still not be accepted, because acceptance turns on what the jurist cannot see. The Prophet's prayer and ours would differ in the inward way each was performed, and that inward way is the path. The outward frame of the act is still the law. What the Prophet saw through such a prayer is the truth.
 
 A saying attributed to the Prophet ﷺ puts the three in one line. "The shariʿah is my words, tariqah my actions, haqiqah my states" [@inner_secrets, p. 32]. His words tell us what to do. His actions show how it is done from within, and his states are what he saw by doing it.
 
@@ -83,7 +83,7 @@ The claim to know God fails without the law because of what the law does to the 
 
 Each link in that order needs the one before it. Theology can be learned in a classroom, but the reality of God cannot. It is found only through purifying the self, so without good character there is no knowledge of God. Without the law lived in oneself there is no good character. Some travellers claim to be ʿarifs with no further need of the law, as if it were meant only for ordinary people. On this chain of reasoning, they have broken its first link.
 
-Imam Khomeini adds the image of light: "Without adhering to the apparent teachings of Islam it is not possible that the light of the Divine Knowledge could descend upon his heart" [@forty_hadith, p. 35]. Knowledge of God comes to the heart as a light, and a heart that has set the law aside is not made ready to receive it.
+Ayatullah Khomeini adds the image of light: "Without adhering to the apparent teachings of Islam it is not possible that the light of the Divine Knowledge could descend upon his heart" [@forty_hadith, p. 35]. Knowledge of God comes to the heart as a light, and a heart that has set the law aside is not made ready to receive it.
 
 What does come without the law is easily mistaken for that light. Sheikh Bahmanpour, recalling a remark of ʿAllama Tabatabaʾi's, warns that anyone of any belief will find something if they go forty days on less and less food. The knowledge of God is so unfamiliar to us that whatever is found is taken for God.
 
@@ -114,7 +114,7 @@ Logically this should not happen, because standing before God ought to hold the 
 
 The difficulty is a circle. To bring that sense of presence to the words, we need a knowledge that comes only after they have been practised and taken in. That practice needs the same attention that keeps slipping. This circle is the whole difficulty of the path. Anyone can perform the acts the law asks for, but the path asks for this attention as well, which is why it is harder to walk.
 
-The circle does not mean that the faculty of attention is missing. Imam Khomeini asks, "How is it that the study of a book often absorbs man's entire attention, but prayer does not?" [@light, p. 135]. The question itself shows that the mind can be held, since a book holds it. On this reading, what is missing is the habit of bringing that attention to prayer.
+The circle does not mean that the faculty of attention is missing. Ayatullah Khomeini asks, "How is it that the study of a book often absorbs man's entire attention, but prayer does not?" [@light, p. 135]. The question itself shows that the mind can be held, since a book holds it. On this reading, what is missing is the habit of bringing that attention to prayer.
 
 That habit is built inside the law. In *Forty Hadith* he names two things that bring attention to worship: "possessing unoccupied time and an unoccupied heart", and "making one's heart understand the importance of worship" [@forty_hadith, p. 375]. He is plain about what is at stake, writing that "a worship performed without an attentive heart is devoid of value" [@forty_hadith, p. 375]. The path builds the habit a degree at a time, giving each prayer a little more depth than the last, and Chapter Ten takes up the remembrances that carry this attention beyond the prayer.
 
@@ -141,7 +141,7 @@ The proof is the Prophet ﷺ. Though he was the noblest of all creation, he kept
 
 The *Kernel*'s test is close to Kubra's. Anyone who claims to be a wayfarer while departing from the law even slightly is to be considered a hypocrite. The only allowance is for a lapse that comes from error, from an excuse, or from forgetfulness [@kernel, p. 30].
 
-A person to whom the truth has been unveiled, Imam Khomeini writes, acts "with greater observance of the manifest forms of religion" [@forty_hadith, p. 35]. He rejects the claim of release, the view that once inner excellences are gained the outward forms are no longer obligatory, as "a mistaken conception born of ignorance about the stages of worship" [@forty_hadith, p. 35].
+A person to whom the truth has been unveiled, Ayatullah Khomeini writes, acts "with greater observance of the manifest forms of religion" [@forty_hadith, p. 35]. He rejects the claim of release, the view that once inner excellences are gained the outward forms are no longer obligatory, as "a mistaken conception born of ignorance about the stages of worship" [@forty_hadith, p. 35].
 
 Worship does have stages, and the *Kernel* finds one true sense in the talk of release, though not the sense its proponents intend. Acts of worship develop the soul, bringing its capacities "from potentiality to actuality" [@kernel, p. 30], that is, making real what was only possible. For a soul still growing towards its perfection, worship is the means of growth. For a soul that has reached perfection, worship is no longer for growth [@kernel, p. 30]. What changes on arrival is not the law but the reason for keeping it.
 
@@ -160,5 +160,5 @@ There is therefore no path outside the law. The law, the path, and the truth bel
 If the law marks out the road, who walks it beside the traveller?
 
 ::: {.box-try title="Try this"}
-For one prayer each day this week, keep its time free, with nothing planned straight after it. Imam Khomeini advises that one "should set aside a certain time out of his day and night hours exclusively for the sake of worship", and that the prayer be carried out "in the most meritorious part of its time" [@forty_hadith, p. 375]. At *Allahu akbar*, follow Sheikh Bahmanpour's advice and "know what you are saying". When the mind turns to something else, bring it back to the words of the prayer.
+For one prayer each day this week, keep its time free, with nothing planned straight after it. Ayatullah Khomeini advises that one "should set aside a certain time out of his day and night hours exclusively for the sake of worship", and that the prayer be carried out "in the most meritorious part of its time" [@forty_hadith, p. 375]. At *Allahu akbar*, follow Sheikh Bahmanpour's advice and "know what you are saying". When the mind turns to something else, bring it back to the words of the prayer.
 :::
