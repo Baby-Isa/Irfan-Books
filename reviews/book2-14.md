@@ -102,3 +102,44 @@ Limits of the check: no shell was available, so `build/quran.py` was not run. Th
 5. The wrong page for the Qadiriyya (p. 32).
 6. The open `[VERIFY]` on the Nahj Arabic.
 7. The D20 side-by-sides (Bayazid and remaining; Khomeini and the Kernel on creation's reality), and one sentence on the limits of the critic-side sources.
+
+## Fixes applied (2026-11-01)
+
+**High**
+- "Drunk and sober alike, the masters kept the law" removed. §3 now reads: Chapter Six found the law binding; Sayyid Haydar Amuli "points to how the masters prayed": Junayd's night prayer, Bayazid's many cycles, Ibn ʿArabi's two cycles (`inner_secrets` p. 162). The cup-bearer claim is not used. The closing paragraph now says "the masters Sayyid Haydar Amuli names kept up their prayers".
+
+**Medium**
+- Three-way split: framed as the book's own grouping ("Drawing on these reports and those below, this book groups the concerns as three"). Mutahhari's two groups are cited p. 13.
+- "God merged with the world": now grounded in held text. Khomeini grieved that Sadra was called a heretic (`forty_hadith` p. 402). He pictured God asking those who accused the holders of the unity of being of unbelief without studying it "as the sages teach it" (p. 345). Amuli reports the charge of "incarnation, union with the divine" (`inner_secrets` p. 163). The word "pantheism" is gone from body and point notes. The two halves are "put plainly" as the book's own paraphrase, and the conclusion now reads "neither makes the world God nor puts God inside a man". The brief and ARGUMENT still say "neither pantheism nor licence" and could be synced.
+- D20 (critics): §3 opens with "No critic's own writing is among the books held for this one, so the concerns are heard here through those who answer them." The closer now reads "The concerns, heard through those who answer them, therefore meet an answer at each point."
+- "Either reading": now "On this book's reading, neither account makes a man God". ¶23 is attributed ("The lecture adds that later Sufis rejected…").
+- "This settles the puzzle" is now "That may answer the puzzle the sober left".
+- Tabatabaʾi story: scoped to "Ibn ʿArabi's work as a whole" and to a book "on the names of God". It now says "judging Ibn ʿArabi's claims… 'needs someone who has the experience'", and "it may take experience to judge it" is hedged.
+- Sadra: "set the theory out in reasoned form… through Sadra" removed. The box now says Sadra "wanted to give it a reasoned form and found that very difficult, and with his gradation of being he came very close to it". "Each closer than the last" and "one step past where reasoning stopped" are cut.
+- Qadiriyya is cited to `light` p. 32. "One of the great Sufi orders" is sourced to L13 ¶34. The chain stays at p. 34.
+- "The ʿurafaʾ were sincere" now reads "On Mutahhari's view the ʿurafaʾ were sincere, though they could err."
+- D20 (Bayazid): beside "stopped at the river", the text now says Mutahhari "passes on the report that Bayazid spoke of 'subsistence through God' too" (`light` p. 25).
+- D20 (creation's reality): a new paragraph sets the views side by side. Khomeini writes "there is nothing but Allah" and the waves "do not exist independently" (`light` p. 144). The Kernel, as Tihrani records Tabatabaʾi, reckons existents "as imaginary" and "as shadows" (p. 84). Then: "Where the lectures stress that creation is real, these masters stress that it has no existence of its own. Both deny that anything stands beside God." The words "for both halves" are cut.
+- Nahj 1.1.1: the oration was cut in the chain pass (see below), so the `ar` block and its [VERIFY] are gone. Ch 14 now has no open markers. The Arabic can be assembled with certainty, by script, from `nahj.md` lines 4204 → 4203 → 4202. The English order on p. 121 confirms the sequence, and the only repair is the shadda moved back onto the lam: مع کلّ شيء لا بمقارنة وغير کلّ شيء لا بمزايلة. This is ready if the oration is restored.
+
+**Low (clear fixes)**
+- Abu Dharr now follows p. 23: "taken him for a heretic and killed him", plus "could not have borne what Salman held". "No ordinary believer" is cut.
+- Bayazid and renunciation: he set little value on it, being after intoxication (L13 ¶17), and the days are cited to `kernel` p. 73. The Kernel/Ch 11 sentence is cut for length.
+- Junayd's rank: "Junayd himself held sobriety to be the higher state".
+- Cut: "which any believer can keep", the §1 aphorism closer ("a secret kept and a theory written…"), and the §2 recap's second half.
+- Musabbihat cited `[@mafatih, p. 1036]`.
+- Who's Who box moved before the paragraph that uses "Seal of the Saints". "The lectures decline to judge" and the duplicate Amuli line are cut from the box.
+- "The Shia will say" is now "In the lecture's report, the Shia answer that visions take the shape…".
+- ¶55 (garbled): "and says so because 'we shouldn't be unjust'" is now "in fairness he found the Sunni case 'much much more powerful'".
+- Kernel p. 84 is now introduced as "*Kernel of the Kernels*, which sets down ʿAllama Tabatabaʾi's lectures as his student Tihrani recorded them".
+- Khomeini p. 345 is now "as the sages teach it". His rebuke of mystics who belittle the jurists is cut.
+- Length: body ~2,890 words by `voice.py` (was ~3,180).
+
+**Chain audit (`reviews/voice/14-chain-answers.json`, 24% idle)**
+- Unity of being: the verse, the lectures, and one image (Khomeini's sea and waves) remain. The sea and waves was kept over Imam ʿAli's oration because, after the fact-check fixes, it carries the D20 side-by-side. The oration (¶23) and its restating gloss (¶24) are cut.
+- ¶28 (Sadra/Khomeini legacy) is folded: "found no better language" goes into the Tabatabaʾi paragraph, and Sadra goes into the box. The legacy line is cut.
+- ¶34 (Khomeini's counter-charge) is folded into the second concern as the held evidence for it.
+- ¶41: the closing question is now a hand-off in a clause: "Chapter Fifteen takes up how the road became such orders and where Shia stand among them."
+- Point notes for all three sections are updated to match.
+
+**Checks:** `voice.py profile` PASS (longest paragraph 108). `punct`: remaining flags are short tails that read well. `build.py check` shows no markers in Ch 14. `build.py pdf book2 "14*"` builds. Every quotation was re-checked by script against the previous draft or the extracts.
