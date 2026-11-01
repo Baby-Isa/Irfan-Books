@@ -1,6 +1,6 @@
 # Chapter 14: Case brief
 
-**Status:** draft, Stage 1 of the 2026-11-01 pipeline (D55; no Gate A in chat: the user asked for Ch 13–17 to be written autonomously). Next: Fable challenge (Stage 2). Ladder: `docs/ladders/14.md`. Built from `docs/outline/part-4.md` (Ch 14), whose quote ledger, sources and cuts still apply except where the ladder's "Changes from the outline" says otherwise.
+**Status:** Stage 2 (Fable challenge) done, 2026-11-01 (D55; no Gate A in chat: the user asked for Ch 13–17 to be written autonomously). Next: prose (Stage 3). Ladder: `docs/ladders/14.md` (v2, with "Fable review" at its foot). Built from `docs/outline/part-4.md` (Ch 14), whose quote ledger, sources and cuts still apply except where the ladder's "Changes from the outline" says otherwise.
 **Title:** Drunk and sober
 **Serves:** B4, Part Four "Fellow travellers" (`docs/ARGUMENT.md`; `docs/ladders/00-book-chain.md` line 14)
 
@@ -9,12 +9,12 @@
 ## Chapter points
 - **14.1** Of those who reached annihilation, the drunk stayed lost in it and spoke of it, while the sober came back, kept its secret, and went further. [B4]
 - **14.2** Ibn ʿArabi gave what they saw a theory, the unity of being: there is one existence, and creation is its real manifestation, neither God nor apart from Him, known by experience rather than argument. [B4]
-- **14.3** The critics feared a path outside Islam, a God merged with the world, and the law set aside; the masters' own words and lives answer each fear, and only Ibn ʿArabi's own loyalties stay open. [B4]
+- **14.3** The critics feared that the ʿurafaʾ were not sincere Muslims, that their God was merged with the world, and that the law was set aside; the masters' own words and lives answer each fear, and only Ibn ʿArabi's own loyalties stay open. [B4]
 
 ## Sections
 1. **Lost in God, or back with God** [14.1]
    - **Point:** Of those who reached annihilation, the drunk stayed lost in it and spoke of it, while the sober came back, kept its secret, and went further.
-   - **Paragraph points:** the proof ladder in `docs/ladders/14.md`, §1 (Bayazid; his days of renunciation; "Praise is to me" and its two readings, Q 28:30; Hallaj and the secret; why secrets are kept, Abu Dharr and Salman; Junayd; the river; Junayd's night prayer).
+   - **Paragraph points:** the proof ladder in `docs/ladders/14.md`, §1 (Bayazid; his days of renunciation in two lines; "Praise is to me" and its two readings, Q 28:30; Hallaj: not excused by the jurists, excused and blamed by the ʿurafaʾ; why secrets are kept, Abu Dharr and Salman; Junayd; the river, as the Sheikh's account; Junayd's night prayer; hand-on: the secret kept and the theory written, how can both be true?).
 2. **A theory of what they saw** [14.2]
    - **Point:** Ibn ʿArabi gave what they saw a theory, the unity of being: one existence, creation its real manifestation, neither God nor apart from Him, known by experience rather than argument.
    - **Paragraph points:** `docs/ladders/14.md`, §2 (who; one existence, Word Study box; where creation is, Q 57:3; Nahj 1.1.1; not God and not nothing, the sea and the waves; above reason; the Sheikh finds Tabatabaʾi in Ibn ʿArabi; "no better language").
