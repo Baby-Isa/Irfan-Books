@@ -8,13 +8,13 @@ chapter: 16
 So You speak to him secretly and he works for You openly. [@duas_munajat_shabaniyah, §111]
 :::
 
-The Munajat Shaʿbaniyyah asks to be made one of those whom God calls and who answer Him, and the line above describes each of them, one to whom God speaks in secret and who works for Him in the open. Imam ʿAli (as) once described people much like these to Kumayl ibn Ziyad, whose duʿa many of us hear on Thursday evenings [@mafatih, p. 129]. Kumayl recalls that Imam ʿAli "took my hand and led me toward the cemetery. When he reached the desert, he sighed deeply" [@nahj, 3.133]. There, speaking of the few on earth who uphold God's proof, he said:
+The Munajat Shaʿbaniyyah asks to be made one of those whom God calls and who answer Him. In the line above, God speaks to such a person in secret, and he works for Him in the open. Imam ʿAli (as) once described people much like these to Kumayl ibn Ziyad, whose duʿa many of us hear on Thursday evenings [@mafatih, p. 129]. Kumayl recalls that Imam ʿAli "took my hand and led me toward the cemetery. When he reached the desert, he sighed deeply" [@nahj, 3.133]. There, speaking of the few on earth who uphold God's proof, he said:
 
 ::: {.quote ar="وصحبوا الدنيا بأبدان أرواحها مُعَلّقة بالمحلّ الأعلى أولئك خلفاء الله في أرضه والدعاة إلى دينه. آه آه شوقًا إلى رؤيتهم." source="Nahj al-Balagha"}
 In this world they live in bodies whose spirits are linked to the highest abode. They are God's vicegerents on his earth, who call to his religion. Ah! Would that I could see them! [@nahj, 3.133]
 :::
 
-This book reads the two side by side, because Imam ʿAli's description holds both halves of the Munajat's line. These people live in their bodies in this world, among everyone else, while their spirits are linked to the highest abode, and their work on earth is to call people to God's religion. Murtada Mutahhari calls them the friends of God, "who exist in every age", and quotes the saying shortly before he introduces the four journeys of the mystics [@light, p. 49].
+This book sets Imam ʿAli's words beside the Munajat's line because they hold both its halves. These people live in their bodies in this world, among everyone else, while their spirits are linked to the highest abode, and their work on earth is to call people to God's religion. Murtada Mutahhari calls them the friends of God, "who exist in every age", and quotes the saying shortly before he introduces the four journeys of the mystics [@light, p. 49].
 
 Chapter Twelve left the traveller coming back to himself, sober, and called annihilation a beginning. This chapter follows him the rest of the way, which ends with him back among people and still with God. The Prophet ﷺ and the Imams (as) walked it to the end, and in this book's reading Imam al-Husayn (as) walked it as far as Karbala.
 
@@ -83,26 +83,26 @@ The road back has two more journeys: the third returns that servant to creation,
     b. The fourth brings him down to the level of ordinary people, and for the Prophet ﷺ mixing with them is easiest, because he sees everything as God's creation, connected to Him.
 ::::
 
-After the second journey the traveller still faces God rather than the people he left behind, and in the third the road turns back towards them. He comes "back from God to the world under the Wilayah of the Lord", and he is shown how anything can exist beside God at all. He is taken through the world of the names and the world of angels and spirits, unseen worlds that Chapter Five found to lie in depth rather than distance, before he reaches the material world. He sees all three as "different manifestations of the names of Allah", and what he sees gives him certainty, as a verse of Surah al-Anʿam says of Prophet Ibrahim (Abraham in this translation):
+After the second journey the traveller still faces God rather than the people he left behind, and in the third the road turns back towards them. He comes "back from God to the world under the Wilayah of the Lord" and is shown how anything can exist beside God at all. He passes through the world of the names and the world of angels and spirits to the material world. Chapter Five showed the unseen worlds lying in depth rather than distance, and the traveller now sees all three as "different manifestations of the names of Allah". What he sees gives him certainty, as a verse of Surah al-Anʿam says of Prophet Ibrahim:
 <!-- src: L09 ¶83-85 -->
 
 ::: {.ayah ref="6:75"}
 Thus did We show Abraham the dominions of the heavens and the earth, that he might be of those who possess certitude.
 :::
 
-In this verse "dominions" translates *malakut*, which names the world of angels and spirits behind the heavens and the earth. Ibrahim was shown it so that he would be certain, and the lectures give the third journey the same outcome, "reassurance about everything".
+In this verse "dominions" translates *malakut*, which names the world of angels and spirits behind the heavens and the earth. Ibrahim (Abraham in this translation) was shown it so that he would be certain, and the lectures give the third journey the same outcome, "reassurance about everything".
 <!-- src: L09 ¶83, ¶85 -->
 
 Certainty of this kind is meant to be passed on; the traveller now knows God's attributes and acts and "could inform others about it". To take an everyday example, each time we say "In the Name of Allah, the All-beneficent, the All-merciful" (Q 1:1), we call God merciful because the Prophet ﷺ told us so, and "otherwise we couldn't know". From this point Sheikh Bahmanpour stops calling him a mystic and calls him the knower. Mutahhari gives the third journey the same purpose: "In the third journey, he returns towards the creation, without becoming separated from God, in order to guide the people" [@light, pp. 49–50].
 <!-- src: L09 ¶85-86 -->
 
-The lectures describe the fourth journey, made in creation by God, through the Prophet ﷺ. He is shown the reality of things and their effects in this world and the next, and "the way everything returns to Allah", so that he can tell people "the harms and benefits of everything and the causes of felicity or misery". For Mutahhari the fourth journey "is amongst the people while still united with God", and in it the ʿarif "seeks to guide their affairs so as to lead them towards God" [@light, p. 50].
+The lectures tell of the fourth journey, made in creation by God, through what is shown to the Prophet ﷺ: the reality of things and their effects in this world and the next, and "the way everything returns to Allah". He can then tell people "the harms and benefits of everything and the causes of felicity or misery". For Mutahhari the fourth journey "is amongst the people while still united with God", and in it the ʿarif "seeks to guide their affairs so as to lead them towards God" [@light, p. 50].
 <!-- src: L09 ¶87-88 -->
 
-Whether a man who has seen only God can live among people again depends on where the road has left him. For mystics who have finished only the first journey, the lectures say, it is "very difficult for them to mix with the people", and the drunk travellers of Chapter Fourteen stayed lost in annihilation and never went past it. ʿAllama Tabatabaʾi describes a traveller plunged in the vision of God, a state the gnostics call "abiding in Allah", and quotes a gnostic who lived "among the people for 30 years". They thought he shared in everything they did, while he "did not see them and did not know anyone but Allah" [@light, pp. 63–64]. Setting this gnostic beside the Sheikh's remark is this book's reading.
+Whether a man who has seen only God can live among people again depends on where the road has left him. The lectures find it "very difficult" for mystics who have finished only the first journey "to mix with the people", and the drunk travellers of Chapter Fourteen stopped there. ʿAllama Tabatabaʾi quotes a gnostic plunged in the vision of God who lived "among the people for 30 years". They thought he shared in everything they did, while he "did not see them and did not know anyone but Allah". The gnostics, he adds, call that state "abiding in Allah" [@light, pp. 63–64]. Setting him beside the Sheikh's remark is this book's reading.
 <!-- src: L09 ¶91 -->
 
-The fourth journey removes the difficulty. In the Sheikh's words it brings him "down to the level of ordinary people", so that he can live with them and guide them. For the Prophet ﷺ, mixing with people is the easiest thing of all, because he sees everything, people included, as God's creation and connected to God.
+The fourth journey removes the difficulty. In the Sheikh's words that journey brings its traveller "down to the level of ordinary people", so that he can live with them and guide them. For the Prophet ﷺ, mixing with people is the easiest thing of all, because he sees everyone as God's creation and connected to God.
 <!-- src: L09 ¶91 -->
 
 ## Who completes it
@@ -118,15 +118,15 @@ The fullest form of the return belongs first to the Prophet ﷺ and the Imams (a
 6. Therefore both place the fullest form of the return first in the Prophet ﷺ and the Imams (as), and both leave the way open as far as God gives; for us now, the traveller stays in society at every stage.
 ::::
 
-A road this high raises the question of who walks it to the end. The second journey has already set a limit, since only the Prophet ﷺ has no one above him. In the lectures, the third journey is open to "some very high caliber mystics", whereas the fourth belongs to the Prophet ﷺ and, as the Sheikh goes on, to his successors, the Imams (as).
+A road this high raises the question of who walks it to the end. The second journey has already set a limit, since only the Prophet ﷺ has no one above him. In the lectures the third journey is open to "some very high caliber mystics". The fourth belongs to the Prophet ﷺ and, as the Sheikh goes on, to the Imams (as) who succeed him.
 <!-- src: L09 ¶87, ¶89 -->
 
 In the Imams (as), the knowledge of the fourth journey stayed inside the law. When people asked them about anything, they knew the answer from "an inner knowledge in every instance". Yet, as Sheikh Bahmanpour adds, "of course, they follow the Sharia or the Prophet", and they gave their answers by referring to the Book and the shariʿa. Chapter Twelve found the Imams holding the realms of unity and plurality together.
 <!-- src: L09 ¶89 -->
 
-Whether holding God's world and ours at once belongs to them alone is a question ʿAllama Tabatabaʾi weighs in *Kernel of the Kernels*. The strong wayfarer, he says, is the one who, while witnessing these states, "also attends to the world of pluralities and who takes care of both the worlds". Of this rank he writes that it is "very sublime and elevated, and access to it very difficult. Perhaps it is exclusive to the prophets and the awliya' and whoever God wishes" [@kernel, p. 20]. The awliyaʾ are the friends of God, Mutahhari's name for the people Imam ʿAli (as) described to Kumayl [@light, p. 49].
+Whether holding God's world and ours at once belongs to them alone is a question ʿAllama Tabatabaʾi weighs in *Kernel of the Kernels*. The strong wayfarer, he says, is the one who, while witnessing these states, "also attends to the world of pluralities and who takes care of both the worlds". Of this rank he writes that it is "very sublime and elevated, and access to it very difficult. Perhaps it is exclusive to the prophets and the awliya' and whoever God wishes" [@kernel, p. 20]. Mutahhari uses the same word, *awliyaʾ*, for the friends of God whom Imam ʿAli (as) described to Kumayl [@light, p. 49].
 
-Tabatabaʾi finds both worlds held together in those who reach this rank. Inwardly they enjoy God's bounty described in the words "I have with God certain states which are beyond the capacity of any archangel", and he goes on, "Their outward appearance is a manifestation of" a verse in which the Qur'an has the Prophet ﷺ tell people [@kernel, p. 20]:
+Tabatabaʾi finds both worlds held together in those who reach this rank. Inwardly they enjoy God's bounty described in the words "I have with God certain states which are beyond the capacity of any archangel". Of what others see he writes, "Their outward appearance is a manifestation of" a verse in which the Qur'an has the Prophet ﷺ tell people [@kernel, p. 20]:
 
 ::: {.ayah ref="18:110" words="1-11"}
 Say, ‘I am just a human being like you. It has been revealed to me that your God is the One God.’
@@ -139,7 +139,7 @@ Sufyan al-Thawri, an early mystic who died in 161/777, lived in the time of Imam
 <!-- src: L12 ¶14 -->
 :::
 
-The rank is high, yet Tabatabaʾi keeps the road towards it open by separating the office from the station. In his words, "the office of prophethood and Imamate is something exclusive, but attainment to the station of absolute tawhid and fana' in the Essence of the One‑which is called wilayah‑is not at all exclusive". Here *wilaya* is the station itself, the friendship with God that the road reaches, rather than the guardianship that carries the traveller along it. The Prophet ﷺ called his community to the place where he himself stood, and that call "implies the possibility of travelling towards that purpose" [@kernel, p. 20]. Tabatabaʾi cites a verse of Surah al-Ahzab for that possibility:
+The rank is high, yet Tabatabaʾi keeps the road towards it open by separating the office from the station. In his words, "the office of prophethood and Imamate is something exclusive, but attainment to the station of absolute tawhid and fana' in the Essence of the One‑which is called wilayah‑is not at all exclusive". Here *wilaya* is the station itself rather than the guardianship that carries the traveller along the road. The Prophet ﷺ called his community to the place where he himself stood, and that call "implies the possibility of travelling towards that purpose" [@kernel, p. 20]. Tabatabaʾi cites a verse of Surah al-Ahzab for that possibility:
 
 ::: {.ayah ref="33:21"}
 There is certainly a good exemplar for you in the Apostle of Allah—for those who look forward to Allah and the Last Day, and remember Allah much.
@@ -172,7 +172,7 @@ The Mafatih records how Imam al-Husayn (as), whom it calls the Chief of Martyrs,
 O Allah, (please) make me fear You as if I can see You. [@duas_dua_arafah_imam_husain, §182]
 :::
 
-This book reads the scene as both sides of the return in one moment: the Imam asked to fear God as if he could see Him, before God as a beggar and with his household around him.
+This book reads the scene as both sides of the return in one moment: with his household around him, the Imam stood before God as a beggar and asked to fear Him as if he could see Him.
 
 The Imam who prayed this at ʿArafah was martyred at Karbala on the day of ʿAshura [@mafatih, p. 401], and he stayed with his people to the last. Ayatullah Khomeini counts him with the prophets who established justice and rose against the wrongdoers. Recited properly, he writes, such prayers lessen a person's attachment to himself, and he "becomes more active and ever ready to render service to his fellow human beings". He adds of the Imams, who all recited the Munajat Shaʿbaniyyah according to the reports he cites, "Those who recited the Munajat Sha'biniya, wielded the sword also" [@light, p. 138].
 

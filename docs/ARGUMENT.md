@@ -185,13 +185,13 @@ _Tone: the analytical step back after the crescendo. Calm, clear, curious._
 - → If authority belongs to the Imam, what does the completed journey look like in him?
 
 ### Part Five: The Destination (B5). What is the road for?
-_Divider (Munajat §128–131): "My Lord, let me be attached to the Light of Your Majestic Glory, so that I may know You alone, be away from others, and have a heart fearful of You and an eye watchful of You." [@light, p. 166]_
+_Divider (Munajat §128–131): "My Lord, (please do) submerge me in the most blissful lights of Your majesty, so that I will recognize You and renounce all else except You, and that I will be fearful of and careful with You." [@duas_munajat_shabaniyah, §128–131]_
 _Tone: the emotion comes back and is brought home._
 
 **Ch 16. Back among people.** (old 16, "The four journeys and the perfect human"; ends on Karbala)
 - **Conclusion:** The completed journey comes back to people, with God, as the Prophet and the Imams show, to Karbala.
 - 16.1 After fana the road goes on and the traveller returns to creation: the four journeys, with their Quranic anchors. [B5] L09 ¶70–88, ¶91 (old 16.1; the Nahj 3.133 scene of a face comes first, FRAMEWORK §9; added: `light` pp. 49–50; `inner_secrets` p. 140)
-- 16.2 How far ordinary believers share in that return is left open: the lecturer reserves the completed fourth journey for the Prophet and the Imams; ʿAllama Tabatabaʾi, gently set beside him, holds that wilaya is not exclusive and others reach it in their measure; both place the full return in the Prophet and the Imams. [B5] L09 ¶87–89 (old 16.3; side by side: `kernel` p. 20; `light` p. 64; D25). The `[QUERY]` of v2.1 is resolved: L09 ¶89 is followed over ¶87 (D39).
+- 16.2 How far ordinary believers share in that return is left open: the lecturer reserves the completed fourth journey for the Prophet and the Imams; ʿAllama Tabatabaʾi, gently set beside him, holds that wilaya is not exclusive and others reach it in their measure; both place the fullest form of the return first in the Prophet and the Imams. [B5] L09 ¶87–89 (old 16.3; side by side: `kernel` p. 20; `light` p. 64; D25). The `[QUERY]` of v2.1 is resolved: L09 ¶89 is followed over ¶87 (D39).
 - 16.3 The Prophet and the Imams embody this return; Karbala is offered to the reader as a reflection on it, through Duʿa ʿArafah. [B5] L09 ¶87–89 (old 16.2; added, D16: `light` p. 138; `duas_dua_arafah_imam_husain` §742–743, §790–791; Mafatih pp. 374, 401). Where a line is given as Imam Husayn's, the main body of the prayer is used (FRAMEWORK §8.2). The chapter ends on this reflection.
 - → The friends of God return to people. Where does every soul return?
 

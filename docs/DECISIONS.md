@@ -342,3 +342,10 @@ The user rewrote Ch 2's "Light in the heart" through several rounds in chat; wha
 
 ## 2026-11-01: Ch 17 fix pass, point wording and the fire
 Ch 17's point reads "ʿirfan is making that return willingly and in this life" (clearer than "willingly, now", since the chapter sets this life against the return after death). The Part Five divider, ladder 17 and ARGUMENT Ch 17 follow it; B5 and the book-chain line are unchanged. The radiya/rida link is dropped, because `forty_hadith` p. 207 does not support it. On the fire, the chapter keeps the lecture's voice only (Khomeini p. 137 cut, so 17.3 is no longer side by side). See `reviews/book2-17.md` "Fixes applied".
+
+## 2026-11-01: Ch 16 fix pass, the return's fullest form, Karbala and wilaya
+- **Common ground (§3):** "the fullest form of the return belongs first to the Prophet ﷺ and the Imams (as)", replacing "the whole return"; the Sheikh's opening of the third journey to "some very high caliber mystics" and Tabatabaʾi's "Perhaps it is exclusive to the prophets and the awliya' and whoever God wishes" are quoted as they stand. Brief, ladder and ARGUMENT follow.
+- **Karbala:** kept (book chain line "to Karbala", user-approved), but every place no source states it is marked as this book's reading or reflection (opening, §4 opener, close).
+- **wilaya:** two senses named where they meet (God's guardianship of the traveller; the station of His friends, `kernel` p. 20); GLOSSARY updated.
+- **Nahj 3.133 Arabic:** copied by script from `sources/extracts/nahj.md` p. 737 (bidi controls stripped, split diacritics rejoined, the line-broken بالمحلّ and the split رؤيتهم rejoined; script in the review's fix log). [VERIFY] closed, as for Nahj 3.221 in Ch 13.
+- **Epigraphs:** Munajat English taken from the duas extract so its number matches the Arabic (Ch 16 §111; Part Five divider §128–131, now cited).

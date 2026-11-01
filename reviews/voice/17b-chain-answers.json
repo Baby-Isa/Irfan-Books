@@ -1,0 +1,103 @@
+{
+  "sections": {
+    "1": {
+      "point": "Open on a scene every reader knows (the deathbed recitation), name the return that the words said at a death describe, and announce that this chapter follows every soul back to God and that irfan is making that return willingly in this life.",
+      "steps": [
+        "A familiar scene: Yasin at the bedside and the words of Baqarah at a death.",
+        "Those words name a return every soul makes; the chapter follows that return (one-sentence recall of Chapter Sixteen).",
+        "Irfan is that return made willingly and in this life.",
+        "The Qur'an speaks of the return in pictures, so the chapter must first settle how such pictures are read."
+      ]
+    },
+    "2": {
+      "point": "The Qur'an's pictures of the next world have an inner meaning, which may be read only where it agrees with the outer meaning and never replaces it.",
+      "steps": [
+        "A Qur'anic picture (the collar of Yasin) that no one reads literally in this world, so its meaning lies inside the picture.",
+        "Inner meaning is not licence: two kinds of reading are ruled out (arbitrary mystic meaning; an alien scheme laid over every verse).",
+        "The rule: the inner meaning must agree with the outer and the outer stays; meaning has layers; the model is the parable.",
+        "The opposite error, denying inner meanings altogether, also closes the path.",
+        "Apply to the next world: the chain of al-Haqqa may be material and may be the chain of ambitions; both readings stand.",
+        "The Qur'an itself warrants this: the blind in the Hereafter are not sightless, so blindness there is blindness of the heart, and the chain is read as the collar is."
+      ]
+    },
+    "3": {
+      "point": "Every soul goes back to God along the road it came by, handing back in reverse order the four gifts it received.",
+      "steps": [
+        "Tusi's reading of the return is a mystical reading that keeps the material sense (ties to Section 2).",
+        "For Tusi the return is a going back in reverse; al-A'raf says as God brought us forth so we return.",
+        "The road in: existence, then knowledge, then power, then will, each shown from the Qur'an or from a child's growth.",
+        "The road back reverses the order: will, power, knowledge, existence; God asks it gradually."
+      ]
+    },
+    "4": {
+      "point": "Each gift handed back opens a station on the path, and each is then given back by God without limit; that is paradise.",
+      "steps": [
+        "Will handed back opens contentment (rida); and the will comes back everlasting, joined to God's (Qaf, Ridwan).",
+        "Power handed back opens reliance (tawakkul), which is not passivity.",
+        "Knowledge handed back opens submission (taslim).",
+        "Existence handed back opens annihilation (fana).",
+        "God returns all four new and without limit; for Tusi that is paradise."
+      ]
+    },
+    "5": {
+      "point": "The return is made by everyone: a believer who did not make it here is taken through it after death and needs intercession to finish; a will that never yields meets each gift as its opposite, which is hell, and hell is the soul's own state rather than God's revenge.",
+      "steps": [
+        "A believer who did not give the gifts back here goes through the return involuntarily, with fear, in barzakh and at the resurrection.",
+        "He cannot finish alone: paradise is above our level and the believers' light is incomplete, so intercession is needed.",
+        "The light is completed through the Prophet, as a promise that he will not be humiliated.",
+        "A will that never turns carries its opposition over and God's will prevails over it.",
+        "A will held in check is torment; the chain of seventy cubits may be that held will.",
+        "All four gifts return as the opposite of their stations: dissatisfaction, helplessness, ignorance and humiliation, separation; that is hell.",
+        "Hell is not God's revenge but the state the soul brings with it, though persistent opposition deserves wrath."
+      ]
+    },
+    "6": {
+      "point": "Irfan is making this inevitable return by choice and before death.",
+      "steps": [
+        "If the return comes to all, a reason is needed to make it now: Kubra's two journeys, involuntary and voluntary, the voluntary one a shortcut.",
+        "Two reasons: the involuntary road is longer and harder, and those who returned in this life already live beside God and the Great Terror does not touch them.",
+        "Therefore irfan is the return made willingly and in this life, through the four stations, inside the law and with a guide.",
+        "The Qur'anic words of return are spoken by the living of themselves (Baqarah), so the return belongs to this life."
+      ]
+    }
+  },
+  "paragraphs": {
+    "¶1": {"label": "advance", "why": "The hook: a scene the reader knows, which places Yasin and the Baqarah words that the chapter will return to."},
+    "¶2": {"label": "advance", "why": "Names the return, recalls Chapter Sixteen in one sentence, states the chapter thesis (irfan is the willing return) and sets up why Section 2 must come first."},
+    "¶3": {"label": "support", "why": "One-sentence frame for the Yasin verse that ¶4 argues from; it introduces the example rather than making the step."},
+    "¶4": {"label": "advance", "why": "The collar cannot be literal in this world, so its meaning lies inside the picture: the first step of the section."},
+    "¶5": {"label": "advance", "why": "Supplies the guard the point needs: an inner meaning is not any meaning; two kinds of reading are excluded. Khomeini's quotation is a second voice for the same guard, but the paragraph as a whole adds the step."},
+    "¶6": {"label": "advance", "why": "States the rule itself: inner agrees with outer and the outer stays; layers; the parable as model. This is the point's main clause."},
+    "¶7": {"label": "support", "why": "Authority for the other half of the point, that inner meanings are real and may not be denied, which ¶9 then uses ('we cannot deny the deeper meanings as well'). Short and could be folded into ¶6; weakest link in the section."},
+    "¶8": {"label": "advance", "why": "Moves the rule from this world to the next, which the point is about, and introduces the chain verse that ¶9 and ¶28 depend on."},
+    "¶9": {"label": "advance", "why": "Applies the rule: both readings of the chain stand. Supplies the 'never cancels' step for a next-world picture."},
+    "¶10": {"label": "advance", "why": "Shows the Qur'an itself carries the inner reading into the Hereafter (blindness that is not sightlessness), so the reading is warranted, not merely permitted."},
+    "¶11": {"label": "advance", "why": "Introduces Tusi's account as a reading of the kind Section 2 licensed; the bridge the section needs."},
+    "¶12": {"label": "advance", "why": "The core claim: the return is the road in reverse, with the A'raf verse as warrant."},
+    "¶13": {"label": "advance", "why": "First gift, existence, with its Qur'anic trace."},
+    "¶14": {"label": "advance", "why": "Second gift, knowledge, through the senses."},
+    "¶15": {"label": "advance", "why": "Third and fourth gifts, power and will, from the child's growth."},
+    "¶16": {"label": "advance", "why": "Reverses the order for the return and names the sequence Section 4 will follow; the sentence on God asking gradually hands over to the next section."},
+    "¶17": {"label": "advance", "why": "Will handed back opens contentment; Khomeini defines the station."},
+    "¶18": {"label": "support", "why": "Raises the objection (nothing left to enjoy) that the Qaf verse and ¶19 answer; it frames rather than supplies the step."},
+    "¶19": {"label": "advance", "why": "First instance of the point's second half: the will comes back everlasting and joined to God's; Ridwan shows contentment is the key to paradise."},
+    "¶20": {"label": "advance", "why": "Power handed back opens reliance, with the needed correction that reliance is not passivity."},
+    "¶21": {"label": "advance", "why": "Knowledge handed back opens submission, with Ibrahim as the Qur'anic case. The link from 'knows nothing of himself' to 'submission' is stated rather than shown."},
+    "¶22": {"label": "advance", "why": "Existence handed back opens annihilation; leans on Chapter Twelve, which is acceptable for the fourth and already-treated station."},
+    "¶23": {"label": "advance", "why": "Completes the point: all four returned new and without limit, and that is paradise. The closing sentence on Shaykh Baha'i and Khomeini is a detachable guard that does not say what is quoted."},
+    "¶24": {"label": "advance", "why": "The return happens involuntarily for a believer who left it undone; the first step of the section."},
+    "¶25": {"label": "advance", "why": "Why he cannot finish alone: paradise is above our level and the light is incomplete, so intercession is needed."},
+    "¶26": {"label": "advance", "why": "Completes the intercession step: the light is made whole through the Prophet, read as a promise against his humiliation. ¶25 ends on a question this answers."},
+    "¶27": {"label": "advance", "why": "Turns to the will that never yields: God's will prevails over it; sets the Mu'minun verse."},
+    "¶28": {"label": "advance", "why": "A held will is torment, and the chain of Section 2 is read as that will; ties the two halves of the chapter together."},
+    "¶29": {"label": "advance", "why": "All four gifts as opposites of their stations: the section's definition of hell."},
+    "¶30": {"label": "advance", "why": "Supplies the final clause of the point, that hell is not God's revenge but the soul's own state. The closing sentence on deserving wrath is set beside this without the link being drawn."},
+    "¶31": {"label": "restate", "why": "Its main claim, that the material reading stands beside the inner one, was already made in ¶9 and ¶10. The orphans verse and the dream model illustrate the earlier claim rather than add a step the point needs; the section's point is reached at ¶30."},
+    "¶32": {"label": "aside", "why": "A devotional coda introducing the Munajat quotation. The point does not need it; nothing later uses it."},
+    "¶33": {"label": "advance", "why": "Why make the return now: Kubra's two journeys, the voluntary one a shortcut."},
+    "¶34": {"label": "advance", "why": "The two reasons not to wait, the second new to the book, and the Anbiya verse that ¶35 reads."},
+    "¶35": {"label": "advance", "why": "Lands the chapter's conclusion from the verse: irfan is the return made willingly and in this life. The sentence listing the four stations is a one-line recap, acceptable at the landing."},
+    "¶36": {"label": "support", "why": "Qur'anic evidence for the 'in this life' half: the Baqarah words are said by the living of themselves. Also closes the frame opened in ¶1."},
+    "¶37": {"label": "restate", "why": "Summarises the book's answer to its opening question (shari'a, order, guide, roots, return). Nothing in it is new to the chapter's argument; the Fajr verse is a closing flourish rather than a step."}
+  }
+}

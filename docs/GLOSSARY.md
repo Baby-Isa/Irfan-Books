@@ -287,7 +287,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | waswas | waswaas | | Whispered temptations | L08 |
 | wali | wali | | Friend of God; singular of awliyaʾ | L02 |
 | Whispered Prayer of the Lovers | Munajat al-Muhibbin | | The ninth of the fifteen whispered prayers printed with the Sahifa Sajjadiyya (Chittick, p. 656) | L01 |
-| wilaya | wilayat, wilayatik | | Friendship with God; closeness and authority | L01 |
+| wilaya | wilayat, wilayatik | | Friendship with God; closeness and authority. Two senses, named where they meet (Ch 16): God's guardianship of the traveller (L09 ¶79), and the station of His friends (`kernel` p. 20) | L01 |
 | wilaya takwiniyya / tashriʿiyya | Wilayatu-e-Takvini / Tashri | | Authority over creation and over religion | L13 |
 | wujud | wajood | | Existence | L03 |
 | wudu | wuzu | | The ritual washing before prayer (ablution) | B2 Ch6 |
