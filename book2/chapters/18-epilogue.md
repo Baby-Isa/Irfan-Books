@@ -10,7 +10,7 @@ and they plead for [Allah’s] forgiveness at dawns.
 In a single verse, Surah Al ʿImran gives five marks of the people it praises. They are patient, truthful, obedient, and charitable. The fifth mark, in the words above, is that they plead for God's forgiveness at dawns. Sheikh Bahmanpour reports that someone once asked Imam al-Sadiq (as) how long a believer has to keep at it to reach that height. As he tells it, the answer was "one year is enough" [VERIFY: a printed source for this hadith of Imam al-Sadiq (as), if it is ever given as a hadith rather than as the Sheikh's report, L10 ¶26].
 <!-- src: L10 ¶26 -->
 
-That answer measures the road in time rather than in feats. It leaves open what is kept for the year and, as Chapter Seventeen asked in closing, how a believer begins this week. Each chapter has offered one small step in its Try this box, and the epilogue sets those steps on three rungs: a week, a month, and a year. The rungs are the book's own arrangement, resting on the lectures' advice to grow gradually. Let's begin with the rules that keep every rung safe.
+That answer measures the road in time rather than in feats. It leaves open what is kept for the year and, as Chapter Seventeen asked in closing, how a believer begins this week. Each chapter has offered one small step in its Try this box, and the epilogue sets those steps on three rungs: a week, a month, and a year. The rungs are the book's own arrangement, and they rest on the lectures' advice to grow gradually. Let's begin with the rules that keep every rung safe.
 <!-- src: L10 ¶23, ¶26 -->
 
 ::: {.words}
@@ -49,7 +49,7 @@ In a letter to his governor of Basra, Imam ʿAli (as) says the same. Content for
 An act that goes well invites the opposite mistake, which is taking on more and taking it faster. Chapter Nine told of the young man in Tehran whose daily Ziyarat ʿAshura put a light in his face, until an elder of the path told his father to make him stop. He was rushing, and the elder wanted "a linear gradual improvement" in place of a burst of effort that leaves a person abandoned by his own soul.
 <!-- src: L08 ¶24-26 -->
 
-A beginner who looks for a guide and finds none may conclude that the road is closed. In the Sheikh's account, one of those Chapter Seven set side by side, the first steps are the law and the guide who reads the soul's states comes after them. Before then a beginner needs a teacher who says which practices to begin with, as Mirza ʿAli Aqa Qadi set his beginners the Musabbihat, and ʿAllama Tabatabaʾi's general teacher is consulted as one consults anyone learned.
+A beginner who looks for a guide and finds none may conclude that the road is closed. Chapter Seven set the scholars' accounts side by side. In the Sheikh's, the first steps are the law, and the guide who reads the soul's states comes after them. Before then a beginner needs a teacher who says which practices to begin with, as Mirza ʿAli Aqa Qadi set his beginners the Musabbihat, and ʿAllama Tabatabaʾi's general teacher is consulted as one consults anyone learned.
 <!-- src: L07 ¶15-16 -->
 
 Any teacher who is found is tested as Chapter Seven tested a guide. One who breaks the law is ruled out, and wonders prove nothing about him. Only long company shows how far he has travelled, and where he turns people shows whether he is true.
