@@ -8,13 +8,13 @@ chapter: 17
 Even as He brought you forth in the beginning, so will you return.
 :::
 
-When someone in the family is dying, a relative often sits at the head of the bed and recites Surah Yasin. The Mafatih recommends reciting it "at the head of an ailing person", and Imam al-Sadiq (as) calls it "the heart of Quran" [@mafatih, p. 21]. When the end comes, those in the room say the words of Surah al-Baqarah that are said at every death.
+When someone in our family is dying, a relative often sits at the head of the bed and recites Surah Yasin. The Mafatih recommends reciting it "at the head of an ailing person", and Imam al-Sadiq (as) calls it "the heart of Quran" [@mafatih, p. 21]. When the end comes, those in the room say the words of Surah al-Baqarah that we say at every death.
 
 ::: {.ayah ref="2:156" words="6-10"}
 Indeed we belong to Allah and to Him do we indeed return.
 :::
 
-These words name a return that every soul makes. Chapter Sixteen followed the friends of God back to people, and this chapter follows every soul back to God by the road it came, as each soul gives back what it was given. ʿIrfan is making that return willingly, now. The Qur'an tells of the return mostly in pictures of collars, chains, gardens, and fire, and the surah recited at the bedside holds one of them, so the chapter first settles how such pictures are read. <!-- src: L09 ¶88; L16 ¶18-19 -->
+These words name a return that every soul makes. Chapter Sixteen followed the friends of God back to people, and this chapter follows every soul back to God by the road it came, as each soul gives back what it was given. ʿIrfan is making that return willingly, now. The Qur'an tells of the return mostly in pictures of collars, chains, gardens, and fire. The surah recited at the bedside holds one of them, so the chapter first settles how such pictures are read. <!-- src: L09 ¶88; L16 ¶18-19 -->
 
 ::: {.words}
 *taʾwil*: drawing out the inner meaning of a verse · *maʿad*: the return to God · *rida*: contentment with God's will · *tawakkul*: reliance on God · *taslim*: submission to God · *shafaʿa*: intercession
@@ -39,14 +39,14 @@ Near the start of Surah Yasin, the surah at the bedside, is a picture of those w
 Indeed We have put iron collars around their necks, which are up to the chins, so their heads are upturned.
 :::
 
-No unbeliever walks the street with an iron collar forcing his chin up, and no one reads the verse as a description of how unbelievers walk. The meaning lies inside the picture. The light of God is covered for such people, so they go through life without seeing what lies before them or behind them, and the next verse ends "so they do not see" (Q 36:9). <!-- src: L16 ¶9-12 -->
+No unbeliever walks the street with an iron collar forcing his chin up, and none of us reads the verse as a description of how unbelievers walk. The meaning lies inside the picture. The light of God is covered for such people, so they go through life without seeing what lies before them or behind them, and the next verse ends "so they do not see" (Q 36:9). <!-- src: L16 ¶9-12 -->
 
-If a verse can mean more than its words, it might seem that it can be made to mean anything. The lectures rule out two kinds of reading. One gives a verse a meaning "at the will of some mystic" that has no tie to the verse itself. The other takes a scheme from some other system of thought and lays it over every verse in the Qur'an. Ayatullah Khomeini sets the same guard. He writes that "Islam does not allow anybody to interpret the Qur'an according to his personal opinion or private judgment", and among those who do so he counts people who give the verses "some spiritual meaning" to suit their own wishes [@light, p. 110]. <!-- src: L16 ¶3-5 -->
+If a verse can mean more than its words, it might seem that it can be made to mean anything. The lectures rule out two kinds of reading. One gives a verse a meaning "at the will of some mystic" that has no tie to the verse itself. The other takes a scheme from some other system of thought and lays it over every verse in the Qur'an. Ayatullah Khomeini sets the same guard, writing that "Islam does not allow anybody to interpret the Qur'an according to his personal opinion or private judgment". Among those who do so, he counts people who give the verses "some spiritual meaning" to suit their own wishes [@light, p. 110]. <!-- src: L16 ¶3-5 -->
 
-What Sheikh Bahmanpour allows instead is "a type of insightful look at the verses of the Quran". Its rule is that the inner meaning must agree with the outer meaning and never go against it, and the outer meaning stays when the inner one is found. Meaning in the Qur'an has layers, and beneath each layer lies a deeper one. The model is a parable (*mathal*) such as the Verse of Light, which Chapter Two turned to, whose niche and lamp bring a meaning about God closer to the mind. Mirza Jawad Maliki Tabrizi guards the other side. To limit the Qur'an to its outward meaning and treat its inner meanings as false, he writes, "also closes the path of Qur'anic understanding" [@journey, p. 54]. <!-- src: L16 ¶5-8 -->
+What Sheikh Bahmanpour allows instead is "a type of insightful look at the verses of the Quran". Its rule is that the inner meaning must agree with the outer meaning and never go against it, and the outer meaning stays when the inner one is found. Meaning in the Qur'an has layers, and beneath each layer we find a deeper one. The model is a parable (*mathal*) such as the Verse of Light from Chapter Two, whose niche and lamp bring a meaning about God closer to the mind. Mirza Jawad Maliki Tabrizi guards the other side. To limit the Qur'an to its outward meaning and treat its inner meanings as false, he writes, "also closes the path of Qur'anic understanding" [@journey, p. 54]. <!-- src: L16 ¶5-8 -->
 
 ::: {.box-word title="Word Study: taʾwil and tafsir"}
-*Tafsir* is commentary on the plain meaning of a verse, whereas *taʾwil* draws out its inner meaning. Maliki Tabrizi names the two together when he speaks of the Qur'an's verses and "their commentary (tafsir) and esoteric meanings (tawil)" [@journey, p. 54]. An inner reading done well uncovers one side of the Qur'an and never claims the whole. Ayatullah Khomeini says of the commentaries the great gnostics wrote that "what they have written is not the exegesis of the Qur'an. At the most it can be said that they have exposed some aspects of it" [@light, p. 109]. He says the same of every commentator, since "The Qur'an is not a book all aspects of which may be exposed by us or by anybody else". What lies beyond us, he adds, is "to be explained by the Imams" [@light, p. 110].
+*Tafsir* is commentary on the plain meaning of a verse, whereas *taʾwil* draws out its inner meaning. Maliki Tabrizi names the two together when he speaks of the Qur'an's meanings and "their commentary (tafsir) and esoteric meanings (tawil)" [@journey, p. 54]. An inner reading done well uncovers one side of the Qur'an and never claims the whole. Ayatullah Khomeini says of the commentaries the great gnostics wrote that "what they have written is not the exegesis of the Qur'an. At the most it can be said that they have exposed some aspects of it" [@light, p. 109]. He says the same of every commentator, since "The Qur'an is not a book all aspects of which may be exposed by us or by anybody else". What lies beyond us, he adds, is "to be explained by the Imams" [@light, p. 110].
 :::
 
 The rule is tested by the verses about hell. Surah al-Haqqa describes a man led to the Fire, and the command given over him.
@@ -57,7 +57,7 @@ Then bind him in a chain, seventy cubits in length.
 
 If the collar of Surah Yasin is not seen on unbelievers in this world, the chain in the next may also be "something else". It may be the long chain of ambitions and ignorance that keeps them from seeing God. Both readings stand in the lectures, which grant that "we cannot deny that it might be the real material type of chain" and, in the same sentence, that "we cannot deny the deeper meanings as well". <!-- src: L16 ¶13-16 -->
 
-The Qur'an itself carries the inner reading into the next world. Surah al-Isra, which Chapter Four quoted on the soul's sight, says that whoever is blind in this world will be blind in the Hereafter (Q 17:72). Yet the people of hell are not sightless. Every nation that enters the Fire curses the one before it (Q 7:38), and the damned know one another well enough to quarrel. The blindness there is therefore the heart's blindness of here, and the chain there can be read as the collar here is read. <!-- src: L16 ¶16-17 -->
+The Qur'an itself carries the inner reading into the next world. Surah al-Isra, which Chapter Four quoted on the soul's sight, says that whoever is blind in this world will be blind in the Hereafter (Q 17:72). Yet the people of hell are not sightless; every nation that enters the Fire curses the one before it (Q 7:38), and the damned know one another well enough to quarrel. The blindness there is therefore the blindness of the heart we know here, and the chain there can be read as the collar here is read. <!-- src: L16 ¶16-17 -->
 
 The Qur'an's pictures of the next world therefore carry an inner meaning, which is read only where it agrees with the outer meaning and never cancels it. This chapter reads the return in that way and keeps both meanings in view.
 
@@ -82,17 +82,17 @@ Khwaja Nasir al-Din al-Tusi reads the verses on the return in this way. Sheikh B
 Khwaja Nasir al-Din al-Tusi died in 672/1273, the same year as Rumi [@light, p. 36]. He wrote the commentary on Ibn Sina's *Isharat* whose stages of the road Chapter Eight set beside its own [@light, p. 50]. Ayatullah Khomeini calls him "the best of the later scholars and the most perfect among the predecessors" [@forty_hadith, p. 517]. Sheikh Bahmanpour adds that Mulla Sadra copied long passages from Tusi's book on the return into his own *Asfar*. The reading of hell and paradise in this chapter comes from a scholar whom the great teachers of our tradition held in the highest regard.
 :::
 
-For Tusi, the return (*maʿad*) is a going back along the way we came. We entered this world by one road, and we go back to God by the same road, with the process run in reverse. The verse at the head of this chapter says as much. Surah al-Aʿraf promises that as God brought us forth in the beginning, so we will return. <!-- src: L16 ¶18-19 -->
+For Tusi, the return (*maʿad*) is a going back along the way we came. We entered this world by one road, and we go back to God by the same road run in reverse. The verse at the head of this chapter says as much. Surah al-Aʿraf promises that as God brought us forth in the beginning, so we will return. <!-- src: L16 ¶18-19 -->
 
-Let's start with how we came. Tusi traces the road by the way a child enters the world, and he finds four gifts given in order. Existence comes first. Surah Ghafir follows each of us from dust to a drop of fluid, then to a clinging mass, and then out into the world as an infant (Q 40:67). <!-- src: L16 ¶20 -->
+Let's start with how we came. Tusi traces the road by the way each of us entered the world, and he finds four gifts given in order. Existence comes first. Surah Ghafir follows each of us from dust to a drop of fluid, then to a clinging mass, and then out into the world as an infant (Q 40:67). <!-- src: L16 ¶20 -->
 
-Knowledge follows. Surah al-Nahl says that God brought us forth from our mothers' bellies "while you did not know anything", and then made for us hearing, eyesight, and hearts (Q 16:78). A newborn knows nothing, and what it comes to know reaches it through the senses. <!-- src: L16 ¶21 -->
+Knowledge follows. Surah al-Nahl says that God brought us forth from our mothers' bellies "while you did not know anything", and then made for us hearing, eyesight, and hearts (Q 16:78). A newborn knows nothing, and what we come to know reaches us through the senses. <!-- src: L16 ¶21 -->
 
 Power comes third. At first a baby can do nothing for itself, and then it can shout or crawl for what it wants, and its power grows as the child grows. Will comes last, once the child knows it has the power: it wants something, and it goes and gets it. <!-- src: L16 ¶22 -->
 
-The return runs the same road backwards, so the will is the first thing given back, then power, then knowledge, and last existence itself. None of this is asked at the start of life. For years a person grows in all four, wanting things, reaching for them, and getting them. Then, gradually, God asks the soul to turn and go the other way. <!-- src: L16 ¶22-23 -->
+The return runs the same road backwards, so the will is the first thing given back, then power, then knowledge, and last existence itself. None of this is asked at the start of life. For years we grow in all four, wanting things, reaching for them, and getting them. Then, gradually, God asks us to turn and go the other way. <!-- src: L16 ¶22-23 -->
 
-Every soul therefore returns to God by the road it came, and gives back in reverse order its will, its power, its knowledge, and its existence.
+Every soul therefore returns to God by the road it came. It gives back in reverse order its will, its power, its knowledge, and its existence.
 
 ## Will, power, knowledge, existence
 
@@ -107,12 +107,12 @@ Each gift given back becomes a station on the way to God, and God gives each bac
 6. Existence given back is annihilation (Chapter Twelve).
 7. God gives all four back, new and without limit (Q 50:34).
 8. This is Tusi's own teaching, which Ayatullah Khomeini quotes after a guard against union with God.
-9. Therefore: the four given back become four stations, and the giving back again is paradise.
+9. Therefore: the four given back become four stations, and their return from God is paradise.
 ::::
 
-The will is the first gift given back, and the station it opens is contentment (*rida*). A soul with no will of its own is content with whatever comes from God. Ayatullah Khomeini explains the term. The one who has reached this station "is one who has annihilated his will in the Divine Will, having no more a separate will of his own". Asked what he wished, one mystic replied, "My wish is not to wish at all" [@forty_hadith, p. 207]. <!-- src: L16 ¶23-24 -->
+The will is the first gift given back, and the station it opens is contentment (*rida*). A soul with no will of its own wants nothing but what comes from God, and is content with it. Ayatullah Khomeini explains the term. The one who has reached this station "is one who has annihilated his will in the Divine Will, having no more a separate will of his own". Asked what he wished, one mystic replied, "My wish is not to wish at all" [@forty_hadith, p. 207]. <!-- src: L16 ¶23-24 -->
 
-A soul that wants nothing for itself might seem to have nothing left to enjoy. Surah Qaf says the opposite of those in paradise.
+A soul that wants nothing for itself might seem to have nothing left to enjoy, but Surah Qaf says the opposite of those in paradise.
 
 ::: {.ayah ref="50:35"}
 There they will have whatever they wish, and with Us there is yet more.
@@ -120,11 +120,11 @@ There they will have whatever they wish, and with Us there is yet more.
 
 When one's will has become God's will, whatever one wishes one has, and the will is given back everlasting and joined to His. Tusi notes that the angel in charge of paradise is called Ridwan, a name built on the root of *rida*, so that no one enters without contentment. Paradise is full of treasures, and in the lectures' words, "the key to it is this contentment". <!-- src: L16 ¶24-25 -->
 
-Power is given back next, and its station is reliance on God (*tawakkul*). In its plain sense, Ayatullah Khomeini explains, *tawakkul* is the "admission of one's inability and reliance on one other than oneself" [@forty_hadith, p. 204]. Reliance could be mistaken for sitting and waiting for God to act, and the Sheikh rules that out himself: "whatever you do you know that this is not you. This is Him." Surah al-Talaq promises that "whoever puts his trust in Allah, He will suffice him" (Q 65:3). <!-- src: L16 ¶27-28 -->
+Power is given back next, and its station is reliance on God (*tawakkul*). In its plain sense, Ayatullah Khomeini explains, *tawakkul* is the "admission of one's inability and reliance on one other than oneself" [@forty_hadith, p. 204]. Reliance could be mistaken for sitting and waiting for God to act, and the Sheikh rules that out himself: "whatever you do you know that this is not you. This is Him." The power we use is God's, and Surah al-Talaq promises that "whoever puts his trust in Allah, He will suffice him" (Q 65:3). <!-- src: L16 ¶27-28 -->
 
-Chapter Twelve met the same truth at the summit of the road, where the traveller sees that there is no power and no strength except through God. Reliance is the station on the way there. The traveller acts on the truth before he sees it, in every task he takes up, knowing that the power in his hands is God's.
+Chapter Twelve met the same truth at the summit of the road, where the traveller sees that there is no power and no strength except through God. Reliance is the station on the way there. The traveller acts on it before he sees it, and in every task he takes up he knows that the power in his hands is God's.
 
-Knowledge goes back third, and its station is submission (*taslim*). The traveller knows that he knows nothing of himself, that God alone knows, and that whatever knowledge he has is God's gift. Surah al-Baqarah gives this submission to the Prophet Ibrahim (as). <!-- src: L16 ¶28-30 -->
+Knowledge goes back third, and its station is submission (*taslim*). The traveller knows that he knows nothing of himself. God alone knows, and whatever knowledge the traveller has is His gift. In Surah al-Baqarah this is the submission of the Prophet Ibrahim (as). <!-- src: L16 ¶28-30 -->
 
 ::: {.ayah ref="2:131"}
 When his Lord said to him, ‘Submit,’ he said, ‘I submit to the Lord of all the worlds.’
@@ -133,7 +133,7 @@ When his Lord said to him, ‘Submit,’ he said, ‘I submit to the Lord of all
 Duʿa ʿArafah, as given in the Mafatih, puts the same submission into the words of a prayer.
 
 ::: {.quote ar="إِلٰهِي أَنَا ٱلْجَاهِلُ فِي عِلْمِي" source="Duʿa ʿArafah"}
-O my God, I am ignorant despite my knowledge; [@duas_dua_arafah_imam_husain, §670]
+O my God, I am ignorant despite my knowledge [@duas_dua_arafah_imam_husain, §670]
 :::
 
 The one who prays has knowledge and calls himself ignorant all the same, because none of that knowledge was his own.
@@ -144,7 +144,7 @@ With all four given back, it might seem that nothing is left of the traveller. T
 
 This account is Tusi's own, and Ayatullah Khomeini quotes it from Tusi's commentary on Ibn Sina's *Isharat*. He sets it down just after a warning from Shaykh Bahaʾi that such sayings must never be taken to mean that God dwells in a servant or becomes one with him [@forty_hadith, pp. 516–517]. When the gnostic is cut off from himself and joined to God, Tusi writes, he "sees all powers as vanishing in Divine power and all sciences as drowned in Divine knowledge and all wills as vanishing in His will… At this time God, the Exalted, becomes his hearing and sight, power, knowledge and existence" [@forty_hadith, p. 517].
 
-Given back willingly, the traveller's will, power, knowledge, and existence become contentment, reliance, submission, and annihilation, and God gives each back without limit. In Tusi's reading, that is paradise. <!-- src: L16 ¶31 -->
+Given back willingly, the traveller's will, power, knowledge, and existence become contentment, reliance, submission, and annihilation. God gives each of them back without limit, and in Tusi's reading that is paradise. <!-- src: L16 ¶31 -->
 
 ## The return refused
 
@@ -162,9 +162,9 @@ The return happens whether or not a soul makes it: a believer who left it undone
 9. Therefore: the return is made, willingly or not.
 ::::
 
-Not every soul gives these four back in this life, and in the lectures' words the return happens all the same, "either voluntarily or involuntarily". A believer who has not made it here makes it in barzakh, the middle world of Chapter Five, and on the Day of Resurrection, with "lots of fears, lots of difficulty". There the will is taken from him, and he is shown that there is no power and no life but God's. <!-- src: L16 ¶39-41 -->
+Not all of us give these four back in this life, and in the lectures' words the return happens all the same, "either voluntarily or involuntarily". A believer who has not made it here makes it after death, in barzakh and on the Day of Resurrection, with "lots of fears, lots of difficulty". There, in the middle world Chapter Five described, the will is taken from him, and he is shown that there is no power and no life but God's. <!-- src: L16 ¶39-41 -->
 
-A believer cannot finish that road alone. Paradise, in this account, lies beyond our own level without intercession (*shafaʿa*), and it takes someone great to bring us there. Surah al-Tahrim shows the believers on the Last Day with a light running before them, and they ask for it to be made whole. <!-- src: L16 ¶34, ¶37 -->
+A believer cannot finish that road alone. Paradise, in this account, lies beyond our own level without intercession (*shafaʿa*), and it takes someone great to bring us there. Surah al-Tahrim shows the believers on the Last Day with a light running before them, but the light is not complete, and they ask for it to be made whole. <!-- src: L16 ¶34, ¶37 -->
 
 ::: {.ayah ref="66:8" words="34-38"}
 They will say, ‘Our Lord! Perfect our light for us
@@ -186,15 +186,15 @@ The other three gifts return in the same way, each as the mirror image of the st
 then he will neither live in it, nor die.
 :::
 
-Hell might then look like revenge, and the Sheikh answers that reading himself: "It is not a punishment which is brought to you by God. God doesn't want to revenge." Everything is God's creation, and only mercy comes from Him. A soul that has made itself unable to use God's will, power, and knowledge brings that state back with it, and it is separated from Him. The wrath is still real. In his own words, those who set their will against God's all their lives "will deserve the wrath of God". <!-- src: L16 ¶43, ¶47-48 -->
+Hell might then look like revenge, and the Sheikh answers that reading himself: "It is not a punishment which is brought to you by God. God doesn't want to revenge." Everything is God's creation, and only mercy comes from Him. A soul that has made itself unable to use God's will, power, and knowledge brings that state back with it and is separated from Him. Yet the wrath is real. In his own words, those who set their will against God's all their lives "will deserve the wrath of God". <!-- src: L16 ¶43, ¶47-48 -->
 
-If hell is the soul's own separation, the fire and the boiling water might seem to be only pictures. The lectures answer that "of course it's all true", because one reality takes a true form in each world. What is fire in this world is something else in the deeper worlds. Surah al-Nisaʾ says that those who consume the property of orphans ingest fire into their bellies (Q 4:10), and Chapter Five found in the same way that some rewards are the deeds themselves made visible. A dream shows how two forms of one thing can both be true: "in dreams you see something while in reality it is something else. Both of them are right." <!-- src: L16 ¶49, ¶51-52, ¶54 -->
+If hell is the soul's own separation, the fire and the boiling water might seem to be only pictures. The lectures answer that "of course it's all true", because one reality takes a true form in each world. What is fire in this world is something else in the deeper worlds. Surah al-Nisaʾ says that those who consume the property of orphans ingest fire into their bellies (Q 4:10). Chapter Five found in the same way that some rewards are the deeds themselves made visible. A dream shows how two forms of one thing can both be true: "in dreams you see something while in reality it is something else. Both of them are right." <!-- src: L16 ¶49, ¶51-52, ¶54 -->
 
 ::: {.box-story title="Story: Yusuf reads the king's dream"}
-Sheikh Bahmanpour explains dreams in this way. When the soul meets a meaning for which it has no picture, it clothes the meaning in a picture it already holds. Knowledge purifies, for instance, so a sleeper who is about to be given knowledge may see an ocean and find himself swimming in it. An interpreter then tells him what the picture answers to, and that, in his telling, is the whole idea of reading dreams. The king in Surah Yusuf saw seven fat cows devoured by seven lean ones (Q 12:43), and his courtiers could make nothing of it (Q 12:44). In the Sheikh's account, the king's soul had reached for strange pictures, "an image which is very weird", which no ordinary interpreter could read. The Prophet Yusuf (as) could. He read the cows as seven years of good harvests followed by seven hard years of famine (Q 12:47–48). The fat cows and the years of plenty were one thing seen in two worlds, and the one who knew could read the one from the other.
+Sheikh Bahmanpour explains dreams in this way. When the soul meets a meaning for which it has no picture, it clothes the meaning in a picture it already holds. Knowledge purifies, for instance, so a sleeper who is about to be given knowledge may see an ocean and find himself swimming in it. An interpreter then tells him what the picture answers to, and that, in his telling, is the whole idea of reading dreams. The king in Surah Yusuf saw seven fat cows devoured by seven lean ones (Q 12:43), and his courtiers could make nothing of it (Q 12:44). In his account, the king's soul had reached for strange pictures, "an image which is very weird", which no ordinary interpreter could read. The Prophet Yusuf (as) could. He read the cows as seven years of good harvests followed by seven hard years of famine (Q 12:47–48). The fat cows and the years of plenty were one thing seen in two worlds, and the one who knew could read the one from the other.
 :::
 
-Ayatullah Khomeini reads the fire of hell in the same two ways. In his words, "The Hereafterly form of our anger in this world is the fire of Divine Wrath in the next world." He keeps the outer fire beside the inner one as well: "The fire of the hell of deeds and the physical hell encompasses the without and travels towards the within" [@forty_hadith, p. 137]. The soul meets both, one rising from within the heart and the other coming in from without.
+Ayatullah Khomeini reads the fire of hell in the same two ways. He calls the fire of Divine Wrath in the next world "the Hereafterly form of our anger in this world", and he keeps the outer fire beside the inner one. In his words, "The fire of the hell of deeds and the physical hell encompasses the without and travels towards the within" [@forty_hadith, p. 137]. The soul meets both, one rising from within the heart and the other coming in from without.
 
 A believer who hears all this is left with fear and with hope, and the Munajat Shaʿbaniyyah holds the two in a single sentence.
 
@@ -219,7 +219,7 @@ The return is therefore made whether or not a soul makes it willingly. A believe
 6. Surah al-Fajr calls such a soul home (Q 89:27–28).
 ::::
 
-If every soul makes the return in the end, the effort of making it now needs a reason. Najm al-Din Kubra, whose ship and pearl Chapter Six used for the law and the path, gives one in advice the lectures pass on. God, he says, has set two journeys for the children of Adam, one involuntary (*qahri*) and one voluntary (*ikhtiyari*). Everyone meets the Lord on a journey through death, barzakh, and the resurrection that is "out of your control". The mystic's path (*suluk*) is the same meeting made by choice, and Kubra calls it a shortcut. <!-- src: L08 ¶5-7 -->
+If all of us make the return in the end, we need a reason to make it now. Najm al-Din Kubra, whose ship and pearl Chapter Six used for the law and the path, gives one in advice the lectures pass on. God, he says, has set one involuntary journey (*qahri*) and one voluntary journey (*ikhtiyari*) for the children of Adam. Everyone meets the Lord on a journey through death, barzakh, and the resurrection that is "out of your control". The mystic's path (*suluk*) is the same meeting made by choice, and Kubra calls it a shortcut. <!-- src: L08 ¶5-7 -->
 
 Chapter Four gave one reason not to wait: the involuntary journey is longer and harder. Kubra adds another. While others are still on that long road, those who took the voluntary one have already arrived and live beside God. Sheikh Bahmanpour reads a verse of Surah al-Anbiyaʾ as describing those who finished the return in this world. <!-- src: L08 ¶8; L16 ¶40 -->
 
@@ -229,14 +229,14 @@ The Great Terror will not upset them
 
 The Great Terror leaves them untouched because their return is already made. ʿIrfan, at the end of this book, is that return made now and by choice. The will is given back as contentment, power as reliance, knowledge as submission, and existence as annihilation. All four are given back inside the law and with a guide beside the traveller.
 
-The words for that return are already on our tongues. At a death we say "to Him do we indeed return" of the one who has gone. In Surah al-Baqarah, though, the speakers are the living. The verse describes "those who, when an affliction visits them" say these words of themselves (Q 2:156). The Qur'an puts the return in the mouths of the living, and the traveller says it of himself now and means it.
+The words for that return are already on our tongues. At a death we say "to Him do we indeed return" of the one who has gone, but in Surah al-Baqarah the speakers are the living. The verse describes "those who, when an affliction visits them" say these words of themselves (Q 2:156). The Qur'an puts the return in the mouths of the living, and the traveller says it of himself now and means it.
 
-This answers the question the book set out with: whether there is more to the religion than the obligations, and how a believer reaches it safely. There is more, and it is ʿirfan, worth every believer's pursuit. It travels through the self and never leaves the shariʿa. It is walked in a known order, beside a tested guide. Its roots are in the Qur'an, the Prophet ﷺ, and the Imams from his Ahl al-Bayt. It ends in return, to people with God, as Chapter Sixteen showed, and to God Himself.
+This answers the question the book set out with: whether there is more to the religion than the obligations, and how a believer reaches it safely. There is more, and it is ʿirfan, which is worth every believer's pursuit. It travels through the self and never leaves the shariʿa. It is walked in a known order, beside a tested guide. Its roots are in the Qur'an, the Prophet ﷺ, and the Imams from his Ahl al-Bayt. It ends in return, to people with God, as Chapter Sixteen showed, and to God Himself.
 
-The return to God Himself has its own words in Surah al-Fajr, spoken to the self at peace that Chapter Five described. The verse's word for "pleased" (*radiya*) names one who has reached contentment, which is where the giving back began. Ayatullah Khomeini calls such a person "the radi (one who has attained the station of rida)" [@forty_hadith, p. 207].
+The return to God Himself has its own words in Surah al-Fajr, which speaks to the self at peace that Chapter Five described. The verse's word for "pleased" (*radiya*) names one who has reached contentment, which is where the giving back began. Ayatullah Khomeini calls such a person "the radi (one who has attained the station of rida)" [@forty_hadith, p. 207].
 
 ::: {.ayah ref="89:27-28"}
-‘O soul at peace! Return to your Lord, pleased and pleasing!
+O soul at peace! Return to your Lord, pleased and pleasing!
 :::
 
 How, then, does a believer begin, this week?

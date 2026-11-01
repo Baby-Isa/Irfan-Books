@@ -64,7 +64,7 @@ and take care of my affair as those whose affairs You have taken care of [@duas_
 In this line we ask God to take our affairs in hand as He has taken the affairs of others, and the second journey is that guardianship lived. At the end of the first journey, in the lectures' image, there is "just God reflected into that mirror of the heart". In the second the traveller sets out to "examine and find out about that thing which is reflected in the heart". It is a journey harder than the first, and more delightful.
 <!-- src: L15 ¶59 -->
 
-Under God's guardianship the traveller is taken through His names and attributes one after another, as God "taught Adam the Names, all of them" (Q 2:31). In Mutahhari's words, the ʿarif "becomes acquainted with His Qualities and Names and himself becomes adorned with the same" [@light, p. 49]. Some names stay beyond the traveller, known only to God or to people of higher rank, and only the Prophet ﷺ has "no one above him".
+Under God's guardianship the traveller is taken through His names and attributes one after another, as God "taught Adam the Names, all of them" (Q 2:31). In Mutahhari's words, the ʿarif "becomes acquainted with His Qualities and Names and himself becomes adorned with the same" [@light, p. 49]. Some names stay beyond the traveller because they are known only to God or to people of higher rank, and only the Prophet ﷺ has "no one above him".
 <!-- src: L09 ¶80-81 -->
 
 At the end of the second journey annihilation gives way to remaining (*baqaʾ*), and the traveller comes back from effacement to sobriety. He "feels his existence again", knows that God created him, and finds himself "a servant of Allah". This is the sober return Chapter Twelve described, and the map of the four journeys gives it a place: it comes at the close of the second journey, once God has shown the traveller His names.
@@ -98,7 +98,7 @@ Thus did We show Abraham the dominions of the heavens and the earth, that he mig
 In this verse "dominions" translates *malakut*, which names the world of angels and spirits behind the heavens and the earth. Ibrahim was shown it so that he would be certain, and the lectures give the third journey the same outcome, "reassurance about everything".
 <!-- src: L09 ¶83, ¶85 -->
 
-Certainty of this kind is meant to be passed on. He now knows God's attributes and acts and "could inform others about it". We call God "the All-merciful" each time we begin "In the Name of Allah" (Q 1:1), and we know it because the Prophet ﷺ told us, since "otherwise we couldn't know". From this point Sheikh Bahmanpour stops calling the traveller a mystic and calls him the knower. Mutahhari gives the third journey the same purpose: "In the third journey, he returns towards the creation, without becoming separated from God, in order to guide the people" [@light, pp. 49–50].
+Certainty of this kind is meant to be passed on. The traveller now knows God's attributes and acts and "could inform others about it". Each time we say "In the Name of Allah, the All-beneficent, the All-merciful" (Q 1:1), we call God merciful because the Prophet ﷺ told us so, and "otherwise we couldn't know". From this point Sheikh Bahmanpour stops calling him a mystic and calls him the knower. Mutahhari gives the third journey the same purpose: "In the third journey, he returns towards the creation, without becoming separated from God, in order to guide the people" [@light, pp. 49–50].
 <!-- src: L09 ¶85-86 -->
 
 In the fourth journey, made in creation by God, he stays among them. He is shown the reality of things and their effects in this world and the next, and "the way everything returns to Allah". He can then tell people "the harms and benefits of everything and the causes of felicity or misery". For Mutahhari, "The fourth journey is amongst the people while still united with God. In this journey the 'arif is with and amongst the people and seeks to guide their affairs so as to lead them towards God" [@light, p. 50].
@@ -136,7 +136,7 @@ The whole return belongs to the Prophet ﷺ and the Imams (as), and the rest of 
 A road this high raises the question of who walks it to the end. The second journey has already set a limit, since only the Prophet ﷺ has no one above him. In the lectures, the third journey is open to "some very high caliber mystics", whereas the fourth belongs to the Prophet ﷺ and after him to the Imams (as) who succeeded him.
 <!-- src: L09 ¶87, ¶89 -->
 
-In the Imams (as), the knowledge of the fourth journey stayed inside the law. When people asked them about anything, they knew the answer from an inner knowledge that reached even matters the shariʿa and the Book do not mention. Yet "of course, they follow the Sharia", the lectures say, and they gave their answers by referring to the Book and the shariʿa. Chapter Six showed the law binding the traveller to the last stage, and Chapter Twelve found the Imams holding the realms of unity and plurality together.
+In the Imams (as), the knowledge of the fourth journey stayed inside the law. When people asked them about anything, they knew the answer from an inner knowledge that reached even matters the shariʿa and the Book do not mention. Yet, as Sheikh Bahmanpour adds, "of course, they follow the Sharia", and they gave their answers by referring to the Book and the shariʿa. Chapter Six showed the law binding the traveller to the last stage, and Chapter Twelve found the Imams holding the realms of unity and plurality together.
 <!-- src: L09 ¶89 -->
 
 Holding God's world and ours at once may seem to belong to them alone, and ʿAllama Tabatabaʾi weighs this question in *Kernel of the Kernels*. The strong wayfarer, he says, is the one who, while witnessing these states, "also attends to the world of pluralities and who takes care of both the worlds". Of this rank he writes that it is "very sublime and elevated, and access to it very difficult. Perhaps it is exclusive to the prophets and the awliya' and whoever God wishes" [@kernel, p. 20]. The awliyaʾ are the friends of God whom Imam ʿAli (as) described to Kumayl.
@@ -144,7 +144,7 @@ Holding God's world and ours at once may seem to belong to them alone, and ʿAll
 Tabatabaʾi finds both worlds held together in the Prophet ﷺ himself. Inwardly, as a saying of the Prophet that the *Kernel* quotes puts it, "I have with God certain states which are beyond the capacity of any archangel" [@kernel, p. 20]. Outwardly, the Qur'an has him tell people:
 
 ::: {.ayah ref="18:110" words="1-5"}
-Say, ‘I am just a human being like you.’
+Say, ‘I am just a human being like you.
 :::
 
 The same man whose states with God were beyond any archangel lived among people as one of them. The rank is high, yet Tabatabaʾi keeps the road towards it open. He separates the office from the station. In his words, "the office of prophethood and Imamate is something exclusive, but attainment to the station of absolute tawhid and fana' in the Essence of the One‑which is called wilayah‑is not at all exclusive". The Prophet ﷺ called his community to the place where he himself stood, and that call "implies the possibility of travelling towards that purpose" [@kernel, p. 20]. Tabatabaʾi cites a verse of Surah al-Ahzab for it:
@@ -180,7 +180,7 @@ The Mafatih, which calls him the Chief of Martyrs, records how Imam al-Husayn (a
 O Allah, (please) make me fear You as if I can see You. [@duas_dua_arafah_imam_husain, §182]
 :::
 
-Standing in front of his household, Imam al-Husayn asked to fear God as if he could see Him. His heart was turned to God while his family and servants stood around him, so that in one moment he was among his people and before God as a beggar.
+Standing in front of his household, Imam al-Husayn asked to fear God as if he could see Him. His heart was turned to God while his family and servants stood around him, and in that one moment he was among his people and before God as a beggar.
 
 The Imam who prayed this among his household at ʿArafah was martyred with his companions at Karbala on the day of ʿAshura [@mafatih, p. 401]. He stayed with his people to the last. On Ayatullah Khomeini's reading he also stood for them, as the prophets did when they established justice and rose against the wrongdoers. Recited properly, Khomeini writes, such prayers lessen a person's attachment to himself, and he "becomes more active and ever ready to render service to his fellow human beings". Of the Munajat Shaʿbaniyyah he adds, "Those who recited the Munajat Sha'biniya, wielded the sword also" [@light, p. 138].
 
