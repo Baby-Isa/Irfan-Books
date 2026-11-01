@@ -130,7 +130,7 @@ Argument does no better than the image. The lectures report Ibn ʿArabi's verdic
 If only experience can grasp the theory, it may take experience to judge it too. Sheikh Bahmanpour says as much of Ibn ʿArabi's work as a whole. Reading a book of ʿAllama Tabatabaʾi's on the names of God, he was amazed at its analysis, and then he found it all in Ibn ʿArabi's *al-Futuhat al-Makkiyya* (*The Meccan Illuminations*). Tabatabaʾi's experiences "matched very much" Ibn ʿArabi's, and judging Ibn ʿArabi's claims, the lecture concludes, "needs someone who has the experience". Many mystics found the same match and "found no better language" for their own experience than his.
 <!-- src: L13 ¶42-43, ¶50 -->
 
-Ibn ʿArabi therefore gave what the sober saw a theory. In it there is one existence, and creation is its real manifestation, neither God nor apart from Him. Experience knows it where argument cannot reach. Those who lean on that theory, and on the sayings of the drunk before it, have drawn critics.
+Ibn ʿArabi therefore gave what the sober saw a theory. In it there is one existence, and creation is its real manifestation, which is neither God nor apart from Him. Experience knows it where argument cannot reach. Those who lean on that theory, and on the sayings of the drunk before it, have drawn critics.
 
 ## The critics' concerns, and the answers
 
@@ -161,7 +161,7 @@ The second concern fell hardest on the unity of being and those who held it. Aya
 
 Put plainly, the fear has two halves. One is that the world is God. The theory has answered that already, since creation is neither God nor a part of Him. The other is that God can come to dwell in a man.
 
-*Kernel of the Kernels*, Tihrani's record of ʿAllama Tabatabaʾi's lectures, answers the second half. A traveller who imagines God united with his own ego has fallen into indwelling (*hulul*) and union (*ittihad*), "which are kufr and shirk". By contrast, the unity of being denies that anything stands beside God at all: "And how far is this from the notions of hulul and ittihad" [@kernel, p. 84]. Sayyid Haydar Amuli likewise counts the gnostics "far removed from such false assumptions and lying fantasies" [@inner_secrets, p. 163].
+The second half is answered in *Kernel of the Kernels*, which sets down ʿAllama Tabatabaʾi's lectures as his student Tihrani recorded them. A traveller who imagines God united with his own ego has fallen into indwelling (*hulul*) and union (*ittihad*), "which are kufr and shirk". By contrast, the unity of being denies that anything stands beside God at all: "And how far is this from the notions of hulul and ittihad" [@kernel, p. 84]. Sayyid Haydar Amuli likewise counts the gnostics "far removed from such false assumptions and lying fantasies" [@inner_secrets, p. 163].
 
 The third concern is the one the prologue named as the chief reason for wariness: that mysticism sets the law aside. The tradition judged its own ecstatics on this point. The ʿurafaʾ "say that the statements of al-Hallaj and Bayazid that gave the impression of unbelief were made when they were beside themselves in the state of 'intoxication'" [@light, p. 27]. Words spoken by someone beside himself are no rule for a sober believer. Chapter Twelve found unacceptable the claim that duties are lifted from one who has arrived. Such words give it no ground.
 
