@@ -70,7 +70,7 @@ Begin with repentance, then take one act of a few minutes, fixed to the time of 
 The week opens with repentance (*tawba*), which Chapter Nine showed is open to anyone and begins the first stage. Chapter Nine also called it a continuous process, renewed whenever the traveller falls. To set out, the Sheikh suggests the prayer of repentance that the Prophet ﷺ taught for a Sunday in Dhu'l-Qaʿdah. The traditionists allow it at any time, and the lectures call it "the first step". Chapter Nine's Try this sets out its form from the Mafatih [@mafatih, p. 356].
 <!-- src: L08 ¶13-15, ¶29-33 -->
 
-After repentance comes one daily act, timed by Chapter Fifteen's test. Of the acts we already keep each day, the test looks for the one in which the heart is most present, and the new act is fixed to that time. Every traveller, the lectures advise, should find a practice of their own, since the way each of us finds to God differs from that of the person sitting beside us. One act is enough for the first week.
+After repentance comes one daily act, and Chapter Fifteen's test chooses its time. Of the acts we already keep each day, the test looks for the one in which the heart is most present, and the new act is fixed to that time. The lectures advise every traveller to find a practice of their own, since the way each of us finds to God differs from that of the person sitting beside us. One act is enough for the first week.
 <!-- src: L14 ¶70-71 -->
 
 The chapters' steps fall around four times in our day: the prayer, the Qur'an and the duʿas, the night, and the company of other people. The box below gives every step with its source, and the first week needs only one of them.
@@ -118,6 +118,7 @@ Each chapter's step, with its source and, on the right, the rung on which it bel
 |:---|:---|
 | **7.** Ask ʿIsa's three questions of the company you keep [@lantern, p. 13] | Week |
 | **16.** In duʿa, pray first for other believers, by name, then for yourself [@journey, p. 83] | Week |
+
 <!-- src: table rows "the lectures": 1 L01 ¶6-9; 12 L09 ¶65-66; 14 L13 ¶64-65; 15 L14 ¶70-71 -->
 :::
 
