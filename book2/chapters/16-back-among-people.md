@@ -8,7 +8,7 @@ chapter: 16
 You whisper to them secretly and they work for You openly. [@light, p. 165; @duas_munajat_shabaniyah, §111]
 :::
 
-The Munajat Shaʿbaniyyah asks God to make us one of those He calls and who answer Him, and the line above describes them. God speaks to them in secret, and they work for Him in the open. Imam ʿAli (as) once described the same people to Kumayl ibn Ziyad, whose duʿa many of us hear on Thursday evenings. Kumayl recalls that Imam ʿAli "took my hand and led me toward the cemetery. When he reached the desert, he sighed deeply" [@nahj, 3.133]. There, speaking of the few on earth who uphold God's proof, he said:
+The Munajat Shaʿbaniyyah asks to be made one of those whom God calls and who answer Him, and the line above describes them. God speaks to them in secret, and they work for Him in the open. Imam ʿAli (as) once described the same people to Kumayl ibn Ziyad, whose duʿa many of us hear on Thursday evenings. Kumayl recalls that Imam ʿAli "took my hand and led me toward the cemetery. When he reached the desert, he sighed deeply" [@nahj, 3.133]. There, speaking of the few on earth who uphold God's proof, he said:
 
 ::: {.quote ar="[VERIFY: Arabic of Nahj 3.133, nahj p. 737; the extract's Arabic is broken across lines]" source="Nahj al-Balagha"}
 In this world they live in bodies whose spirits are linked to the highest abode. They are God's vicegerents on His earth, who call to His religion. Ah! Would that I could see them! [@nahj, 3.133]
