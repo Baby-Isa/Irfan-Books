@@ -51,7 +51,7 @@ The order and the names follow the lectures and Murtada Mutahhari [@light, pp. 4
 <!-- src: L09 ¶71-91 -->
 :::
 
-The first journey is the road we have followed through this book. Chapter Eight gave the first two of its four stages to the traveller and the last two to God. On it the dark veils our deeds have made are removed, and then the outer veils of light. Meanwhile the self that commands to evil gives way to the heart, and the heart to the spirit. The journey ends in annihilation, and yet, in the lectures' words, "this is just one quarter of the way".
+The first journey is the road we have followed through this book. On it the dark veils our deeds have made are removed, and then the outer veils of light. Meanwhile the self that commands to evil gives way to the heart, and the heart to the spirit. Of its four stages, Chapter Eight gave the first two to the traveller and the last two to God. The journey ends in annihilation, and yet, in the lectures' words, "this is just one quarter of the way".
 <!-- src: L09 ¶72-75 -->
 
 The rest of the way is travelled "by haqq", by God, which is how the lectures name the last three journeys. They explain the phrase as the second journey begins. At that point the traveller "has nothing of himself and is under complete Wilayat of God. It is God who is actually taking them towards this tour." Up to annihilation the work was to get the self out of the way. With the self gone, he is carried by God's guardianship (*wilaya*), which means His taking charge of a person. Sheikh Bahmanpour finds this guardianship in a prayer many of us know from the last unit (*rakʿa*) of the night prayer:
@@ -61,7 +61,7 @@ The rest of the way is travelled "by haqq", by God, which is how the lectures na
 and take care of my affair as those whose affairs You have taken care of [@duas_salat_al_layl_tahajjud_prayer, §162]
 :::
 
-In this line we ask God to take our affairs in hand as He has taken the affairs of others, and the second journey is that guardianship lived. At the end of the first journey there is "just God reflected into that mirror of the heart". In the second the traveller sets out to "examine and find out about that thing which is reflected in the heart". It is a journey harder than the first, and more delightful.
+In this line we ask God to take our affairs in hand as He has taken the affairs of others, and the second journey is that guardianship lived. At the end of the first journey, in the lectures' image, there is "just God reflected into that mirror of the heart". In the second the traveller sets out to "examine and find out about that thing which is reflected in the heart". It is a journey harder than the first, and more delightful.
 <!-- src: L15 ¶59 -->
 
 Under God's guardianship the traveller is taken through His names and attributes one after another, as God "taught Adam the Names, all of them" (Q 2:31). In Mutahhari's words, the ʿarif "becomes acquainted with His Qualities and Names and himself becomes adorned with the same" [@light, p. 49]. Some names stay beyond the traveller, known only to God or to people of higher rank, and only the Prophet ﷺ has "no one above him".
@@ -88,7 +88,7 @@ The road back has two more journeys: the third returns that servant to creation,
 7. Therefore: the third journey returns the traveller to creation with certainty, and the fourth keeps him among people, with God, to guide them.
 ::::
 
-From that point the road turns back towards people. In the third journey the traveller comes "back from God to the world under the Wilayah of the Lord", and he is shown how anything can exist beside God at all. He is taken through the world of the names, the world of angels and spirits, and the material world. Chapter Five described worlds that surround this one in depth rather than distance, and the traveller now sees all three as "different manifestations of the names of Allah". What he sees gives him certainty, as a verse of Surah al-Anʿam says of Prophet Ibrahim:
+From that point the road turns back towards people. In the third journey the traveller comes "back from God to the world under the Wilayah of the Lord", and he is shown how anything can exist beside God at all. He is taken through the world of the names and the world of angels and spirits before he reaches the material world. Chapter Five described worlds that surround this one in depth rather than distance, and the traveller now sees all three as "different manifestations of the names of Allah". What he sees gives him certainty, as a verse of Surah al-Anʿam says of Prophet Ibrahim:
 <!-- src: L09 ¶83-85 -->
 
 ::: {.ayah ref="6:75"}
@@ -139,7 +139,7 @@ A road this high raises the question of who walks it to the end. The second jour
 In the Imams (as), the knowledge of the fourth journey stayed inside the law. When people asked them about anything, they knew the answer from an inner knowledge that reached even matters the shariʿa and the Book do not mention. Yet "of course, they follow the Sharia", the lectures say, and they gave their answers by referring to the Book and the shariʿa. Chapter Six showed the law binding the traveller to the last stage, and Chapter Twelve found the Imams holding the realms of unity and plurality together.
 <!-- src: L09 ¶89 -->
 
-Holding both worlds at once, God's and ours, may seem to belong to them alone, and ʿAllama Tabatabaʾi weighs this question in *Kernel of the Kernels*. The strong wayfarer, he says, is the one who, while witnessing these states, "also attends to the world of pluralities and who takes care of both the worlds". Of this rank he writes that it is "very sublime and elevated, and access to it very difficult. Perhaps it is exclusive to the prophets and the awliya' and whoever God wishes" [@kernel, p. 20]. The awliyaʾ are the friends of God whom Imam ʿAli (as) described to Kumayl.
+Holding God's world and ours at once may seem to belong to them alone, and ʿAllama Tabatabaʾi weighs this question in *Kernel of the Kernels*. The strong wayfarer, he says, is the one who, while witnessing these states, "also attends to the world of pluralities and who takes care of both the worlds". Of this rank he writes that it is "very sublime and elevated, and access to it very difficult. Perhaps it is exclusive to the prophets and the awliya' and whoever God wishes" [@kernel, p. 20]. The awliyaʾ are the friends of God whom Imam ʿAli (as) described to Kumayl.
 
 Tabatabaʾi finds both worlds held together in the Prophet ﷺ himself. Inwardly, as a saying of the Prophet that the *Kernel* quotes puts it, "I have with God certain states which are beyond the capacity of any archangel" [@kernel, p. 20]. Outwardly, the Qur'an has him tell people:
 

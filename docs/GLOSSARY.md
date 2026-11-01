@@ -29,6 +29,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | ʿaql | aql | | Intellect, here the theoretical or discursive intellect | L02 |
 | ʿarif | aarif, aaraf, arif | | One who knows God by experience; the true mystic | L01 |
 | ʿarsh | arsh | | The Throne, one of the higher encompassing realms | L04 |
+| ʿAshura | Ashura | | The tenth of Muharram, the day Imam al-Husayn was martyred at Karbala (Mafatih p. 401) | B2 Ch16 |
 | ʿawamm | Awaam, awam | | Common people, as opposed to the elite | L11 |
 | awliyaʾ Allah | awliyaAllah, awliyaallah, wali, Awliya Allah | | Friends of God, used as a synonym of the ʿurafaʾ | L01 |
 | awtad | autaad | | A rank of the saintly hierarchy | L13 |
@@ -100,6 +101,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | jahala | jahala | | Those who do not know; contrasted with the ʿurafaʾ | L02 |
 | jannah | janna | | Paradise | L01 |
 | juʿ | juoo | | Hunger; one of the five disciplines, kept short of weakness | L10 |
+| Kaʿba | Kaaba, Ka'bah | | The House of God in Makka, which the believer faces in prayer | B2 Ch16 |
 | karamat (sing. karama) | karamaat | | Wonders performed by saints, as against the prophetic miracle | L01 |
 | kashf | unveiling | | Mystical disclosure, the source of theory | L04 |
 | khafi | al-mukhtafi | | The hidden layer of the soul | L05 |
@@ -115,6 +117,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | khidma | | | Service to God; in salah, the depth of the law (L06 ¶24) | B2 Ch6 |
 | Khwaja Nasir al-Din al-Tusi | Haji Nasiruddin Tusi, Qazi Nasiruddin, Khwajah Nasir | | Scholar (d. 672/1273, `light` p. 36), commentator on Ibn Sina's *Isharat*; his reading of the return in L16 | L16 |
 | Ridwan | rizwan, rizwanu | | In the tradition, the angel in charge of paradise; from the root of *rida* (L16 ¶25) | L16 |
+| Khurasan | Khorasan | | The region of north-east Iran, then bordering India and China, home of many early renunciants | L11 |
 | Khidr | | | The servant of God whom Musa follows in Surah al-Kahf; for the ʿurafaʾ, the master who accompanies a beginner (`forty_hadith` p. 508) | B2 Ch7 |
 | kibriyaʾ | kibriya, Kibriya | | Grandeur of God | L01 |
 | kuffar | kuffar, kaafir | | Unbelievers | L02 |
@@ -126,6 +129,8 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | maʿad | maad | | Return, resurrection | L16 |
 | mahiyya | mahiyyat | | Quiddity or essence | L13 |
 | mahw | mahv | | Obliteration; annihilation in action | L09 |
+| majlis (pl. majalis) | majlis | | A religious gathering, as for the remembrance of the Ahl al-Bayt | B2 Ch7 |
+| Maʿruf al-Karkhi | Maruf al-Karkhi | | Mystic of love who became a Muslim at the hands of Imam al-Rida (`light` p. 25) | L12 |
 | Malik ibn Anas | | | The early jurist of Medina, founder of the Maliki school, to whom Imam al-Sadiq (as) first sent ʿUnwan al-Basri | B2 Ch7 |
 | makruh | makrooh | | Disliked | L07 |
 | malakut | Malaqut, malakut | | The intermediate world of angels | L09 |
@@ -172,8 +177,10 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | ʿulamaʾ | ulama, ulema | | The religious scholars (sing. ʿalim) | prologue |
 | qurb | qurbat | | Coming close to God | L06 |
 | qutb | quds | | Pole or pivot of each age | L13 |
+| Rabiʿa al-ʿAdawiyya | Rabaa Al-Adawiya, Rabia al Adwiyyah | | Woman mystic of Basra who turned the early asceticism to the way of love (`light` p. 24) | L11 |
 | rahbaniyya | rahbaniyyah, rahbah | | Monasticism; the "mysticism of fear" | L11 |
 | rahma | rehmah | | Mercy | L04 |
+| rakʿa | rakaat | | One unit of the ritual prayer | B2 Ch12 |
 | rida | rizaa, rizwan, ridwan | | Contentment with God's will | L16 |
 | riyaʾ | riyaa | | Ostentation, showing off | L12 |
 | riyada | riyaazat, Riyadah | | Ascetic discipline and spiritual training | L06 |
@@ -187,9 +194,11 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | salah | salaah | | The ritual prayer | L02 |
 | salihin | saleheen, saaliheen, salehun | | The righteous; fourth and lowest category of the muqarrabun | L01 |
 | salik | saalik | | Wayfarer on the path | L08 |
+| Salman al-Farsi | Salman Farsi, Salmaan | | Companion of the Prophet ﷺ and of Imam ʿAli, a man of learning who gave it up to follow the Prophet | L11 |
 | samt | samto | | Silence; one of the five disciplines | L10 |
 | shafaʿa | shafaa | | Intercession | L16 |
 | Shaʿban | Shaban | | The eighth month of the Islamic calendar, before Ramadan; the month of the Munajat Shaʿbaniyyah | L01 |
+| Shaqiq al-Balkhi | Shaqeeq Balkhi, Shaqiq ibne Ibrahim al-Balkhi | | Ascetic of Balkh, pupil of Ibrahim ibn Adham, who met Imam al-Kazim on the road to Mecca (d. 194/810; `light` p. 24) | L12 |
 | shariʿa | shariah, sharia | | The outward law | L01 |
 | Shaytan | shaitan | | Satan | L01 |
 | shirk | shirk | | Associating partners with God | L01 |
@@ -201,6 +210,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | silsila | silsilah, silsilatul tariqas | | Chain of masters or lineage back to the Prophet | L06 |
 | sirr | Al-Serr | | The secret layer of the soul | L05 |
 | Sufi | sufiyah, suf | | Mystic of the Sufi tradition; Sufism, from wool | L02 |
+| Sufyan al-Thawri | Sufiyan Thawri | | Early mystic (d. 161/777) of the time of Imam al-Sadiq (`light` p. 22); in L12 ¶14 he objects to the Imam's robe | L12 |
 | sukr | sukr | | Intoxication in the love of God | L09 |
 | suluk | sulook, saluk, sulook | | Wayfaring; the path of purification | L03 |
 | Surah Yasin | Yaseen | | The thirty-sixth surah of the Qur'an, recited for the dying and the dead | B2 Ch5 |
@@ -222,6 +232,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | ulu al-ʿilm | ulul ilm | | Possessors of knowledge | L02 |
 | ʿurafaʾ | urafah, urafaa, Urafaa | | Plural of ʿarif | L01 |
 | ʿUnwan al-Basri | Unwan Basri | | An old seeker who asked Imam al-Sadiq (as) to teach him and was taught after patience | B2 Ch7 |
+| Uways al-Qarani | Uwais al Qarani, Uwais Qarni | | Yemeni lover of the Prophet ﷺ who never met him; a close disciple of Imam ʿAli | L11 |
 | ʿuzla | uzla | | Seclusion | L10 |
 | wahdat al-wujud | wahdatal wujood, Wahdat ul Wujud, wahdatul wujud | | Unity of being | L09 |
 | wajh Allah | wajhullah | | The face of God: God's manifestation through the names | L11 |
