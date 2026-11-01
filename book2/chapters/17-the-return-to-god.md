@@ -42,7 +42,7 @@ Indeed We have put iron collars around their necks, which are up to the chins, s
 
 No unbeliever walks the street with an iron collar forcing his chin up, and no one reads the verse that way. The meaning lies inside the picture. The light of God is covered for such people, so they go through life without seeing what lies before them or behind them, and the next verse ends "so they do not see" (Q 36:9). <!-- src: L16 ¶9-12 -->
 
-If a verse can mean more than its words, it might seem that it can be made to mean anything. The lectures rule out two kinds of reading. One gives a verse a meaning "at the will of some mystic" that has no tie to the verse itself. The other takes a scheme from some other system of thought and lays it over every verse in the Qur'an. Ayatullah Khomeini sets the same guard, writing that "Islam does not allow anybody to interpret the Qur'an according to his personal opinion or private judgment". Among those who do so, he counts people who give the verses "some spiritual meaning" to suit their own wishes [@light, p. 110]. <!-- src: L16 ¶3-5 -->
+If a verse can mean more than its words, it might seem that it can be made to mean anything. The lectures rule out two kinds of reading. One gives a verse a meaning "at the will of some mystic" that has no tie to the verse itself. The other lays a scheme from some other system of thought over every verse in the Qur'an. Ayatullah Khomeini sets the same guard when he writes that "Islam does not allow anybody to interpret the Qur'an according to his personal opinion or private judgment". Among them he counts people who give the verses "some spiritual meaning" to suit their own wishes [@light, p. 110]. <!-- src: L16 ¶3-5 -->
 
 What Sheikh Bahmanpour allows instead is "a type of insightful look at the verses of the Quran". Its rule is that the inner meaning must agree with the outer and never go against it, and the outer meaning stays when the inner one is found. Meaning in the Qur'an has layers, and beneath each layer we find a deeper one. The model is a parable (*mathal*) such as the Verse of Light from Chapter Two, whose niche and lamp bring a meaning about God closer to the mind. <!-- src: L16 ¶5-8 -->
 
@@ -125,7 +125,7 @@ Once our will has become God's will, whatever we wish we have, and the will come
 
 Power is given back next, and its station is reliance on God (*tawakkul*). In its plain sense, Ayatullah Khomeini explains, *tawakkul* is the "admission of one's inability and reliance on one other than oneself" [@forty_hadith, p. 204]. Reliance could be mistaken for sitting and waiting for God to act, and the Sheikh rules that out: "whatever you do you know that this is not you. This is Him." The power we use is God's, and Surah al-Talaq promises that "whoever puts his trust in Allah, He will suffice him" (Q 65:3). <!-- src: L16 ¶27-28 -->
 
-Chapter Twelve met the same truth at the summit of the road, where the traveller sees that there is no power and no strength except through God. Reliance is the station on the way there. The traveller acts on it before he sees it, and in every task he takes up he knows that the power in his hands is God's.
+Chapter Twelve met the same truth at the summit of the road, where the traveller sees that there is no power and no strength except through God. Reliance is the same truth lived before it is seen. In every task the traveller takes up, he knows that the power in his hands is God's.
 
 Knowledge goes back third, and its station is submission (*taslim*). The traveller knows that he knows nothing of himself. God alone knows, and whatever knowledge the traveller has is His gift. In Surah al-Baqarah this is the submission of the Prophet Ibrahim (as). <!-- src: L16 ¶28-30 -->
 
@@ -141,9 +141,9 @@ O my God, I am ignorant despite my knowledge [@duas_dua_arafah_imam_husain, §67
 
 The one who prays has knowledge and calls himself ignorant all the same, because none of that knowledge was his own.
 
-Existence is the last gift given back, and its station is annihilation (*fanaʾ*), where the traveller sees that existence belongs to God alone. Chapter Twelve followed him to that station and back. <!-- src: L16 ¶30 -->
+Existence goes back last, and its station is annihilation (*fanaʾ*). There the traveller sees that existence belongs to God alone, and Chapter Twelve followed him to that station and back. <!-- src: L16 ¶30 -->
 
-With all four given back, it might seem that nothing is left of the traveller. Tusi's answer is that God gives each of them back, new and without limit. Contentment is made complete. Power returns without limit, because the soul is now "drowned" in God's power and joined to it, and uses a power that remains His. Knowledge comes from nothing in the soul itself and "will shine in you", and existence becomes everlasting, on the day Surah Qaf calls "the day of immortality" (Q 50:34). <!-- src: L16 ¶31-32 -->
+With all four given back, it might seem that nothing is left of the traveller. Tusi's answer is that God gives all four back, and gives them back new. Contentment is made complete. Power returns without limit, because the soul is now "drowned" in God's power and joined to it, and uses a power that remains His. Knowledge comes from nothing in the soul itself and "will shine in you", and existence becomes everlasting on the day Surah Qaf calls "the day of immortality" (Q 50:34). <!-- src: L16 ¶31-32 -->
 
 This account is Tusi's own, and Ayatullah Khomeini quotes it from Tusi's commentary on Ibn Sina's *Isharat*. He sets it down just after a warning from Shaykh Bahaʾi that such sayings must never be taken to mean that God dwells in a servant or becomes one with him [@forty_hadith, pp. 516–517]. When the gnostic is cut off from himself and joined to God, Tusi writes, he "sees all powers as vanishing in Divine power and all sciences as drowned in Divine knowledge and all wills as vanishing in His will… At this time God, the Exalted, becomes his hearing and sight, power, knowledge and existence" [@forty_hadith, p. 517].
 
@@ -165,23 +165,23 @@ The return happens whether or not a soul makes it: a believer who left it undone
 9. Therefore: the return is made, willingly or not.
 ::::
 
-Not all of us give these four back in this life, and in the lectures' words the return happens all the same, "either voluntarily or involuntarily". A believer who has not made it here makes it in barzakh and on the Day of Resurrection, with "lots of fears, lots of difficulty". Barzakh is the middle world that Chapter Five described. There the will is taken from him, and he is shown that there is no power and no life but God's. <!-- src: L16 ¶39-41 -->
+Not all of us give these four back in this life, and in the lectures' words the return happens all the same, "either voluntarily or involuntarily". A believer who has not made it here makes it with "lots of fears, lots of difficulty" in barzakh and on the Day of Resurrection. Barzakh is the middle world that Chapter Five described. There the will is taken from him, and he is shown that there is no power and no life but God's. <!-- src: L16 ¶39-41 -->
 
-A believer cannot finish that road alone. Paradise, in this account, lies beyond our own level without intercession (*shafaʿa*), and it takes someone great to bring us there. Surah al-Tahrim shows the believers on the Last Day with a light running before them, but the light is not complete, and they ask for it to be made whole. <!-- src: L16 ¶34, ¶37 -->
+A believer cannot finish that road alone. In this account paradise is above our own level, and without intercession (*shafaʿa*) it cannot be entered; it takes someone great to bring us there. Surah al-Tahrim shows the believers on the Last Day with a light running before them, but the light is not complete, and they ask for it to be made whole. <!-- src: L16 ¶34, ¶37 -->
 
 ::: {.ayah ref="66:8" words="34-38"}
 They will say, ‘Our Lord! Perfect our light for us
 :::
 
-The Prophet ﷺ completes that light. The same verse says that on that day God "will not let down the Prophet and the faithful who are with him", and the Sheikh reads this as a promise against humiliation. If the Prophet's own followers went to hell, the shame would fall on him, though he has done no wrong, and so their light is completed through him. <!-- src: L16 ¶37-39 -->
+That light is completed through the Prophet ﷺ. The same verse says that on that day God "will not let down the Prophet and the faithful who are with him", and the Sheikh reads this as a promise against humiliation. If the Prophet's own followers went to hell, the shame would fall on him, though he has done no wrong, and so God completes their light through him. <!-- src: L16 ¶37-39 -->
 
-A will that never turns towards God meets a different end. It carries its opposition into the next world, and there God's will prevails over it, as Surah al-Muʾminun says.
+A will that never turns towards God meets a different end. It carries its opposition into the next world, and there God's will prevails over it. Surah al-Muʾminun says why.
 
 ::: {.ayah ref="23:71" words="1-9"}
 Had the truth followed their desires, the heavens and the earth would have surely fallen apart [along] with those who are in them.
 :::
 
-A will that is never followed is held against itself, and its owner is "always in torment". The chain of seventy cubits from the first section is this held will, and its length, the lectures say, is "because of the length of the will that they have". <!-- src: L16 ¶42-43 -->
+A will that is never followed is held in check, and its owner is "always in torment". The chain of seventy cubits from the first section is this held will, and its length, the lectures say, is "because of the length of the will that they have". <!-- src: L16 ¶42-43 -->
 
 The other three gifts return in the same way, each as the mirror image of the station it would have opened. In place of contentment there is utter dissatisfaction. In place of power there is helplessness, because these souls never learned that the power they used in this world was God's, and they do not know how to use it there. Those who thought they knew find themselves ignorant, and humiliation stands where submission would have been. Last, in place of union with God there is separation from Him, and an existence that is neither life nor death. Surah al-Aʿla says this of the one who enters the Great Fire. <!-- src: L16 ¶45-47, ¶54-55 -->
 
@@ -189,15 +189,15 @@ The other three gifts return in the same way, each as the mirror image of the st
 then he will neither live in it, nor die.
 :::
 
-Hell might then look like revenge, and the Sheikh answers that reading himself: "It is not a punishment which is brought to you by God. God doesn't want to revenge." Everything is God's creation, and only mercy comes from Him. A soul that has made itself unable to use God's will, power, and knowledge brings that state back with it and is separated from Him. Yet the wrath is real. In his own words, those who set their will against God's all their lives "will deserve the wrath of God". <!-- src: L16 ¶43, ¶47-48 -->
+Hell might then look like revenge, and the Sheikh answers that reading: "It is not a punishment which is brought to you by God. God doesn't want to revenge." Everything is God's creation, and only mercy comes from Him. Such a soul has made itself unable to use God's will, power, and knowledge; it brings that state back with it, and separation from Him follows. Yet the wrath is real. In his own words, those who set their will against God's all their lives "will deserve the wrath of God". <!-- src: L16 ¶43, ¶47-48 -->
 
-If hell is the soul's own separation, the fire and the boiling water might seem to be only pictures. The lectures answer that "of course it's all true", because one reality takes a true form in each world. What is fire in this world is something else in the deeper worlds. Surah al-Nisaʾ says that those who consume the property of orphans ingest fire into their bellies (Q 4:10). Chapter Five found in the same way that some rewards are the deeds themselves made visible. A dream shows how two forms of one thing can both be true: "in dreams you see something while in reality it is something else. Both of them are right." <!-- src: L16 ¶49, ¶51-52, ¶54 -->
+If hell is the soul's own separation, the fire and the boiling water might seem to be only pictures. The lectures answer that "of course it's all true", because one reality takes a true form in each world. What is fire in this world is something else in the deeper worlds. Surah al-Nisaʾ says that those who consume the property of orphans ingest fire into their bellies (Q 4:10), and the wrong done here is fire there. Chapter Five found in the same way that some rewards are the deeds themselves made visible. A dream shows how two forms of one thing can both be true: "in dreams you see something while in reality it is something else. Both of them are right." <!-- src: L16 ¶49, ¶51-52, ¶54 -->
 
 ::: {.box-story title="Story: Yusuf reads the king's dream"}
 Sheikh Bahmanpour explains dreams in this way. When the soul meets a meaning for which it has no picture, it clothes the meaning in a picture it already holds. Knowledge purifies, for instance, so a sleeper who is about to be given knowledge may see an ocean and find himself swimming in it. An interpreter then tells him what the picture answers to, and that, in his telling, is the whole idea of reading dreams. The king in Surah Yusuf saw seven fat cows devoured by seven lean ones (Q 12:43), and his courtiers could make nothing of it (Q 12:44). In his account, the king's soul had reached for strange pictures, "an image which is very weird", which no ordinary interpreter could read. The Prophet Yusuf (as) could. He read the cows as seven years of good harvests followed by seven hard years of famine (Q 12:47–48). The fat cows and the years of plenty were one thing seen in two worlds, and the one who knew could read the one from the other.
 :::
 
-Ayatullah Khomeini reads the fire of hell in the same two ways. He calls the fire of Divine Wrath in the next world "the Hereafterly form of our anger in this world", and he keeps the outer fire beside the inner one. In his words, "The fire of the hell of deeds and the physical hell encompasses the without and travels towards the within" [@forty_hadith, p. 137]. The soul meets both. One rises from within the heart, and the other comes in from without.
+Ayatullah Khomeini reads the fire of hell in the same two ways. He calls the fire of Divine Wrath in the next world "the Hereafterly form of our anger in this world", and he keeps the outer fire beside the inner one. In his words, "The fire of the hell of deeds and the physical hell encompasses the without and travels towards the within" [@forty_hadith, p. 137]. The soul meets both, one rising from within the heart and the other coming in from without.
 
 A believer who hears all this is left with fear and with hope, and the Munajat Shaʿbaniyyah holds the two in a single sentence.
 
@@ -224,7 +224,7 @@ The return is therefore made whether or not a soul makes it willingly. A believe
 
 If all of us make the return in the end, we need a reason to make it now. Najm al-Din Kubra, whose ship and pearl Chapter Six used for the law and the path, gives one in advice the lectures pass on. God, he says, has set one involuntary journey (*qahri*) and one voluntary journey (*ikhtiyari*) for the children of Adam. Everyone meets the Lord on a journey through death, barzakh, and the resurrection that is "out of your control". The mystic's path (*suluk*) is the same meeting made by choice, and Kubra calls it a shortcut. <!-- src: L08 ¶5-7 -->
 
-Chapter Four gave one reason not to wait: the involuntary journey is longer and harder. Kubra adds another. While others are still on that long road, those who took the voluntary one have already arrived and live beside God. Sheikh Bahmanpour reads a verse of Surah al-Anbiyaʾ as describing those who finished the return in this world. <!-- src: L08 ¶8; L16 ¶40 -->
+Chapter Four gave one reason not to wait: the involuntary journey is longer and harder. Kubra adds another. While others are still on that long road, those who took the voluntary one have already arrived and live beside God. In a verse of Surah al-Anbiyaʾ the Sheikh finds those who finished the return in this world. <!-- src: L08 ¶8; L16 ¶40 -->
 
 ::: {.ayah ref="21:103" words="1-4"}
 The Great Terror will not upset them
@@ -232,18 +232,20 @@ The Great Terror will not upset them
 
 The Great Terror leaves them untouched because their return is already made. ʿIrfan, at the end of this book, is that return made now and by choice. The will is given back as contentment, power as reliance, knowledge as submission, and existence as annihilation. All four are given back inside the law and with a guide beside the traveller.
 
-The words for that return are already on our tongues. At a death we say "to Him do we indeed return" of the one who has gone, but in Surah al-Baqarah the speakers are the living. The verse describes "those who, when an affliction visits them" say these words of themselves (Q 2:156). The Qur'an puts the return in the mouths of the living, and the traveller says it of himself now and means it.
+The words for that return are already on our tongues. At a death we say "to Him do we indeed return" of the one who has gone, but in Surah al-Baqarah the speakers are the living. The verse describes "those who, when an affliction visits them" say these words of themselves (Q 2:156). The traveller says them of himself now and means them.
 
-This answers the question the book set out with: whether there is more to the religion than the obligations, and how a believer reaches it safely. There is more, and it is ʿirfan, which is worth every believer's pursuit. It travels through the self and never leaves the shariʿa. It is walked in a known order, beside a tested guide. Its roots are in the Qur'an, the Prophet ﷺ, and the Imams from his Ahl al-Bayt. It ends in return, to people with God, as Chapter Sixteen showed, and to God Himself.
+This answers the question the book set out with, whether there is more to the religion than the obligations and how a believer reaches it safely. There is more, and it is ʿirfan, which is worth every believer's pursuit. It travels through the self and never leaves the shariʿa. It is walked in a known order beside a tested guide. Its roots are in the Qur'an, the Prophet ﷺ, and the Imams from his Ahl al-Bayt. It ends in return: to people with God, as Chapter Sixteen showed, and to God Himself.
 
-The return to God Himself has its own words in Surah al-Fajr, which speaks to the self at peace that Chapter Five described. The verse's word for "pleased" (*radiya*) names one who has reached contentment, which is where the giving back began. Ayatullah Khomeini calls such a person "the radi (one who has attained the station of rida)" [@forty_hadith, p. 207].
+The return to God Himself has its own words in Surah al-Fajr, which speaks to the self at peace that Chapter Five described.
 
 ::: {.ayah ref="89:27-28"}
 O soul at peace! Return to your Lord, pleased and pleasing!
 :::
 
-How, then, does a believer begin, this week?
+The verse's word for "pleased" (*radiya*) names one who has reached contentment, which is where the giving back began. Ayatullah Khomeini calls such a person "the radi (one who has attained the station of rida)" [@forty_hadith, p. 207].
+
+How, then, does a believer begin this week?
 
 ::: {.box-try title="Try this"}
-Sheikh Bahmanpour reports a hadith that in paradise the reader of the Qur'an is told to recite and go up. He reads it so that one rises by the depth to which the verses have been taken in, rather than by how many of them one knows. Each day this week, read a few verses slowly. Mirza Jawad Maliki Tabrizi asks the reader to take every command, warning, and piece of advice in them "as though all of them have been revealed especially for him" [@journey, p. 46]. Then turn one verse over from several sides, as he does with a verse of Surah al-Waqiʿa, "Have you considered the water that you drink?" (Q 56:68). He thinks of the plants and animals made from that water, of the human being made from it, and of the water itself as a sign of God's blessing [@journey, pp. 49–50].
+Sheikh Bahmanpour reports a hadith that in paradise the reader of the Qur'an is told to recite and go up. In his reading, one rises by how deeply the verses have been taken in rather than by how many one knows. Each day this week, read a few verses slowly. Mirza Jawad Maliki Tabrizi asks the reader to take every command, warning, and piece of advice in them "as though all of them have been revealed especially for him" [@journey, p. 46]. Then turn one verse over from several sides, as he does with a verse of Surah al-Waqiʿa, "Have you considered the water that you drink?" (Q 56:68). He thinks of the plants and animals made from that water, of the human being made from it, and of the water itself as a sign of God's blessing [@journey, pp. 49–50].
 :::

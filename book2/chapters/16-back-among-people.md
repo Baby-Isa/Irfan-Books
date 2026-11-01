@@ -36,7 +36,7 @@ Losing the self ends only the first of four journeys; in the second, God takes t
 7. Therefore: losing the self is a quarter of the way, and the second journey gives the traveller back to himself as God's servant.
 ::::
 
-Annihilation can look like the end of the road, yet the mystics count further. The journey to God, they say, is completed in "the four divine journeys" (*al-asfar al-arbaʿa*). The first runs from creation to God, whom they call the Real (*al-Haqq*) because He is the only reality. The second is in God and by God, the third goes from God back to creation by God, and the fourth is in creation by God. Murtada Mutahhari gives the same four in the same order [@light, p. 49], and Mulla Sadra named his book of philosophy after them. Two of the journeys go to God and into Him, and two come back.
+Annihilation can look like the end of the road, yet the mystics count further. The journey to God, they say, is completed in "the four divine journeys" (*al-asfar al-arbaʿa*). The first runs from creation to God, whom they call the Real (*al-Haqq*) because He is the only reality. The second is in God and by God, the third goes from God back to creation by God, and the fourth is in creation by God. Murtada Mutahhari gives the same four in the same order [@light, p. 49]. Two of the journeys go to God and into Him, and two come back.
 <!-- src: L09 ¶70-72, ¶78 -->
 
 ::: {.box-history title="The four journeys"}
@@ -54,7 +54,7 @@ The order and the names follow the lectures and Murtada Mutahhari [@light, pp. 4
 The first journey is the road we have followed through this book. On it the dark veils our deeds have made are removed, and then the outer veils of light. As the veils go, the self that commands to evil gives way to the heart, and the heart to the spirit. Of its four stages, Chapter Eight gave the first two to the traveller and the last two to God. The journey ends in annihilation, and yet, in the lectures' words, "this is just one quarter of the way".
 <!-- src: L09 ¶72-75 -->
 
-The rest of the way is travelled "by haqq", by God, which is how the lectures name the last three journeys. The lectures explain the phrase at the start of the second journey, when the traveller "has nothing of himself and is under complete Wilayat of God. It is God who is actually taking them towards this tour." Up to annihilation the work was to get the self out of the way; once the self is gone, he is carried by God's guardianship (*wilaya*), which means His taking charge of a person. Sheikh Bahmanpour finds this guardianship in a line many of us know from the last unit (*rakʿa*) of the night prayer:
+The rest of the way is travelled "by haqq", by God, which is how the lectures name the last three journeys. They explain the phrase at the start of the second, when the traveller "has nothing of himself and is under complete Wilayat of God. It is God who is actually taking them towards this tour." Up to annihilation the work was to get the self out of the way; once the self is gone, he is carried by God's guardianship (*wilaya*). Sheikh Bahmanpour finds this guardianship in a line many of us know from the last unit (*rakʿa*) of the night prayer:
 <!-- src: L09 ¶72, ¶79-80; L15 ¶60 -->
 
 ::: {.quote ar="وَ تَوَلَّنِيْ فِيْمَنْ تَوَلَّيْتَ" source="Salat al-Layl"}
