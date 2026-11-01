@@ -73,3 +73,42 @@ No High findings. The chapter is faithful at the level of quotation. Every direc
 ## Verdict
 
 **PASS WITH FIXES.** No fabricated or altered quotations. The fixes are the Med rows above: the Fudayl/Lantern and "best known master of each" overclaims, the Shaqiq-and-Umayyads wording, the Schimmel and "echo" scope, the 49:12 identification, and the unmarked book inferences in the monks and Buddhism paragraphs. The Nahj [VERIFY] can be closed from the held extract.
+
+## Fixes applied (2026-11-01)
+
+Chapter `book2/chapters/13-where-it-comes-from.md` and divider `book2/parts/4-fellow-travellers.md`. Profile PASS (longest paragraph 109); `punct` has no TAIL-COMMA left in the chapter (the divider's two flags are the chapter-title list); `build.py pdf book2 "13*"` builds.
+
+**Medium**
+- *"best known master of each"*: now "in each group a well-known seeker learned from an Imam of his day". Fudayl is "known for his great fear" (L12 ¶19). Point note 1 updated to match.
+- *Lantern "on either account"*: sentence cut. Fudayl's link to the Imam is now the lecture's own "reported abundantly from Imam al-Sadiq" (L12 ¶21). The Shaqiq authorship report stays as a side note. Mutahhari's quotation now ends before the translator's "(A)".
+- *Misbah = Lantern*: "Its Arabic title is *Misbah al-Shariʿa*" now comes before the quotation.
+- *Shaqiq "likewise" under the Umayyads*: Shaqiq clause dropped. Hasan al-Basri carries the point alone. Src comment now L11 ¶66-67.
+- *Schimmel box*: now "the thoughts of Imam al-Sadiq, and perhaps of other early mystics, 'must have been at work beneath the surface' until they appeared in Sufis such as Dhu'l-Nun and al-Muhasibi".
+- *"echo" scope*: "Much of what the early mystics said".
+- *49:12*: "gave him a warning that is also in the Qur'an (49:12)". The moral "answered twice from the Qur'an" is cut.
+- *Christian monks*: the case now "rests on practices found in both: abstinence, celibacy, the recitation of God's name, and above all the woollen dress". Added the lecture's point that what came over would be "methods rather than ideas" (L11 ¶6). "Which this chapter has shown" is cut.
+- *"no warrant to copy monasticism"*: now attributed: "on his reading a road grown from the Qur'an had no need to copy what the Qur'an calls an innovation". "The wool proves little" is cut. No pointer to Ch 15 was added, because Ch 15 does not take up the gentler reading.
+- *"Buddhism makes the strongest case"*: now "The case for Buddhism has real force."
+- *Renunciation in the Qur'an / Ibrahim*: now the Sheikh's hedge ("hard to tell, the Sheikh grants, since the Qur'an already has it"), with Ibrahim's teacher stated as a separate fact.
+- *"At most some techniques"*: now "Some techniques may have been borrowed, but not the doctrine" in the body, point note, and conclusion. `docs/ARGUMENT.md` 13.3 still says "at most" and is left for the user.
+- *Nahj 3.221 [VERIFY]*: the Arabic was copied by script from `sources/extracts/nahj.md` ll. 26471-26472. The RTL marks and "وقال عليه السلام:" were stripped and "خنز ير" was rejoined. The saying matches the English. Marker removed. The ladder (step 1b, ledger 13g, review item 7, "Still open") and the brief's "Open" line are updated.
+
+**Low**
+- 2:115 comment: "in prayer" and the unsourced "rested on from its first step" are cut. It now reads "Far from standing outside His house, God is there whichever way we turn."
+- "answers it in one line" → "rejects it in one line".
+- Kumayl/Abu Hamza times: cited `[@mafatih, pp. 129, 282]` (as in Ch 3).
+- Maʿruf: the hedge is restored ("Mutahhari passes on the report that…"). It is paraphrased, so "(A)" is gone.
+- Shaqiq met the Imam: now "Mutahhari, too, relays a report of their meeting".
+- Shaqiq moral (also chain audit ¶25): the paragraph is cut. The Sheikh's "completely different…" sentence now closes the story paragraph.
+- Love "never from the Imams' teaching": now "The Sheikh sets the Imams' teaching apart from that judgement." The definition of love is now "Imam al-Sadiq's" (L12 ¶38).
+- "above all by philosophy" → "especially by philosophy".
+- Try this: "Fix a set time each day to go over the past day's actions".
+- Divider: now uses the B4 wording ("some lost their footing in ecstasy while the sober reached the end"; "Shia masters kept the path without a Sufi institution of authority, because authority belongs to the Imam"). The epigraph is now discussed: "The Munajat Shaʿbaniyyah asks to be among those God glances at until they swoon before His Majesty. Of the travellers who reached that state…".
+- Glossary: added Annemarie Schimmel, R. A. Nicholson, Louis Massignon, Julian Baldick, Murtada Mutahhari, ʿAllama Tabatabaʾi, Misbah al-Shariʿa, al-Qadisiyya, Waqisa and Siffin. Nicholson is now introduced as "the English orientalist R. A. Nicholson" in the box. *tawakkul* is "reliance on God" in the words box and the prose, matching the glossary.
+- Length: the opening is 150 words (was ~200). The body is ~2,960 words including boxes and verses (was ~3,170, same count).
+- `light` PDF page numbers: unchanged. They still need converting before print, per DECISIONS.
+
+**Chain audit** (`reviews/voice/13-chain-answers.json`)
+- ¶32-34 (Mutahhari's verdict, the Western scholars, Jurdaq's pitcher) are folded into one paragraph of about 105 words. It now runs Mutahhari's certainty, then Nicholson and Massignon, then the pitcher, closing the Abu Dharr frame, then "the great ocean of Islam". Mutahhari's deferral to separate study and the "seeds of mysticism" and Schimmel lines are cut.
+- The recap and the hand-off question ("Where did those travellers arrive?") are kept.
+- ¶25 (Shaqiq moral) is folded into the story (see above). The chapter now has 33 paragraphs.

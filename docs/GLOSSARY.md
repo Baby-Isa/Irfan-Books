@@ -4,6 +4,16 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 
 | Term (book spelling) | Variants seen in transcripts | Arabic | Short definition | First seen |
 |---|---|---|---|---|
+| Annemarie Schimmel | Shimmel | | Western historian of Islamic mysticism; the lectures report her view that its roots go back to Imam al-Sadiq (L11 ¶45–46, ¶58) | B2 Ch13 |
+| R. A. Nicholson | Nicholson | | English orientalist who came to admit that the principal sources of ʿirfan are the Qur'an and the Sunnah (`light` pp. 20–21) | B2 Ch13 |
+| Louis Massignon | | | French orientalist who, with Nicholson, admitted that the principal sources of ʿirfan are the Qur'an and the Sunnah (`light` pp. 20–21) | B2 Ch13 |
+| Julian Baldick | Julian Balwick | | Author of *Mystical Islam*, a lecturer at King's College; holds that Buddhism may have influenced techniques, not doctrine (L07 ¶51; L11 ¶23) | B2 Ch13 |
+| Murtada Mutahhari | | | Scholar whose "Introduction to ʿIrfan" opens *Light Within Me* (`light`) | B2 Ch13 |
+| ʿAllama Tabatabaʾi | Allama Tabatabai | | Muhammad Husayn Tabatabaʾi, whose preface opens *Light Within Me* and whose lectures lie behind *Kernel of the Kernels* | B2 Ch13 |
+| Misbah al-Shariʿa | Misbah al-Shariah | | Arabic title of *Lantern of the Path*, the book attributed to Imam al-Sadiq; said to be lessons Fudayl took from him (`light` p. 25), or by some, Shaqiq's (L12 ¶10) | B2 Ch13 |
+| al-Qadisiyya | qadisiyah | | A resting place on the pilgrim road from Iraq to Mecca, where Shaqiq first saw Imam al-Kazim (L12 ¶31) | B2 Ch13 |
+| Waqisa | Muwaqisa | | The next resting place on that road, where Shaqiq found the young man praying (L12 ¶33) | B2 Ch13 |
+| Siffin | | | Battle of Imam ʿAli's time at which Uways al-Qarani was with the Imam (L11 ¶41) | B2 Ch13 |
 | abdal | Abdaal, abdaal | | A class of saints in the hierarchy; God provides for the earth through them | L12 |
 | Abu Dharr al-Ghifari | Abu Dharr Ghafari | | Companion of the Prophet ﷺ known for his renunciation; died alone in exile (`light` p. 20; L11 ¶35) | L11 |
 | ʿadhab | azaab | | Punishment | L04 |

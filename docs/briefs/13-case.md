@@ -41,4 +41,4 @@
 **Words you'll meet:** Sufi · *zuhd* · *tawakkul* · *muhasaba* (add "Sufi" and the story names to the glossary before Stage 3).
 **Target:** about 2,800 words of body.
 **Hand-off to the next chapter:** Where did those travellers arrive?
-**Open:** two Arabic [VERIFY] markers (Nahj 3.221; Imam al-Kazim's saying, `kernel` p. 68). Settled at Stage 2: the Q 49:12 identification in the Shaqiq story is ours, so the words go inline with the reference and no verse block; the `kernel` saying is paraphrased; the chapter point's last clause is the writer's sharpening of the book chain, for the user.
+**Open:** one Arabic [VERIFY] marker (Imam al-Kazim's saying, `kernel` p. 68); Nahj 3.221's Arabic was copied from the `nahj` extract (ll. 26471–26472) in the 2026-11-01 fix pass. Settled at Stage 2: the Q 49:12 identification in the Shaqiq story is ours, so the words go inline with the reference and no verse block; the `kernel` saying is paraphrased; the chapter point's last clause is the writer's sharpening of the book chain, for the user.

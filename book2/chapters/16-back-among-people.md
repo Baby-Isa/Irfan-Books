@@ -5,21 +5,21 @@ chapter: 16
 ---
 
 ::: {.quote ar="فَنَاجَيْتَهُ سِرّاً وَعَمِلَ لَكَ جَهْراً" source="Munajat Shaʿbaniyyah"}
-You whisper to them secretly and they work for You openly. [@light, p. 165; @duas_munajat_shabaniyah, §111]
+So You speak to him secretly and he works for You openly. [@duas_munajat_shabaniyah, §111]
 :::
 
-The Munajat Shaʿbaniyyah asks to be made one of those whom God calls and who answer Him, and the line above describes them. God speaks to them in secret, and they work for Him in the open. Imam ʿAli (as) once described the same people to Kumayl ibn Ziyad, whose duʿa many of us hear on Thursday evenings. Kumayl recalls that Imam ʿAli "took my hand and led me toward the cemetery. When he reached the desert, he sighed deeply" [@nahj, 3.133]. There, speaking of the few on earth who uphold God's proof, he said:
+The Munajat Shaʿbaniyyah asks to be made one of those whom God calls and who answer Him, and the line above describes each of them, one to whom God speaks in secret and who works for Him in the open. Imam ʿAli (as) once described people much like these to Kumayl ibn Ziyad, whose duʿa many of us hear on Thursday evenings [@mafatih, p. 129]. Kumayl recalls that Imam ʿAli "took my hand and led me toward the cemetery. When he reached the desert, he sighed deeply" [@nahj, 3.133]. There, speaking of the few on earth who uphold God's proof, he said:
 
-::: {.quote ar="[VERIFY: Arabic of Nahj 3.133, nahj p. 737; the extract's Arabic is broken across lines]" source="Nahj al-Balagha"}
-In this world they live in bodies whose spirits are linked to the highest abode. They are God's vicegerents on His earth, who call to His religion. Ah! Would that I could see them! [@nahj, 3.133]
+::: {.quote ar="وصحبوا الدنيا بأبدان أرواحها مُعَلّقة بالمحلّ الأعلى أولئك خلفاء الله في أرضه والدعاة إلى دينه. آه آه شوقًا إلى رؤيتهم." source="Nahj al-Balagha"}
+In this world they live in bodies whose spirits are linked to the highest abode. They are God's vicegerents on his earth, who call to his religion. Ah! Would that I could see them! [@nahj, 3.133]
 :::
 
-Imam ʿAli's description holds both halves of the Munajat's line. These people live in their bodies in this world, among everyone else, while their spirits are linked to the highest abode, and their work on earth is to call people to God's religion. When Murtada Mutahhari introduces the four journeys of the mystics, he sets beside them this same saying about the friends of God in every age [@light, p. 49].
+This book reads the two side by side, because Imam ʿAli's description holds both halves of the Munajat's line. These people live in their bodies in this world, among everyone else, while their spirits are linked to the highest abode, and their work on earth is to call people to God's religion. Murtada Mutahhari calls them the friends of God, "who exist in every age", and quotes the saying shortly before he introduces the four journeys of the mystics [@light, p. 49].
 
-Chapter Twelve left the traveller coming back to himself, sober, and called annihilation a beginning. This chapter follows him the rest of the way, which ends with him back among people and still with God. It ended this way for the Prophet ﷺ and the Imams (as), and for Imam al-Husayn (as) it ran as far as Karbala.
+Chapter Twelve left the traveller coming back to himself, sober, and called annihilation a beginning. This chapter follows him the rest of the way, which ends with him back among people and still with God. The Prophet ﷺ and the Imams (as) walked it to the end, and in this book's reading Imam al-Husayn (as) walked it as far as Karbala.
 
 ::: {.words}
-*al-asfar al-arbaʿa*: the four journeys · *al-Haqq*: the Real, a name of God · *wilaya*: God's guardianship, His taking charge of a person · *baqaʾ*: remaining, the life in God that follows annihilation · *malakut*: the world of angels and spirits
+*al-asfar al-arbaʿa*: the four journeys · *al-Haqq*: the Real, a name of God · *wilaya*: friendship with God, His closeness and authority; on the road, His guardianship of the traveller · *baqaʾ*: remaining, the life in God that follows annihilation · *malakut*: the world of angels and spirits
 :::
 
 ## A quarter of the way
@@ -32,8 +32,7 @@ Losing the self ends only the first of four journeys; in the second, God takes t
 3. The last three are made "by God": God takes charge of the traveller, as the night prayer asks.
 4. The second journey is that guardianship lived: God, reflected in the heart, is now explored.
 5. In it God shows him His names, as He taught Adam, up to a limit, and no one is above the Prophet ﷺ.
-6. It ends in remaining: the traveller feels his existence again, as a servant of God.
-7. Therefore: losing the self is a quarter of the way, and the second journey gives the traveller back to himself as God's servant.
+6. Therefore it ends in remaining: the traveller feels his existence again, as a servant of God, still facing God.
 ::::
 
 Annihilation can look like the end of the road, yet the mystics count further. The journey to God, they say, is completed in "the four divine journeys" (*al-asfar al-arbaʿa*). The first runs from creation to God, whom they call the Real (*al-Haqq*) because He is the only reality. The second is in God and by God, the third goes from God back to creation by God, and the fourth is in creation by God. Murtada Mutahhari gives the same four in the same order [@light, p. 49]. Two of the journeys go to God and into Him, and two come back.
@@ -52,7 +51,7 @@ The order and the names follow the lectures and Murtada Mutahhari [@light, pp. 4
 :::
 
 The first journey is the road we have followed through this book. On it the dark veils our deeds have made are removed, and then the outer veils of light. As the veils go, the self that commands to evil gives way to the heart, and the heart to the spirit. Of its four stages, Chapter Eight gave the first two to the traveller and the last two to God. The journey ends in annihilation, and yet, in the lectures' words, "this is just one quarter of the way".
-<!-- src: L09 ¶72-75 -->
+<!-- src: L09 ¶72-75; L07 ¶59 -->
 
 The rest of the way is travelled "by haqq", by God, which is how the lectures name the last three journeys. They explain the phrase at the start of the second, when the traveller "has nothing of himself and is under complete Wilayat of God. It is God who is actually taking them towards this tour." Up to annihilation the work was to get the self out of the way; once the self is gone, he is carried by God's guardianship (*wilaya*). Sheikh Bahmanpour finds this guardianship in a line many of us know from the last unit (*rakʿa*) of the night prayer:
 <!-- src: L09 ¶72, ¶79-80; L15 ¶60 -->
@@ -69,8 +68,6 @@ Under God's guardianship the traveller is taken through His names and attributes
 
 At the end of the second journey remaining (*baqaʾ*) follows annihilation, and the traveller comes back from effacement to sobriety. He "feels his existence again", knows that God created him, and finds himself "a servant of Allah". Chapter Twelve described this sober return, and the map of the four journeys gives it its place, after God has shown the traveller His names.
 <!-- src: L09 ¶81 -->
-
-Losing the self is therefore a quarter of the way. After the second journey the traveller is himself again and God's servant, and he still faces God rather than the people he left behind.
 
 ## The way back
 
