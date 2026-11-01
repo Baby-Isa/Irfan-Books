@@ -105,15 +105,17 @@ Allah is the Light of the heavens and the earth.
 Allah guides to His Light whomever He wishes.
 :::
 
-How, then, does God choose whom He guides? The Sheikh's answer is that He chooses those He loves, and that the traveller therefore purifies the heart first, "in the hope that Allah will choose you". Surah al-Baqarah names where that purity begins.
+In a desire to obtain this light that is knowledge, we ask ourselves how God chooses whom He guides. The Sheikh's answer is that He chooses those He loves. Therefore, the traveller purifies the heart, "in the hope that Allah will choose you". Surah al-Baqarah explains the form of this purification:
 
 ::: {.ayah ref="2:282" words="121-124"}
 Be wary of Allah and Allah will teach you.
 :::
 
-"Be wary" is a translation of the verb form of *taqwa*, with *taqwa* itself tracing back, as Ayatullah Khomeini explains, to a root meaning shield, such that being wary is "a kind of defense and shielding" [@forty_hadith, p. 198], guarding the soul against whatever goes against what pleases God. Wariness grows from "the fear and awe of God Almighty" [@forty_hadith, p. 291]. That guarding is why wariness comes first and God's teaching follows. Wariness, he writes, "purifies the soul and connects it to the invisible sacred realm", and divine teaching follows, "for there is no niggardliness in the higher realms, which are bounteous by necessity" [@forty_hadith, p. 331].
+"Be wary" is the verb form of *taqwa*, with *taqwa* itself tracing back to a root meaning shield, so that being wary is "a kind of defense and shielding" [@forty_hadith, p. 198]. Wariness guards the soul against whatever goes against what pleases God, and it grows from "the fear and awe of God Almighty" [@forty_hadith, p. 291].
 
-Chapter One found the signs everywhere and the fault in the receiver, and the same holds for the light. It surrounds us, though the guiding is God's to give. "The light is everywhere," the Sheikh says, and if a heart stays dark, it is because the heart shuts out the light. Receiving it asks for a change within us: the purity that wariness of God brings.
+Ayatullah Khomeini continues to say that guarding is why wariness comes first and God's teaching follows. Wariness, he writes, "purifies the soul and connects it to the invisible sacred realm", and divine teaching follows, "for there is no niggardliness in the higher realms, which are bounteous by necessity" [@forty_hadith, p. 331].
+
+Chapter One found the signs everywhere that were not picked up by our faulty receivers. Similarly, the light that brings knowledge surrounds us, though the guiding of this light, as with all things, is God's alone to give. "The light is everywhere," the Sheikh says, and if a heart stays dark, it is because the heart shuts out the light. To open the heart's shutters, we must purify the heart with the wariness of God.
 
 Knowledge of God is therefore a light given to a purified heart, and study cannot gather it. A knowledge given to the heart also travels differently. The knowledge of books passes from mind to mouth, through language, whereas the knowledge of the ʿurafaʾ passes "from heart to heart", in the Sheikh's words. Receiving it directly from God is possible but difficult, so one usually has to start through someone else, and Chapter Seven describes that guide.
 
