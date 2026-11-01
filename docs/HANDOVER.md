@@ -1,4 +1,7 @@
-# Handover to a new session (2026-10-19)
+# Handover to a new session (2026-10-19; updated 2026-11-01)
+
+**2026-11-01: the whole of Book 2 is now drafted.** Parts Four and Five (Ch 13–17) and the epilogue were written autonomously at the user's request (D55) by the pipeline in `docs/briefs/PIPELINE-2026-11-01.md`; every file passes the profile and has no open markers. Start with `reviews/REVIEW-GUIDE-parts-four-five-2026-11-01.md` (eight judgement calls for the user). The user's marathon approval sheet continues from item 42 (Ch 3), sent in chat in chunks with the sentence before and after and the point of each item (`python3 reviews/ai/approval/context.py LO HI`; answers in `reviews/ai/approval/answers.json`, applied by `apply.py`). Newest house rules: TONE 46 (Scaffolding, Variation; D52–D53) and TONE 47 (the reader's chain of questions; D55); LESSONS 33–37; "Ayatullah Khomeini" (D54).
+
 
 _Read this first, then `CLAUDE.md`, `docs/STATUS.md`, `docs/briefs/LESSONS.md` (1–31) and `docs/EXEMPLAR.md`. Branch: `claude/irfan-books-part-three-kh8nd2`. Commit and push after every unit._
 

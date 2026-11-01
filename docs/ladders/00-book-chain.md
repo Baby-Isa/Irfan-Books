@@ -2,6 +2,8 @@
 
 _D48 (user, 2026-10-18): the proof-style ladder is the new model. Each line uses only what earlier lines established. One line per chapter; each Part ends in its book point; the five book points give the thesis. Approved 2026-10-18; Part Three lines (Ch 8–12, B3) revised and approved 2026-10-19 (D50). On approval, `docs/ARGUMENT.md` and `docs/STORYLINE.md` take these wordings._
 
+_2026-11-01: lines 13–17 are reworded where the written, fact-checked chapters state their point differently; each such line is marked "awaiting user approval" and gives the approved wording. B4 and B5 are unchanged. ARGUMENT and STORYLINE already follow the chapters._
+
 **Question the book answers:** is there more to the religion than the obligations, and if so, how does a believer reach it safely?
 
 ## Part One: The Call. Why travel?
@@ -26,14 +28,14 @@ _D48 (user, 2026-10-18): the proof-style ladder is the new model. Each line uses
 - **B3, therefore:** the road is walked in a known order, four stages from repentance to the loss of the false self, two ours and two God's.
 
 ## Part Four: Fellow travellers. Who else is on this road, and where did they arrive?
-13. **Ch 13.** This road began in the Qur'an, the Prophet and the Imams; the early seekers walked it in the Imams' orbit, and below them.
-14. **Ch 14.** Those who reached the end divided into the drunk and the sober; the sober went further, and the great theory of what they saw is neither pantheism nor licence.
-15. **Ch 15.** The road later became the Sufi orders; Shia share the path and its source, but not the orders' authority, which belongs to the Imam.
+13. **Ch 13.** This road began in the Qur'an, the Prophet and the Imams; its first seekers learned from the Imams and stood below them, so it was not brought in from outside, though some techniques may have been borrowed. _(2026-11-01, awaiting user approval)_ _Approved wording: "…the early seekers walked it in the Imams' orbit, and below them."_
+14. **Ch 14.** Of those who reached annihilation, the drunk stayed lost in it and the sober came back and went further; the theory of what they saw is contested, but its defenders show that it neither makes the world God nor puts God inside a man. _(2026-11-01, awaiting user approval)_ _Approved wording: "Those who reached the end divided into the drunk and the sober; the sober went further, and the great theory of what they saw is neither pantheism nor licence."_
+15. **Ch 15.** The road later became the Sufi orders; Shia share the orders' source and path, and may follow a shaykh who has walked it, but the authority an order gives to its chain of masters belongs, in Shia teaching, to the Imams. _(2026-11-01, awaiting user approval)_ _Approved wording: "…Shia share the path and its source, but not the orders' authority, which belongs to the Imam."_
 - **B4, therefore:** others have walked this road, it is native to Islam, and its authority stays with the Imam.
 
 ## Part Five: The Destination. What is the road for?
-16. **Ch 16.** The completed journey comes back to people, with God, as the Prophet and the Imams show, to Karbala.
-17. **Ch 17.** Every soul returns to God, willingly or not; ʿirfan is making that return willingly, now.
+16. **Ch 16.** The completed journey comes back to people, with God, as the Prophet and the Imams show and, in this book's reading, as far as Karbala; its fullest form belongs first to them. _(2026-11-01, awaiting user approval)_ _Approved wording: "…as the Prophet and the Imams show, to Karbala."_
+17. **Ch 17.** Every soul returns to God by giving back what it was given, willingly or not; ʿirfan is making that return willingly and in this life. _(2026-11-01, awaiting user approval)_ _Approved wording: "…ʿirfan is making that return willingly, now."_
 - **B5, therefore:** the road is for God, and it brings the traveller back to people and to Him.
 
 ## Thesis, therefore

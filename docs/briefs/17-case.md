@@ -1,6 +1,7 @@
 # Chapter 17: Case brief
 
-**Status:** draft, 2026-11-01 (D55 pipeline, Stage 2 done: Fable challenge applied, see the ladder's "Fable review (2026-11-01)"; Stage 3 prose next). Ladder: `docs/ladders/17.md`. Built from `docs/outline/part-5.md` (Ch 17), whose quote ledger, sources and cuts still apply except where the ladder's "Changed from the outline" says otherwise.
+**Status:** drafted 2026-11-01, awaiting the user's review.
+_Earlier status: draft, 2026-11-01 (D55 pipeline, Stage 2 done: Fable challenge applied, see the ladder's "Fable review (2026-11-01)"; Stage 3 prose next). Ladder: `docs/ladders/17.md`. Built from `docs/outline/part-5.md` (Ch 17), whose quote ledger, sources and cuts still apply except where the ladder's "Changed from the outline" says otherwise._
 **Title:** The return to God
 **Serves:** B5, Part Five "The Destination" (`docs/ARGUMENT.md`; `docs/ladders/00-book-chain.md` line 17). As the last chapter before the epilogue, its close also lands the book's thesis ("…it ends not in withdrawal but in return, to people with God, and to God Himself").
 
@@ -61,3 +62,15 @@
 4. The thesis paragraph in §5 answers the book's opening question in at most 90 words (the one closing recap, TONE 44); Stage 4 tests it for tour or sermon.
 5. §4's point is reworded in the ladder and here to match its steps; ARGUMENT 17.3 and STORYLINE keep the approved wording until the user sees both.
 6. Box 3 comes from L04, not from Ch 17's own lecture; the user should know the chapter's own story was passed over and why.
+
+## Changes after the fact-check, chain audit and fixes (2026-11-01)
+The chapter text is authoritative: `book2/chapters/17-the-return-to-god.md`. Sources for this list: `reviews/book2-17.md` (fix log at the end) and `reviews/fable/17-tone-2026-11-01.md`. Where the text below differs from the ladder above, follow the chapter. Headlines only; `docs/ladders/17.md` lists the changes in full.
+
+- **Superseded above:** any "Open", "Open for the user" or `[VERIFY]` line earlier in this brief. `build.py check` shows no markers left in this chapter or its Part divider.
+
+- **Chapter points:** the brief's conclusion and §5 point say "willingly, now"; the chapter says "willingly and in this life". 17.3 in the brief ("Hell is the same return, refused") is superseded by the ladder's §4 wording, which the chapter follows: "The return happens whether or not a soul makes it…".
+- **Point wording settled:** the chapter point, the §5 point and the Part Five divider say "willingly and in this life" (clearer than "now", since the chapter contrasts this life with after death).
+- **Cut in the fact-check and chain audit (50 paragraphs became 37; idle was 34%, and about 11% is expected, so the re-audit should check the chapter does not now read clipped):** the Duʿa ʿArafah line and its "because" sentence; the block quotation from `forty_hadith` p. 517 (Khomeini's quotation of Tusi's commentary is one sentence set after Shaykh Bahaʾi's guard); the Khomeini fire paragraph and `forty_hadith` p. 137 (one voice on the fire: the Sheikh's); the second *taslim* example; the four section-closing "therefore" restatements (each section's point is stated once, and the matching "Therefore" lines are removed from the point notes); the Q 2:156 "traveller" sentence; the Ridwan root claim ("no one enters without contentment"); the closing question, so the chapter ends on the thesis paragraph, the Fajr verse and Try this.
+- **Wording that moved:** the *radiya*/*rida* equation and the p. 207 footnote are gone, and Surah al-Fajr is introduced in the thesis paragraph's last clause.
+- **Boxes:** the Who's Who for Tusi says the account comes from "another of his books, which the lectures call 'Reminder of the beginning and the end'", and that Mulla Sadra translated long passages of it into his *Asfar*.
+- **Tone pass:** the one 123-word paragraph is split; Q 89:27-28 is now followed by its gloss, so the chapter ends on contentment, where the giving back began; a 110-word cap holds.

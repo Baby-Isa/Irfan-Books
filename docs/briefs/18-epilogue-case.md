@@ -1,6 +1,7 @@
 # Epilogue: Case brief
 
-**Status:** v2, pipeline Stage 2 done (Fable challenge, D55, 2026-11-01); for Stage 3 prose. Ladder: `docs/ladders/18-epilogue.md` (its "Fable review" lists the changes).
+**Status:** drafted 2026-11-01, awaiting the user's review.
+_Earlier status: v2, pipeline Stage 2 done (Fable challenge, D55, 2026-11-01); for Stage 3 prose. Ladder: `docs/ladders/18-epilogue.md` (its "Fable review" lists the changes)._
 **Title:** First steps
 **Serves:** B3 in practice; closes B5 (`docs/ARGUMENT.md`, `docs/ladders/00-book-chain.md`). Adds no line to the book chain.
 
@@ -71,3 +72,17 @@
 4. ~~Ch 10 §4 and "at least a year"~~ resolved: recalled in words, not quoted.
 5. "This week" names seventeen acts: the prose must point by chapter in four short paragraphs (LINGO: prose over bullets), leaving detail to the table; the reader takes one.
 6. The hard-bread story must be told as the Sheikh's answer to a listener (L08 ¶82 is a question from the floor), and the Imam's letter cited `[@nahj, 2.45.2, p. 626]`.
+
+## Changes after the fact-check, chain audit and fixes (2026-11-01)
+The chapter text is authoritative: `book2/chapters/18-epilogue.md`. Sources for this list: `reviews/book2-18.md` (fix log at the end) and `reviews/fable/18-tone-2026-11-01.md`. Where the text below differs from the ladder above, follow the chapter. Headlines only; `docs/ladders/18-epilogue.md` lists the changes in full.
+
+- **Superseded above:** any "Open", "Open for the user" or `[VERIFY]` line earlier in this brief. `build.py check` shows no markers left in this chapter or its Part divider.
+
+- **Chapter points:** the four section points stand; "This week" no longer says "from a chapter's Try this". The brief's one table is now five tables.
+- **Ch 17 hand-off (High):** the "as Chapter Seventeen asked in closing" clause is cut.
+- **Bread story:** only L08 ¶83's clear line is quoted ("he's in level 1000 we just want to start level one"); "instruction for level one" is dropped, and the Nahj letter (packet ¶7) is folded into the same paragraph.
+- **Wording that moved:** the Ch 6 step reads "in the most meritorious part of its time, with that time kept free" (also in the table); "Five of the steps belong to the prayer"; repentance is described as Ch 9 does (a continuous process; the prayer of repentance marks the setting out; no repeat stated), and Dhu'l-Qaʿdah is the prayer's best time "for a reader who sets out in that month"; the Ramadan step is cited `[@journey, pp. 45–46]` as the month of the Qur'an whose etiquette of recital Ch 17's step follows; "no two travellers are alike" became L14 ¶70's own point; the guide test is scoped as Ch 7 scopes it ("a teacher who is followed closely is tested…"); the young man's elder's words end at "rushing" and the "linear gradual improvement" and three-months' fast comparison are given to the lecture, as Ch 9 gives them; "The title is God's to give" is cut.
+- **This week point:** the chapter says "one act of a few minutes, fixed to the time of day in which the heart is already most present" (the ladder's "from a chapter's Try this" is dropped from the point; the box carries it).
+- **The table became five short two-column tables** inside the one Try this box ("a week, a month, a year"), grouped as the prose groups them (setting out; in and after the prayer; with the Qur'an and the duʿas; at night; among people), because the template keeps a table unbreakable and 17 rows overflowed.
+- **Chain audit:** the old ¶7 is folded into ¶6; the whole-chapter summary and the one-line section closers are cut; the close runs from God's acceptance (Maliki Tabrizi, `journey` p. 161) to asking Him for the keeping, and ends on Munajat §124 with no closing remark.
+- **Tone pass:** label sentences and restating paragraphs cut; the passage copied word for word from Ch 7 is rewritten.

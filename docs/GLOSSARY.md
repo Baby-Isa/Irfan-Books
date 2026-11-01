@@ -14,6 +14,25 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | al-Qadisiyya | qadisiyah | | A resting place on the pilgrim road from Iraq to Mecca, where Shaqiq first saw Imam al-Kazim (L12 ¶31) | B2 Ch13 |
 | Waqisa | Muwaqisa | | The next resting place on that road, where Shaqiq found the young man praying (L12 ¶33) | B2 Ch13 |
 | Siffin | | | Battle of Imam ʿAli's time at which Uways al-Qarani was with the Imam (L11 ¶41) | B2 Ch13 |
+| Mirza Jawad Maliki Tabrizi | Maliki Tabrizi, Malaki Tabrizi | | Shia scholar, author of *al-Muraqabat*, whose Ramadan section is translated as *The Spiritual Journey of the Mystics* (`journey`); written "Maliki Tabrizi" after the first mention | B2 Ch16 |
+| Sheikh Bahmanpour | | | M. S. Bahmanpour, the lecturer of the series (see DECISIONS, "Lecturer"); written "Sheikh Bahmanpour" or "the Sheikh" in the chapters | B2 Ch13 |
+| Plato, Aristotle, Pythagoras | | | The Greek philosophers whose ideas Neoplatonism drew on (`light` p. 16) | B2 Ch13 |
+| Neoplatonism | Neo-Platonism | | The late-antique philosophy built on Plato; it reached the mystics only when they built ʿirfan into a theory, centuries after the first seekers (L11 ¶20–21; `light` p. 16) | B2 Ch13 |
+| Buddha | | | Founder of Buddhism; Ibrahim ibn Adham, prince of Balkh, is often compared with him (`light` p. 24) | B2 Ch13 |
+| Umayyads | Omayyads, Bani Umayya | | The dynasty ruling after Imam ʿAli's time, under which saying the Imams' names was dangerous (L11 ¶66–67) | B2 Ch13 |
+| Abu Bakr | | | The first caliph; the Naqshbandiyya take their chain through him, and Suhrawardi claimed descent from him (`light` p. 34; L14 ¶37) | B2 Ch15 |
+| Shahabadi | Shah Abadi | | Mirza Muhammad ʿAli Shahabadi, Ayatullah Khomeini's teacher, with whom he read Ansari's *Manazil al-saʾirin* (`forty_hadith` p. 8) | B2 Ch4 |
+| Ghalib al-Asadi | | | Father of Bishr and Bashir, who were with Imam al-Husayn (as) on the night of ʿArafah (Mafatih p. 374) | B2 Ch16 |
+| Rumi | Jalal al-Din Rumi | | Persian mystic poet; died, like al-Tusi, in 672/1273 (`light` p. 36) | B2 Ch17 |
+| Isharat | al-Isharat | | Ibn Sina's book, on which al-Tusi wrote the commentary whose stages of the road Ch 8 set beside its own (`light` p. 50) | B2 Ch17 |
+| Asfar | al-Asfar | | Mulla Sadra's major work, into which, the Sheikh adds, he translated long passages of al-Tusi's account of the return (L16) | B2 Ch17 |
+| Huwa | | | "He": the pronoun for God in Surah al-Ikhlas (Q 112:1); the last degree of annihilation leaves the traveller only this word (Ch 12) | B2 Ch12 |
+| subhan Allah | subhanallah | | "Glory be to God": the first of the three phrases of the Tasbih of al-Zahraʾ | B2 Ch10 |
+| la ilaha illa Allah | la ilaha illallah | | "There is no god but God": the remembrance the Suhrawardiyya repeat for long stretches, and the one Ch 15 suggests saying quietly through the day (L14 ¶56–58, ¶71) | B2 Ch7 |
+| Ziyarat ʿAshura | Ashura ziyarat | | A visitation prayer for Imam al-Husayn (as); the young man in Tehran who recited it daily and was told he was rushing (L08 ¶24–27; Ch 9, Ch 18) | B2 Ch9 |
+| Adam | | | The first prophet; God "taught Adam the Names, all of them" (Q 2:31) | B2 Ch5 |
+| Yusuf | Joseph | | The Prophet Yusuf (as); in Ch 17 he reads the king's dream (Q 12; L16) | B2 Ch11 |
+| ʿIsa | Jesus | | The Prophet ʿIsa (as); Ch 7 and the Epilogue use his three questions to test the company we keep (`lantern` p. 13) | B2 Ch7 |
 | abdal | Abdaal, abdaal | | A class of saints in the hierarchy; God provides for the earth through them | L12 |
 | Abu Dharr al-Ghifari | Abu Dharr Ghafari | | Companion of the Prophet ﷺ known for his renunciation; died alone in exile (`light` p. 20; L11 ¶35) | L11 |
 | ʿadhab | azaab | | Punishment | L04 |
@@ -34,7 +53,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | ʿalam al-mulk | aalamul mulk, aalamul-mulk, aalam al mulk | | The material world of outward kingdom | L04 |
 | ʿalam al-shahada | aalamul shahadah | | The witnessed world, the realm of the senses | L04 |
 | ʿalam al-ʿuqul | aalamul uqul, aalamul-oqul | | World of pure intellects | L04 |
-| Sayyid Haydar Amuli | Haydar Amuli | | Shia master, author of *Inner Secrets of the Path*; always written in full, beside Ayatullah Hasanzadeh Amuli (Ch 14) | B2 Ch5 |
+| Sayyid Haydar Amuli | Haydar Amuli | | Shia master, author of *Inner Secrets of the Path*; always written in full, beside Ayatullah Hasanzadeh Amuli (Ch 15) | B2 Ch5 |
 | ʿAbd al-Qadir al-Gilani | Shaykh Abd al-Qadir Jilani, Jilaniya | | Head of a great Sufi order; Ibn ʿArabi's chain runs back to him through one link (`light` p. 34) | L13 |
 | al-Futuhat al-Makkiyya | Al-Futuhat al-Makkiyya, Futuhat | | *The Meccan Illuminations*, Ibn ʿArabi's encyclopaedic work on ʿirfan (`light` p. 35) | L13 |
 | al-Hakim al-Tirmidhi | Al Hakim Al Tirmidhi, Hakim Al Tarmidhi | | Third-century mystic and philosopher (not the hadith compiler) of the leaning to knowledge; spoke of the Seal of the Saints (L13 ¶4–12) | L13 |
@@ -64,7 +83,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | ʿarsh | arsh | | The Throne, one of the higher encompassing realms | L04 |
 | ʿAshura | Ashura | | The tenth of Muharram, the day Imam al-Husayn was martyred at Karbala (Mafatih p. 401) | B2 Ch16 |
 | ʿawamm | Awaam, awam | | Common people, as opposed to the elite | L11 |
-| awliyaʾ Allah | awliyaAllah, awliyaallah, wali, Awliya Allah | | Friends of God, used as a synonym of the ʿurafaʾ | L01 |
+| awliyaʾ Allah | awliyaAllah, awliyaallah, wali, Awliya Allah, awliyaʾ | | Friends of God, used as a synonym of the ʿurafaʾ | L01 |
 | awtad | autaad | | A rank of the saintly hierarchy | L13 |
 | ʿayn al-yaqin | Ainul Yaqeen | | The second of three degrees of certainty | L06 |
 | ʿamila salihan | amila saaliham | | Does a righteous deed; linked in the lecture to salihin | L02 |

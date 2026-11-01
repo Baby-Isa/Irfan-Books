@@ -1,6 +1,7 @@
 # Chapter 13: Case brief
 
-**Status:** draft v2, 2026-11-01 (D55 pipeline, Stage 2 done; see "Fable review (2026-11-01)" at the end of the ladder). Ladder: `docs/ladders/13.md`, which holds the paragraph-level chain of questions, the quote ledger (every quotation checked 2026-11-01) and the changes from the outline. Built from `docs/outline/part-4.md` §13, whose sources and cuts still apply except where the ladder says otherwise. Next: Stage 3, prose.
+**Status:** drafted 2026-11-01, awaiting the user's review.
+_Earlier status: draft v2, 2026-11-01 (D55 pipeline, Stage 2 done; see "Fable review (2026-11-01)" at the end of the ladder). Ladder: `docs/ladders/13.md`, which holds the paragraph-level chain of questions, the quote ledger (every quotation checked 2026-11-01) and the changes from the outline. Built from `docs/outline/part-4.md` §13, whose sources and cuts still apply except where the ladder says otherwise. Next: Stage 3, prose._
 **Title:** Where it comes from
 **Serves:** B4, Part Four "Fellow travellers" (`docs/ARGUMENT.md`; `docs/ladders/00-book-chain.md` line 13)
 
@@ -42,3 +43,18 @@
 **Target:** about 2,800 words of body.
 **Hand-off to the next chapter:** Where did those travellers arrive?
 **Open:** one Arabic [VERIFY] marker (Imam al-Kazim's saying, `kernel` p. 68); Nahj 3.221's Arabic was copied from the `nahj` extract (ll. 26471–26472) in the 2026-11-01 fix pass. Settled at Stage 2: the Q 49:12 identification in the Shaqiq story is ours, so the words go inline with the reference and no verse block; the `kernel` saying is paraphrased; the chapter point's last clause is the writer's sharpening of the book chain, for the user.
+
+## Changes after the fact-check, chain audit and fixes (2026-11-01)
+The chapter text is authoritative: `book2/chapters/13-where-it-comes-from.md`. Sources for this list: `reviews/book2-13.md` (fix log at the end) and `reviews/fable/13-tone-2026-11-01.md`. Where the text below differs from the ladder above, follow the chapter. Headlines only; `docs/ladders/13.md` lists the changes in full.
+
+- **Superseded above:** any "Open", "Open for the user" or `[VERIFY]` line earlier in this brief. `build.py check` shows no markers left in this chapter or its Part divider.
+
+- **Chapter points 13.1–13.3** stand, with 13.3 now reading "the road was not brought in from outside; some techniques may have been borrowed, and the later theory drew on outside ideas". The brief's "Open" line is out of date: Nahj 3.221 was closed from the extract, and the Imam al-Kazim saying is paraphrased, so no `[VERIFY]` remains.
+- **Chapter point unchanged** (the sharpened wording above stands; the book chain line is marked awaiting approval).
+- **§1 (Qur'an, companions, Imams):** the Qur'an 2:115 comment ends "God is there whichever way we turn" (the unsourced "rested on from its first step" is cut); "echo" is scoped to "much of what the early mystics said"; the young companion of Ch 3 is recalled with its citation `light` p. 19; Kumayl and Abu Hamza times are cited `[@mafatih, pp. 129, 282]`.
+- **§2 (first seekers):** "best known master of each" became "in each group a well-known seeker learned from an Imam of his day"; Fudayl is "known for his great fear" (L12 ¶19) and his link to Imam al-Sadiq is the lecture's "reported abundantly" (L12 ¶21), so the *Lantern* "on either account" sentence is cut (the authorship dispute stays as a side note, with "Its Arabic title is *Misbah al-Shariʿa*" before the quotation, which now ends before the translator's "(A)").
+- **§3 (not from outside):** the monks case "rests on practices found in both" (abstinence, celibacy, recitation of God's name, the woollen dress), with the lecture's "methods rather than ideas" (L11 ¶6); "no warrant to copy monasticism" is attributed to the Sheikh's reading and "the wool proves little" is cut; "Buddhism makes the strongest case" became "The case for Buddhism has real force"; renunciation in the Qur'an is the Sheikh's hedge ("hard to tell"), with Ibrahim's teacher as a separate fact.
+- **Chain audit:** the three closing paragraphs on Mutahhari's verdict, the Western scholars and Jurdaq's pitcher are folded into one (Mutahhari's certainty, Nicholson and Massignon, the pitcher closing the Abu Dharr frame, "the great ocean of Islam"); Mutahhari's deferral to separate study and the "seeds of mysticism" and Schimmel lines are cut.
+- **Tone pass:** label sentences cut, "an ordinary believer" became "we", weak final commas removed, the opening is 150 words, Try this reads "Fix a set time each day to go over the past day's actions".
+- **Boxes:** two Who's Who boxes (the three companions; "three more early names") and Try this.
+- **Glossary** gained Schimmel, Nicholson, Massignon, Baldick, Mutahhari, Tabatabaʾi, *Misbah al-Shariʿa*, al-Qadisiyya, Waqisa and Siffin.

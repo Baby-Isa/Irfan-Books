@@ -1,6 +1,7 @@
 # Chapter 16: Case brief
 
-**Status:** draft, Stage 1 of the D55 pipeline (2026-11-01; `docs/briefs/PIPELINE-2026-11-01.md`); Stage 2 Fable review applied 2026-11-01 (see the ladder's "Fable review"). Ladder: `docs/ladders/16.md` (holds the paragraph steps, reader questions, sources and the quotation check). Built from `docs/outline/part-5.md` (Ch 16), whose cuts still apply except where the ladder's "Changes from the outline" says otherwise.
+**Status:** drafted 2026-11-01, awaiting the user's review.
+_Earlier status: draft, Stage 1 of the D55 pipeline (2026-11-01; `docs/briefs/PIPELINE-2026-11-01.md`); Stage 2 Fable review applied 2026-11-01 (see the ladder's "Fable review"). Ladder: `docs/ladders/16.md` (holds the paragraph steps, reader questions, sources and the quotation check). Built from `docs/outline/part-5.md` (Ch 16), whose cuts still apply except where the ladder's "Changes from the outline" says otherwise._
 **Title:** Back among people
 **Serves:** B5, Part Five "The Destination" (`docs/ARGUMENT.md`; `docs/ladders/00-book-chain.md` line 16)
 
@@ -46,3 +47,17 @@
 - ʿArafah: §182 (main body) in place of §742/§790 (closing section); or keep §790–791 as "Duʿa ʿArafah, as given in the Mafatih".
 - The robe: the *al-Kafi* version differs from the Sheikh's (not held); the Sheikh's is told.
 - Two Arabic [VERIFY]s: Nahj 3.133; the Prophet's "states beyond any archangel" (`kernel` p. 20).
+
+## Changes after the fact-check, chain audit and fixes (2026-11-01)
+The chapter text is authoritative: `book2/chapters/16-back-among-people.md`. Sources for this list: `reviews/book2-16.md` (fix log at the end) and `reviews/fable/16-tone-2026-11-01.md`. Where the text below differs from the ladder above, follow the chapter. Headlines only; `docs/ladders/16.md` lists the changes in full.
+
+- **Superseded above:** any "Open", "Open for the user" or `[VERIFY]` line earlier in this brief. `build.py check` shows no markers left in this chapter or its Part divider.
+
+- **Chapter points 16.1–16.4** stand; 16.3 already reads "The fullest form of the return belongs first to the Prophet ﷺ and the Imams (as)", and 16.4 now carries "in this book's reflection" before Karbala. The brief's conclusion ("…walked them to the end, as far as Karbala") is conditional on the book's reading in the chapter.
+- **§3 common ground (High).** The chapter, point and Therefore say "the fullest form of the return belongs first to the Prophet ﷺ and the Imams (as)", with the Sheikh's "some very high caliber mystics" (L09 ¶87) and Tabatabaʾi's "Perhaps it is exclusive to the prophets and the awliya' and whoever God wishes" (`kernel` p. 20) quoted as they stand.
+- **Karbala is the book's reading, and says so.** It is marked in the opening, the §4 opener ("beyond what the lectures or Ayatullah Khomeini say"), the §4 point and the close, whose conclusion is conditional ("in this book's reading it took Imam al-Husayn (as) as far as Karbala") and ends on the Mafatih's ʿAshura instruction.
+- **Robe box moved from §2 to §3**, after Q 18:110 and the *Kernel*'s outward/inward line, where it illustrates hidden states under an ordinary appearance (§2 step 6 is removed; §3 step 4 carries the story box).
+- **§2:** the fourth journey is described "through what is shown to the Prophet ﷺ" (L09 ¶87-88); L09 ¶91's "sees God in them" is cut ("because he sees everyone as God's creation and connected to God").
+- **Opening and apparatus:** the pairing of Imam ʿAli's words with the Munajat's line is marked as the book's; Kumayl is introduced by his duʿa that opened Chapter Three.
+- **Chain audit (23% idle):** §1's restating closer is cut and its hinge opens §2; the §1/§2 summary closers and the ¶28 restatement are cut or folded; 31 paragraphs became 28; the hand-off is a statement ("The next chapter turns from the friends of God to the return that every soul makes to Him").
+- **Tone pass:** "the second journey" phrase no longer repeats, two long Mutahhari quotations are no longer consecutive, "Khomeini" is "Ayatullah Khomeini" (D54).

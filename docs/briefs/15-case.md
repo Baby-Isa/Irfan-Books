@@ -1,6 +1,7 @@
 # Chapter 15: Case brief
 
-**Status:** draft, Stage 2 of the D55 pipeline (2026-11-01; `docs/briefs/PIPELINE-2026-11-01.md`): Fable review applied, see the end of `docs/ladders/15.md`. Ladder: `docs/ladders/15.md`, which holds the paragraph-level steps, the quote check and the changes from the outline. Built from `docs/outline/part-4.md` §15, whose cuts still apply except where the ladder says otherwise.
+**Status:** drafted 2026-11-01, awaiting the user's review.
+_Earlier status: draft, Stage 2 of the D55 pipeline (2026-11-01; `docs/briefs/PIPELINE-2026-11-01.md`): Fable review applied, see the end of `docs/ladders/15.md`. Ladder: `docs/ladders/15.md`, which holds the paragraph-level steps, the quote check and the changes from the outline. Built from `docs/outline/part-4.md` §15, whose cuts still apply except where the ladder says otherwise._
 **Title:** Sufis and Shia: one road, one source, one Imam
 **Serves:** B4, Part Four "Fellow travellers" (last chapter; lands B4) (`docs/ARGUMENT.md`; `docs/ladders/00-book-chain.md` line 15)
 
@@ -71,3 +72,17 @@
 **Target:** about 2,900 words of body.
 **Hand-off to the next chapter:** (to Part Five) If the road's authority rests with the Imams, what does the end of the road look like in those who reached it? (Ch 16's opener recalls that Ch 15 ends on `kernel` p. 81; §4 step 5 now does.)
 **Open:** Arabic of Amuli's "as many as the souls of creation" [VERIFY] if set as a quote block; the print spacing of "Shari 'ah" and the two misprints in the "derives from" sentence (`kernel` p. 87); 11:118's clause ("but they continue to differ") to be carried in prose before the `11:119` block, since `words=` takes one verse; `docs/outline/part-4.md` §15 still lists the History box and Gilani (the ladder overrides).
+
+## Changes after the fact-check, chain audit and fixes (2026-11-01)
+The chapter text is authoritative: `book2/chapters/15-sufis-and-shia.md`. Sources for this list: `reviews/book2-15.md` (fix log at the end) and `reviews/fable/15-tone-2026-11-01.md`. Where the text below differs from the ladder above, follow the chapter. Headlines only; `docs/ladders/15.md` lists the changes in full.
+
+- **Superseded above:** any "Open", "Open for the user" or `[VERIFY]` line earlier in this brief. `build.py check` shows no markers left in this chapter or its Part divider.
+
+- **Chapter points:** 15.4 now reads "Shia masters followed shaykhs and gave them real standing, but kept no chain of authority beside the Imam". The brief's premises 7 and 10 (11:119 block, *qutb*, golden chain) and any "no blind obedience" line are out of date.
+- **§4 point narrowed (High).** The ladder's "Shia masters used teacher, robe and pledge, but gave none of them the authority that belongs to the Imam" became "Shia masters followed shaykhs and gave them real standing, but no chain of authority beside the Imam": a teacher, yes; a chain of authority beside the Imams, no.
+- **Cut in the chain audit (26% idle):** the Surah Hud verse block (11:119), the mercy and blockage paragraphs, Tabatabaʾi's *qutb* (and the word leaves the words strip), and the golden-chain history, now one hedged sentence in the Suhrawardi paragraph.
+- **§1:** the Sufis' own account is added ("say they have discovered methods that ease the journey and claim divine sanction for them", `light` p. 6).
+- **§2:** Maʿruf is "said to have become a Muslim" (`light` p. 25), with Ch 13 recalled; Suhrawardi's "three different paths of transmission" is attributed to the introduction to *Inner Secrets of the Path* (p. 13).
+- **§3:** stone-gazing is the objection to one exercise, not to the Naqshbandiyya's fidelity to the law (`kernel` pp. 86-87).
+- **Close:** each section's conclusion is stated once; ¶38 is the single chapter conclusion, and the unanswered question became a hand-off clause: the Imam's company "is needed even after the traveller arrives" (`kernel` p. 81), "and so it stays with those who have reached the end of the road".
+- **Tone pass:** label stock attributions cut, four weak final commas removed, the Tawassul callback kept once, paragraph average 78 words (longest 110).

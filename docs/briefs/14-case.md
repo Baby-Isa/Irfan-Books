@@ -1,6 +1,7 @@
 # Chapter 14: Case brief
 
-**Status:** Stage 2 (Fable challenge) done, 2026-11-01 (D55; no Gate A in chat: the user asked for Ch 13–17 to be written autonomously). Next: prose (Stage 3). Ladder: `docs/ladders/14.md` (v2, with "Fable review" at its foot). Built from `docs/outline/part-4.md` (Ch 14), whose quote ledger, sources and cuts still apply except where the ladder's "Changes from the outline" says otherwise.
+**Status:** drafted 2026-11-01, awaiting the user's review.
+_Earlier status: Stage 2 (Fable challenge) done, 2026-11-01 (D55; no Gate A in chat: the user asked for Ch 13–17 to be written autonomously). Next: prose (Stage 3). Ladder: `docs/ladders/14.md` (v2, with "Fable review" at its foot). Built from `docs/outline/part-4.md` (Ch 14), whose quote ledger, sources and cuts still apply except where the ladder's "Changes from the outline" says otherwise._
 **Title:** Drunk and sober
 **Serves:** B4, Part Four "Fellow travellers" (`docs/ARGUMENT.md`; `docs/ladders/00-book-chain.md` line 14)
 
@@ -56,3 +57,17 @@ As listed in the ladder: Simorgh, the Sahifa link, the child images, Hellenism, 
 
 ## Fable review (2026-11-01)
 Stage 2 done; the full list of changes and reasons is at the foot of `docs/ladders/14.md`. In brief: told stories cut from three to two (Bayazid's days becomes a two-line saying from the *Kernel*); §2 reordered so "am I God, or nothing?" follows straight after "nothing beside God", with Nahj 1.1.1 answering it; §1's hand-on restated as the secret-versus-theory tension and resolved in §2; 14.3 reworded from "a path outside Islam" (Ch 13's question) to "not sincere Muslims"; duplicate `light` quotations split between §1 and §3; spliced and garbled quotations paraphrased; Tirmidhi's line moved from §2 into the box; the box types and points fixed; attribution of "stopped at the river" and "nothing besides God" made exact; the hand-off's "founded on Gilani" corrected. Open for Stage 3: whether to mark the closing inference of §3 step 5a as the book's reading; Arabic of Bayazid's saying and Nahj 1.1.1 (`[VERIFY]` unless confirmed in print).
+
+## Changes after the fact-check, chain audit and fixes (2026-11-01)
+The chapter text is authoritative: `book2/chapters/14-drunk-and-sober.md`. Sources for this list: `reviews/book2-14.md` (fix log at the end) and `reviews/fable/14-tone-2026-11-01.md`. Where the text below differs from the ladder above, follow the chapter. Headlines only; `docs/ladders/14.md` lists the changes in full.
+
+- **Superseded above:** any "Open", "Open for the user" or `[VERIFY]` line earlier in this brief. `build.py check` shows no markers left in this chapter or its Part divider.
+
+- **Chapter points 14.1–14.3:** 14.3 now reads "the critics' concerns, heard through those who answer them, are grouped by the book as three… their defenders answer each, and only Ibn ʿArabi's own loyalties stay open". The brief's "neither pantheism nor licence" and any Nahj 1.1.1 `[VERIFY]` line are out of date.
+- **Chapter point reworded.** "Neither pantheism nor licence" is gone from the text: the word "pantheism" does not appear in the chapter or its point notes.
+- **§1:** "Drunk and sober alike, the masters kept the law" is removed; §3 instead says Sayyid Haydar Amuli "points to how the masters prayed" (Junayd's night prayer, Bayazid's many cycles, Ibn ʿArabi's two cycles, `inner_secrets` p. 162).
+- **§2:** the Nahj 1.1.1 oration and its restating gloss are cut, so the Arabic block and its `[VERIFY]` are gone (the Arabic can be assembled by script from `nahj.md` ll. 4202-4204 if the oration is restored).
+- **§3:** opens "No critic's own writing is among the books held for this one, so the concerns are heard here through those who answer them."
+- **Chain audit (24% idle):** the Sadra/Khomeini legacy paragraph is folded; the closing question became a hand-off clause ("Chapter Fifteen takes up how the road became such orders and where Shia stand among them").
+- **Tone pass:** an opening in "we" ("in the Munajat Shaʿbaniyyah, we ask God…"); aphorism closers cut; plain English for "the unity of being denies that anything stands beside God at all".
+- **Length:** body about 2,890 words by `voice.py` (was about 3,180 before the cuts).

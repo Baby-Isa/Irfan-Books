@@ -111,49 +111,56 @@ _One "slide" per chapter. The heading is the chapter title. The subheading is th
 ---
 
 ## Part Four: Fellow travellers. Who else is on this road, and where did they arrive?
-**Others have walked it. The road runs from the teachings of the Qur'an, the Prophet ﷺ, and the Imams from his Ahl al-Bayt; some travellers lost their footing in ecstasy while the sober went furthest; and Shia masters keep the road without a Sufi chain of authority, because authority belongs to the Imam.**
+**Others have walked it. The road grew from the Qur'an, the Prophet ﷺ, and the Imams of his Ahl al-Bayt, and its first seekers learned from the Imams and stood below them. Of the travellers who reached annihilation, some stayed lost in ecstasy while the sober came back and went further. When the road later became the Sufi orders, Shia masters kept the path without a Sufi institution of authority, because authority belongs to the Imam.**
 
-_Tone: the analytical step back after the crescendo. Calm, clear and curious._
+_Tone: the analytical step back after the crescendo. Calm, clear and curious. Ch 13–17 and the epilogue follow the chapters as fact-checked and fixed on 2026-11-01 (the chapters are authoritative)._
 
 ### 13. Where it comes from
-**This road began in the Qur'an, the Prophet and the Imams; the early seekers walked it in the Imams' orbit, and below them.**
-- Its roots are the Qur'an, the Prophet's companions and the Imams.
-- The early seekers leaned to fear, renunciation or love, often close to the Imams, who stand above them.
-- It did not come from monks or philosophers outside Islam; at most, some techniques were borrowed.
+**This road began in the Qur'an, the Prophet ﷺ and the Imams; its first seekers learned from the Imams and stood below them, so it was not brought in from outside, though some techniques may have been borrowed.**
+- The Qur'an, the companions and the Imams: the road's material was in Islam from its first generation, most fully in Imam ʿAli and the Imams after him.
+- The first seekers and the Imams above them: the next generation, of fear, renunciation and love, learned from the Imams, directly or through Imam ʿAli's companions, and stood below them.
+- Not brought in from outside: monks, Neoplatonism and Buddhism are each answered; some techniques may have been borrowed, and the theory drew on outside ideas only later.
 
 ### 14. Drunk and sober
-**Those who reached the end divided into the drunk and the sober; the sober went further, and the great theory of what they saw is neither pantheism nor licence.**
-- Travellers divided between ecstatic intoxication and sober clarity, and the tradition ranked the return higher.
-- Ibn ʿArabi gave the experience a theory, the unity of being, which is grasped by experience rather than argument.
-- Some Shia scholars objected; its defenders answer that it is neither pantheism nor licence.
+**Of those who reached annihilation, the drunk stayed lost in it and the sober came back and went further; the theory of what they saw is contested, but its defenders show that it neither makes the world God nor puts God inside a man.**
+- Lost in God, or back with God: the drunk stayed lost and spoke of it, while the sober came back, kept its secret, and went further; the tradition ranked the return higher.
+- A theory of what they saw: Ibn ʿArabi called it the unity of being, one existence with creation its real manifestation, known by experience rather than argument.
+- The critics' concerns, and the answers: the book groups them as three (sincerity, God and the world, the law), heard through those who answer them; only Ibn ʿArabi's own loyalties stay open.
 
-### 15. Sufis and Shia
-**The road later became the Sufi orders; Shia share the path and its source, but not the orders' authority, which belongs to the Imam.**
-- A Sufi order is an institution: a founder's method, a chain back to the Prophet, and total obedience to a shaykh.
-- Nearly every chain runs back to Imam ʿAli, so Sufi and Shia seekers share a source.
-- Set techniques matter less than a trustworthy guide, because each soul receives God's grace in its own way.
-- For Shia, authority belongs to the Imam, so there is no rival chain and no blind obedience.
+### 15. Sufis and Shia: one road, one source, one Imam
+**The road later became the Sufi orders; Shia share the orders' source and path, and may follow a shaykh who has walked it, but the authority an order gives to its chain of masters belongs, in Shia teaching, to the Imams.**
+- What an order is: centuries after the first seekers, the path became an institution of chain, method and obedience.
+- One source: nearly every chain runs back to Imam ʿAli, so Sufi and Shia seekers draw on one source.
+- One path, many channels: no single method fits every soul, so a traveller needs a guide who has walked the road more than an order's technique.
+- Authority belongs to the Imam: Shia masters followed shaykhs and gave them real standing, but kept no chain of authority beside the Imam.
 
 ---
 
 ## Part Five: The Destination. What is the road for?
-**Not the road but God. Those who reach Him come back to people, with Him. Every soul goes back to Him, and ʿirfan is going back willingly, now.**
+**The road is travelled for God, and those who reach Him come back to people while staying with Him, as the Prophet ﷺ and the Imams (as) did. Every soul goes back to God in the end, and ʿirfan is making that return willingly and in this life.**
 
 _Tone: the emotion comes back and is brought home._
 
 ### 16. Back among people
-**The completed journey comes back to people, with God, as the Prophet and the Imams show, to Karbala.**
-- After losing the self, the traveller returns to creation: the four journeys.
-- How far ordinary believers share in that return is left open: the Sheikh reserves the completed return for the Prophet and the Imams, and Tabatabaʾi holds that others reach it in their measure.
-- The Prophet and the Imams embody the return, and Karbala is offered as a reflection on it.
+**The traveller who completes the journey comes back to people while staying with God, as the Prophet ﷺ and the Imams show and, in this book's reading, as far as Karbala.**
+- A quarter of the way: losing the self ends only the first of four journeys; in the second, God takes the traveller through His names and gives him back to himself as His servant.
+- The way back: the third journey returns the servant to creation, and the fourth, which the lectures describe in the Prophet ﷺ, keeps him among people, with God, to guide them.
+- Who completes it: the fullest form of the return belongs first to the Prophet ﷺ and the Imams, and the rest of us are called to follow them as far as God wills.
+- From ʿArafah to Karbala: Imam al-Husayn shows the return in one life, before God among his people at ʿArafah and, in this book's reflection, with them and for them at Karbala.
 
 ### 17. The return to God
-**Every soul returns to God, willingly or not; ʿirfan is making that return willingly, now.**
-- The Qur'an can be read from the inside, as long as the inner meaning agrees with the outer.
-- The return reverses creation: existence, knowledge, power and will are given back to God, to be given again.
-- Hell is the same return, undergone against one's will.
+**Every soul returns to God by giving back what it was given, willingly or not; ʿirfan is making that return willingly and in this life.**
+- Reading from the inside: the Qur'an's pictures of the next world carry an inner meaning, read only where it agrees with the outer meaning and never cancels it.
+- Given in order, returned in reverse: every soul returns by the road it came, giving back in reverse what it was given.
+- Will, power, knowledge, existence: each gift given back becomes a station on the way to God, and God gives each back without limit.
+- The return refused: the return happens whether or not a soul makes it, and hell is a will that never yields meeting the four gifts as their opposites, not God's revenge.
+- Going back now: ʿirfan is making that return willingly and in this life.
 
 ---
 
 ### Epilogue: First steps
-**What to do this week, this month and this year, gathered from each chapter's "Try this".**
+**Begin inside the law with one small act that suits you, kept through a week, a month and a year, gathered from each chapter's "Try this"; the keeping itself is asked of God.**
+- How to begin: every step stands inside the law, suits the traveller, is small enough to keep, and grows gradually; a beginner need not wait for a guide, but tests any guide he follows.
+- This week: begin with repentance, then take one act of a few minutes, fixed to the time of day in which the heart is already most present.
+- This month: keep that one act daily; Shaʿban, Ramadan and Dhu'l-Qaʿdah give it a fuller form, within what the traveller can carry.
+- This year: keep one practice for a year and do not stop when the year ends; the keeping itself is asked of God, in the Munajat's words.
