@@ -4,9 +4,9 @@ title-ar: ""
 chapter: 14
 ---
 
-In the nights of Shaʿban, the Munajat Shaʿbaniyyah asks God to place us among those who answered when He called them, and at whom He glanced so that they swooned before His Majesty [@duas_munajat_shabaniyah, §109–110]. Some travellers reached that swoon. Chapter Twelve followed the traveller into annihilation and back, and it kept to principles rather than names. Those whose names the tradition keeps did not all come back in the same way, and what came after the swoon divided them.
+Each Shaʿban, the Munajat Shaʿbaniyyah asks God for a place among those He glanced at until they swooned before His Majesty [@duas_munajat_shabaniyah, §109–110]. Some travellers reached that swoon. Chapter Twelve followed the traveller into annihilation and back, and it kept to principles rather than names. Those whose names the tradition keeps did not all come back in the same way, and what came after the swoon divided them.
 
-The mystics borrowed two words from the poets for the two outcomes. Intoxication (*sukr*) is losing oneself in God until nothing else is seen. Persian poetry praises the drunkard who leaves every bond to this world behind and forgets everything, and in the mystics' use the forgetting is for God. Sobriety (*sahw*) is coming back to oneself. This chapter sets out who stayed drunk and who came back sober, the theory the greatest of their heirs gave to what they saw, and the concerns of the scholars who have been wary of it all and the answers given to them.
+The mystics have two words for the two outcomes. Intoxication (*sukr*) is losing oneself in God until nothing else is seen. Persian poetry praises the drunkard who leaves every bond to this world behind and forgets everything, and in the mystics' use the forgetting is for God. Sobriety (*sahw*) is coming back to oneself. This chapter sets out who stayed drunk and who came back sober, the theory the greatest of their heirs gave to what they saw, and the concerns of the scholars who have been wary of it all and the answers given to them.
 <!-- src: L13 ¶13-14 -->
 
 ::: {.words}
@@ -34,7 +34,7 @@ Of those who reached annihilation, the drunk stayed lost in it and spoke of it, 
 11. Therefore: the drunk stayed lost and spoke, while the sober came back, kept the secret, and went further. Yet their greatest heir wrote it down as a theory.
 ::::
 
-The first name the tradition gives to this experience is Bayazid Bistami, from the small town of Bistam in the north of Iran. It is said that he was the first to speak openly of the annihilation of the self in God, and of the self he had lost he said, "I came forth from Bayazid-ness as a snake from its skin" [@light, p. 25]. The image fits what Chapter Twelve found. A snake sheds a skin it has outgrown and goes on living, and what falls away in annihilation is a false self, while the soul remains.
+The first name the tradition gives to this experience is Bayazid Bistami, who came from the small town of Bistam in the north of Iran. It is said that he was the first to speak openly of the annihilation of the self in God, and of the self he had lost he said, "I came forth from Bayazid-ness as a snake from its skin" [@light, p. 25]. The image fits what Chapter Twelve found. A snake sheds a skin it has outgrown and goes on living, and what falls away in annihilation is a false self, while the soul remains.
 <!-- src: L13 ¶16 -->
 
 Bayazid reached annihilation by giving things up. Asked what renunciation (*zuhd*) is, he answered with his own days. "I renounced the world on the first day, and the Hereafter on the second; the third day I renounced everything other than God, and on the fourth I was asked, 'What do you want?' I said, 'I want not to want anything!'" [@kernel, p. 73]. To renounce the Hereafter, as the lectures explain it, is to desire nothing but God. *Kernel of the Kernels* sets the saying at the point where love itself is left at the door, when the traveller "tries to forget love and the beloved" [@kernel, p. 73].
@@ -75,7 +75,7 @@ Sheikh Bahmanpour pictures the difference with explorers. After travelling thous
 
 Going further kept Junayd at his prayers. Sayyid Haydar Amuli records his words, "Uncertainties have vanished and all signs have disappeared; the only thing of benefit to us is the prayer we perform in the depth of the night" [@inner_secrets, p. 162]. With every doubt gone and every sign behind him, what Junayd held on to was the night prayer, which any believer can keep.
 
-Of those who reached annihilation, the drunk stayed lost in it and spoke of what they saw. The sober came back, kept its secret in allusion, held to the night prayer, and went further. Yet the greatest of their heirs wrote what they saw down as a theory, and a secret kept and a theory written seem hard to hold together.
+Those who reached annihilation therefore divided. The drunk stayed lost in it and spoke of what they saw. The sober came back, kept its secret in allusion, held to the night prayer, and went further. Yet the greatest of their heirs wrote what they saw down as a theory, and a secret kept and a theory written seem hard to hold together.
 
 ## A theory of what they saw
 
@@ -184,7 +184,7 @@ The fourth concern comes from within the Shia community, and it asks whether Ibn
 The lectures meet this concern in three ways. Experience cannot settle which school is right, since "this Shia Sunni business should only be solved by rational arguments rather than by experiences." Visions, moreover, take the shape of the theology a person already holds; Ibn ʿArabi's visions may reflect his own. Lastly, no one can be accepted or rejected wholesale, and "certainly he had something valuable in what he wrote".
 <!-- src: L13 ¶48, ¶52-53 -->
 
-The record pulls both ways. Through a single link, the chain of Ibn ʿArabi's Sufi order runs back to ʿAbd al-Qadir al-Gilani [@light, p. 34]. On the other hand, Sayyid Haydar Amuli reads Ibn ʿArabi's own words on the Seal of the Saints as showing that the absolute Seal is Imam ʿAli (as) [@inner_secrets, p. 99]. Sheikh Bahmanpour weighed a two-volume book arguing that he was Shia against another arguing the opposite. He found the Sunni case "much much more powerful", because "we shouldn't be unjust". As this book reads the lectures, a Shia reader can therefore take the theory without its author's loyalties.
+The record pulls both ways. Through a single link, the chain of Ibn ʿArabi's Sufi order runs back to ʿAbd al-Qadir al-Gilani [@light, p. 34]. On the other hand, Sayyid Haydar Amuli reads Ibn ʿArabi's own words on the Seal of the Saints as showing that the absolute Seal is Imam ʿAli (as) [@inner_secrets, p. 99]. Sheikh Bahmanpour weighed a two-volume book arguing that he was Shia against another arguing the opposite. He found the Sunni case "much much more powerful", because "we shouldn't be unjust". A Shia reader, as this book reads the lectures, can therefore take the theory without its author's loyalties.
 <!-- src: L13 ¶54-55 -->
 
 ::: {.box-who title="Who's Who: al-Hakim al-Tirmidhi and the Seal of the Saints"}
@@ -192,7 +192,7 @@ The mystics' theory grew close to what Shia hold of the Imams, and then went pas
 :::
 <!-- src: L13 ¶3-12, ¶49 -->
 
-The critics' fears therefore have answers in the masters' own words and lives. The ʿurafaʾ were sincere, though they could err. The unity of being neither makes the world God nor puts God inside a man. Ecstatic words gave no licence, since the masters, drunk as well as sober, kept the law. Only Ibn ʿArabi's own loyalties stay open, and his theory can be taken without them. Of those who reached annihilation, the sober went furthest. The theory of what they saw is contested, but it is neither pantheism nor licence.
+The critics' fears therefore have answers in the masters' own words and lives. The ʿurafaʾ were sincere, though they could err. The unity of being neither makes the world God nor puts God inside a man. Ecstatic words gave no licence, since the masters, drunk as well as sober, kept the law. Only Ibn ʿArabi's own loyalties stay open, and his theory can be taken without them. Among those who reached annihilation the sober went furthest. The theory of what they saw is contested, but it is neither pantheism nor licence.
 
 Ibn ʿArabi's chain, as we saw, ran back to ʿAbd al-Qadir al-Gilani, who headed one of the great Sufi orders. How did the road become orders, and where do Shia stand?
 <!-- src: L13 ¶33-34 -->

@@ -24,7 +24,20 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | ʿalam al-mulk | aalamul mulk, aalamul-mulk, aalam al mulk | | The material world of outward kingdom | L04 |
 | ʿalam al-shahada | aalamul shahadah | | The witnessed world, the realm of the senses | L04 |
 | ʿalam al-ʿuqul | aalamul uqul, aalamul-oqul | | World of pure intellects | L04 |
-| Sayyid Haydar Amuli | Haydar Amuli | | Shia master, author of *Inner Secrets of the Path* | B2 Ch5 |
+| Sayyid Haydar Amuli | Haydar Amuli | | Shia master, author of *Inner Secrets of the Path*; always written in full, beside Ayatullah Hasanzadeh Amuli (Ch 14) | B2 Ch5 |
+| ʿAbd al-Qadir al-Gilani | Shaykh Abd al-Qadir Jilani, Jilaniya | | Head of a great Sufi order; Ibn ʿArabi's chain runs back to him through one link (`light` p. 34) | L13 |
+| al-Futuhat al-Makkiyya | Al-Futuhat al-Makkiyya, Futuhat | | *The Meccan Illuminations*, Ibn ʿArabi's encyclopaedic work on ʿirfan (`light` p. 35) | L13 |
+| al-Hakim al-Tirmidhi | Al Hakim Al Tirmidhi, Hakim Al Tarmidhi | | Third-century mystic and philosopher (not the hadith compiler) of the leaning to knowledge; spoke of the Seal of the Saints (L13 ¶4–12) | L13 |
+| Bayazid Bistami | Abu Yazid al Bistami, Bayazid Bastami, Abu Yazid al-Bistami | | Mystic of Bistam (d. 261/874 or 264/877), said to be the first to speak openly of annihilation; the type of the intoxicated (`light` p. 25) | L13 |
+| Hallaj | Mansoor Hallaj, Al-Hallaj, Husayn ibn Mansur al-Hallaj | | Husayn ibn Mansur al-Hallaj, the ecstatic executed in 309/913; blamed by the ʿurafaʾ for disclosing secrets (`light` p. 27) | L13 |
+| Ibn ʿArabi | Ibne Arabi, Muhyiddin Arabi, Ibn al-'Arabi | | Muhyi al-Din Ibn ʿArabi (d. 638/1240, Damascus), the Greatest Shaykh, who gave the unity of being its theory (`light` pp. 34–35) | L13 |
+| Sari al-Saqati | | | Teacher and maternal uncle of Junayd of Baghdad (d. 253/867, `light` p. 26) | L13 |
+| Sayyid al-Taʾifa | Sayyid at-Taifa | | "Master of the community": the ʿurafaʾ's title for Junayd, as the Shia jurists call al-Tusi Shaykh al-Taʾifa (`light` p. 26) | L13 |
+| hulul | | | Indwelling: the claim that God dwells in a creature; with ittihad, called "kufr and shirk" (`kernel` p. 84) | B2 Ch14 |
+| ittihad | | | Union: the claim that God and a creature become one (`kernel` p. 84) | B2 Ch14 |
+| tashkik | tashqeeq | | Gradation of being: Mulla Sadra's one existence in ranks from strong to weak (L13 ¶59–62) | L13 |
+| khatm al-awliyaʾ | Khatm al Awliya | | The Seal of the Saints (see khatm) | L13 |
+| Hafiz | | | Hafiz of Shiraz, the Persian poet | L13 |
 | Hasanzadeh Amuli | Ayatullah Hassanzadeh | | Ayatullah Hasan Hasanzadeh Amuli, a pupil of ʿAllama Tabatabaʾi who asked him about states on the road (L14 ¶23–24) | B2 Ch15 |
 | Fayd Kashani | Faisal Kashani, Fayz Kashani | | Pupil of Mulla Sadra (d. 1091/1680), in no Sufi order (`light` p. 40); refined al-Ghazali's *Ihyaʾ* as *al-Mahajja al-bayda* | B2 Ch15 |
 | al-Ghazali | Abu Hamid Al-Ghazali, Muhammad Al Ghazali | | Abu Hamid al-Ghazali (d. 505/1111), head of the Nizamiyya in Baghdad, author of *Ihyaʾ ʿulum al-din* (`light` p. 31) | B2 Ch15 |
@@ -259,6 +272,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | wahdat al-wujud | wahdatal wujood, Wahdat ul Wujud, wahdatul wujud | | Unity of being | L09 |
 | wajh Allah | wajhullah | | The face of God: God's manifestation through the names | L11 |
 | wajib | wajib | | Obligatory | L01 |
+| wajibat | wajibaat | | The obligatory acts (plural of *wajib*): prayer, fasting, paying what is due, and the rest; used in the prologue and the epilogue | B2 Prologue |
 | waswas | waswaas | | Whispered temptations | L08 |
 | wali | wali | | Friend of God; singular of awliyaʾ | L02 |
 | Whispered Prayer of the Lovers | Munajat al-Muhibbin | | The ninth of the fifteen whispered prayers printed with the Sahifa Sajjadiyya (Chittick, p. 656) | L01 |
