@@ -125,7 +125,7 @@ When his Lord said to him, ‘Submit,’ he said, ‘I submit to the Lord of all
 
 Existence goes back last, and its station is annihilation (*fanaʾ*). There the traveller sees that existence belongs to God alone, and Chapter Twelve followed him to that station and back. <!-- src: L16 ¶30 -->
 
-Nothing of the traveller seems left once all four are given back, yet Tusi has God give all four back new. Contentment is made complete. Power returns without limit to a soul now "drowned" in God's power and "completely joined with that power". Knowledge comes from nothing in the soul itself and "will shine in you", and existence becomes everlasting on the day Surah Qaf calls "the day of immortality" (Q 50:34). In Tusi's reading, that is paradise. Ayatullah Khomeini quotes something close from Tusi's commentary on the *Isharat*, just after Shaykh Bahaʾi's warning that such words never mean God dwells in a servant or becomes one with him [@forty_hadith, pp. 516–517]. <!-- src: L16 ¶31-32 -->
+Nothing of the traveller seems left once all four are given back, yet Tusi has God give all four back new. Contentment is made complete. Power returns without limit to a soul now "drowned" in God's power and "completely joined with that power". Knowledge comes from nothing in the soul itself and "will shine in you", and existence becomes everlasting on the day Surah Qaf calls "the day of immortality" (Q 50:34). That, for Tusi, is paradise. Just after Shaykh Bahaʾi's warning that such words never mean God dwells in a servant or becomes one with him, Ayatullah Khomeini quotes something close from Tusi's commentary on the *Isharat* [@forty_hadith, pp. 516–517]. <!-- src: L16 ¶31-32 -->
 
 ## The return refused
 
@@ -193,7 +193,7 @@ My Lord, if Your severe punishment calls me to Hell, the abundance of Your rewar
 
 If all of us make the return in the end, we need a reason to make it now. Najm al-Din Kubra, whose ship and pearl Chapter Six used for the law and the path, gives one in advice the lectures pass on. God, he says, has set one involuntary journey (*qahri*) and one voluntary journey (*ikhtiyari*) for the children of Adam. Everyone meets the Lord on a journey through death, barzakh, and the resurrection that is "out of your control". The mystic's path (*suluk*) is the same meeting made by choice, and Kubra calls it a shortcut. <!-- src: L08 ¶5-7 -->
 
-Chapter Four gave one reason not to wait: the involuntary journey is longer and harder. The lecture adds another, that while others are still on that long road, those who took the voluntary one have already completed it and live beside God. In a verse of Surah al-Anbiyaʾ the Sheikh finds those who finished the return in this world. <!-- src: L08 ¶8; L16 ¶40 -->
+Chapter Four gave one reason not to wait: the involuntary journey is longer and harder. The lecture gives a second. While others are still on that long road, those who took the voluntary one have already completed it and live beside God. In a verse of Surah al-Anbiyaʾ the Sheikh finds those who finished the return in this world. <!-- src: L08 ¶8; L16 ¶40 -->
 
 ::: {.ayah ref="21:103" words="1-4"}
 The Great Terror will not upset them

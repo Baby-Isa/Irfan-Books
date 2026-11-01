@@ -72,20 +72,18 @@ At the end of the second journey remaining (*baqaʾ*) follows annihilation, and 
 ## The way back
 
 :::: {.point}
-The road back has two more journeys: the third returns that servant to creation, seen now as God's names at work, and the fourth keeps him among people, with God, to guide them.
+The road back has two more journeys: the third returns that servant to creation, seen now as God's names at work, and the fourth, which the lectures describe in the Prophet ﷺ, keeps him among people, with God, to guide them.
 
-1. In the third journey he comes back to creation and sees every world as the names of God at work.
+1. Still facing God after the second journey, he turns back: in the third he returns to creation and sees its three worlds as the names of God at work.
 2. Its outcome is certainty, as God showed Ibrahim the dominions (Q 6:75).
 3. Certainty is for telling others: from here he can guide.
-4. The fourth journey shows him how everything returns to God, and keeps him among people to guide them.
-5. Whether he can live among people again depends on where the road has left him.
-    a. At the end of the first journey he can hardly see them.
-    b. After the fourth he lives among them easily, because he sees God in them.
-6. From outside he is one of the crowd, and what passes between him and God is hidden, as the Munajat says. *(Story box: The robe.)*
-7. Therefore: the third journey returns the traveller to creation with certainty, and the fourth keeps him among people, with God, to guide them.
+4. The lectures describe the fourth journey in the Prophet ﷺ: he is shown how everything returns to God, and he stays among people to guide them.
+5. Therefore, whether he can live among people again depends on where the road has left him.
+    a. A mystic who has finished only the first journey finds it very difficult; Tabatabaʾi's gnostic, absorbed in God, did not see the people around him (the pairing is the book's).
+    b. The fourth brings him down to the level of ordinary people, and for the Prophet ﷺ mixing with them is easiest, because he sees everything as God's creation, connected to Him.
 ::::
 
-From that point the road turns back towards people. In the third journey the traveller comes "back from God to the world under the Wilayah of the Lord", and he is shown how anything can exist beside God at all. He is taken through the world of the names and the world of angels and spirits before he reaches the material world. Chapter Five described worlds that surround this one in depth rather than distance, and the traveller now sees all three as "different manifestations of the names of Allah". What he sees gives him certainty, as a verse of Surah al-Anʿam says of Prophet Ibrahim:
+After the second journey the traveller still faces God rather than the people he left behind, and in the third the road turns back towards them. He comes "back from God to the world under the Wilayah of the Lord", and he is shown how anything can exist beside God at all. He is taken through the world of the names and the world of angels and spirits, unseen worlds that Chapter Five found to lie in depth rather than distance, before he reaches the material world. He sees all three as "different manifestations of the names of Allah", and what he sees gives him certainty, as a verse of Surah al-Anʿam says of Prophet Ibrahim (Abraham in this translation):
 <!-- src: L09 ¶83-85 -->
 
 ::: {.ayah ref="6:75"}
@@ -95,26 +93,17 @@ Thus did We show Abraham the dominions of the heavens and the earth, that he mig
 In this verse "dominions" translates *malakut*, which names the world of angels and spirits behind the heavens and the earth. Ibrahim was shown it so that he would be certain, and the lectures give the third journey the same outcome, "reassurance about everything".
 <!-- src: L09 ¶83, ¶85 -->
 
-Certainty of this kind is meant to be passed on; the traveller now knows God's attributes and acts and "could inform others about it". Each time we say "In the Name of Allah, the All-beneficent, the All-merciful" (Q 1:1), we call God merciful because the Prophet ﷺ told us so, and "otherwise we couldn't know". From this point Sheikh Bahmanpour stops calling him a mystic and calls him the knower. Mutahhari gives the third journey the same purpose: "In the third journey, he returns towards the creation, without becoming separated from God, in order to guide the people" [@light, pp. 49–50].
+Certainty of this kind is meant to be passed on; the traveller now knows God's attributes and acts and "could inform others about it". To take an everyday example, each time we say "In the Name of Allah, the All-beneficent, the All-merciful" (Q 1:1), we call God merciful because the Prophet ﷺ told us so, and "otherwise we couldn't know". From this point Sheikh Bahmanpour stops calling him a mystic and calls him the knower. Mutahhari gives the third journey the same purpose: "In the third journey, he returns towards the creation, without becoming separated from God, in order to guide the people" [@light, pp. 49–50].
 <!-- src: L09 ¶85-86 -->
 
-In the fourth journey, made in creation by God, he stays among the people. He is shown the reality of things and their effects in this world and the next, and "the way everything returns to Allah". He can then tell people "the harms and benefits of everything and the causes of felicity or misery". For Mutahhari the fourth journey "is amongst the people while still united with God", and in it the ʿarif "seeks to guide their affairs so as to lead them towards God" [@light, p. 50].
+The lectures describe the fourth journey, made in creation by God, through the Prophet ﷺ. He is shown the reality of things and their effects in this world and the next, and "the way everything returns to Allah", so that he can tell people "the harms and benefits of everything and the causes of felicity or misery". For Mutahhari the fourth journey "is amongst the people while still united with God", and in it the ʿarif "seeks to guide their affairs so as to lead them towards God" [@light, p. 50].
 <!-- src: L09 ¶87-88 -->
 
-Whether a man who has seen only God can live among people again depends on where the road has left him. At the end of the first journey the difficulty is real. The drunk travellers of Chapter Fourteen stayed lost in annihilation and never went past this point. For anyone who finishes only that journey, it is "very difficult for them to mix with the people". ʿAllama Tabatabaʾi quotes a gnostic in that state who lived "among the people for 30 years". They thought he shared in everything they did, while he "did not see them and did not know anyone but Allah" [@light, p. 63].
+Whether a man who has seen only God can live among people again depends on where the road has left him. For mystics who have finished only the first journey, the lectures say, it is "very difficult for them to mix with the people", and the drunk travellers of Chapter Fourteen stayed lost in annihilation and never went past it. ʿAllama Tabatabaʾi describes a traveller plunged in the vision of God, a state the gnostics call "abiding in Allah", and quotes a gnostic who lived "among the people for 30 years". They thought he shared in everything they did, while he "did not see them and did not know anyone but Allah" [@light, pp. 63–64]. Setting this gnostic beside the Sheikh's remark is this book's reading.
 <!-- src: L09 ¶91 -->
 
-After the fourth journey the difficulty is gone. The Sheikh says that journey brings the traveller "down to the level of ordinary people", so that he can live with them and guide them. For the Prophet ﷺ, mixing with people is the easiest thing of all, because he sees everything as God's creation and connected to God. People cannot pull such a man away from God when he sees God in them. Chapter Ten described a heart so given to God that it could live in a crowded city as if in a cave, and in the fourth journey that dedication is complete.
+The fourth journey removes the difficulty. In the Sheikh's words it brings him "down to the level of ordinary people", so that he can live with them and guide them. For the Prophet ﷺ, mixing with people is the easiest thing of all, because he sees everything, people included, as God's creation and connected to God.
 <!-- src: L09 ¶91 -->
-
-From outside, such a person looks like any of us, and what passes between him and God stays hidden. The line from the Munajat at the head of this chapter holds both sides of his life: God speaks to His friends in secret, and they work for Him in the open. The lectures tell a story of Imam Jaʿfar al-Sadiq (as) as a lesson in hidden renunciation, and it also shows the secret and the open in one life.
-
-::: {.box-story title="Story: The robe"}
-Sufyan al-Thawri, an early mystic who died in 161/777, lived in the time of Imam Jaʿfar al-Sadiq (as) [@light, p. 22]. In Sheikh Bahmanpour's account, Sufyan once saw the Imam at a gathering in a precious robe, the kind a king might wear. He went up to Imam al-Sadiq and asked whether such dress fitted the Imam's own teaching about religion and God. The Imam drew the robe aside and showed what he wore beneath it, a harsh garment that was "quite uncomfortable to wear". Then he said, "this is how you have to be. You shouldn't show off your zuhd." Renunciation (*zuhd*), on this telling, is best kept hidden. Read beside this chapter, the story also shows the Imam sitting among people as one of them, while what lay between him and God stayed out of sight.
-<!-- src: L12 ¶14 -->
-:::
-
-The third journey therefore brings the traveller back to creation with certainty, and the fourth keeps him among people to guide them while he stays with God.
 
 ## Who completes it
 
