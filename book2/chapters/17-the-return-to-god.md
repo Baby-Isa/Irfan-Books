@@ -14,7 +14,7 @@ When someone in our family is dying, a relative often sits at the head of the be
 Indeed we belong to Allah and to Him do we indeed return.
 :::
 
-These words name a return that every soul makes. Chapter Sixteen followed the friends of God back to people, and this chapter follows every soul back to God by the road it came, as each soul gives back what it was given. ʿIrfan is making that return willingly, now. The Qur'an tells of the return mostly in pictures of collars, chains, gardens, and fire. The surah recited at the bedside holds one of them, so the chapter first settles how such pictures are read. <!-- src: L09 ¶88; L16 ¶18-19 -->
+These words name a return to God that every soul makes. Chapter Sixteen followed the friends of God back to people, and this chapter follows every soul back to God by the road it came, as each soul gives back what it was given. ʿIrfan is making that return willingly, now. The Qur'an tells of the return mostly in pictures of collars, chains, gardens, and fire. The surah recited at the bedside holds one of them, so the chapter first settles how such pictures are read. <!-- src: L09 ¶88; L16 ¶18-19 -->
 
 ::: {.words}
 *taʾwil*: drawing out the inner meaning of a verse · *maʿad*: the return to God · *rida*: contentment with God's will · *tawakkul*: reliance on God · *taslim*: submission to God · *shafaʿa*: intercession
@@ -57,7 +57,7 @@ Then bind him in a chain, seventy cubits in length.
 
 If the collar of Surah Yasin is not seen on unbelievers in this world, the chain in the next may also be "something else". It may be the long chain of ambitions and ignorance that keeps them from seeing God. Both readings stand in the lectures, which grant that "we cannot deny that it might be the real material type of chain" and, in the same sentence, that "we cannot deny the deeper meanings as well". <!-- src: L16 ¶13-16 -->
 
-The Qur'an itself carries the inner reading into the next world. Surah al-Isra, which Chapter Four quoted on the soul's sight, says that whoever is blind in this world will be blind in the Hereafter (Q 17:72). Yet the people of hell are not sightless; every nation that enters the Fire curses the one before it (Q 7:38), and the damned know one another well enough to quarrel. The blindness there is therefore the blindness of the heart we know here, and the chain there can be read as the collar here is read. <!-- src: L16 ¶16-17 -->
+The Qur'an itself carries the inner reading into the next world. Surah al-Isra, which Chapter Four quoted on the soul's sight, says that whoever is blind in this world will be blind in the Hereafter (Q 17:72). Yet the people of hell are not sightless; every nation that enters the Fire curses its sister nation (Q 7:38), and the damned know one another well enough to quarrel. The blindness there is therefore the blindness of the heart we know here, and the chain there can be read as the collar here is read. <!-- src: L16 ¶16-17 -->
 
 The Qur'an's pictures of the next world therefore carry an inner meaning, which is read only where it agrees with the outer meaning and never cancels it. This chapter reads the return in that way and keeps both meanings in view.
 
@@ -79,7 +79,7 @@ Every soul returns to God by the road it came, giving back in reverse what it wa
 Khwaja Nasir al-Din al-Tusi reads the verses on the return in this way. Sheikh Bahmanpour calls his account of hell and paradise a mystical reading that "doesn't deny the material aspect", and it asks what brings people to each. <!-- src: L16 ¶17 -->
 
 ::: {.box-who title="Who's Who: Khwaja Nasir al-Din al-Tusi"}
-Khwaja Nasir al-Din al-Tusi died in 672/1273, the same year as Rumi [@light, p. 36]. He wrote the commentary on Ibn Sina's *Isharat* whose stages of the road Chapter Eight set beside its own [@light, p. 50]. Ayatullah Khomeini calls him "the best of the later scholars and the most perfect among the predecessors" [@forty_hadith, p. 517]. Sheikh Bahmanpour adds that Mulla Sadra copied long passages from Tusi's book on the return into his own *Asfar*. The reading of hell and paradise in this chapter comes from a scholar whom the great teachers of our tradition held in the highest regard.
+Khwaja Nasir al-Din al-Tusi died in 672/1273, the same year as Rumi [@light, p. 36]. He wrote the commentary on Ibn Sina's *Isharat* whose stages of the road Chapter Eight set beside its own [@light, p. 50]. Ayatullah Khomeini calls him "the best of the later scholars and the most perfect among the predecessors" [@forty_hadith, p. 517]. Sheikh Bahmanpour adds that Mulla Sadra translated long passages of Tusi's book on the return into his own *Asfar*. The reading of hell and paradise in this chapter comes from a scholar whom the great teachers of our tradition held in the highest regard.
 :::
 
 For Tusi, the return (*maʿad*) is a going back along the way we came. We entered this world by one road, and we go back to God by the same road run in reverse. The verse at the head of this chapter says as much. Surah al-Aʿraf promises that as God brought us forth in the beginning, so we will return. <!-- src: L16 ¶18-19 -->
@@ -110,7 +110,7 @@ Each gift given back becomes a station on the way to God, and God gives each bac
 9. Therefore: the four given back become four stations, and their return from God is paradise.
 ::::
 
-The will is the first gift given back, and the station it opens is contentment (*rida*). A soul with no will of its own wants nothing but what comes from God, and is content with it. Ayatullah Khomeini explains the term. The one who has reached this station "is one who has annihilated his will in the Divine Will, having no more a separate will of his own". Asked what he wished, one mystic replied, "My wish is not to wish at all" [@forty_hadith, p. 207]. <!-- src: L16 ¶23-24 -->
+The will is the first gift given back, and the station it opens is contentment (*rida*). A soul with no will of its own wants nothing but what comes from God, and is content with it. Ayatullah Khomeini explains the term. The one who has reached this station "is one who has annihilated his will in the Divine Will, having no more a separate will of his own". When a mystic was asked what he wished, he replied, "My wish is not to wish at all" [@forty_hadith, p. 207]. <!-- src: L16 ¶23-24 -->
 
 A soul that wants nothing for itself might seem to have nothing left to enjoy, but Surah Qaf says the opposite of those in paradise.
 
@@ -118,7 +118,7 @@ A soul that wants nothing for itself might seem to have nothing left to enjoy, b
 There they will have whatever they wish, and with Us there is yet more.
 :::
 
-When one's will has become God's will, whatever one wishes one has, and the will is given back everlasting and joined to His. Tusi notes that the angel in charge of paradise is called Ridwan, a name built on the root of *rida*, so that no one enters without contentment. Paradise is full of treasures, and in the lectures' words, "the key to it is this contentment". <!-- src: L16 ¶24-25 -->
+When one's will has become God's will, whatever one wishes one has, and the will is given back everlasting and joined to His. Tusi notes that in the tradition the angel in charge of paradise is called Ridwan. The name is built on the root of *rida*, so no one enters without contentment. Paradise is full of treasures, and in the lectures' words, "the key to it is this contentment". <!-- src: L16 ¶24-25 -->
 
 Power is given back next, and its station is reliance on God (*tawakkul*). In its plain sense, Ayatullah Khomeini explains, *tawakkul* is the "admission of one's inability and reliance on one other than oneself" [@forty_hadith, p. 204]. Reliance could be mistaken for sitting and waiting for God to act, and the Sheikh rules that out himself: "whatever you do you know that this is not you. This is Him." The power we use is God's, and Surah al-Talaq promises that "whoever puts his trust in Allah, He will suffice him" (Q 65:3). <!-- src: L16 ¶27-28 -->
 
@@ -198,7 +198,7 @@ Ayatullah Khomeini reads the fire of hell in the same two ways. He calls the fir
 
 A believer who hears all this is left with fear and with hope, and the Munajat Shaʿbaniyyah holds the two in a single sentence.
 
-::: {.quote ar="إِلٰهِي إِنْ دَعَانِي إِلَىٰ ٱلنَّارِ عَظِيمُ عِقَابِكَ فَقَدْ دَعَانِي إِلَىٰ ٱلْجَنَّةِ جَزِيلُ ثَوَابِكَ" source="Munajat Shaʿbaniyyah"}
+::: {.quote ar="إِلٰهِي إِنْ دَعَانِي إِلَىٰ ٱلنَّارِ عَظِيمُ عِقَابِكَ فَقَدْ دَعَانِي إِلَىٰ ٱلْجَنَّةِ جَزِيلُ ثَوَابِكَ" source="Munajat Shaʿbaniyyah"}
 My Lord, if Your severe punishment calls me to Hell, the abundance of Your reward invites me to Paradise. [@light, p. 166; @duas_munajat_shabaniyah, §120–121]
 :::
 

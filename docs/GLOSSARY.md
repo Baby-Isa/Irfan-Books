@@ -25,6 +25,18 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | ʿalam al-shahada | aalamul shahadah | | The witnessed world, the realm of the senses | L04 |
 | ʿalam al-ʿuqul | aalamul uqul, aalamul-oqul | | World of pure intellects | L04 |
 | Sayyid Haydar Amuli | Haydar Amuli | | Shia master, author of *Inner Secrets of the Path* | B2 Ch5 |
+| Hasanzadeh Amuli | Ayatullah Hassanzadeh | | Ayatullah Hasan Hasanzadeh Amuli, a pupil of ʿAllama Tabatabaʾi who asked him about states on the road (L14 ¶23–24) | B2 Ch15 |
+| Fayd Kashani | Faisal Kashani, Fayz Kashani | | Pupil of Mulla Sadra (d. 1091/1680), in no Sufi order (`light` p. 40); refined al-Ghazali's *Ihyaʾ* as *al-Mahajja al-bayda* | B2 Ch15 |
+| al-Ghazali | Abu Hamid Al-Ghazali, Muhammad Al Ghazali | | Abu Hamid al-Ghazali (d. 505/1111), head of the Nizamiyya in Baghdad, author of *Ihyaʾ ʿulum al-din* (`light` p. 31) | B2 Ch15 |
+| Shihab al-Din Suhrawardi | Shahabuddin Omar Suhrawardi | | Author of *ʿAwarif al-maʿarif* and true founder of the Suhrawardiyya; not the Illuminationist philosopher of the same name (`light` p. 34; L14 ¶56) | B2 Ch15 |
+| Bahaʾ al-Din Naqshband | Baha' al-Din Muhammad b. Muhammad Naqshband | | Founder of the Naqshbandiyya, buried in Bukhara (L14 ¶62–64) | B2 Ch15 |
+| Maʿruf al-Karkhi | Ma'ruf Karkhi | | Early ʿarif said to have become Muslim at the hands of Imam al-Rida (as); the link of the "golden chain" (`light` p. 25) | B2 Ch15 |
+| Junayd of Baghdad | Junayd al-Baghdadi, Junayd Baghdadi | | The master of the sober way, through whom most chains of the robe pass (`inner_secrets` p. 13) | B2 Ch12 |
+| Hasan al-Basri | Hasan Basri | | Early ascetic of Basra, named in the Sufi chains after Imam ʿAli (as) (`light` p. 5; `inner_secrets` p. 13) | B2 Ch15 |
+| Khwaja ʿAbdullah Ansari | Khwaja 'Abdullah Ansari | | Hanbali Sufi (d. 482/1089), author of *Manazil al-saʾirin* (`forty_hadith` p. 8) | B2 Ch15 |
+| Nur al-Din Tihrani | | | The Sufi shaykh with whom Sayyid Haydar Amuli made a contract and from whom he received the patched robe (`inner_secrets` p. 8) | B2 Ch15 |
+| Manazil al-saʾirin | Manazil al-Sa'irin | | *The Stages of the Travellers*, Ansari's manual of the road, read by Amuli and taught by Ayatullah Khomeini (`inner_secrets` p. 8; `forty_hadith` p. 8) | B2 Ch15 |
+| ʿAwarif al-maʿarif | Awarif al-Ma'arif | | Shihab al-Din Suhrawardi's Sufi manual (`light` p. 34) | B2 Ch15 |
 | ʿamm / khass | al aam, khaas | | The general and the elite among believers | L06 |
 | ʿaql | aql | | Intellect, here the theoretical or discursive intellect | L02 |
 | ʿarif | aarif, aaraf, arif | | One who knows God by experience; the true mystic | L01 |
@@ -40,6 +52,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | baqaʾ | baqaa, baqah | | Subsistence in God after annihilation | L07 |
 | bariʾ | Bari | | Divine name: the maker from nothing | L03 |
 | barzakh | aalamul barzakh | | The middle world or barrier between worlds | L04 |
+| bayʿa | bay'ah, bay ‘ah | | Oath of allegiance, here a disciple's pledge to a shaykh (`kernel` p. 60) | B2 Ch15 |
 | batin al-batin | baatinul baatin | | The inner of the inner, the deepest level | L06 |
 | dhawq | tasty | | Tasting of reality | L09 |
 | Dhu'l-Nun al-Misri | Dhul-Nun al-Misri, Dhua al Nun al Misri | | Egyptian mystic of the way of love (3rd/9th century) | L11 |
@@ -51,6 +64,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | Duʿa Abu Hamza al-Thumali | Abu Hamza | | Imam Zayn al-ʿAbidin's supplication for the nights of Ramadan, narrated by Abu Hamza al-Thumali (Mafatih p. 282) | B2 Ch3 |
 | Duʿa ʿArafah | Arafah, Arafat | | Imam al-Husayn's supplication on the Day of ʿArafah (Mafatih p. 374); the authorship of its closing section is debated, so lines from it are given "as in the Mafatih" | B2 Ch3 |
 | Duʿa Kumayl | dua Kumayl | | The supplication Imam ʿAli taught Kumayl ibn Ziyad, recited on Thursday evenings and mid-Shaʿban (Mafatih p. 129) | L01 |
+| Duʿa Tawassul | Dua al-tawassul | | The supplication for intercession, reported from the Imams, calling on the Prophet ﷺ, Imam ʿAli, Lady Fatima and each Imam to al-Qaʾim (Mafatih pp. 170–171) | B2 Ch15 |
 | fanaʾ | Fanaa, fanah, fanaa, Sana | | Annihilation of the soul's limits and self-perception | L04 |
 | farq baʿd al-jamʿ | farq al bad al jam, alfarq waadal jaam | | Separation after union; return to creation after unification | L09 |
 | fikr | fikr | | Thought; reasoning and analysis, set against suluk as a way of knowing | L03 |
@@ -59,6 +73,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | fuʾad | Al-Faad | | Heart or inner faculty | L05 |
 | George Jurdaq | | | Lebanese Christian author of a book on Imam ʿAli, who answered the orientalists over Abu Dharr (`light` p. 20) | B2 Ch13 |
 | ghawth | ghaus | | A rank of the saintly hierarchy | L13 |
+| ghusl | ghusl-mayyat | | Ritual washing of the whole body; here the washing of the dead before burial (L14 ¶21) | B2 Ch15 |
 | ghusl al-tawba | Ghusle Tauba | | Ritual bath of repentance | L08 |
 | Harithah ibn Malik al-Ansari | Zayd, Haritha | | The young companion who told the Prophet ﷺ he could see the people of paradise and hell (al-Kafi; `light` p. 19) | B2 Ch3 |
 | al-Harith al-Muhasibi | Al Haris al Muhasibi, Muhasib | | Mystic of Basra (d. 243/857), named for self-accounting (`light` p. 26) | L12 |
@@ -79,6 +94,8 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | Ibrahim ibn Adham | Ibrahim Adham, Abrahim Adham, Ibrahim bin Adham | | Ruler of Balkh turned renunciant, who learned from Imam al-Sadiq (d. c. 161/777; `light` p. 24) | L11 |
 | ʿibadat al-ahrar | worship of the free (people) | | The worship of the free: worshipping God because He deserves it, not from desire for reward or fear of punishment | L12 |
 | ihsan | Ehsaan, ehsan | | The highest level of faith, worshipping as if seeing God | L06 |
+| Ihyaʾ ʿulum al-din | Ahya Uloom-ud-Din, Ihya' 'ulum al-Din | | *Reviving the Sciences of Religion*, al-Ghazali's manual (`light` p. 31) | B2 Ch15 |
+| ijaza | ijazah | | A licence to teach or to instruct others in a Sufi order (L14 ¶18) | L14 |
 | ilham | ilhamat | | Inspirations | L07 |
 | ʿilm | ilm | | Knowledge gained by study and experience, contrasted with maʿrifa | L02 |
 | ʿilm al-huduri | ilmul khuzu, ilmul khuzuli, ilumul huzuri, knowledge with presence, khusu | | Knowledge by presence, where the soul encompasses the object | L02 |
@@ -112,6 +129,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | khass al-khass | khaasul khaas | | The elite of the elite | L06 |
 | khatm | Khatm al Awliya, Khatm al Ambiya, Awsiya | | The seal of saints, of prophets and of legatees | L13 |
 | khawass | hawas, khaas | | The elite | L11 |
+| khirqa | kharqah | | The patched robe a Sufi master gives his disciple, traced through chains of masters (`inner_secrets` pp. 13–14) | B2 Ch15 |
 | khawf | | | Fear (of God); with renunciation, where the early seekers began, before love | L11 |
 | khayal | khayal | | Imagination | L05 |
 | khidma | | | Service to God; in salah, the depth of the law (L06 ¶24) | B2 Ch6 |
@@ -166,7 +184,8 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | nafs al-lawwama | nafsul lavvama, lawamah, lawwamah | | The self-reproaching soul | L05 |
 | nafs al-mudtaribah | muztariddah | | The agitated soul | L15 |
 | nafs al-mutmaʾinna | nafsul mutmainnah, mutmainnah | | The tranquil soul | L05 |
-| Naqshbandi | Naqsh, Naqshbandi | | The Sufi order; naqsh means imprint | L14 |
+| Naqshbandi | Naqsh, Naqshbandi, Naqshbandiyya | | The Sufi order (in prose, the Naqshbandiyya); naqsh means imprint | L14 |
+| al-Mahajja al-bayda | Al Mahjatul Bayzah | | "The clear path": Fayd Kashani's refinement of al-Ghazali's *Ihyaʾ* (L14 ¶45) | B2 Ch15 |
 | Niʿmatullahi | Nematullah | | A Sufi order | L10 |
 | nikah | | | The marriage contract and ceremony | B2 Ch1 |
 | nur | noor | | Light; the first creation of the Prophet | L04 |
@@ -194,6 +213,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | salah | salaah | | The ritual prayer | L02 |
 | salihin | saleheen, saaliheen, salehun | | The righteous; fourth and lowest category of the muqarrabun | L01 |
 | salik | saalik | | Wayfarer on the path | L08 |
+| samaʿ | Sima | | Listening to music and poetry as a spiritual practice, allowed in some orders and forbidden in others (L14 ¶14–18) | L14 |
 | Salman al-Farsi | Salman Farsi, Salmaan | | Companion of the Prophet ﷺ and of Imam ʿAli, a man of learning who gave it up to follow the Prophet | L11 |
 | samt | samto | | Silence; one of the five disciplines | L10 |
 | shafaʿa | shafaa | | Intercession | L16 |
@@ -208,8 +228,12 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | shaykh | Shaikh, sheikh | | Spiritual instructor | L14 |
 | Shaykh Bahaʾi | Baha'i | | Scholar and gnostic whose warning against incarnation and union Ayatullah Khomeini quotes (`forty_hadith` pp. 516–517) | B2 Ch17 |
 | silsila | silsilah, silsilatul tariqas | | Chain of masters or lineage back to the Prophet | L06 |
+| silsilat al-dhahab | golden chain | | The "golden chain": lines of orders traced through Maʿruf al-Karkhi to Imam al-Rida (as) (`light` p. 25) | B2 Ch15 |
 | sirr | Al-Serr | | The secret layer of the soul | L05 |
 | Sufi | sufiyah, suf | | Mystic of the Sufi tradition; Sufism, from wool | L02 |
+| suhba | suhbah | | Keeping pious company, preferred by the Naqshbandiyya to retreat (*khalwa*) (L14 ¶76) | L14 |
+| Suhrawardiyya | sukrawardiyya | | The Sufi order of Shihab al-Din Suhrawardi, known for repeating *la ilaha illa Allah* (L14 ¶56–60) | L14 |
+| Qadiriyya / Chishtiyya | Qadarriya, Chishtiya | | Two of the great Sufi orders, founded centuries after the first seekers (L14 ¶25) | L14 |
 | Sufyan al-Thawri | Sufiyan Thawri | | Early mystic (d. 161/777) of the time of Imam al-Sadiq (`light` p. 22); in L12 ¶14 he objects to the Imam's robe | L12 |
 | sukr | sukr | | Intoxication in the love of God | L09 |
 | suluk | sulook, saluk, sulook | | Wayfaring; the path of purification | L03 |
