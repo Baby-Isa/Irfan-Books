@@ -153,7 +153,7 @@ Close: hand-off in a clause to Chapter Fifteen, on how the road became orders an
 
 The prologue promised to set out why some scholars have been wary of ʿirfan. No critic's own writing is among the books held for this one, so the concerns are heard here through those who answer them. Mutahhari reports a group of traditionists and jurists who held that the ʿurafaʾ "are not practically bound to Islam". To them, the mystics' appeals to the Qur'an and the Sunna were "merely a ruse to deceive the simple-minded people" [@light, p. 13]. He also reports a group of modernists who welcomed ʿirfan as a movement against Islam and its laws [@light, p. 13].
 
-Drawing on these reports and those below, this book groups the concerns as three: whether the mystics were sincere, whether their God was merged with the world, and whether they set the law aside. A Shia reader will add a fourth concern about Ibn ʿArabi himself.
+This book groups the concerns as three: whether the mystics were sincere, whether their God was merged with the world, and whether they set the law aside. A Shia reader will add a fourth concern about Ibn ʿArabi himself.
 
 On the first, Mutahhari sides with a third group, which takes a neutral view. Its members grant that ʿirfan holds innovations, which are found more in its practice than in its theory. "It is quite possible that they have made mistakes," they allow, as theologians, philosophers, and jurists have made mistakes, but never out of bad faith [@light, p. 14]. In Mutahhari's own words, "I do not believe that the 'urafa' have had evil intentions towards Islam" [@light, p. 14]. He asks those who know both ʿirfan and the teachings of Islam to study the question with care [@light, p. 14].
 

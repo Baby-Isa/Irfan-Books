@@ -8,7 +8,7 @@ chapter: 16
 So You speak to him secretly and he works for You openly. [@duas_munajat_shabaniyah, §111]
 :::
 
-The Munajat Shaʿbaniyyah asks to be made one of those whom God calls and who answer Him. In the line above, God speaks to such a person in secret, and he works for Him in the open. Imam ʿAli (as) once described people much like these to Kumayl ibn Ziyad, whose duʿa many of us hear on Thursday evenings [@mafatih, p. 129]. Kumayl recalls that Imam ʿAli "took my hand and led me toward the cemetery. When he reached the desert, he sighed deeply" [@nahj, 3.133]. There, speaking of the few on earth who uphold God's proof, he said:
+The Munajat Shaʿbaniyyah asks to be made one of those whom God calls and who answer Him. In the line above, God speaks to such a person in secret, and he works for Him in the open. Imam ʿAli (as) once described people much like these to Kumayl ibn Ziyad, whose duʿa opened Chapter Three. Kumayl recalls that Imam ʿAli "took my hand and led me toward the cemetery. When he reached the desert, he sighed deeply" [@nahj, 3.133]. There, speaking of the few on earth who uphold God's proof, he said:
 
 ::: {.quote ar="وصحبوا الدنيا بأبدان أرواحها مُعَلّقة بالمحلّ الأعلى أولئك خلفاء الله في أرضه والدعاة إلى دينه. آه آه شوقًا إلى رؤيتهم." source="Nahj al-Balagha"}
 In this world they live in bodies whose spirits are linked to the highest abode. They are God's vicegerents on his earth, who call to his religion. Ah! Would that I could see them! [@nahj, 3.133]
@@ -99,7 +99,7 @@ Certainty of this kind is meant to be passed on; the traveller now knows God's a
 The lectures tell of the fourth journey, made in creation by God, through what is shown to the Prophet ﷺ: the reality of things and their effects in this world and the next, and "the way everything returns to Allah". He can then tell people "the harms and benefits of everything and the causes of felicity or misery". For Mutahhari the fourth journey "is amongst the people while still united with God", and in it the ʿarif "seeks to guide their affairs so as to lead them towards God" [@light, p. 50].
 <!-- src: L09 ¶87-88 -->
 
-Whether a man who has seen only God can live among people again depends on where the road has left him. The lectures find it "very difficult" for mystics who have finished only the first journey "to mix with the people", and the drunk travellers of Chapter Fourteen stopped there. ʿAllama Tabatabaʾi quotes a gnostic plunged in the vision of God who lived "among the people for 30 years". They thought he shared in everything they did, while he "did not see them and did not know anyone but Allah". The gnostics, he adds, call that state "abiding in Allah" [@light, pp. 63–64]. Setting him beside the Sheikh's remark is this book's reading.
+Whether a man who has seen only God can live among people again depends on where the road has left him. The lectures find it "very difficult" for mystics who have finished only the first journey "to mix with the people", and the drunk travellers of Chapter Fourteen stopped there. ʿAllama Tabatabaʾi quotes a gnostic plunged in the vision of God who lived "among the people for 30 years". They thought he shared in everything they did, while he "did not see them and did not know anyone but Allah". The gnostics, he adds, call that state "abiding in Allah" [@light, pp. 63–64].
 <!-- src: L09 ¶91 -->
 
 The fourth journey removes the difficulty. In the Sheikh's words that journey brings its traveller "down to the level of ordinary people", so that he can live with them and guide them. For the Prophet ﷺ, mixing with people is the easiest thing of all, because he sees everyone as God's creation and connected to God.
@@ -172,7 +172,7 @@ The Mafatih records how Imam al-Husayn (as), whom it calls the Chief of Martyrs,
 O Allah, (please) make me fear You as if I can see You. [@duas_dua_arafah_imam_husain, §182]
 :::
 
-This book reads the scene as both sides of the return in one moment: with his household around him, the Imam stood before God as a beggar and asked to fear Him as if he could see Him.
+Both sides of the return meet in that moment: with his household around him, the Imam stood before God as a beggar and asked to fear Him as if he could see Him.
 
 The Imam who prayed this at ʿArafah was martyred at Karbala on the day of ʿAshura [@mafatih, p. 401], and he stayed with his people to the last. Ayatullah Khomeini counts him with the prophets who established justice and rose against the wrongdoers. Recited properly, he writes, such prayers lessen a person's attachment to himself, and he "becomes more active and ever ready to render service to his fellow human beings". He adds of the Imams, who all recited the Munajat Shaʿbaniyyah according to the reports he cites, "Those who recited the Munajat Sha'biniya, wielded the sword also" [@light, p. 138].
 

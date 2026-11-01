@@ -96,7 +96,7 @@ The return runs the same road backwards. The will is given back first, then powe
 :::: {.point}
 Each gift given back becomes a station on the way to God, and God gives each back without limit.
 
-1. The will given back is contentment (*rida*), with no separate will (Ayatullah Khomeini).
+1. The will given back is contentment (*rida*), with no separate will (Ayatullah Khomeini; the saying Chapter Fourteen heard from Bayazid).
 2. Contentment loses nothing: in paradise the soul has whatever it wishes (Q 50:35), and contentment is its key.
 3. Power given back is reliance (*tawakkul*): the power we use is God's (Q 65:3); Chapter Twelve met this truth as the first degree of annihilation, in action.
 4. Knowledge given back is submission (*taslim*), the submission of Ibrahim (Q 2:131).
@@ -105,7 +105,7 @@ Each gift given back becomes a station on the way to God, and God gives each bac
 7. Ayatullah Khomeini quotes Tusi's commentary on the *Isharat* to the same effect (powers, sciences and wills vanishing in God's), after Shaykh Bahaʾi's guard against union with God.
 ::::
 
-The will is the first gift given back, and the station it opens is contentment (*rida*). A soul with no will of its own wants nothing but what comes from God, and is content with it. For Ayatullah Khomeini, the one who has reached this station "is one who has annihilated his will in the Divine Will, having no more a separate will of his own". He recalls a mystic who, asked what he wished, replied, "My wish is not to wish at all" [@forty_hadith, p. 207]. <!-- src: L16 ¶23-24 -->
+The will is the first gift given back, and the station it opens is contentment (*rida*). A soul with no will of its own wants nothing but what comes from God, and is content with it. For Ayatullah Khomeini, the one who has reached this station "is one who has annihilated his will in the Divine Will, having no more a separate will of his own". He recalls a mystic who, asked what he wished, replied, "My wish is not to wish at all" [@forty_hadith, p. 207], words Chapter Fourteen heard from Bayazid as well. <!-- src: L16 ¶23-24 -->
 
 A soul that wants nothing for itself might seem to have nothing left to enjoy, but Surah Qaf says the opposite of those in paradise.
 

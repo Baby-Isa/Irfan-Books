@@ -8,7 +8,7 @@ epigraph: "My Lord, (please) appoint me of those who responded to You when You c
 source: "Munajat Shaʿbaniyyah"
 ---
 
-The road grew from the Qur'an, the Prophet ﷺ, and the Imams of his Ahl al-Bayt, and its first seekers learned from the Imams and stood below them. The Munajat Shaʿbaniyyah asks to be among those God glances at until they swoon before His Majesty. Of the travellers who reached that state, some lost their footing in ecstasy while the sober reached the end. When the road later became the Sufi orders, Shia masters kept the path without a Sufi institution of authority, because authority belongs to the Imam.
+The road grew from the Qur'an, the Prophet ﷺ, and the Imams of his Ahl al-Bayt, and its first seekers learned from the Imams and stood below them. The Munajat Shaʿbaniyyah asks to be among those God glances at until they swoon before His Majesty. Of the travellers who reached that state, some stayed lost in ecstasy while the sober went further. When the road later became the Sufi orders, Shia masters kept the path without a Sufi institution of authority, because authority belongs to the Imam.
 
 13 · Where it comes from\
 14 · Drunk and sober\
