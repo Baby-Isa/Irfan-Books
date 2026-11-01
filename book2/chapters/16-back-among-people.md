@@ -50,7 +50,7 @@ The order and the names follow the lectures and Murtada Mutahhari [@light, pp. 4
 <!-- src: L09 ¶71-91 -->
 :::
 
-The first journey is the road we have followed through this book. On it the dark veils our deeds have made are removed, and then the outer veils of light. As the veils go, the self that commands to evil gives way to the heart, and the heart to the spirit. Of its four stages, Chapter Eight gave the first two to the traveller and the last two to God. The journey ends in annihilation, and yet, in the lectures' words, "this is just one quarter of the way".
+The first journey is the road we have followed through this book. On it the dark veils our deeds have made are removed, and then the outer veils of light. As the veils go, the self that commands to evil gives way to the heart, and the heart to the spirit. Its four stages are the ones Chapter Eight mapped: polishing and emptying, which are the traveller's work, then adorning and annihilating, which are God's. The journey ends in annihilation, and yet, in the lectures' words, "this is just one quarter of the way".
 <!-- src: L09 ¶72-75; L07 ¶59 -->
 
 The rest of the way is travelled "by haqq", by God, which is how the lectures name the last three journeys. They explain the phrase at the start of the second, when the traveller "has nothing of himself and is under complete Wilayat of God. It is God who is actually taking them towards this tour." Up to annihilation the work was to get the self out of the way; once the self is gone, he is carried by God's guardianship (*wilaya*). Sheikh Bahmanpour finds this guardianship in a line many of us know from the last unit (*rakʿa*) of the night prayer:
