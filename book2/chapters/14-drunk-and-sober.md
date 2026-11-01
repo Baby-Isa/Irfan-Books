@@ -4,7 +4,7 @@ title-ar: ""
 chapter: 14
 ---
 
-Each Shaʿban, in the Munajat Shaʿbaniyyah, we ask God for a place among those He glanced at until they swooned before His Majesty [@duas_munajat_shabaniyah, §109–110]. Some travellers reached that swoon. Chapter Twelve followed the traveller into annihilation and back, keeping to principles rather than names. The tradition keeps the names, and what came after the swoon divided them.
+Each Shaʿban, in the Munajat Shaʿbaniyyah, we ask God for a place among those He glanced at until they swooned before His Majesty [@duas_munajat_shabaniyah, §109–110]. Some travellers reached that swoon. Chapter Twelve followed the traveller into annihilation and back, and kept to principles rather than names. The tradition keeps the names, and what came after the swoon divided them.
 
 The mystics have two words for the two outcomes. Intoxication (*sukr*) is losing oneself in God until nothing else is seen. Persian poetry praises the drunkard who leaves every bond to this world behind and forgets everything, and in the mystics' use the forgetting is for God. Sobriety (*sahw*) is coming back to oneself. This chapter sets out who stayed drunk and who came back sober, and the theory their greatest heir made of what they saw. It then turns to the scholars who have been wary of it all, and to the answers given to their concerns.
 <!-- src: L13 ¶13-14 -->
