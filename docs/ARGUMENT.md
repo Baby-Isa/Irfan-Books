@@ -196,11 +196,11 @@ _Tone: the emotion comes back and is brought home._
 - → The friends of God return to people. Where does every soul return?
 
 **Ch 17. The return to God.** (old 17, "Reading the Quran with the heart, and the return to God")
-- **Conclusion:** Every soul returns to God, willingly or not; ʿirfan is making that return willingly, now.
+- **Conclusion:** Every soul returns to God by giving back what it was given, willingly or not; ʿirfan is making that return willingly and in this life.
 - 17.1 The Quran may be read from the inside, on condition that the inner meaning agrees with the outer and never cancels it. [B5] L16 ¶3–17 (the opener scene; added: `light` p. 110; `journey` p. 54)
 - 17.2 The return reverses creation: existence, knowledge, power and will were given, and are surrendered in reverse order to be re-given by God (Tusi). [B5] L16 ¶17–32 (`forty_hadith` p. 517 holds the Tusi text)
-- 17.3 Hell is the same return, refused: the same surrender undergone against one's will. [B5] L16 ¶39–55 (side by side, as agreement: `forty_hadith` pp. 137, 365 keep the fire literal as well)
-- _Closing section [conclusion], no new point:_ the willing return, now. Hell comes before it. It carries Kubra's two journeys, involuntary and voluntary (L08 ¶5–8, FRAMEWORK §8.6), as the pair between which the reader chooses.
+- 17.3 The return happens whether or not a soul makes it: a believer who left it undone finishes it after death, helped by intercession; a will that never yields meets the four gifts as their opposites, which is hell, and it is not God's revenge. [B5] L16 ¶34–55 (the fire kept true in the Sheikh's words alone; `forty_hadith` p. 137 dropped in the 2026-11-01 fix pass, one voice on the fire)
+- _Closing section [conclusion], no new point:_ the willing return, in this life. Hell comes before it. It carries Kubra's two journeys, involuntary and voluntary (L08 ¶5–8, FRAMEWORK §8.6), as the pair between which the reader chooses.
 - → So how does one begin, this week?
 
 **Prologue** (approved, edited for v3, D41): states the thesis and B1–B5 as a map of the book; says what ʿirfan is not (magic, a cult, a replacement for fiqh or taqlid); answers "isn't this Sufism?" in a line (Ch 15 answers it fully); opens with the Munajat's §105–107 petition.
@@ -219,7 +219,7 @@ _Tone: the emotion comes back and is brought home._
 | **Portrait-style history** | gap analysis 5 | Chs 7 and 13–15: at most five figures in the prose, the rest in Who's Who boxes. |
 | **"The inside of what you already do"** | gap analysis; D10 voice | Ch 2 (a fast, the prostration), Ch 3 (the duʿas you recite), Ch 6 (attention in your prayer), Ch 9 (istighfar), Ch 10 (Ramadan's disciplines, dhikr), Ch 12 (sujud), Ch 16 (ʿArafah), Ch 17 (Surah Yasin and the Quran you read). Each names the familiar practice in its opener and its "Try this". |
 | **Karbala as a reflection** | D16 | Ch 16.3 only (the last section), grounded in Duʿa ʿArafah and `light` p. 138; never stated as the lecturer's teaching. |
-| **Differing views side by side** | D20 | Marked (side by side) above: 1.4, 2.4, 3.4, 4.2, 5.4, 7.1, 9.2, 10.2, 14.3, 15.4, 16.2, 17.3. |
+| **Differing views side by side** | D20 | Marked (side by side) above: 1.4, 2.4, 3.4, 4.2, 5.4, 7.1, 9.2, 10.2, 14.3, 15.4, 16.2. |
 | **Callbacks** | D41 | Part Four calls back to Part Three (13.2 to Ch 11; 14.1 to Ch 12's baqa; 15.3 to Ch 7); Ch 16 to Chs 6, 8, 12, 14 and 15; Ch 17 to Chs 2, 5, 11 and 12. Quotes are recalled in words, not re-quoted (FRAMEWORK §5). |
 
 ---

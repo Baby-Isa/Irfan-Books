@@ -125,7 +125,7 @@ When his Lord said to him, ‘Submit,’ he said, ‘I submit to the Lord of all
 
 Existence goes back last, and its station is annihilation (*fanaʾ*). There the traveller sees that existence belongs to God alone, and Chapter Twelve followed him to that station and back. <!-- src: L16 ¶30 -->
 
-Nothing of the traveller seems left once all four are given back, yet Tusi has God give all four back new. Contentment is made complete. Power returns without limit to a soul now "drowned" in God's power and "completely joined with that power". Knowledge comes from nothing in the soul itself and "will shine in you", and existence becomes everlasting on the day Surah Qaf calls "the day of immortality" (Q 50:34). That, for Tusi, is paradise. Just after Shaykh Bahaʾi's warning that such words never mean God dwells in a servant or becomes one with him, Ayatullah Khomeini quotes something close from Tusi's commentary on the *Isharat* [@forty_hadith, pp. 516–517]. <!-- src: L16 ¶31-32 -->
+Nothing of the traveller seems left once all four are given back, yet Tusi has God return them new. Contentment is made complete. Power returns without limit to a soul now "drowned" in God's power and "completely joined with that power". Knowledge comes from nothing in the soul itself and "will shine in you", and existence becomes everlasting on the day Surah Qaf calls "the day of immortality" (Q 50:34). That, for Tusi, is paradise. Just after Shaykh Bahaʾi's warning that such words never mean God dwells in a servant or becomes one with him, Ayatullah Khomeini quotes something close from Tusi's *Isharat* commentary [@forty_hadith, pp. 516–517]. <!-- src: L16 ¶31-32 -->
 
 ## The return refused
 
@@ -159,7 +159,7 @@ Had the truth followed their desires, the heavens and the earth would have surel
 
 A will that is never followed is held in check, and its owner is "always in torment". The chain of seventy cubits from the first section may be this held will, and in the lectures its length is "because of the length of the will that they have". <!-- src: L16 ¶42-43 -->
 
-All four gifts return to such a soul the same way, each as the mirror image of the station it would have opened. In place of contentment there is utter dissatisfaction. In place of power there is helplessness, because these souls never learned that the power they used here was God's, and they do not know how to use it there. Those who thought they knew find themselves ignorant, and humiliation stands where submission would have been. Last, in place of union with God there is separation from Him, and an existence that is neither life nor death. Surah al-Aʿla says this of the one who enters the Great Fire. <!-- src: L16 ¶45-47, ¶54-55 -->
+All four gifts return the same way, each as the mirror image of the station it would have opened. In place of contentment there is utter dissatisfaction. In place of power there is helplessness, because these souls never learned that the power they used here was God's and cannot use it there. Those who thought they knew find themselves ignorant, and humiliation stands where submission would have been. Last, in place of union with God there is separation from Him, and an existence that is neither life nor death. Surah al-Aʿla says this of the one who enters the Great Fire. <!-- src: L16 ¶45-47, ¶54-55 -->
 
 ::: {.ayah ref="87:13"}
 then he will neither live in it, nor die.

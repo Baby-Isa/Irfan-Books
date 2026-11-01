@@ -339,3 +339,6 @@ Book 2 names him "Ayatullah Khomeini" throughout (was "Imam Khomeini"), spelled 
 
 ## 2026-11-01: D55. The reader's chain of questions; the rest of the book written autonomously (user)
 The user rewrote Ch 2's "Light in the heart" through several rounds in chat; what it taught is TONE 47 and LESSON 37. He then asked for the remaining chapters (Ch 13–17 and the epilogue) to be written without him, by the same method: logic at chapter, section and paragraph level; Fable to check, challenge and improve it; prose; a Fable tone check against the prologue and Ch 1–2; the usual fact-check, chain audit and voice gate. Ready for review as text; no PDF needed. He gave full permission to use judgement.
+
+## 2026-11-01: Ch 17 fix pass, point wording and the fire
+Ch 17's point reads "ʿirfan is making that return willingly and in this life" (clearer than "willingly, now", since the chapter sets this life against the return after death). The Part Five divider, ladder 17 and ARGUMENT Ch 17 follow it; B5 and the book-chain line are unchanged. The radiya/rida link is dropped, because `forty_hadith` p. 207 does not support it. On the fire, the chapter keeps the lecture's voice only (Khomeini p. 137 cut, so 17.3 is no longer side by side). See `reviews/book2-17.md` "Fixes applied".

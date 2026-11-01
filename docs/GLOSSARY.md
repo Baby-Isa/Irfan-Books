@@ -155,7 +155,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | khayal | khayal | | Imagination | L05 |
 | khidma | | | Service to God; in salah, the depth of the law (L06 ¶24) | B2 Ch6 |
 | Khwaja Nasir al-Din al-Tusi | Haji Nasiruddin Tusi, Qazi Nasiruddin, Khwajah Nasir | | Scholar (d. 672/1273, `light` p. 36), commentator on Ibn Sina's *Isharat*; his reading of the return in L16 | L16 |
-| Ridwan | rizwan, rizwanu | | In the tradition, the angel in charge of paradise; from the root of *rida* (L16 ¶25) | L16 |
+| Ridwan | rizwan, rizwanu | | The angel in charge of paradise; the lecture reads the name as meaning that no one enters without contentment (L16 ¶25) | L16 |
 | Khurasan | Khorasan | | The region of north-east Iran, then bordering India and China, home of many early renunciants | L11 |
 | Khidr | | | The servant of God whom Musa follows in Surah al-Kahf; for the ʿurafaʾ, the master who accompanies a beginner (`forty_hadith` p. 508) | B2 Ch7 |
 | kibriyaʾ | kibriya, Kibriya | | Grandeur of God | L01 |
@@ -260,7 +260,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | suluk | sulook, saluk, sulook | | Wayfaring; the path of purification | L03 |
 | Surah Yasin | Yaseen | | The thirty-sixth surah of the Qur'an, recited for the dying and the dead | B2 Ch5 |
 | tabattul | tabattil, batul | | Cutting oneself off towards God | L10 |
-| tafsir | tafseer | | Commentary on the plain meaning of the Qur'an, set beside taʾwil (Maliki Tabrizi, `journey` p. 54) | B2 Ch17 |
+| tafsir | tafseer | | Commentary on the Qur'an (the book's gloss); Maliki Tabrizi names it beside taʾwil, "their commentary (tafsir) and esoteric meanings (tawil)" (`journey` p. 54) | B2 Ch17 |
 | tahajjud | tahajjud | | Waking before dawn to worship | L10 |
 | tahliya | tahliyyah, tahliyah | | Adorning the soul with divine gifts | L07 |
 | tajliya | tajliyyah, Tajliyah | | Furbishing the body and lower soul through the law | L07 |

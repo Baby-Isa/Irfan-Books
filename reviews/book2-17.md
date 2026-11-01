@@ -54,3 +54,31 @@ Method note: no shell was available, so `python3 build/quran.py` was not run. Ev
 - The conclusion follows. It is stated in full (willingly or not; ʿirfan is the willing return) only by implication in §5. Consider one plain sentence.
 
 **Verdict: PASS WITH FIXES.** No invented scripture or quotation was found. One High (the *radiya* link rests on a source that contradicts it), about ten Mediums on attribution and unmarked book reading, and a set of Lows.
+
+## Fixes applied (2026-11-01)
+
+Chapter edited in place; not committed. Profile PASS (longest paragraph 106, Sheikh named 5 times); `punct` flags are the pre-existing advisory ones plus no new tail commas; `build.py pdf book2 "17*"` builds; no markers. Fresh packet: `reviews/voice/17b-chain-packet.md` (37 paragraphs, was 50).
+
+**Fact-check**
+- **High (radiya/rida):** the equation and the p. 207 footnote are gone, and the Arabic word is avoided. Surah al-Fajr is now introduced in the thesis paragraph's last clause ("to God Himself, who calls the self at peace home in Surah al-Fajr"), and the verse closes the body.
+- **Med, transliteration:** moot (word removed); nothing added to GLOSSARY.
+- **Med, Tusi's two books:** the Who's Who box now says the chapter's account comes from "another of his books, which the lectures call 'Reminder of the beginning and the end'". The Khomeini passage is "something close from Tusi's *Isharat* commentary", set just after Bahaʾi's warning (one sentence, folded into the "given back new" paragraph). The block quotation from p. 517 is cut, since it repeated that paragraph.
+- **Med, reading rule:** "Following ʿAllama Tabatabaʾi and al-Ghazali, he holds that…" (point note item 3 too).
+- **Med, Duʿa ʿArafah:** the line and the "because" sentence are cut (also chain drag).
+- **Med, Ch 12 cross-reference:** "Chapter Twelve met this truth at the first degree of annihilation, annihilation in action." The "lived before it is seen" contrast is cut and the sentence is folded into the reliance paragraph.
+- **Med, Yusuf box:** the last sentence is marked "On this book's reading, …".
+- **Med, Kubra's second reason:** given to the lecture ("The lecture gives a second."), paraphrased only as far as L08 ¶8 is clear.
+- **Med, Q 2:156 traveller sentence:** cut; the paragraph stops at the verse.
+- **Med, "the same two ways":** the Khomeini fire paragraph is cut (chain: keep one voice on the fire). ARGUMENT 17.3 and the side-by-side list updated.
+- **Med, "a momin":** "Not every believer gives these four back in this life, yet in the lecture's words a believer goes through the return all the same, 'either voluntarily or involuntarily'."
+- **Med, Word Study / GLOSSARY:** the box now says "In this book, *tafsir* means commentary on a verse…" and that Maliki names the two together "among the meanings a reader must not treat as false". The GLOSSARY *tafsir* entry is marked as the book's gloss, with Maliki's words quoted.
+- **Low, fixed:** "in the next sentence"; the hedges restored ("may also be" in the point box; "may be this held will"); hell framed as "one way the lecture asks us to think of hell"; the wrath given in the lecture's own words (¶43); the fire paragraph now rests on the clear ¶49, ¶52 and ¶54 (parallel forms, the dream), Q 4:10 introduced as the verse the lectures recall, and the Chapter Five line cut; "All four gifts return the same way"; "uses a power that remains His" replaced by the lecture's "completely joined with that power", guarded by Bahaʾi's warning; the Ridwan root claim cut ("the name means that no one enters without contentment", L16 ¶25), with GLOSSARY to match; the Who's Who praise sentence cut; "In the lecture's words paradise 'is not our level'" (¶34); the opening practice marked as ours ("In many of our families") and the Mafatih reported as a merit ("tells of angels who come when it is recited…"); "sets a similar guard"; thesis paragraph 89 words; Munajat closer cut; "might seem" set-ups down to two; the section-closing "therefore" recaps cut.
+- **Not changed:** the "remaining 'might seem'" set-ups in §1 and §3 (they carry the reader's question, TONE 47).
+
+**Chain audit (34% idle, 17/50)**
+- Cut or folded the 13 idle paragraphs: the four section-closing restatements (old ¶11, ¶18, ¶30, ¶42; each section's point now stated once, and the matching "Therefore" lines removed from the point notes); ¶23 folded into ¶22; ¶25–26 (second taslim example) cut; ¶29 folded into ¶28 as one sentence; ¶39 (second scholar on the fire) cut; ¶41 cut; ¶48 folded into the thesis; ¶49 and ¶50 cut.
+- Kept: ¶7 (Maliki, short), ¶38 (rewritten, lecturer only, 63 words), ¶40 (the one-line lead into Munajat §120–121, which closes §4), and the thesis paragraph. Expected idle is about 4/37 (11%), below the 15% floor, so the re-audit should check whether the chapter now reads clipped.
+- Close: the closing question is cut (the chapter does not answer it). The chapter now ends on the thesis, the Fajr verse and the Try this box.
+
+**Consistency**
+- The point wording is "willingly and in this life" (clearer than "now", because the chapter contrasts this life with after death). Chapter ¶2 and the §5 point, `book2/parts/5-the-destination.md`, `docs/ladders/17.md` (chapter point, §5 point, step 2, close notes) and `docs/ARGUMENT.md` (Ch 17 conclusion, 17.3, closing line) now agree. B5 and the book-chain quotation still say "now"; they were left as they are.

@@ -8,7 +8,7 @@ epigraph: "My Lord, let me be attached to the Light of Your Majestic Glory, so t
 source: "Munajat Shaʿbaniyyah"
 ---
 
-The road is travelled for God, and those who reach Him come back to people while staying with Him, as the Prophet ﷺ and the Imams (as) did. Every soul goes back to God in the end, and ʿirfan is making that return willingly, now.
+The road is travelled for God, and those who reach Him come back to people while staying with Him, as the Prophet ﷺ and the Imams (as) did. Every soul goes back to God in the end, and ʿirfan is making that return willingly and in this life.
 
 16 · Back among people\
 17 · The return to God

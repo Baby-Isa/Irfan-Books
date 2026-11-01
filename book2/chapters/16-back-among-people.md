@@ -108,41 +108,47 @@ The fourth journey removes the difficulty. In the Sheikh's words it brings him "
 ## Who completes it
 
 :::: {.point}
-The whole return belongs to the Prophet ﷺ and the Imams (as), and the rest of us are called to follow them as far as God wills.
+The fullest form of the return belongs first to the Prophet ﷺ and the Imams (as), and the rest of us are called to follow them as far as God wills.
 
-1. In the lectures the third journey is open to a few mystics of high calibre, and the fourth belongs to the Prophet ﷺ and his successors.
+1. In the lectures the third journey is open to "some very high caliber mystics", and the fourth belongs to the Prophet ﷺ and his successors.
 2. In the Imams (as) the knowledge of the fourth journey stayed inside the law.
-3. Is holding both worlds theirs alone? Tabatabaʾi: "perhaps" the prophets', the awliyaʾ's, "and whoever God wishes".
-4. He shows both worlds in the Prophet ﷺ: states beyond any archangel within, and "a human being like you" without (Q 18:110).
-5. The road stays open: the office is exclusive, *wilaya* is not, and the Prophet ﷺ is an exemplar (Q 33:21).
-6. For us now: the traveller stays in society at every stage and does both at once.
-7. Therefore: both views place the whole return in the Prophet ﷺ and the Imams (as), and both leave the way open as far as God gives.
+3. Is holding both worlds theirs alone? Tabatabaʾi: "Perhaps it is exclusive to the prophets and the awliya' and whoever God wishes".
+4. In those of this rank he finds both worlds: states beyond any archangel within, and outwardly "a human being like you" (Q 18:110). *(Story box: The robe, the book's reading.)*
+5. The road stays open: the office is exclusive, *wilaya* as the station is not, and the Prophet ﷺ is an exemplar (Q 33:21).
+6. Therefore both place the fullest form of the return first in the Prophet ﷺ and the Imams (as), and both leave the way open as far as God gives; for us now, the traveller stays in society at every stage.
 ::::
 
-A road this high raises the question of who walks it to the end. The second journey has already set a limit, since only the Prophet ﷺ has no one above him. In the lectures, the third journey is open to "some very high caliber mystics", whereas the fourth belongs to the Prophet ﷺ and after him to the Imams (as).
+A road this high raises the question of who walks it to the end. The second journey has already set a limit, since only the Prophet ﷺ has no one above him. In the lectures, the third journey is open to "some very high caliber mystics", whereas the fourth belongs to the Prophet ﷺ and, as the Sheikh goes on, to his successors, the Imams (as).
 <!-- src: L09 ¶87, ¶89 -->
 
-In the Imams (as), the knowledge of the fourth journey stayed inside the law. When people asked them about anything, they knew the answer from an inner knowledge that reached even matters the shariʿa and the Book do not mention. Yet, as Sheikh Bahmanpour adds, "of course, they follow the Sharia", and they gave their answers by referring to the Book and the shariʿa. Chapter Six showed the law binding the traveller to the last stage, and Chapter Twelve found the Imams holding the realms of unity and plurality together.
+In the Imams (as), the knowledge of the fourth journey stayed inside the law. When people asked them about anything, they knew the answer from "an inner knowledge in every instance". Yet, as Sheikh Bahmanpour adds, "of course, they follow the Sharia or the Prophet", and they gave their answers by referring to the Book and the shariʿa. Chapter Twelve found the Imams holding the realms of unity and plurality together.
 <!-- src: L09 ¶89 -->
 
-Whether holding God's world and ours at once belongs to them alone is a question ʿAllama Tabatabaʾi weighs in *Kernel of the Kernels*. The strong wayfarer, he says, is the one who, while witnessing these states, "also attends to the world of pluralities and who takes care of both the worlds". Of this rank he writes that it is "very sublime and elevated, and access to it very difficult. Perhaps it is exclusive to the prophets and the awliya' and whoever God wishes" [@kernel, p. 20]. The awliyaʾ are the friends of God whom Imam ʿAli (as) described to Kumayl.
+Whether holding God's world and ours at once belongs to them alone is a question ʿAllama Tabatabaʾi weighs in *Kernel of the Kernels*. The strong wayfarer, he says, is the one who, while witnessing these states, "also attends to the world of pluralities and who takes care of both the worlds". Of this rank he writes that it is "very sublime and elevated, and access to it very difficult. Perhaps it is exclusive to the prophets and the awliya' and whoever God wishes" [@kernel, p. 20]. The awliyaʾ are the friends of God, Mutahhari's name for the people Imam ʿAli (as) described to Kumayl [@light, p. 49].
 
-Tabatabaʾi finds both worlds held together in the Prophet ﷺ himself. Inwardly, in a saying of the Prophet that the *Kernel* quotes, "I have with God certain states which are beyond the capacity of any archangel" [@kernel, p. 20]. Outwardly, the Qur'an has him tell people:
+Tabatabaʾi finds both worlds held together in those who reach this rank. Inwardly they enjoy God's bounty described in the words "I have with God certain states which are beyond the capacity of any archangel", and he goes on, "Their outward appearance is a manifestation of" a verse in which the Qur'an has the Prophet ﷺ tell people [@kernel, p. 20]:
 
-::: {.ayah ref="18:110" words="1-5"}
-Say, ‘I am just a human being like you.
+::: {.ayah ref="18:110" words="1-11"}
+Say, ‘I am just a human being like you. It has been revealed to me that your God is the One God.’
 :::
 
-The Prophet whose states with God were beyond any archangel lived among people as one of them. The rank is high, yet Tabatabaʾi keeps the road towards it open by separating the office from the station. In his words, "the office of prophethood and Imamate is something exclusive, but attainment to the station of absolute tawhid and fana' in the Essence of the One‑which is called wilayah‑is not at all exclusive". The Prophet ﷺ called his community to the place where he himself stood, and that call "implies the possibility of travelling towards that purpose" [@kernel, p. 20]. Tabatabaʾi cites a verse of Surah al-Ahzab for that possibility:
+What people saw of them was a human being like themselves, and their states with God stayed hidden. Sheikh Bahmanpour tells a story of Imam Jaʿfar al-Sadiq (as) as a lesson in hidden renunciation, which this book reads beside Tabatabaʾi's words.
+
+::: {.box-story title="Story: The robe"}
+Sufyan al-Thawri, an early mystic who died in 161/777, lived in the time of Imam Jaʿfar al-Sadiq (as) [@light, p. 22]. In Sheikh Bahmanpour's account, Sufyan once saw the Imam at a gathering in a precious robe, the kind a king might wear. He went up to Imam al-Sadiq and asked whether such dress fitted the Imam's own teaching about religion and God. The Imam drew the robe aside and showed what he wore beneath it, a harsh garment that was "quite uncomfortable to wear". Then he said, "this is how you have to be. You shouldn't show off your zuhd." Renunciation (*zuhd*), on this telling, is best kept hidden. In this book's reading, the robe also kept what lay between the Imam and God out of sight.
+<!-- src: L12 ¶14 -->
+:::
+
+The rank is high, yet Tabatabaʾi keeps the road towards it open by separating the office from the station. In his words, "the office of prophethood and Imamate is something exclusive, but attainment to the station of absolute tawhid and fana' in the Essence of the One‑which is called wilayah‑is not at all exclusive". Here *wilaya* is the station itself, the friendship with God that the road reaches, rather than the guardianship that carries the traveller along it. The Prophet ﷺ called his community to the place where he himself stood, and that call "implies the possibility of travelling towards that purpose" [@kernel, p. 20]. Tabatabaʾi cites a verse of Surah al-Ahzab for that possibility:
 
 ::: {.ayah ref="33:21"}
 There is certainly a good exemplar for you in the Apostle of Allah—for those who look forward to Allah and the Last Day, and remember Allah much.
 :::
 
-The verse offers the Prophet ﷺ as an exemplar to all who look forward to God and the Last Day and remember Him much. Following him in the return asks something of us from the start. The lectures say that at every stage of the road the traveller remains involved in society. Mystics have sometimes been drawn to retreat from this life, whereas Islam tells them not to and asks them to stay in society and travel the road at the same time.
-<!-- src: L15 ¶67 -->
+The verse offers the Prophet ﷺ as an exemplar to all who look forward to God and the Last Day and remember Him much. Side by side, then, the Sheikh and Tabatabaʾi both place the fullest form of the return first in the Prophet ﷺ and the Imams (as), and both leave the road towards it open as far as God gives.
 
-For the Sheikh the third journey is open to mystics of high calibre, and for Tabatabaʾi the rank may belong to "whoever God wishes". Both views therefore place the whole return in the Prophet ﷺ and the Imams (as), and both leave the way towards it open as far as God gives.
+Following the Prophet ﷺ in that return asks something of us from the start. The lectures say that at every stage of the road the traveller remains involved in society. Mystics have sometimes been drawn to retreat from this life, whereas Islam tells them not to and asks them to stay in society and travel the road at the same time.
+<!-- src: L15 ¶67 -->
 
 ## From ʿArafah to Karbala
 
