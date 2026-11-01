@@ -5,6 +5,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | Term (book spelling) | Variants seen in transcripts | Arabic | Short definition | First seen |
 |---|---|---|---|---|
 | abdal | Abdaal, abdaal | | A class of saints in the hierarchy; God provides for the earth through them | L12 |
+| Abu Dharr al-Ghifari | Abu Dharr Ghafari | | Companion of the Prophet ﷺ known for his renunciation; died alone in exile (`light` p. 20; L11 ¶35) | L11 |
 | ʿadhab | azaab | | Punishment | L04 |
 | ahwal | Ahwaal | | Mystical states that come and go on the path | L12 |
 | al-asfar al-arbaʿa | al asfar al arbaat al ilahiyya, asfaar e arbaat | | The four journeys: from creation to God; in God, by God; from God back to creation, by God; in creation, by God (L09 ¶70–72; Mutahhari, `light` p. 49) | L09 |
@@ -40,6 +41,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | barzakh | aalamul barzakh | | The middle world or barrier between worlds | L04 |
 | batin al-batin | baatinul baatin | | The inner of the inner, the deepest level | L06 |
 | dhawq | tasty | | Tasting of reality | L09 |
+| Dhu'l-Nun al-Misri | Dhul-Nun al-Misri, Dhua al Nun al Misri | | Egyptian mystic of the way of love (3rd/9th century) | L11 |
 | dhikr | zikr, zikrullah, zikrul kaseer, zikran kaseera, dhikr kathir | | Remembrance of God, especially abundant remembrance | L04 |
 | dhikr khafi | zikrul khatib | | Hidden remembrance of God | L14 |
 | Dhu'l-Qaʿdah | Zilqadah, zilqadah | | The eleventh month of the Islamic calendar; a Sunday of it is the best time for the prayer of repentance (L08 ¶29–30; Mafatih p. 356) | L08 |
@@ -52,10 +54,14 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | farq baʿd al-jamʿ | farq al bad al jam, alfarq waadal jaam | | Separation after union; return to creation after unification | L09 |
 | fikr | fikr | | Thought; reasoning and analysis, set against suluk as a way of knowing | L03 |
 | fiqh | | | Islamic jurisprudence; the law's obligatory minimum | B2 Ch1 |
+| Fudayl ibn ʿIyad | Fuzail bin Ayaz, Fudayl ibne Iyad | | Highwayman turned mystic of fear (d. 187/803); *Lantern of the Path* is attributed to him as lessons from Imam al-Sadiq (`light` p. 25) | L12 |
 | fuʾad | Al-Faad | | Heart or inner faculty | L05 |
+| George Jurdaq | | | Lebanese Christian author of a book on Imam ʿAli, who answered the orientalists over Abu Dharr (`light` p. 20) | B2 Ch13 |
 | ghawth | ghaus | | A rank of the saintly hierarchy | L13 |
 | ghusl al-tawba | Ghusle Tauba | | Ritual bath of repentance | L08 |
 | Harithah ibn Malik al-Ansari | Zayd, Haritha | | The young companion who told the Prophet ﷺ he could see the people of paradise and hell (al-Kafi; `light` p. 19) | B2 Ch3 |
+| al-Harith al-Muhasibi | Al Haris al Muhasibi, Muhasib | | Mystic of Basra (d. 243/857), named for self-accounting (`light` p. 26) | L12 |
+| Hasan al-Basri | Hasan ul Basri, Hassan al Basri, Hasn al Basri | | Early ascetic of Basra (d. 110/728), with whom Mutahhari begins the history of ʿirfan (`light` p. 23) | L11 |
 | hadd (pl. hudud) | Hadd, hudood | | Definition; also limit or boundary: to define a thing is to limit it | L02 |
 | hijab (pl. hujub) | hujuba | | Veil; the veils of light and darkness between the heart and God | L01 |
 | hajj | hajj | | The pilgrimage to Mecca | L01 |
@@ -68,6 +74,8 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | hayat tayyiba | hayaatan taiiyibah, hayaatan taiiyibat | | The good, clean and pure life (Q 16:97) | L02 |
 | hikma | Hikmah, hikmah | | Wisdom, knowing what to do | L10 |
 | husn al-khuluq | husne khulqe, husnus seerat | | Good character and conduct; behaving well toward people, the first condition of the inner work | L08 |
+| Ibn al-Jawzi | Ibn Jawzi | | Sunni scholar who reports the story of Shaqiq and Imam al-Kazim (L12 ¶30) | L12 |
+| Ibrahim ibn Adham | Ibrahim Adham, Abrahim Adham, Ibrahim bin Adham | | Ruler of Balkh turned renunciant, who learned from Imam al-Sadiq (d. c. 161/777; `light` p. 24) | L11 |
 | ʿibadat al-ahrar | worship of the free (people) | | The worship of the free: worshipping God because He deserves it, not from desire for reward or fear of punishment | L12 |
 | ihsan | Ehsaan, ehsan | | The highest level of faith, worshipping as if seeing God | L06 |
 | ilham | ilhamat | | Inspirations | L07 |
