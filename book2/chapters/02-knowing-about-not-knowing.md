@@ -81,40 +81,39 @@ Mulla Sadra died in 1050/1640 [@light, p. 40]. In Sheikh Bahmanpour's account, I
 :::: {.point}
 Knowledge of God is a light God gives to a purified heart, and study cannot gather it.
 
-1. Knowledge that reason cannot produce must be given; a hadith says God gives it, as a light cast into the heart.
-2. Learning is gathered from outside, whereas the light is cast in by God.
-3. "Whomever He wills" raises a question: does God pick some hearts and pass over others? The Sheikh answers from Surah al-Nur (Q 24:35).
-4. God's light is everywhere; what keeps a heart dark is that it is closed, so the fault lies in the receiver (L03 ¶20).
-5. The light is still God's to give: He guides whom He wishes and chooses those He loves (Q 24:35; L03 ¶47), so the traveller purifies the heart in hope.
-6. Purity lets the light in: wariness of God purifies the soul and connects it to the higher realm, and divine teaching follows; the impure soul receives veils (Ayatullah Khomeini, Forty Hadith p. 331; Q 2:282).
-7. Therefore: knowledge of God is a light given to a purified heart, and study cannot gather it. *(Story box: A thousand doors of knowledge, D47, shows such knowledge passing heart to heart.)*
+1. Study alone cannot give this knowledge; a hadith says it is a light God casts into the heart of whomever He wills (Forty Hadith p. 331).
+2. "Whomever He wills" means receiving the light is not a foregone conclusion; the Verse of Light says the same: God is the light of the heavens and the earth, and He guides to His light whom He wishes (Q 24:35).
+3. God chooses those He loves, so the traveller purifies the heart first, in hope (L03 ¶47); Q 2:282 names where purity begins: be wary of Allah and He will teach you.
+4. Wariness (*taqwa*) is a shield guarding the soul, grown from fear and awe of God; it purifies the soul, and divine teaching follows, since God withholds nothing (Forty Hadith pp. 198, 291, 331).
+5. As with the signs in Chapter One, the light is everywhere and a dark heart shuts it out (L03 ¶20); receiving it asks for the purity wariness brings.
+6. Therefore: knowledge of God is a light given to a purified heart, and study cannot gather it. *(Story box: A thousand doors of knowledge, D47, shows such knowledge passing heart to heart.)*
 ::::
 
-A knowledge that reason cannot produce has to be given. A hadith that Ayatullah Khomeini quotes in his *Forty Hadith* says who gives it.
+The limits of study alone are described in a hadith that Ayatullah Khomeini quotes in his *Forty Hadith*:
 
 ::: {.quote ar="[VERIFY: Arabic of the hadith from Forty Hadith p. 331]" source="Hadith"}
 Knowledge is not extensive learning. Rather, it is a light that God casts in the heart of whomever He wills. [@forty_hadith, p. 331]
 :::
 
-The hadith sets the two kinds of knowing side by side. Extensive learning is acquired knowledge, which we gather from outside, whereas the light is cast into the heart by God.
-
-The words "whomever He wills" raise a question: does God choose some hearts for His light and pass over others? Sheikh Bahmanpour answers from the opening of the Verse of Light in Surah al-Nur.
+It is clear that God's light is needed to succeed in the pursuit of this kind of knowledge. However, the phrase "whomever He wills" highlights that the receiving of this light is not a foregone conclusion. The Verse of Light in Surah al-Nur adds Qur'anic weight to this sentiment:
 
 ::: {.ayah ref="24:35" words="1-4"}
 Allah is the Light of the heavens and the earth.
 :::
 
-If God is the light of the heavens and the earth, His light fills everything, and He is with us wherever we are. "The light is everywhere," the Sheikh says, and what keeps a heart dark is that the heart is closed. Wayfaring is the work of opening it "so that the light shines in you". As with the signs in Chapter One, the fault lies in the receiver.
+::: {.ayah ref="24:35" words="36-40"}
+Allah guides to His Light whomever He wishes.
+:::
 
-None of this takes the light out of God's hands. The same verse goes on, "Allah guides to His Light whomever He wishes", and the lectures add that God chooses those He loves. Opening the heart is the traveller's part, but the light that enters it is still God's to give. The traveller therefore purifies the heart in the hope of being among those He loves.
-
-Ayatullah Khomeini explains why purity lets the light in. A soul connected to the higher realm, he writes, receives true knowledge. A soul connected to the lower realm receives "obscuring veils". The link with the higher sources "is strengthened through the purification of the soul" [@forty_hadith, p. 331], and he grounds this in a verse of Surah al-Baqarah.
+How, then, does God choose whom He guides? The Sheikh's answer is that He chooses those He loves, and that the traveller therefore purifies the heart first, "in the hope that Allah will choose you". Surah al-Baqarah names where that purity begins.
 
 ::: {.ayah ref="2:282" words="121-124"}
 Be wary of Allah and Allah will teach you.
 :::
 
-The verse puts wariness of God first and His teaching second, because wariness, in Ayatullah Khomeini's words, "purifies the soul and connects it to the invisible sacred realm". Divine teaching follows, "for there is no niggardliness in the higher realms, which are bounteous by necessity" [@forty_hadith, p. 331]. The pure heart receives the light, and the impure heart, by its own doing, stays veiled.
+"Be wary" is a translation of the verb form of *taqwa*, with *taqwa* itself tracing back, as Ayatullah Khomeini explains, to a root meaning shield, such that being wary is "a kind of defense and shielding" [@forty_hadith, p. 198], guarding the soul against whatever goes against what pleases God. Wariness grows from "the fear and awe of God Almighty" [@forty_hadith, p. 291]. That guarding is why wariness comes first and God's teaching follows. Wariness, he writes, "purifies the soul and connects it to the invisible sacred realm", and divine teaching follows, "for there is no niggardliness in the higher realms, which are bounteous by necessity" [@forty_hadith, p. 331].
+
+Chapter One found the signs everywhere and the fault in the receiver, and the same holds for the light. It surrounds us, though the guiding is God's to give. "The light is everywhere," the Sheikh says, and if a heart stays dark, it is because the heart shuts out the light. Receiving it asks for a change within us: the purity that wariness of God brings.
 
 Knowledge of God is therefore a light given to a purified heart, and study cannot gather it. A knowledge given to the heart also travels differently. The knowledge of books passes from mind to mouth, through language, whereas the knowledge of the ʿurafaʾ passes "from heart to heart", in the Sheikh's words. Receiving it directly from God is possible but difficult, so one usually has to start through someone else, and Chapter Seven describes that guide.
 
