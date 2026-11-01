@@ -115,7 +115,7 @@ There they will have whatever they wish, and with Us there is yet more.
 
 Once our will has become God's will, whatever we wish we have, and the will comes back everlasting and joined to His. The angel in charge of paradise, Tusi notes, is called Ridwan, and the name means that no one enters without contentment. Paradise is full of treasures, and in the lectures' words, "the key to it is this contentment". <!-- src: L16 ¶24-25 -->
 
-Power is given back next, and its station is reliance on God (*tawakkul*). In its plain sense, Ayatullah Khomeini explains, *tawakkul* is the "admission of one's inability and reliance on one other than oneself" [@forty_hadith, p. 204]. Reliance could be mistaken for sitting and waiting for God to act, and the Sheikh rules that out: "whatever you do you know that this is not you. This is Him." The power we use is God's, and Surah al-Talaq promises that "whoever puts his trust in Allah, He will suffice him" (Q 65:3). Chapter Twelve met this truth at the first degree of annihilation, annihilation in action. <!-- src: L16 ¶27-28 -->
+Power is given back next, and its station is reliance on God (*tawakkul*). In its plain sense, Ayatullah Khomeini explains, *tawakkul* is the "admission of one's inability and reliance on one other than oneself" [@forty_hadith, p. 204]. Reliance could be mistaken for sitting and waiting for God to act, and the Sheikh rules that out: "whatever you do you know that this is not you. This is Him." The power we use is God's, and Surah al-Talaq promises that "whoever puts his trust in Allah, He will suffice him" (Q 65:3). Chapter Twelve met this truth at the first degree of annihilation, which is annihilation in action. <!-- src: L16 ¶27-28 -->
 
 Knowledge goes back third, and its station is submission (*taslim*). The traveller knows that he knows nothing of himself. God alone knows, and whatever knowledge the traveller has is His gift, so he hands his judgement back to the One who knows. In Surah al-Baqarah this is the submission of the Prophet Ibrahim (as). <!-- src: L16 ¶28-30 -->
 
@@ -125,7 +125,9 @@ When his Lord said to him, ‘Submit,’ he said, ‘I submit to the Lord of all
 
 Existence goes back last, and its station is annihilation (*fanaʾ*). There the traveller sees that existence belongs to God alone, and Chapter Twelve followed him to that station and back. <!-- src: L16 ¶30 -->
 
-Nothing of the traveller seems left once all four are given back, yet Tusi has God return them new. Contentment is made complete. Power returns without limit to a soul now "drowned" in God's power and "completely joined with that power". Knowledge comes from nothing in the soul itself and "will shine in you", and existence becomes everlasting on the day Surah Qaf calls "the day of immortality" (Q 50:34). That, for Tusi, is paradise. Ayatullah Khomeini sets a passage of Tusi's beside this, in which the gnostic sees "all powers as vanishing in Divine power and all sciences as drowned in Divine knowledge and all wills as vanishing in His will", but only after Shaykh Bahaʾi's warning that such words never mean God dwells in a servant or becomes one with him [@forty_hadith, pp. 516–517]. <!-- src: L16 ¶31-32 -->
+Nothing of the traveller seems left once all four are given back, yet Tusi has God return them new. Contentment is made complete. Power returns without limit to a soul now "drowned" in God's power and "completely joined with that power". Knowledge comes from nothing in the soul itself and "will shine in you", and existence becomes everlasting on the day Surah Qaf calls "the day of immortality" (Q 50:34). That, for Tusi, is paradise. <!-- src: L16 ¶31-32 -->
+
+Ayatullah Khomeini sets a passage of Tusi's beside this, in which the gnostic sees "all powers as vanishing in Divine power and all sciences as drowned in Divine knowledge and all wills as vanishing in His will", but only after Shaykh Bahaʾi's warning that such words never mean God dwells in a servant or becomes one with him [@forty_hadith, pp. 516–517].
 
 ## The return refused
 
@@ -165,7 +167,9 @@ All four gifts return the same way, each as the mirror image of the station it w
 then he will neither live in it, nor die.
 :::
 
-Hell might then look like revenge, and one way the lecture asks us to think of hell answers that reading: "It is not a punishment which is brought to you by God. God doesn't want to revenge." Everything is God's creation, and only mercy comes from Him. Such a soul has made itself unable to use God's will, power, and knowledge. It brings that state back with it, and separation from Him follows. Yet those who will against the will of God all the time, the lecture goes on, "will deserve the wrath of God". On this reading the wrath is what such a soul has made itself fit for, and not a change in God's mercy. <!-- src: L16 ¶43, ¶47-48 -->
+Hell might then look like revenge, and one way the lecture asks us to think of hell answers that reading: "It is not a punishment which is brought to you by God. God doesn't want to revenge." Everything is God's creation, and only mercy comes from Him. Such a soul has made itself unable to use God's will, power, and knowledge. It brings that state back with it, and separation from Him follows.
+
+Yet those who will against the will of God all the time, the lecture goes on, "will deserve the wrath of God". On this reading the wrath is what such a soul has made itself fit for, and not a change in God's mercy. <!-- src: L16 ¶43, ¶47-48 -->
 
 Hell as the soul's own separation still leaves the fire and the boiling water, and of these the lectures say "of course it's all true". They recall the verse of Surah al-Nisaʾ in which those who consume the property of orphans ingest fire into their bellies (Q 4:10). One thing has parallel forms in different worlds, as in a dream: "in dreams you see something while in reality it is something else. Both of them are right." <!-- src: L16 ¶49, ¶52, ¶54 -->
 

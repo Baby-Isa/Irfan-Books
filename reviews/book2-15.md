@@ -64,3 +64,52 @@ Method note: no shell was available, so `build/quran.py` was not run. Q 11:119 w
 ## Verdict
 
 **PASS WITH FIXES.** Quotations, citations and Qur'an text are accurate. One High item (§4: the Amuli ordering is the book's own reading and the section's conclusion outruns its evidence) and eleven Medium items should be fixed before the PDF goes to the user.
+
+## Fixes applied (2026-11-01)
+
+Fact-check and chain-audit pass on `book2/chapters/15-sufis-and-shia.md`. Profile PASS (longest paragraph 110); `build.py pdf book2 "15*"` builds; no markers.
+
+**High.** §4 now claims only what the sources allow: a teacher, yes; a chain of authority beside the Imam, no.
+- Amuli p. 192 is quoted in full, with "or": "accept the jurisdiction, authority, instruction and guidance of the Prophet, the Imam or the shaykh without any further argument". The invented ordering ("in the order Amuli's own words give them") is deleted.
+- The §4 opening says obedience is where the roads part "though only in part": Shia masters followed shaykhs and gave them real standing, but kept no chain of authority beside the Imams. The reason rests on Ch 7, L14 ¶6, ¶8–10 (the Imamate leaves no room for an order's chain; each Imam appointed the next).
+- Amuli (robe, p. 192), Tabatabaʾi (bayʿa and pledges, `kernel` pp. 60, 64) and Ayatullah Khomeini ("that of a murid with his murshid", `forty_hadith` p. 8) are set side by side, with one line: "Each of the three gives a shaykh real standing, and in Sayyid Haydar's words that standing includes authority" (D20).
+- "Under the Imam" now rests on `kernel` p. 80 (the general teacher's company can be left; the special teachers', "the Apostle of Allah and his true successors", never) and p. 81, with Ch 7's "under the Imam, never in his place".
+- The point note is rewritten to match ("followed shaykhs and gave them real standing, but no chain of authority beside the Imam").
+
+**Medium.**
+- Tawassul join: marked "As this book reads it", cited to `kernel` p. 80, and the word "chain" is dropped ("the names we call on in Duʿa Tawassul are those of the special teachers").
+- Suhrawardi's "three different paths of transmission" is attributed to the introduction to *Inner Secrets of the Path*.
+- Surah Hud, "had He wished" and "Mercy, then, is the reason God created us": resolved by the chain-audit cut of the grace block (¶23–25). The 11:119 verse block goes with it. Only the step that does work for "no single method" stays: grace comes through each channel and, once it is clear, takes the traveller's shape (L14 ¶67–69, "God willing" restored).
+- §1: the Sufis' own account is added ("say they have discovered methods that ease the journey and claim divine sanction for them, as monasticism once had", `light` p. 6).
+- Stone-gazing: Akhund's line "did not consider thought control practical without remembrance" (`kernel` pp. 86–87). The Shariʿa line is given as the lectures' addition, and one sentence says the objection concerns this one exercise rather than the Naqshbandiyya's fidelity to the law.
+- Amuli p. 14 is in its own frame: what he reached he credits to God rather than to the forms, and he calls himself a *majdhub* (added to GLOSSARY and the words strip). "Served the road" is cut.
+- Succession: §1 "much as rival claimants arose after each of the Imams"; §4 "Shia hold that each Imam appointed the one after him" (L14 ¶10). "Clear from the Prophet's own time" (¶9) is dropped.
+- Honorary licences are now the Sheikh's hearsay: "The Sheikh knows of people who hold licences… given, he says, as honorary compliments".
+- Every mention after the first is "Sayyid Haydar Amuli" or "Sayyid Haydar".
+- Last paragraph: "Others have walked this road before us" is cut. The roots sentence is cited `[@light, pp. 4–5, 22]`, worded as p. 22 gives it ("the teachings of Islam and the lives of the Prophet and the Imams").
+
+**Low.**
+- Brotherhood/order are now Western comparisons, "order" a monastic term.
+- "Popular among Shia mystics too".
+- "A person can become an ʿarif" either way (conditional).
+- "An order's head traced his own descent to Abu Bakr".
+- Who's Who: "kept its path" and the closing gloss are cut.
+- Tawassul is "reported from the Imams".
+- The misleading `src` comment on the Khomeini paragraph is removed.
+- Citations are added for Khomeini (`forty_hadith` p. 8) and Tabatabaʾi's teachers (`light` p. 105).
+- The §2 "Shia idea" is attributed to the Sheikh ("mainly a Shia idea", ¶8).
+- Both near-aphorisms are cut.
+- Maʿruf is "said to have become a Muslim" (`light` p. 25 hedge).
+- Silent typographic normalisations, now listed: `light` p. 25 spacing (now paraphrased) and the straight apostrophes in "('a)" on `kernel` pp. 81 and 87.
+
+**Chain audit (26% idle).**
+- ¶15 (Tabatabaʾi's qutb) is cut, and *qutb* leaves the words strip.
+- ¶12 (Maʿruf history, golden chain, Junayd) is folded into one hedged sentence in the Suhrawardi paragraph.
+- ¶23–25 (Surah Hud, mercy, blockage) are cut.
+- Each section's conclusion is stated once (§1 two short sentences; §2 one; §3 one plus hand-off).
+- ¶38 is now the single chapter conclusion.
+- ¶39's unanswered question is replaced by a hand-off clause: the Imam's company "is needed even after the traveller arrives" (`kernel` p. 81), "and so it stays with those who have reached the end of the road" (Ch 16's opener).
+
+**Knock-on, not edited here:**
+- `docs/ladders/15.md` and `docs/briefs/15-case.md` still list the 11:119 block, *qutb* and the golden chain (premises 7 and 10).
+- `docs/ARGUMENT.md` 15.3 still holds.

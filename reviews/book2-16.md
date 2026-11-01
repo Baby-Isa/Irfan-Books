@@ -101,3 +101,56 @@ Method note: I could not run `build/quran.py` (no shell). I compared every verse
 - the Kernel archangel attribution;
 - the robe tie;
 - the open Nahj Arabic [VERIFY].
+
+## Fixes applied (2026-11-01)
+
+**High**
+- §3 common ground. The point, step 6 and the section's prose now read "the fullest form of the return belongs first to the Prophet ﷺ and the Imams (as)". The Sheikh's "some very high caliber mystics" (L09 ¶87) and Tabatabaʾi's "Perhaps it is exclusive to the prophets and the awliya' and whoever God wishes" (`kernel` p. 20) are quoted as they stand. The old self-contradicting closer is gone, and the common ground is stated once, after Q 33:21. Brief, ladder 16 and ARGUMENT follow.
+
+**Medium**
+- Karbala. It is marked as the book's reading where no source says it: the opening ("in this book's reading Imam al-Husayn (as) walked it as far as Karbala"), the §4 opener ("what it draws from ʿArafah and Karbala is this book's own reflection, beyond what the lectures or Ayatullah Khomeini say"), the close, and the §4 point.
+- §2/§3 consistency. §2 now gives the fourth journey "through what is shown to the Prophet ﷺ" (L09 ¶87–88). §3 adds "and, as the Sheikh goes on, to the Imams (as) who succeed him" (¶89).
+- L09 ¶89. "Reached even matters the shariʿa and the Book do not mention" is cut. What remains is the clear part, "an inner knowledge in every instance", and the quote is restored in full: "of course, they follow the Sharia or the Prophet".
+- L09 ¶91. "Sees God in them" is cut. The text now says "because he sees everyone as God's creation and connected to God".
+- Archangel saying. The subject is now "those who reach this rank", as the Kernel gives it ("Their outward appearance…"), and it is no longer called the Prophet's saying.
+- Opening identifications. The pairing is marked as the book's ("This book sets Imam ʿAli's words beside the Munajat's line"), and the people are "much like these". Mutahhari "quotes the saying shortly before he introduces the four journeys" (same page, p. 49).
+- The 30-years gnostic is now described as `light` pp. 63–64 describe him: "plunged in the vision of God", in the state the gnostics call "abiding in Allah". Setting him beside the Sheikh's remark is marked as the book's reading.
+- Robe box. The last sentence now reads "In this book's reading, the robe also kept what lay between the Imam and God out of sight." "As one of them" is gone, and the box's lead-in is marked as the book's reading.
+- Ch 5 callback. The three worlds of L09 ¶83 are named (the world of the names, the world of angels and spirits, the material world). Ch 5 is cited only for "the unseen worlds lying in depth rather than distance".
+- wilaya. The Words box gives "friendship with God, His closeness and authority; on the road, His guardianship of the traveller". After the Kernel quote: "Here *wilaya* is the station itself rather than the guardianship that carries the traveller along the road." GLOSSARY names both senses.
+- Nahj 3.133 Arabic. The extract's p. 737 line is clearly this saying (it ends أولئك خلفاء الله في أرضه والدعاة إلى دينه. آه آه شوقًا إلى رؤيتهم). It was copied by a script that strips the bidi controls, rejoins the split diacritics, rejoins بالمحلّ (broken at the line end, with the shadda put on the final lam) and rejoins رؤيتهم (split after the non-joining ؤ). The script was not retyped. [VERIFY] is removed.
+- Weakest link (close). The conclusion is now conditional on the book's reading, and it ends on the Mafatih's ʿAshura instruction.
+
+**Low (clear fixes)**
+- The epigraph is now the §111 English ("So You speak to him secretly and he works for You openly."), singular like the Arabic, with the `light` cite dropped. The prose follows: "God speaks to such a person in secret, and he works for Him in the open."
+- The Part Five divider uses the duas extract's §128–131 English, which is singular like the Arabic. It is cited `[@duas_munajat_shabaniyah, §128–131]` and renders as a footnote. ARGUMENT's divider line is synced. The divider body is left as found ("willingly and in this life").
+- The Q 18:110 block now covers words 1–11 ("…It has been revealed to me that your God is the One God.’"), with the quote closed.
+- The Nahj English is back to the source's lower case ("his earth", "his religion").
+- "Ibrahim (Abraham in this translation)".
+- ʿArafah: "on the night of ʿArafah", and "the requests he made there". "Standing in front of" is gone, and the scene's reading is marked as the book's.
+- Khomeini is now "counts him with the prophets who established justice and rose against the wrongdoers", without "for them". The sword line is now given "of the Imams, who all recited the Munajat Shaʿbaniyyah according to the reports he cites" (p. 138).
+- The Mafatih p. 401 sentence reads "martyred at Karbala on the day of ʿAshura", without "with his companions".
+- Smaller fixes:
+  - awliyaʾ is now tied to Mutahhari with `[@light, p. 49]`;
+  - "outer veils" src now adds L07 ¶59;
+  - the Kumayl Thursday line is cited `[@mafatih, p. 129]`;
+  - the Q 1:1 line is marked "To take an everyday example";
+  - the Ch 10 "dedication is complete" inference is cut;
+  - "a harder journey" is kept (L15 ¶59).
+- Section closers. §1, §2 and §3 no longer end on summary lines (see the chain audit below). The hand-off is now a statement: "The next chapter turns from the friends of God to the return that every soul makes to Him."
+- Length is about 2,860 words with boxes and quotations, and 2,203 words of body prose by the profiler.
+
+**Chain audit (`reviews/voice/16-chain-answers.json`, 23% idle)**
+- ¶10 (§1 restating closer) is cut. Its hinge ("still faces God rather than the people he left behind") now opens §2. §1 step 7 is merged into step 6.
+- ¶17 (robe lead-in, aside) is moved to §3. It now follows Q 18:110 and the Kernel's outward/inward line, where it illustrates hidden states under an ordinary outward appearance. §2 step 6 is removed, and §3 step 4 carries the story box.
+- ¶18 and ¶25 (restating closers) are cut. §3's conclusion is stated once.
+- ¶28 (restate) is folded into one sentence of reading.
+- ¶30 (close) is trimmed to the chapter's conclusion once plus the ʿAshura instruction.
+- ¶31 (aside question) is now a one-sentence hand-off inside the closing paragraph.
+- The chapter went from 31 to 28 paragraphs. A chain re-audit has not been run.
+
+**Checks**
+- `voice.py profile`: PASS. The longest paragraph is 113 words (marked "long", under the 115 gate). Read-twice is 0%. The Sheikh is named 3.6 times per 1,000 words.
+- `punct`: the remaining flags were reviewed and kept, because they read well aloud. They are two mirrored semicolons, "the Imams (as) who succeed him", a false Oxford-comma flag on two clauses, and the ʿArafah reading sentence.
+- `build.py check`: no open markers in Ch 16 or the divider.
+- `build.py pdf book2 "16*"`: builds.
