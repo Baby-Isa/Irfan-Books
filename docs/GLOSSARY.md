@@ -30,9 +30,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | al-Ghazali | Abu Hamid Al-Ghazali, Muhammad Al Ghazali | | Abu Hamid al-Ghazali (d. 505/1111), head of the Nizamiyya in Baghdad, author of *Ihyaʾ ʿulum al-din* (`light` p. 31) | B2 Ch15 |
 | Shihab al-Din Suhrawardi | Shahabuddin Omar Suhrawardi | | Author of *ʿAwarif al-maʿarif* and true founder of the Suhrawardiyya; not the Illuminationist philosopher of the same name (`light` p. 34; L14 ¶56) | B2 Ch15 |
 | Bahaʾ al-Din Naqshband | Baha' al-Din Muhammad b. Muhammad Naqshband | | Founder of the Naqshbandiyya, buried in Bukhara (L14 ¶62–64) | B2 Ch15 |
-| Maʿruf al-Karkhi | Ma'ruf Karkhi | | Early ʿarif said to have become Muslim at the hands of Imam al-Rida (as); the link of the "golden chain" (`light` p. 25) | B2 Ch15 |
 | Junayd of Baghdad | Junayd al-Baghdadi, Junayd Baghdadi | | The master of the sober way, through whom most chains of the robe pass (`inner_secrets` p. 13) | B2 Ch12 |
-| Hasan al-Basri | Hasan Basri | | Early ascetic of Basra, named in the Sufi chains after Imam ʿAli (as) (`light` p. 5; `inner_secrets` p. 13) | B2 Ch15 |
 | Khwaja ʿAbdullah Ansari | Khwaja 'Abdullah Ansari | | Hanbali Sufi (d. 482/1089), author of *Manazil al-saʾirin* (`forty_hadith` p. 8) | B2 Ch15 |
 | Nur al-Din Tihrani | | | The Sufi shaykh with whom Sayyid Haydar Amuli made a contract and from whom he received the patched robe (`inner_secrets` p. 8) | B2 Ch15 |
 | Manazil al-saʾirin | Manazil al-Sa'irin | | *The Stages of the Travellers*, Ansari's manual of the road, read by Amuli and taught by Ayatullah Khomeini (`inner_secrets` p. 8; `forty_hadith` p. 8) | B2 Ch15 |
