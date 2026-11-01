@@ -42,6 +42,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | dhawq | tasty | | Tasting of reality | L09 |
 | dhikr | zikr, zikrullah, zikrul kaseer, zikran kaseera, dhikr kathir | | Remembrance of God, especially abundant remembrance | L04 |
 | dhikr khafi | zikrul khatib | | Hidden remembrance of God | L14 |
+| Dhu'l-Qaʿdah | Zilqadah, zilqadah | | The eleventh month of the Islamic calendar; a Sunday of it is the best time for the prayer of repentance (L08 ¶29–30; Mafatih p. 356) | L08 |
 | diyafat Allah | ziyafatullah | | God's hospitality | L05 |
 | duʿa | dua, du'a | | Supplication; the general word for any request addressed to God | L01 |
 | Duʿa Abu Hamza al-Thumali | Abu Hamza | | Imam Zayn al-ʿAbidin's supplication for the nights of Ramadan, narrated by Abu Hamza al-Thumali (Mafatih p. 282) | B2 Ch3 |
@@ -104,6 +105,8 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | khawf | | | Fear (of God); with renunciation, where the early seekers began, before love | L11 |
 | khayal | khayal | | Imagination | L05 |
 | khidma | | | Service to God; in salah, the depth of the law (L06 ¶24) | B2 Ch6 |
+| Khwaja Nasir al-Din al-Tusi | Haji Nasiruddin Tusi, Qazi Nasiruddin, Khwajah Nasir | | Scholar (d. 672/1273, `light` p. 36), commentator on Ibn Sina's *Isharat*; his reading of the return in L16 | L16 |
+| Ridwan | rizwan, rizwanu | | In the tradition, the angel in charge of paradise; from the root of *rida* (L16 ¶25) | L16 |
 | Khidr | | | The servant of God whom Musa follows in Surah al-Kahf; for the ʿurafaʾ, the master who accompanies a beginner (`forty_hadith` p. 508) | B2 Ch7 |
 | kibriyaʾ | kibriya, Kibriya | | Grandeur of God | L01 |
 | kuffar | kuffar, kaafir | | Unbelievers | L02 |
@@ -186,6 +189,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | siddiqin | siddiqeen | | The truthful; second of the four categories (Q 4:69) | L01 |
 | shath | Shath, sathiyat, shartiyaat, shatahayyat, shathiyat, shatahat | | Ecstatic or theopathic utterances | L07 |
 | shaykh | Shaikh, sheikh | | Spiritual instructor | L14 |
+| Shaykh Bahaʾi | Baha'i | | Scholar and gnostic whose warning against incarnation and union Ayatullah Khomeini quotes (`forty_hadith` pp. 516–517) | B2 Ch17 |
 | silsila | silsilah, silsilatul tariqas | | Chain of masters or lineage back to the Prophet | L06 |
 | sirr | Al-Serr | | The secret layer of the soul | L05 |
 | Sufi | sufiyah, suf | | Mystic of the Sufi tradition; Sufism, from wool | L02 |
@@ -193,6 +197,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | suluk | sulook, saluk, sulook | | Wayfaring; the path of purification | L03 |
 | Surah Yasin | Yaseen | | The thirty-sixth surah of the Qur'an, recited for the dying and the dead | B2 Ch5 |
 | tabattul | tabattil, batul | | Cutting oneself off towards God | L10 |
+| tafsir | tafseer | | Commentary on the plain meaning of the Qur'an, set beside taʾwil (Maliki Tabrizi, `journey` p. 54) | B2 Ch17 |
 | tahajjud | tahajjud | | Waking before dawn to worship | L10 |
 | tahliya | tahliyyah, tahliyah | | Adorning the soul with divine gifts | L07 |
 | tajliya | tajliyyah, Tajliyah | | Furbishing the body and lower soul through the law | L07 |
@@ -200,6 +205,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | taqwa | taqwa | | God-consciousness | L02 |
 | tariqa | tareeqa, tarifa | | The path; also a Sufi order | L06 |
 | taslim | taslim | | Submission | L16 |
+| Tasbih al-Zahraʾ | tasbih of Fatema Zahra | | The remembrance said after each obligatory prayer: Allahu akbar 34 times, al-hamdu lillah 33, subhan Allah 33, in the order the Mafatih calls "the most famous" (pp. 802–803); printed in Ch 10 as "the Tasbih of al-Zahraʾ" | L10 |
 | tawba | tawbah, tauba, Tauba, tawba tun nasooh | | Repentance; turning back to God, the first step of the road | L03 |
 | tawhid | tawheed | | The oneness of God | L02 |
 | tawakkul | tawaqqul, Tawaqqul | | Reliance on God | L09 |
