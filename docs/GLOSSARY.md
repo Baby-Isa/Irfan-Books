@@ -7,6 +7,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | abdal | Abdaal, abdaal | | A class of saints in the hierarchy; God provides for the earth through them | L12 |
 | ʿadhab | azaab | | Punishment | L04 |
 | ahwal | Ahwaal | | Mystical states that come and go on the path | L12 |
+| al-asfar al-arbaʿa | al asfar al arbaat al ilahiyya, asfaar e arbaat | | The four journeys: from creation to God; in God, by God; from God back to creation, by God; in creation, by God (L09 ¶70–72; Mutahhari, `light` p. 49) | L09 |
 | al-Kafi | Usul al-Kafi | | The hadith collection of al-Kulayni, the first of the four Shia books of hadith | B2 Ch3 |
 | akhfa | | | "The most hidden": the inmost level of the soul, beyond khafi (Mutahhari, `light` p. 58) | B2 Ch5 |
 | akhlaq | | | Ethics; the rules of character that go beyond the legal minimum (Shomali) | B2 Ch1 |
