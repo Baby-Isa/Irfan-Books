@@ -168,6 +168,7 @@ _Single source of truth for term spelling. Add a term here before using it in a 
 | maʿad | maad | | Return, resurrection | L16 |
 | mahiyya | mahiyyat | | Quiddity or essence | L13 |
 | mahw | mahv | | Obliteration; annihilation in action | L09 |
+| majdhub | | | One drawn to God by divine attraction rather than by his own travelling; Sayyid Haydar Amuli's word for himself (`inner_secrets` p. 14) | B2 Ch15 |
 | majlis (pl. majalis) | majlis | | A religious gathering, as for the remembrance of the Ahl al-Bayt | B2 Ch7 |
 | Maʿruf al-Karkhi | Maruf al-Karkhi | | Mystic of love who became a Muslim at the hands of Imam al-Rida (`light` p. 25) | L12 |
 | Malik ibn Anas | | | The early jurist of Medina, founder of the Maliki school, to whom Imam al-Sadiq (as) first sent ʿUnwan al-Basri | B2 Ch7 |

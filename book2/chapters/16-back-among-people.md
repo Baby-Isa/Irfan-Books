@@ -153,32 +153,30 @@ Following the Prophet ﷺ in that return asks something of us from the start. Th
 ## From ʿArafah to Karbala
 
 :::: {.point}
-Imam al-Husayn (as) shows the return in one life: before God among his people at ʿArafah, and with them and for them at Karbala.
+Imam al-Husayn (as) shows the return in one life: before God among his people at ʿArafah and, in this book's reflection, with them and for them at Karbala.
 
-1. Ayatullah Khomeini points to a life we know: the prophets prayed and established justice, and Imam al-Husayn (as) did the same; "see his Supplication of the Day of Arafah".
-2. At ʿArafah he stood among his household, and before God as a beggar.
-3. There he asked to fear God as if he saw Him.
-4. The book's reflection: the Imam who prayed among his household at ʿArafah was martyred with his companions at Karbala, with his people to the last and for them.
-5. Therefore: the completed journey comes back to people while staying with God, as the Prophet ﷺ and the Imams (as) show, as far as Karbala.
+1. Ayatullah Khomeini points to a life we know: the prophets prayed and established justice, and Imam al-Husayn (as) did the same; "see his Supplication of the Day of Arafah". What the section draws from ʿArafah and Karbala is the book's reflection.
+2. On the night of ʿArafah he went out accompanied by his household, and stood before God as a beggar.
+3. There he asked to fear God as if he saw Him; the book reads the scene as both sides of the return.
+4. The book's reflection: the Imam who prayed at ʿArafah was martyred at Karbala on ʿAshura, with his people to the last; Khomeini counts him with the prophets who rose against the wrongdoers.
+5. Therefore: the completed journey comes back to people while staying with God, as the Prophet ﷺ and the Imams (as) show and, in the book's reading, as far as Karbala.
 
-Close: "The friends of God come back to people. Where does every soul go back to?" *(Try this box.)*
+Close: the ʿAshura instruction, then a one-sentence hand-off to every soul's return (Ch 17). *(Try this box.)*
 ::::
 
-What the whole way looks like can be seen in a life we know, and Ayatullah Khomeini points to one in a passage on the duʿas the Imams (as) left us. The prophets prayed, he writes, and it was they who established justice in the world and rose against the wrongdoers. "Imam Husayn also did the same thing. Just see his Supplication of the Day of Arafah and ponder over it" [@light, p. 138]. This section does as he asks. What it adds about Karbala is the book's own reflection rather than part of the lectures.
+What the whole way looks like can be seen in a life we know, and Ayatullah Khomeini points to one in a passage on the duʿas the Imams (as) left us. The prophets prayed, he writes, and it was they who established justice in the world and rose against the wrongdoers. "Imam Husayn also did the same thing. Just see his Supplication of the Day of Arafah and ponder over it" [@light, p. 138]. This section does as he asks, and what it draws from ʿArafah and Karbala is this book's own reflection, beyond what the lectures or Ayatullah Khomeini say.
 
-The Mafatih records how Imam al-Husayn (as), whom it calls the Chief of Martyrs, began that supplication. Bishr and Bashir, the sons of Ghalib al-Asadi, were with him at ʿArafah. They recall that he left his tent "with submission and reverence" and walked slowly, "accompanied by a group of his household, sons, and servants". He stopped beside Mount ʿArafat and turned his face towards the Kaʿba. There he raised his hands to his face "just like a poor man begging food" [@mafatih, p. 374]. Among the requests he made that day is one about his own heart:
+The Mafatih records how Imam al-Husayn (as), whom it calls the Chief of Martyrs, began that supplication. Bishr and Bashir, the sons of Ghalib al-Asadi, were with him on the night of ʿArafah. They recall that he left his tent "with submission and reverence" and walked slowly, "accompanied by a group of his household, sons, and servants". He stopped beside Mount ʿArafat and turned his face towards the Kaʿba. There he raised his hands to his face "just like a poor man begging food" [@mafatih, p. 374]. Among the requests he made there is one about his own heart:
 
 ::: {.quote ar="اَللَّهُمَّ ٱجْعَلْنِي أَخْشَاكَ كَأَنِّي أَرَاكَ" source="Duʿa ʿArafah"}
 O Allah, (please) make me fear You as if I can see You. [@duas_dua_arafah_imam_husain, §182]
 :::
 
-Standing in front of his household, Imam al-Husayn (as) asked to fear God as if he could see Him. His heart was turned to God while his family and servants stood around him, and in that one moment he was among his people and before God as a beggar.
+This book reads the scene as both sides of the return in one moment: the Imam asked to fear God as if he could see Him, before God as a beggar and with his household around him.
 
-The Imam who prayed this among his household at ʿArafah was martyred with his companions at Karbala on the day of ʿAshura [@mafatih, p. 401]. He stayed with his people to the last. On Ayatullah Khomeini's reading he also stood for them, as the prophets did when they established justice and rose against the wrongdoers. Recited properly, Ayatullah Khomeini writes, such prayers lessen a person's attachment to himself, and he "becomes more active and ever ready to render service to his fellow human beings". Of the Munajat Shaʿbaniyyah he adds, "Those who recited the Munajat Sha'biniya, wielded the sword also" [@light, p. 138].
+The Imam who prayed this at ʿArafah was martyred at Karbala on the day of ʿAshura [@mafatih, p. 401], and he stayed with his people to the last. Ayatullah Khomeini counts him with the prophets who established justice and rose against the wrongdoers. Recited properly, he writes, such prayers lessen a person's attachment to himself, and he "becomes more active and ever ready to render service to his fellow human beings". He adds of the Imams, who all recited the Munajat Shaʿbaniyyah according to the reports he cites, "Those who recited the Munajat Sha'biniya, wielded the sword also" [@light, p. 138].
 
-The traveller who completes the journey therefore comes back to people while staying with God. Losing the self ends only the first of four journeys, and the last two return the traveller to creation to guide it. The Prophet ﷺ and the Imams (as) walked them to the end, which for Imam al-Husayn (as) lay at Karbala. Every year on ʿAshura, the Mafatih asks those of us who mourn him to "express sympathy to each other" [@mafatih, p. 401].
-
-The friends of God come back to people. Where does every soul go back to?
+The completed journey, then, comes back to people while staying with God, and in this book's reading it took Imam al-Husayn (as) as far as Karbala. Every year on ʿAshura, the Mafatih asks those of us who mourn him to "express sympathy to each other" [@mafatih, p. 401]. The next chapter turns from the friends of God to the return that every soul makes to Him.
 
 ::: {.box-try title="Try this"}
 In your duʿa this week, pray first for other believers, by name, and then for yourself. Mirza Jawad Maliki Tabrizi writes that "it would be more desirable if we prefer other believers than our own selves, that is firstly we pray for them and then should mention our own wants and desires" [@journey, p. 83]. Such prayer "must be done with sincerity", he adds, from the heart and "not for the sake of formalities by the tip of tongue" [@journey, p. 83]. Choose two or three people you know, name them first, and ask for them the things you would ask for yourself.
