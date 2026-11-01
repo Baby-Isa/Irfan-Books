@@ -336,3 +336,6 @@ The variation analysis (`reviews/ai/REPORT-2026-10-19.md` round 6) proposed five
 
 ## 2026-10-31: D54. "Ayatullah Khomeini" (user)
 Book 2 names him "Ayatullah Khomeini" throughout (was "Imam Khomeini"), spelled with the book's "Ayatullah" as for Mutahhari and Shahabadi. Quotations and citations are unchanged.
+
+## 2026-11-01: D55. The reader's chain of questions; the rest of the book written autonomously (user)
+The user rewrote Ch 2's "Light in the heart" through several rounds in chat; what it taught is TONE 47 and LESSON 37. He then asked for the remaining chapters (Ch 13–17 and the epilogue) to be written without him, by the same method: logic at chapter, section and paragraph level; Fable to check, challenge and improve it; prose; a Fable tone check against the prologue and Ch 1–2; the usual fact-check, chain audit and voice gate. Ready for review as text; no PDF needed. He gave full permission to use judgement.

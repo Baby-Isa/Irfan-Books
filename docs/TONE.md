@@ -299,4 +299,16 @@ From the user's choices on sixteen before/after edits (`reviews/ai/examples-2026
 - **Name the source as the actor** where an abstract subject sits: "That rank is open to…" → "Surah al-Nisaʾ opens that rank to…".
 - **Quote the Sheikh only over a high bar**: a short, clean line that carries what a paraphrase loses (his voice, or the reader's own attitude), in a paragraph already about him: "as the Sheikh puts it, accept them out of obedience: "you say there are signs, so there are signs."" Never to replace a good sentence of ours.
 - **Let rhythm follow the thought**: long sentences may run two or three together where the thought runs on; no strict short/long alternation; open fewer sentences with The/This/That/It.
-- **Keep:** a short sentence that lands a point; a colon reveal the paragraph builds to; a "This is…" line that sums up well. **Never** merge sentences only to lengthen the rhythm, never create a weak final comma when joining, never replace one word with a list of particulars, no "Taken together" signposts, no reused images.
+- **Keep:** a short sentence that lands a point; a colon reveal the paragraph builds to; a "This is…" line that sums up well.
+
+### 47. The reader's chain of questions (user, 2026-11-01; D55)
+From the user's rewrite of Ch 2's "Light in the heart" (`book2/chapters/02-knowing-about-not-knowing.md`), worked through in chat:
+- **Build each section as the reader's own chain of questions.** Start from what the reader wants ("we want this knowledge"), raise the worry a reader would really have ("whomever He wills": what if God does not choose me?), and let each paragraph answer the question the last one left open ("how, then, does God choose?" → "be wary of Allah" → why wariness → so the heart must be purified).
+- **Steps first, sources second, prose third.** Write the chain as plain bullets, check every link against the transcripts and held books, then write the prose on the bullets. A sentence that does not follow from the verse before it breaks the chain.
+- **Every verse or quotation does work.** It raises the question or answers it, and the next sentence follows from what it actually says. Introduce it with a colon when it completes the sentence ("adds Qur'anic weight to this sentiment:").
+- **Explain the pivotal term from a held source** when the argument turns on it: "'Be wary' is the verb form of *taqwa*, with *taqwa* itself tracing back to a root meaning shield…" (Forty Hadith p. 198).
+- **Keep both sides of the theology:** our part (purify, be wary) and God's part (He gives, He chooses), and the lecturer's "in the hope that", so purity opens the way without buying the result.
+- **Close loops with earlier chapters** where the logic repeats ("Chapter One found the signs are everywhere but not picked up by our faulty receivers. Similarly, the light…").
+- **Plain logical connectives are welcome** ("However", "Therefore", "Similarly"): softening scaffolding means cutting announcements and list labels, never the words that show how one step leads to the next.
+- **Imagery that echoes the point:** choose the image from the thing being described: shutters for a heart that blocks light; "abrased" for rust, which abrasion removes.
+- **Exact attribution:** a hadith Ayatullah Khomeini *quotes*, not his excerpt; name the speaker before "he writes". **Never** merge sentences only to lengthen the rhythm, never create a weak final comma when joining, never replace one word with a list of particulars, no "Taken together" signposts, no reused images.
