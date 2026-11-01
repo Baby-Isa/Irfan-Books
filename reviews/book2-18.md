@@ -68,3 +68,33 @@ Body length is about 2,400 words (limit about 3,600). No jokes, no rhetorical-qu
 ## Verdict
 
 **PASS WITH FIXES.** One High (the Ch 17 hand-off that Ch 17 does not contain) and eight Medium fixes: the "level one" attribution, Ch 6's "start of its time", the "most of the steps" count, the uncited Ramadan claim, the repeated repentance prayer, the added "title is God's to give" theology, the open `[VERIFY]`, and the young-man attribution. No invented scripture, no unsupported quotation, no missing bibliography key, and no change to the lecturer's stated position beyond the §4 qualifier.
+
+## Fixes applied (2026-11-01)
+
+**High**
+- Ch 17 hand-off: the "as Chapter Seventeen asked in closing" clause is cut. Ch 17 ends on its Try this (a few verses read slowly each day this week), so the opening now points to that step: "down to Chapter Seventeen's few verses read slowly each day".
+
+**Medium**
+- Bread story: only L08 ¶83's clear line is quoted ("he's in level 1000 we just want to start level one"); "instruction for level one" dropped. The Nahj letter (packet ¶7, a restatement) is folded into the same paragraph; the Maliki Tabrizi "as much as possible" tag, which nothing used, is cut.
+- Ch 6 step: "in the most meritorious part of its time, with that time kept free" in the prose and the table, matching Ch 6 and `forty_hadith` p. 375.
+- Count: "Five of the steps belong to the prayer".
+- Ramadan: cited `[@journey, pp. 45–46]` as the month of the Qur'an whose etiquette of recital Ch 17's step follows; "every day" removed.
+- Repentance: described as Ch 9 does (a continuous process, renewed whenever the traveller falls; src L08 ¶13-15). The prayer of repentance marks the setting out; no repeat is stated. Dhu'l-Qaʿdah is now the prayer's best time for a reader who sets out in that month ("again", "brings back", "repentance once" removed from prose, table and point boxes).
+- "The title is God's to give" sentence cut; the Sheikh's claim stands as his account.
+- `[VERIFY]` removed from the opening; "Sheikh Bahmanpour reports … As he tells it" kept.
+- Young man: the elder's words end at "rushing"; "a linear gradual improvement" and the three months' fast comparison are given to the lecture, as Ch 9 gives them.
+- Munajat §124 Arabic pasted by script from `sources/extracts/duas-munajat-shabaniyah.md` (byte-identical).
+
+**Low**
+- Aphorisms cut ("That answer measures the road…", "The year is no finish line.").
+- "With the Qur'an and the duʿas, the steps are readings."
+- "a year, which the teachers … set as the least time" (L10 ¶26 "at least").
+- "No two travellers are alike" replaced with L14 ¶70's own point (the way each of us finds to God differs from that of the person beside us); src L14 ¶70-71.
+- Table rows 1, 12, 14, 15 carry "(the lectures)", with a hidden src comment under the table (L01 ¶6-9; L09 ¶65-66; L13 ¶64-65; L14 ¶70-71).
+- Guide test scoped as Ch 7 scopes it: "A teacher who is followed closely is tested…".
+- Also: "built on the obligations" restated from L07 ¶15, ¶17; L07 ¶18 added for choosing among recommended acts, and p. 109 placed "in his programme for Ramadan"; Night of Power "likewise a large programme"; `[@journey, p. 161]` and `[@kernel, p. 80]` added.
+
+**Chain audit**
+- ¶7 folded into ¶6; ¶31 (whole-chapter summary) cut; one-line section closers ¶11, ¶19, ¶25 cut. ¶22's unused Ch 10 tag cut. The close now runs from God's acceptance (¶30) to asking Him for the keeping, and ends on Munajat §124; Ch 6 location note dropped.
+
+**Checks**: `voice.py profile` PASS (read-twice 2.4%); `punct` leaves three advisory flags (an Oxford-comma list that has its "and", the semicolon list of the five prayer steps, and the colon before the closing quote). `build.py pdf book2 "18*"` builds. No markers remain in the chapter.
