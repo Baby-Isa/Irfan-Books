@@ -349,3 +349,6 @@ Ch 17's point reads "ʿirfan is making that return willingly and in this life" (
 - **wilaya:** two senses named where they meet (God's guardianship of the traveller; the station of His friends, `kernel` p. 20); GLOSSARY updated.
 - **Nahj 3.133 Arabic:** copied by script from `sources/extracts/nahj.md` p. 737 (bidi controls stripped, split diacritics rejoined, the line-broken بالمحلّ and the split رؤيتهم rejoined; script in the review's fix log). [VERIFY] closed, as for Nahj 3.221 in Ch 13.
 - **Epigraphs:** Munajat English taken from the duas extract so its number matches the Arabic (Ch 16 §111; Part Five divider §128–131, now cited).
+
+## 2026-11-04: D56. The user's rewrites are the voice corpus (user)
+"Don't forget to capture and learn and imbed the learnings from my re-writes - this is the best way to understand how to write more like me." Every sentence he rewrites is added to `docs/USER-VOICE.md` beside what he was shown; the patterns are TONE 48 and LESSON 38; the chapter-writer and tone-editor read the corpus before drafting.

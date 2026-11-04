@@ -311,4 +311,16 @@ From the user's rewrite of Ch 2's "Light in the heart" (`book2/chapters/02-knowi
 - **Close loops with earlier chapters** where the logic repeats ("Chapter One found the signs are everywhere but not picked up by our faulty receivers. Similarly, the light…").
 - **Plain logical connectives are welcome** ("However", "Therefore", "Similarly"): softening scaffolding means cutting announcements and list labels, never the words that show how one step leads to the next.
 - **Imagery that echoes the point:** choose the image from the thing being described: shutters for a heart that blocks light; "abrased" for rust, which abrasion removes.
-- **Exact attribution:** a hadith Ayatullah Khomeini *quotes*, not his excerpt; name the speaker before "he writes". **Never** merge sentences only to lengthen the rhythm, never create a weak final comma when joining, never replace one word with a list of particulars, no "Taken together" signposts, no reused images.
+- **Exact attribution:** a hadith Ayatullah Khomeini *quotes*, not his excerpt; name the speaker before "he writes".
+
+### 48. Write like the user: patterns from his own rewrites (user, 2026-11-04; D56)
+The corpus is `docs/USER-VOICE.md` (every sentence he has rewritten, beside what he was shown); read it before drafting. What it shows:
+- **He shows the logic in words.** "Therefore, at first glance there is an apparent contradiction…"; "However, the phrase…"; "Similarly, the light…"; "As we know, the Qur'an says…"; "Far from going around the law…, the inner path is in fact…". Connectives and reader cues ("Note the explicit use of sight…") are his voice, not scaffolding.
+- **He names the relation outright.** "There is an important distinction between those who may begin reciting, and how far those reciters may reach." "…Abu Saʿid ibn Abi al-Khayr, the latter being one of the most famous…".
+- **He pairs with "whereas" rather than splitting.** "…is a 'Descending-Qur'an' which brings God's words down to His servants, whereas the supplications are an 'Ascending-Qur'an'…".
+- **He puts the attribution first.** "He writes that in their narrations they spoke with people…"; "Ayatullah Khomeini continues to say that…".
+- **He gives the reason inside the sentence.** "…because definitions require limits and limits cannot apply to God."
+- **He reaches for the everyday case and the fitting image.** The iftar meal and the next day's fast for knowing hunger; "faulty receivers"; "the heart's shutters"; rust that is "abrased".
+- **His register can be fuller and more formal than ours** ("predicated on the belief", "caveat the prominent position of learning", "modulated to the understanding"); match it where he has set it, and never flatten it.
+- **Signposts must be concrete and supported by the chapter.** Not "This chapter shows that we already know these words" but what exactly, in the chapter's own terms: "This chapter defines the difference between knowing God and knowing about God, and then explores how He comes to be known."
+- **One point per paragraph.** He stops at a paragraph that carries two points or whose second sentence does not follow from the first; so must the writer. **Never** merge sentences only to lengthen the rhythm, never create a weak final comma when joining, never replace one word with a list of particulars, no "Taken together" signposts, no reused images.
