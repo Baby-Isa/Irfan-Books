@@ -1,4 +1,15 @@
-# Handover to a new session (2026-10-19; updated 2026-11-01)
+# Handover to a new session (updated 2026-11-04)
+
+**Start here (2026-11-04).**
+- **Part One is ready to read and share:** `samples/part-one-v7-draft.pdf` (with the red proof-ladder notes, 41 pp.) and `samples/part-one-v7-review.pdf` (clean reader copy, 34 pp.). Raw links: `https://github.com/Baby-Isa/Irfan-Books/raw/claude/irfan-books-part-three-kh8nd2/samples/<file>`. The user will read Part One and bring feedback to the new chat; act on it first.
+- **Open in Part One:** three Arabic `[VERIFY]` markers (Ch 1 Nahj 3.403; Ch 2 the Forty Hadith p. 331 hadith; Ch 3 the Whispered Prayer of the Lovers), hidden in the reader copy, so those three quotes print in English only; advisory gates over the line because of the user's own wordings (prologue longest paragraph 116 words; Ch 1 read-twice 10%; Ch 3 "that very desire" counted as an intensifier). Suggested small items the user has not yet decided: Ch 3 names Thursday evenings three times (opening, "Prayers for ordinary nights", the close); Ch 3's four desires could add "(which is to know Him)" after "to see God".
+- **The marathon approval pass** (`reviews/ai/approval/SHEET-2026-10-20.md`, 228 items): items 1–57 (prologue, Ch 1–3) are answered and applied. **Chapter 4 (items 58–67) was sent in chat on 2026-11-04 and awaits the user's answers**; if he does not bring them, re-send that chunk. Method: send each chapter's items in chat with the two sentences before and after each item and the point it must make (`python3 reviews/ai/approval/context.py LO HI`, widened to two sentences); record his answers in `reviews/ai/approval/answers.json`, apply with `apply.py` (or by exact replacement), and **add every sentence he rewrites to `docs/USER-VOICE.md`** (D56). Keep his wording exactly (LESSON 36): fix only spelling and obvious slips, and say what you fixed; ask before anything else.
+- **How he writes:** `docs/USER-VOICE.md` (his rewrites beside what he was shown) and TONE 48; the reader's chain of questions, TONE 47; scaffolding and variation, TONE 46.
+- **Parts Four and Five (Ch 13–17) and the epilogue** are drafted and checked; his review guide is `reviews/REVIEW-GUIDE-parts-four-five-2026-11-01.md` (eight judgement calls).
+
+---
+
+# Earlier handover (2026-10-19; updated 2026-11-01)
 
 **2026-11-01: the whole of Book 2 is now drafted.** Parts Four and Five (Ch 13–17) and the epilogue were written autonomously at the user's request (D55) by the pipeline in `docs/briefs/PIPELINE-2026-11-01.md`; every file passes the profile and has no open markers. Start with `reviews/REVIEW-GUIDE-parts-four-five-2026-11-01.md` (eight judgement calls for the user). The user's marathon approval sheet continues from item 42 (Ch 3), sent in chat in chunks with the sentence before and after and the point of each item (`python3 reviews/ai/approval/context.py LO HI`; answers in `reviews/ai/approval/answers.json`, applied by `apply.py`). Newest house rules: TONE 46 (Scaffolding, Variation; D52–D53) and TONE 47 (the reader's chain of questions; D55); LESSONS 33–37; "Ayatullah Khomeini" (D54).
 
