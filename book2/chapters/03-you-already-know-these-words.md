@@ -8,9 +8,9 @@ chapter: 3
 And my heart enthralled by Your love! [@duas_dua_kumayl, §221]
 :::
 
-These words come near the end of Duʿa Kumayl, the prayer Imam ʿAli (as) taught to Kumayl ibn Ziyad, one of his close disciples. Many of us hear it on Thursday evenings, as the Mafatih recommends [@mafatih, p. 129]. The line asks God for a heart enthralled by His love.
+These words come near the end of Duʿa Kumayl, the prayer Imam ʿAli (as) taught to one of his closest companions Kumayl ibn Ziyad. Many of us hear it as the Mafatih recommends on Thursday evenings [@mafatih, p. 129]. The line itself asks God for a heart enthralled by His love.
 
-A heart enthralled by God's love is one of the two things ʿirfan seeks. Other prayers we recite ask for the second, knowing God. This chapter shows that we already know these words.
+Such a heart, enthralled by the love of God, is one part of a quartet sought by ʿirfan. This chapter reveals how we already know these four desires of the seeker, with their requests familiar to our tongues: to be cut off from all else, to see God, to love God, and to be drawn near to God.
 
 ::: {.words}
 *duʿa*: supplication, any request made to God · *munajat*: an intimate, whispered prayer to God · *Mafatih al-Jinan*: the standard manual of Shia prayers [@journey, p. 112] · *inqitaʿ*: severance of the heart from all but God
@@ -91,7 +91,7 @@ The third request, nearness, comes earlier in the same prayer.
 My Lord, provide me with a heart, the passion of which may bring it near You [@light, p. 165; @duas_munajat_shabaniyah, §82]
 :::
 
-The request is for a heart whose own passion brings it near, and that heart is itself asked of God. The Whispered Prayer of the Lovers, one of fifteen whispered prayers printed with al-Sahifa al-Sajjadiyya, asks for a place among those God has chosen for His nearness.
+Even that very desire, the longing itself that would carry us towards God, is something we ask Him for, and thus the line asks Him to provide to us a heart so inclined. The Whispered Prayer of the Lovers, one of fifteen whispered prayers printed with al-Sahifa al-Sajjadiyya, asks for a place among those God has chosen for His nearness.
 
 ::: {.quote ar="[VERIFY: Arabic of Sahifa, Whispered Prayer of the Lovers]" source="Whispered Prayer of the Lovers"}
 My God, place us with him whom Thou hast chosen for Thy nearness and Thy friendship, … granted gazing upon Thy face [@sahifa, p. 656]
@@ -105,41 +105,11 @@ The difference nearness makes is felt in prayer. For some of us, calling on God 
 Words above our level are still ours to say, as an honour and as a plea from need.
 
 1. Requests this high are the words of those brought near, yet ordinary believers are told to say them, like a primary school pupil handed university books.
-2. Part of the answer is in the prayers themselves, which speak from need. *(Reader told: "part of the answer".)*
+2. The Sheikh's answer: we are honoured to be allowed to say them, though they are levels beyond us.
+3. The prayers themselves speak from need rather than from rank, so rank is not a barrier to entry.
     a. Duʿa ʿArafah comes to God with nothing to offer but its need of Him.
     b. The Munajat goes further: even our turning towards God is His doing.
-3. The Sheikh: we are honoured to be allowed to say them, though they are not our level. Pleas from need claim no level, so a reciter may say them, and God may grant a sincere request.
-4. Therefore: words above our level are still ours to say. *(Lands within step 3's paragraph: "a reciter may say them".)*
-::::
-
-Requests this high raise a difficulty, which Sheikh Bahmanpour puts plainly. These words come from the peak of understanding and longing, from those brought near to God, yet ordinary believers are told to recite them. He likens their position to that of a primary school boy told to read university books.
-
-Part of the answer is in the prayers themselves, which speak from need. Duʿa ʿArafah comes to God with nothing to offer but its need of Him.
-
-::: {.quote ar="هَا أَنَا أَتَوَسَّلُ إِلَيْكَ بِفَقْرِي إِلَيْكَ" source="Duʿa ʿArafah"}
-Here I am begging You by my need for You. [@duas_dua_arafah_imam_husain, §689]
-:::
-
-Need is the only plea in this line, and the Munajat line at the head of Part One goes further. There the reciter admits to having had no strength to move away from disobedience "except when You awakened me to Your love" [@light, p. 164], so even the turning towards God is His doing.
-
-The Sheikh answers the difficulty with an honour: we have been allowed to recite these words, though they are not of our level. The prayers' own pleas from need fit that answer. They claim no level, so a reciter may say them without understanding many of their meanings. If the reciter is sincere, God may grant the request, and what the Imams wanted, He granted them.
-
-::: {.box-word title="Word Study: duʿa and munajat"}
-*Duʿa* is the general word for supplication: any request addressed to God, in any words. A *munajat* is a duʿa spoken as a private conversation with God. The Mafatih's English calls the Munajat Shaʿbaniyyah a "confidential prayer" [@mafatih, p. 243], and William Chittick translates the fifteen munajat printed with the Sahifa as "whispered prayers" [@sahifa, p. 9]. Mirza Jawad Maliki Tabrizi suggests why the Imams' supplications reach further than their other words. He writes that in their narrations they spoke with people, whereas in their supplications they spoke with God, and the level of speech modulated to the understanding of the one being addressed. The Qur'an, in his terms, is a "Descending-Qur'an" which brings God's words down to His servants, whereas the supplications are an "Ascending-Qur'an" in which the words of His most distinguished servants rise up towards Him [@journey, p. 43].
-:::
-
-## Prayers for ordinary nights
-
-:::: {.point}
-These prayers are set on nights we already keep, so anyone may begin them.
-
-1. The invitation to say them reaches us through a book most believers own: four of the prayers are in the Mafatih, each set on a night or a day. *(Reader told: "each of them on a night or a day".)*
-    a. The Munajat Shaʿbaniyyah belongs to Shaʿban, said by the Imams, to be said "with presence of heart".
-    b. Duʿa Kumayl, Duʿa ʿArafah and Duʿa Abu Hamza have their own nights and days.
-2. Said on nights we keep, the words become familiar (Ayatullah Khomeini). *(History box: the Mafatih and the Sahifa.)*
-3. Reciting is not comprehending: few grasp their depth (Maliki Tabrizi).
-4. The Sheikh still recommends the Munajat to every listener: the two answer different questions, how far a reciter reaches and who may begin.
-5. Therefore anyone may begin these prayers: what we have is access to their words, not attainment. *(Last sentence of step 4's paragraph.)*
+4. Therefore: a prayer that claims nothing for the one praying can be said by anyone, and God may grant a sincere request.
 ::::
 
 The invitation to recite these words reaches us through the Mafatih al-Jinan, which most believers already own. Four of the prayers quoted in this chapter are in it, each set on a night or a day in the believer's year.
@@ -170,7 +140,7 @@ The goal of ʿirfan is already on our lips: in these prayers, we have already be
 Close: "These prayers keep asking God to work on the heart, the self within us. What is this self?"
 ::::
 
-Access to these words is where an ordinary believer already stands on the path. In the voice of someone in need, and on nights the ordinary believer keeps, the prayers ask for what ʿirfan seeks. The goal of ʿirfan is therefore not foreign to us: it is already on our lips. In saying these prayers, we have already begun to ask for it.
+Access and familiarity with these words is the starting point for an ordinary believer and already places them on the path. In the believer's own voice, on nights of Thursdays and those in Ramadan, they ask in their prayers for what ʿirfan seeks. The goal of ʿirfan is therefore not foreign to us: it is already on our lips. In saying these prayers, we have already begun to ask for it.
 
 These prayers keep asking God to work on the heart, the self within us. What is this self?
 

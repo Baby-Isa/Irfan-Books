@@ -105,5 +105,17 @@ His: An enthralled heart is one of two things ʿirfan seeks. The second, as reci
 Shown: Access to these words is where an ordinary believer already stands on the path. In the voice of someone in need, and on nights the ordinary believer keeps, the prayers ask for what ʿirfan seeks.  
 His: Access and familiarity to these words is the starting point for an ordinary believer and already places them on the path. In the believer's own voice, on nights such as […], they ask in their prayers for what ʿirfan seeks.
 
+Shown: The Sheikh answers the difficulty with an honour: we have been allowed to recite these words, though they are not of our level. The prayers' own pleas from need fit that answer. They claim no level, so a reciter may say them…
+His: His answer is an honour: we have been allowed to recite these words even though they are levels beyond us. The prayers themselves speak from need rather than from rank, and hence rank is not a barrier to entry. … A prayer that does not claim nor rely on the attributes of the reader can be said by anyone, even without understanding many of its meanings. If the reciter is sincere then God may grant the request, as He granted the Imams what they asked.
+
+Shown: The request is for a heart whose own passion brings it near, and that heart is itself asked of God.
+His: Even that very desire, the longing itself that would carry us towards God, is something we ask Him for, and thus the line asks Him to provide to us a heart so inclined.
+
+Shown: A heart enthralled by God's love is one of the two things ʿirfan seeks. Other prayers we recite ask for the second, knowing God. This chapter shows that we already know these words.
+His (final): Such a heart, enthralled by the love of God, is one part of a quartet sought by ʿirfan. This chapter reveals how we already know these four desires of the seeker, with their requests familiar to our tongues: to be cut off from all else, to see God, to love God, and to be drawn near to God.
+
+Shown: These words come near the end of Duʿa Kumayl, the prayer Imam ʿAli (as) taught to Kumayl ibn Ziyad, one of his close disciples. Many of us hear it on Thursday evenings, as the Mafatih recommends.
+His: …the prayer Imam ʿAli (as) taught to one of his closest companions Kumayl ibn Ziyad. Many of us hear it as the Mafatih recommends on Thursday evenings. The line itself asks God for a heart enthralled by His love.
+
 ## Ch 2 "Light in the heart" (2026-11-01)
 His final section is in `book2/chapters/02-knowing-about-not-knowing.md`; the before/after rounds are in the chat of 27 Oct–1 Nov (summarised in TONE 47).
